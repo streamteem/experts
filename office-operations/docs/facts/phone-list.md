@@ -1,0 +1,5 @@
+# Internal phone and extension list
+
+**Starter / guess until they teach.**
+
+A one-page internal directory lists names and extensions they already use. Cell numbers appear only if their file has them and they said the pack may include them. Do not scrape a website, a LinkedIn page, or a state filing for phones. Personal numbers stay off public-looking packs if they said the list might sit at reception or go to a visitor. Typical columns are name, role or desk as they labeled it, extension, and optionally a direct dial they already printed. After-hours on-call numbers belong only on the emergency sheet they provided, not mixed into a lobby list. Do not add a home address. When two people share a desk phone, copy the row they wrote. You do not publish the list as a chatbot, SMS directory, or auto-attendant script. Starter notes describe how many small US offices keep a one-pager; they still teach which columns this shop allows and whether contractors appear. Fax numbers, if they still use them, come from their file only.

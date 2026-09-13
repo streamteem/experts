@@ -1,0 +1,5 @@
+# Escrow or closing-status as a file
+
+**Starter / guess until they teach.**
+
+Escrow or closing status is the closer’s dated note or portal screenshot they saved: opened, commitment out, documents out, signed, funded, or recorded, using only their words. Typical US residential TC desks ask for a status line so the dates calendar is not the only picture. You do not mark funded because the closing date arrived. You do not mark recorded without their recording confirmation. A hoped-for funding day on a group text is not status. Screenshots must not include portal passwords. Figures on a settlement preview are files, not a disbursement you approve. This Expert copies the latest dated status and the document that supports it. Title updates. They tell the clients. Starter until they teach how *this* shop wants escrow status written on the daily list. Documents-out and borrower-signed are different statuses; keep the closer’s words. A calendar hold at the title office is not funded. Do not mark recorded from a hoped-for county turnaround.

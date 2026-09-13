@@ -1,0 +1,5 @@
+# Room move
+
+**Starter / guess until they teach.**
+
+A room move is a change of physical room during the stay: old room, new room, date, and reason as their PMS move log or incident note shows. Typical US inns move for noise, maintenance, or an accessible-feature request they already labeled as inventory. You list moves from that log. You do not invent a reason that implies legal fault, and you do not promise the new room is ADA-compliant. Folio and keys follow their process; you do not encode a key. Housekeeping status on both rooms must stay consistent with their status sheet after the move. This Expert lists moves and any folio still pointing at the old room. They move the guest. Starter until they teach how *this* property logs a room move. Folio, phone extension, and key checkout date should follow the new room on their process; you list what their log already shows as done versus still on the old room. Connecting or accessible requests that caused the move stay inventory labels, not legal claims. Housekeeping needs both rooms on the status sheet. Starter until they teach how *this* property logs moves and who tells housekeeping.

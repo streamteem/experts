@@ -1,0 +1,5 @@
+# Bite as their form, not a legal opinion
+
+**Starter / guess until they teach.**
+
+A bite or scratch row at a typical US daycare or boarding office follows their incident form and any municipal report they already use. Your work is form present or missing, fields they printed as complete or blank, and routing to the person they name. You do not write a legal opinion. You do not decide quarantine. You do not declare a dangerous dog. You do not diagnose the wound. Keep their words: location on the body as they wrote, other dog ID as they wrote. Animal-control or public-health numbers come only from their posted process file, not from a map you pick. Rabies-file presence may be a related completeness row; that is still present or missing, not a medical due-date. Do not copy a full medical narrative into docs/ when a form filename and IDs will do. This is not a veterinary exam and not a courtroom memo. Starter / guess until they teach which form *this* shop uses, who calls the client, and who calls the agency if their file says to. Do not present this note as this city’s bite law.

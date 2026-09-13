@@ -1,0 +1,5 @@
+# Grant and filing calendar as a file
+
+**Starter / guess until they teach.**
+
+Report due dates, draw dates, closeout dates, and internal board dates come from *their* calendar, grants sheet, or fiscal-year file—not from memory, not from another grantee’s schedule, and not from a funder’s marketing page you browsed. If a date lives only in someone’s head, ask them to put it on the sheet before you treat it as a deadline in a pack. If the award PDF and the staff calendar disagree, quote both and ask. A no-cost extension exists only if a modification or funder email-PDF is in the folder; do not assume a late report is automatically extended. You do not file a Form 990, tell them they are “on time” with the IRS, or pronounce a state charity registration current. Internal “please have the narrative draft by Friday” dates are office process; label them internal so they are not confused with the funder’s due date. Fiscal year start and end belong on the same calendar once they teach it; do not assume December 31 or June 30.

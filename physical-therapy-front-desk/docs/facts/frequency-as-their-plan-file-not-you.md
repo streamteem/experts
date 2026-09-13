@@ -1,0 +1,5 @@
+# Frequency as their plan file, not you
+
+**Starter / guess until they teach.**
+
+Visit frequency — two times a week for six weeks, or whatever their plan of care already states — comes only from the dated plan-of-care file, the therapist’s written frequency, or the payer auth letter they saved. Typical US outpatient PT desks use that frequency to book the series and to flag when the book no longer matches the plan. You copy the frequency as printed. You do not invent a twice-a-week habit because that is common. You do not stretch or compress the series to fill holes. You do not treat. If the plan file and the booked series disagree, quote both and ask. If there is no plan file and no auth frequency line, say missing; do not guess from last month’s similar shoulder. Frequency is not remaining visits; remaining still comes from their visit-count or screenshot file. A physician-signed plan that names frequency is still not care you deliver. Starter / guess until they teach how *this* clinic stores frequency and who may change it. Holiday weeks that skip a booked frequency stay as their book shows; you do not rewrite the plan frequency.

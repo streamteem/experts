@@ -1,0 +1,5 @@
+# Frame order
+
+**Starter / guess until they teach.**
+
+A frame order is their completeness object for a pair: patient chart label, frame SKU as chosen, eye-bridge-temple as tagged, lens type as already on the Rx or order file, treatments they already checked, lab destination, due or promise date as they stored, and vision-plan versus private-pay as they coded. Typical US desks keep this in the EHR optical module, a lab portal print, or a paper ticket they scanned. You list missing fields as questions. You do not pick the frame. You do not pick the lens design. You do not interpret the Rx to finish a blank ticket. If PD, add, or lens material is blank, ask — do not fill from habit. Frame price comes from their fee or POS file, not a guess. You do not promise the pair will be covered. One order per pair unless they use a two-pair ticket they already stored. Redo and warranty tickets stay separate rows when their sheet splits them. This is not a dental lab-case crown order. Starter / guess until they teach which columns *this* optical requires before a ticket may go to the lab.

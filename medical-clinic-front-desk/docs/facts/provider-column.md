@@ -1,0 +1,5 @@
+# Provider column
+
+**Starter / guess until they teach.**
+
+The provider column on a day list is who the slot is booked to: a named clinician, a mid-level, a nurse visit resource, or a float they already coded. Typical US SMB clinics also store a supervising or covering name for some visit types. Copy the name or resource as the export shows. Do not move a patient to another provider to fill a hole unless their written rule file says you may draft options and they asked. Do not invent a covering clinician from last week’s huddle. If two columns exist — rendering versus booking resource — keep both. Credentialing and payer-participation questions stay as their file: you may flag that a plan screenshot named a different PCP, but you do not decide who may treat. Overlaps on the same provider at the same time stay flagged; you do not hide them by editing the book. Lunch, huddle, and admin blocks still belong to that provider column so the day is honest. Prefer their NPI or staff ID on work files if they use one, rather than extra home addresses. Starter / guess until they teach how *this* clinic names providers and covering rows.

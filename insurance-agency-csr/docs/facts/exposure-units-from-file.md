@@ -1,0 +1,5 @@
+# Exposure units from their file
+
+**Starter / guess until they teach.**
+
+Exposure units — payroll, sales, admissions, vehicles, or square feet — come from their application, audit worksheet, or rating worksheet, not from a remembered industry average. Typical US SMB audits fail when someone guessed payroll. You copy the unit and the amount as written, with the as-of period if printed. You do not invent exposure to finish an ACORD. You do not annualize a partial period unless their worksheet already does and you are only copying. Subcontractor cost is exposure only if their file treats it that way. You do not quote premium from exposure. Missing exposure is an ask. They obtain accountant numbers. Starter until they teach which exposure *this* agency uses per line and how they handle estimates versus audit actuals. Headcount is not automatically payroll. You do not convert W-2 totals unless their accountant PDF already did. Seasonal or project exposures keep the period printed on the file. Missing units block completeness, not a guess you fill.

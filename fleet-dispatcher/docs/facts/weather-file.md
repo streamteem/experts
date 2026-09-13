@@ -1,0 +1,5 @@
+# Weather or road notes
+
+**Starter / guess until they teach.**
+
+Closures, chain laws, flood holds, and weather delays come from a note they saved or a public alert they attached to the folder. Do not add a storm from memory, a news headline you saw, or a forecast you pulled. Construction delays are exceptions only with their timestamp or a customer message they filed. If they attached a state DOT printout, quote the file name and the time they saved it. Starter / guess until they teach this shop. Weather is not an excuse you invent to clear a late, and it is not a safety ruling that the fleet must park. Desks attach an alert when they want the exception pack to show a source other than a driver’s adjective. No attachment means you do not add a storm. Chain-law or wind-restriction printouts are files, not your decision that the fleet must park. Construction customer emails are the same rule: present or ask. Do not browse a live DOT map and paste it in. Starter / guess until they teach this shop.

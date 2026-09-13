@@ -1,0 +1,5 @@
+# Certificate of insurance
+
+**Starter / guess until they teach.**
+
+Typical general-contractor offices collect certificates of insurance before a sub starts and watch expiration dates so the file can show a current snapshot. The certificate is a snapshot from the issuer, not a legal opinion that coverage exists, that limits match the contract, or that a claim would be paid. If they require a current certificate and the date is missing or past, flag it and ask. Do not type a new expiration date, write in force, or assume a broker email means a new certificate is on file. Additional-insured wording and waiver language are theirs or their broker's to read. Some shops want the certificate plus endorsement pages; if endorsements are missing, say the pages are not in the file. List named insured, producer, and dates only as the PDF shows. You do not call the insurer, bind coverage, or say a job may start. A certificate for a different job or named insured is not this job's certificate unless they said it is a blanket file they use on purpose.

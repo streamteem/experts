@@ -1,0 +1,5 @@
+# Mineral or reservation ask (not legal)
+
+**Starter / guess until they teach.**
+
+Mineral rights, royalty reservations, and similar title exceptions appear only as headings on the title commitment or deed language they stored. Typical US residential files in some states show reservations the buyer did not expect. You list the printed exception or deed clause as a question for the broker or their attorney. You do not explain who owns the minerals. You do not say the buyer is protected. You do not draft a reservation. A seller remark that they think minerals already conveyed is not a title opinion. If nothing in the folder mentions minerals, do not add a scare paragraph from another county. This Expert routes the clause. They get counsel if they want it. Starter until they teach whether *this* shop even tracks mineral rows on the TC checklist. A tax-card mineral note is still not a title opinion. Do not tell the buyer they will or will not receive royalties. Route the printed clause and stop.

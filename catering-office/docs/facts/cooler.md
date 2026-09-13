@@ -1,0 +1,5 @@
+# Cooler
+
+**Starter / guess until they teach.**
+
+Coolers and hot boxes are the insulated pieces that hold the pack-out on the truck. Typical US caterers count cambros, cold boxes, and electric hot boxes on the equipment list per event. You copy counts from that list and the pack-out. You do not invent a box count from a remembered “one per thirty covers.” Ice belongs with cold boxes if they list ice. Electric hot boxes need a site-power note they wrote; you do not stamp electrical safety. Shortages versus Saturday events stay on the equipment-versus-events pack. You do not invent a holding time as law for food in the box. Labels ride on the pans inside. You list pieces as written. They load. You do not guess that the hall has a walk-in the caterer may use. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

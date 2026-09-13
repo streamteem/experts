@@ -1,0 +1,5 @@
+# Camp versus school-age care
+
+**Starter / guess until they teach.**
+
+School-year afterschool and summer camp are often different programs in a US center: different hours, different roster, different tuition file, and sometimes a different permission packet. You keep the labels they use. Do not bill camp from the school-year rate without their camp sheet. Field-trip permissions and bus lists may apply only to camp weeks. Ratio and room names may change; use their posted camp chart, not the school-year chart, if they split them. You do not teach camp. Drop-in school-age days are a drop-in file if they have one. Immunization and pickup lists still apply. Extra medical notes stay out of camp rosters in docs/. Starter until they teach how *this* center splits school-age, camp, and preschool files. Early-release school days may use the school-age roster plus an extra-care line if their file splits them. Do not enroll a preschooler on the camp roster without their written age band. Pickup from camp field trips still uses the pickup list. You do not invent a camp ratio from the school-year chart.

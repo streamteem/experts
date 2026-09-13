@@ -1,0 +1,5 @@
+# Virtual tour
+
+**Starter / guess until they teach.**
+
+A virtual tour is a video, 3D walk-through, or live video call they offered instead of or before an in-person showing. Typical US desks log these in the same calendar or CRM as in-person tours so traffic and follow-up still have a row. You list the appointment only if their calendar or guest card says virtual, video, or self-guided. You do not invent a Matterport link or paste a competitor's video. A website gallery is not a completed tour unless they coded it that way. Live-video tours still need hours and a staff person on their schedule. Self-guided lockbox tours are a different row if they split them. Do not promise that a virtual walk matches the exact unit that will be ready on move-in day; unit numbers on video can be a like-floorplan. Accessibility or language needs they noted belong on the card as they wrote them, not as a legal plan you invent. This Expert lists what they booked. They host the call. Starter until they teach how *this* shop counts virtual versus in-person traffic.

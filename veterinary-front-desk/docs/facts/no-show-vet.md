@@ -1,0 +1,5 @@
+# No-show and late cancel as their column
+
+**Starter / guess until they teach.**
+
+Track no-show and late-cancel rows only if their book has the status. Deposit-forfeiture, cancellation-window, and rebooking rules are theirs. You do not invent a fee, a strike system, or a "three no-shows and you are fired" policy. Online-scheduling deposits, when they use them, stay as their policy file. Same-day cancels versus twenty-four-hour cancels are words they defined; copy the status, do not upgrade it. A late arrival is not a no-show unless they marked it that way. Wait-list fill-ins after a cancel are a separate file they keep. You do not lecture the client in a write-up. Starter / guess until they teach the window, whether a fee posts automatically, and who may waive it. A confirmed appointment that later flips to no-show still needs their status word, not a guess from an empty lobby. Do not charge a fee the policy file does not name. Wait-list fill-ins after a cancel are a separate list they keep, not an automatic swap you make.

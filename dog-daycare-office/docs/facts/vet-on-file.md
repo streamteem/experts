@@ -1,0 +1,5 @@
+# Veterinarian on file
+
+**Starter / guess until they teach.**
+
+Vet-on-file is the clinic name and phone the client already listed so staff can call if their process says to transport or to ask a question they do not answer from this desk. Typical US daycare and boarding offices store it on the boarding card or in Gingr or PetExec. Copy the name and number as written. You do not become that veterinarian. You do not diagnose so you can “update the vet.” You do not decide a vaccine is due because the clinic’s reminder postcard arrived in the lobby. You do not request full medical records into docs/ when a clinic name will do. A vet-release form, if they use one, is a signature-completeness check so they may take the dog to that clinic; you do not sign as the owner or as a doctor. This desk is not the veterinary front desk: there is no appointment book, no estimate, and no records-routing log for lab results. If vet-on-file is blank and their intake requires it, ask. Starter / guess until they teach which clinic they call after hours versus the client’s listed clinic. Do not present this note as a VCPR or a preferred-provider stamp.

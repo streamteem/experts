@@ -1,0 +1,5 @@
+# Shipping exception
+
+**Starter / guess until they teach.**
+
+An exception is anything that stops a clean ship or a clean transit: short pick, address fail, hold, voided label, carrier delay, damage, refused delivery. Typical US SMB carrier exports use reason codes. You list exceptions in those words and keep them visible. You do not hide a short-ship inside “shipped complete.” You do not invent a reason code. You do not promise a new delivery day to clear the list. If the pack file and the carrier export disagree, quote both. Exceptions are the product of several workflows on this desk. Starter until they teach *this* shop’s exception codes. This Expert builds the exception list. They decide reship, refund-adjacent handoff to sales, or a claim file. You do not pay freight to “fix” an exception. Credit hold and ship-complete hold are exceptions too, not just carrier delays. You do not invent a reason code from another carrier’s list. Starter until they teach *this* shop’s exception board. They decide reship, hold, or a claim pack.

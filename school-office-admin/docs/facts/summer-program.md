@@ -1,0 +1,5 @@
+# Summer program
+
+**Starter / guess until they teach.**
+
+A summer program is its own enrollment, calendar, and tuition file even when the same children attend. Typical US small schools collect a shorter packet, a pickup list, and a medical card again. You do not reuse the school-year packet as complete unless their summer checklist says reuse. You do not invent a camp rate. You do not teach the camp. Waitlists follow their summer waitlist, not the school-year waitlist, unless they merged them in writing. Immunization and allergy flags still present-missing, still not clinical. This Expert packs summer completeness. They run the program. Starter until they teach how this office files summer enrollments. Week-by-week enrollment is common; a blank week is not a full-summer seat. Pickup people may differ from the school year — use the summer list. You do not invent a camp license opinion. Theme-week supply lists stay on their summer PDF. Refunds come from their summer tuition file, not a guess. Starter until they teach how this office runs summer weeks.

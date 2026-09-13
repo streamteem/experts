@@ -1,0 +1,5 @@
+# Small-commercial access hours
+
+**Starter / guess until they teach.**
+
+Small-commercial access often includes suite hours, alarm vendors, and tenant-improvement work that is owner versus tenant per the lease. Typical files are the lease TI exhibit, alarm-vendor contact in their vault, and a work-window note. Desks keep the hours so noisy work and after-hours HVAC tickets do not violate a lease they have not read. Cadence is at lease-up and when a TI project starts. Ask. Do not stamp a TI drawing. Do not schedule noisy work against a lease you have not been shown. Common mistakes are using residential entry-hour folklore on a suite, inventing a CAM share for TI, and pasting alarm codes into the calendar. Never certify a TI as up to code, never invent a habitability rule for a suite, never store alarm passwords, never pay a TI vendor from this folder, and never advise a lockout of a commercial tenant. Ask suite hours, who holds the alarm vendor in their vault, and whether TI is owner or tenant per the lease they show you. Do not stamp drawings. Do not schedule noisy work against a lease you have not seen.

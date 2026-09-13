@@ -1,0 +1,5 @@
+# Silent hours
+
+**Starter / guess until they teach.**
+
+Silent hours are the quiet or no-noisy-work windows they stored for a building, a tenant, or a line: no hammer drill during office hours, no rooftop work during a shift. Typical US campuses put the rule on a location or a calendar note. Copy the rule. Do not invent a quiet hour from another building. Do not store it as an alarm code. Emergency tickets may still break silence if their emergency rule says so; use that rule, do not guess. Field-trade residential quiet hours are a different desk. Production calendar downs are not silent hours unless they labeled them that way. They set the rule. You flag tickets that fight the window. Starter until they teach which crafts and tools *this* plant treats as noisy and who may waive silence. Tenant silent hours and production silent hours may differ; keep both if both files exist. Emergency water-out may waive silence only if their emergency rule says so. Do not invent a waive. Noisy-tool lists come from their file, not a remembered ban.

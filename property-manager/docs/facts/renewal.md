@@ -1,0 +1,5 @@
+# Renewals and month-to-month
+
+**Starter / guess until they teach.**
+
+Renewals and month-to-month are status labels on the roll: fixed term, renewed, or MTM. Typical files are the renewal offer they already use, the signed renewal PDF, or their default-when-expired note. Desks keep status honest because make-ready load and owner income forecasts depend on it. Cadence is the same look-ahead as the lease-end calendar, often sixty or ninety days. Ask their default when a lease ends. Do not convert someone to MTM as a legal act. Do not invent an auto-renew clause. Common mistakes are assuming non-renewal, sending an offer from this folder as counsel, and leaving an expired fixed term marked occupied with no status note. Never invent a state's notice-to-end-MTM period, never give eviction advice if they do not renew, never store portal passwords, never take a renewal fee from trust, and never advise a lockout at expiration. Ask their default when a fixed term ends and where signed renewal PDFs land. Status on the roll must match the file. Do not convert anyone to month-to-month as a legal act and do not invent an auto-renew clause.

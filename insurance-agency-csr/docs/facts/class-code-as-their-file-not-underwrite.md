@@ -1,0 +1,5 @@
+# Class code as their file, not underwriting
+
+**Starter / guess until they teach.**
+
+Class codes for general liability or workers compensation appear only as their application, dec, or audit worksheet already printed them. Typical US SMB files use ISO-style GL classes or NCCI-style WC classes. You copy the code and wording as shown. You do not invent a class because the operations sound like a neighbor account. You do not reclassify to get a better rate. You do not underwrite. If two codes appear for the same operations, quote both and ask. Exposure attached to a class is a different field and still comes from their file. A holder who demands a class on a certificate gets only what the file shows. Starter until they teach where *this* agency stores class tables and who may request a class change. A website description of operations is not a class file. You do not split payroll across classes unless their worksheet already splits it. Certificate holders who demand a class get a mismatch flag when the dec is silent, not a invented code.

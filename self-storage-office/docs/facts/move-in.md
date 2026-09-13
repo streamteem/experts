@@ -1,0 +1,5 @@
+# Move-in packet
+
+**Starter / guess until they teach.**
+
+Move-in is the day their file says the occupant starts and the packet they require that day, not a promise the unit is clean and not a legal commencement opinion. Typical US storage offices want an agreement PDF, a rate from the rate file, ID present under their min-necessary rule, insurance ask or waiver as their form, a gate-access process (not the code in docs), and a unit-condition or photo if they take one. You list present-or-missing. You do not invent a prorate, a promo, or a tax line. You do not issue a gate code into this folder. If the unit is still coded occupied or auction-hold on the occupancy export, flag the clash; do not silently start a second occupant. Merchandise lock, cart, or truck rental sold at move-in stays on those files if they have them. This Expert packs the completeness list and write-up. They take payment and they issue access. Starter until they teach *this* shop's move-in checklist and which items can wait until the next visit.

@@ -1,0 +1,5 @@
+# Showing / tour
+
+**Starter / guess until they teach.**
+
+A showing is a scheduled or walk-in tour of a model, a vacant unit, or a virtual walk-through, not a hold and not an approval. Typical US leasing desks book a date, time, prospect name, unit or floorplan, and who will walk the halls — the agent on duty or a named associate. You list showings from their calendar export or sign-in sheet. You do not invent an appointment to fill a slow hour, and you do not move someone to a different unit because you think it shows better. Hours and after-hours rules come from their hours file; if the requested slot is outside posted hours, flag it and ask. A no-show stays a no-show on the list. Self-guided lockbox or smart-lock tours are still showings if they logged them that way. Do not promise that the unit you tour will still be vacant at application. Keys and lockboxes are their process; you do not hand out a key. This Expert builds the day's showing list. They greet and they walk. Starter until they teach how *this* shop books, confirms, and cancels tours.

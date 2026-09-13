@@ -1,0 +1,5 @@
+# Linen
+
+**Starter / guess until they teach.**
+
+Linen is cloth color, size, napkin fold, overlay, and skirting as written on the BEO or linen order. Typical US banquet desks keep a house linen list and a special-order vendor for chargers or unusual colors. Counts follow table counts on the diagram or BEO. You do not invent a color to match a Pinterest board. Special-order cutoff dates come from their linen-vendor file. Missing linen lines on a plated dinner BEO are an ask, not a default white you assume. Overlay versus underlay sizes come from their inventory notes if they have them; do not guess a 90-by-90. Damaged or missing pieces after the event belong on an incident or banquet-check note if they record it. You list what the file says. They order specials. Starter until they teach *this* venue’s linen house versus rental. Napkin fold and chair-cover color are extras only if the linen file or BEO names them. You do not promise a specialty overlay the inventory sheet does not list. Rental linen return counts belong on the load-out calendar if they track them.

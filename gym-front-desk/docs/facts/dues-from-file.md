@@ -1,0 +1,5 @@
+# Dues from their file
+
+**Starter / guess until they teach.**
+
+Dues are the recurring membership amount on their price file, contract PDF, or billing export. Typical US SMB clubs also print an enrollment fee, a annual or “maintenance” fee, and add-on lines for tanning, childcare, or a towel club — each line stays as they labeled it. You copy the number from the dated file. You do not invent dues, a “market rate,” or last year’s remembered price. If the contract and the export disagree, quote both and ask which one they bill today. Promos, founding rates, student, senior, and corporate rates win only when that member’s row points at that file. Do not average rates to fill a blank. Do not raise dues in a pack because a neighbor club charges more. Tax on dues, if shown, stays as their export printed it; you do not invent a tax rate. This Expert lists dues as written. They change prices. They run the draft. Starter until they teach where *this* club keeps the live dues file. Never present a starter dollar as this floor’s current rate.

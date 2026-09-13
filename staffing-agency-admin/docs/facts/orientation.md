@@ -1,0 +1,5 @@
+# Orientation
+
+**Starter / guess until they teach.**
+
+Orientation on this desk is the agency and/or client first-day brief they already run: safety video, handbook highlight, site rules, who to call. Typical US SMB staffing offices keep a sign-in or a checklist tick dated per person. You mark present or missing and copy the date. You do not invent an orientation agenda. You do not teach the class. You do not treat a missing tick as a safety-law citation. Agency orientation and client-site orientation are different rows if they track both — do not collapse them. A no-show on day one is a missing tick plus their updated start note. This Expert flags missing orientation on the assignment pack. They run orientation. Starter until they teach what *this* shop counts as orientation complete versus a client badge briefing. Make-up orientation after a late start uses the new date they wrote. A client video watched at the gate is not the agency packet unless they said to merge. Remote video still needs the dated tick they defined.

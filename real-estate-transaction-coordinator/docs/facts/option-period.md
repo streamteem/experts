@@ -1,0 +1,5 @@
+# Option period
+
+**Starter / guess until they teach.**
+
+An option period is the buyer’s contractual window to terminate under the option language they signed, with a start and end that come only from the executed contract or an executed amendment, never from a remembered typical ten days. Typical US residential files in some states print option days and an option fee; other states use inspection or due-diligence windows with different names. Use the words on their form. End dates may be calendar days or business days; that choice is a question for their state form or broker file, not a guess. Time-of-day cutoffs, if printed, stay on the calendar row. A weekend or holiday that might move the end is a business-day ask, not a silent shift. Missing option language: say missing. Do not add an option period because most deals around here have one. This Expert puts the printed start, end, and fee-receipt status on the dates calendar. They and the buyer’s agent watch the clock. You do not advise whether to terminate. Starter until they teach how *this* shop labels option versus inspection windows.

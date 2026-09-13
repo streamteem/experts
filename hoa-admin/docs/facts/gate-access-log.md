@@ -1,0 +1,5 @@
+# Gate or fob request log
+
+**Starter / guess until they teach.**
+
+Gate, fob, clicker, and resident-app credential requests typically record lot, name as they store it, credential type, number if they use one, date issued, and date deactivated. Typical US desks also log extra remotes sold or issued, vendor service codes, and property-manager credentials on a separate approved list. Do not store gate codes, keypad PINs, admin passwords, or installer logins in docs or write-ups. Deactivate lists come from their move-out file, a board-directed trespass note they already logged, or a roster change they exported—not from your guess that someone moved or that a car in the lot means the fob is still valid. You do not decide who has a right to access as counsel. A credential issued to a lot that is not on the roster is a question. One community per log. Vendor and janitorial credentials belong on the approved list they keep, not on a resident fob row you invent, and lost-fob fees come only from their form.

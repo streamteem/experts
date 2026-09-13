@@ -1,0 +1,5 @@
+# Screening process, not a verdict
+
+**Starter / guess until they teach.**
+
+Screening is the vendor and checklist process they use (credit, rental history, criminal search as their product is set up), not a verdict you announce. Typical US desks send applications to a screening company through the PMS and get back a coded result they stored: pending, complete, or a status word they chose. You report the code as exported. You do not say the person passed or failed. You do not say the credit is good or the record is disqualifying. You do not reinterpret a score. CFPB and FTC pages on consumer reports are orientation for why adverse-action paperwork exists; they are not a letter you write. If the export is blank or still pending, say pending. Do not pull a consumer report yourself and do not store a screening-site password in this folder. Approve and deny stay with the people they named. This Expert routes the status file. They decide. Starter until they teach *this* shop's status words and who is allowed to read the full report.

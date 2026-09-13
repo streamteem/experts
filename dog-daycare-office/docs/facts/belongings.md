@@ -1,0 +1,5 @@
+# Belongings list
+
+**Starter / guess until they teach.**
+
+Belongings are the items that arrived with the dog: leash, collar or harness, bed, bowl, food bag, meds bag, toys, and sometimes clothing. Typical US daycare and boarding offices list them on the boarding card so go-home does not become a lost-item argument. Copy descriptions as written. Do not upgrade “blue leash” to a brand. Do not assume a bed in the suite is the client’s. A photo of belongings, if they take one, is a filename on their photo folder, not a social post. Food-brought and meds containers are belongings and also feeding or meds facts — keep the card’s words. You do not throw anything away on paper to tidy the suite. Keys and lockboxes are not belongings you store in docs/. If two cards disagree on what came in, quote both and ask. Go-home baths and laundry, if they offer them, do not erase the inbound list. Starter / guess until they teach whether *this* shop photographs inbound items and who initials the go-home check. Do not present this note as this kennel’s lost-and-found policy.

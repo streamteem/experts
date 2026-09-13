@@ -1,0 +1,5 @@
+# Grounds work orders
+
+**Starter / guess until they teach.**
+
+Grounds tickets are in-house work orders for lots, sidewalks, fences, irrigation they operate, and exterior lighting they tagged as grounds. Typical US campuses keep a grounds craft or a seasonal contractor on the list. You list the ticket and the location. You do not run a landscaping-office crew product. You do not apply pesticides as a license. Snow and parking-lot tickets may share a location with grounds; keep their craft codes. This is not a construction site-log and not a field-trade outdoor install. Photo files they dropped may support a completion pack; you do not invent what an unopened photo shows. They schedule the crew or the contractor. Starter until they teach which exterior work *this* plant keeps on the CMMS versus a separate grounds calendar. Irrigation tickets use their asset or zone label, not a guessed station count. Fence and gate work still follows the access process; codes stay out of the write-up. Seasonal contractor days come from their calendar.

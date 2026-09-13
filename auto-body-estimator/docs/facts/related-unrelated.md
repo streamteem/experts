@@ -1,0 +1,5 @@
+# Related versus unrelated this loss
+
+**Starter / guess until they teach.**
+
+Related versus unrelated is their coding of whether a line belongs to this date-of-loss, not a coverage opinion you issue. Typical US collision estimates mark unrelated dents, worn tires, or mechanical defects the customer may buy as CP. Copy the code. Do not flip unrelated to related to get the insurer to pay. Do not flip related to unrelated to hide a line. Prior damage is older; unrelated can be this visit but not this impact. If the adjuster marked unrelated and the shop marked related, list both; that is a supplement fight, not a silent edit. Mechanical “related services” on an RO are a different upsell language. You do not adjudicate the claim. This Expert lists the codes. They argue the loss. A photo of a second dent is not your code; their estimate code wins until they change it. Do not hide an unrelated line inside a related panel. This Expert lists the codes. They argue the loss. Starter until they teach how *this* shop flags related on first-write versus after teardown.

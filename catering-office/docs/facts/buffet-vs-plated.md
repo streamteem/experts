@@ -1,0 +1,5 @@
+# Buffet vs plated
+
+**Starter / guess until they teach.**
+
+Buffet versus plated is the main dinner service split that drives chafer counts, china, staffing, and prep. Typical US offices keep different pack-out templates for each. You copy the split from the order. You do not convert plated to buffet to save labor. You do not invent a chafer-per-guest rule. Hybrid “plated salad, buffet mains” needs both templates if they filed them. Guarantee still wins the plate or pan math. Venue plated-or-buffet on a saved BEO should match; if it does not, ask. Restaurant line tickets are not this split. Stations are not a buffet unless they labeled them as the dinner buffet. You list the split and the equipment it pulls from their files. They cook. You do not invent food cost for plated versus buffet. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

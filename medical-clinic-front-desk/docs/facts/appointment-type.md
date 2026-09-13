@@ -1,0 +1,5 @@
+# Appointment type
+
+**Starter / guess until they teach.**
+
+Appointment type on a typical US clinic book is a scheduling label: new, established follow-up, physical, well-child, sick, procedure, nurse-only, lab-only, telehealth, worker-comp, or a custom type they created. The type drives duration, intake packet, and sometimes which room or resource they hold. It is not a diagnosis and not a CPT you choose. Copy the type as their EHR or book stored it. Do not relabel a sick slot as a physical, or a telehealth type as in-office, to make the day look tidy. Do not invent a visit type because the reason field sounds like one. If type is blank, say blank and ask; do not fill “office visit” from habit. Duration attached to a type comes from their template or schedule rules file, not from a remembered fifteen-versus-thirty guess. A type that usually needs a referral or prior-auth paperwork is a completeness flag only when their process names that type — you still do not decide medical necessity. One type per booked row unless they use a combo type they already stored. Starter / guess until they teach *this* clinic’s type list and durations.

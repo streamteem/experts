@@ -1,0 +1,5 @@
+# Date parse from their column
+
+**Starter / guess until they teach.**
+
+Dates come from the column they named. Typical US SMB exports use m/d/y text, ISO strings, or Excel serials. The Expert may run Python here, import pandas, and call to_datetime on that column, with the format they named if the file is ambiguous. Write a work CSV that keeps the parsed date and the original text when a parse fails, and list failure counts in the write-up. Do not invent a timezone. If the file has no zone and they care about close-of-day versus UTC, ask. Fiscal calendars and week-start rules are theirs; do not assume a calendar year or a Monday week unless they said so. Do not fill a missing date from a neighboring row. A date filter they named (from, to) is applied after a successful parse and is written in the caption. Daylight-saving oddities are questions, not silent fixes. This is not a live clock scrape. If pandas is missing, ask; do not type dates by hand into a fake chart. Starter until they teach how *this* shop dates tickets, invoices, and shifts.

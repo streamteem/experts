@@ -1,0 +1,5 @@
+# Consignment
+
+**Starter / guess until they teach.**
+
+Vendor-owned or consignment stock sitting on this shop's floor is not always theirs to reorder, allocate, or value as house inventory. Label owner from their file (vendor, program name, or consignment flag). Do not add consignment into owned on-hand totals, available-to-sell house totals, or dead-stock value unless they said to. Typical US SMB programs include vendor-managed inventory at a customer, or vendor stock in a distributor cage. Reorder of consignment is often the vendor's problem or a special min they stored; do not treat it as a normal house ROP. You do not pay the vendor for a consignment draw. Count consignment on its own lines so a physical does not swallow it into house shrink. If the owner flag is missing but they said the program exists, ask; do not guess which SKUs are owned. Allocations of consignment stay with the owner program. You do not treat a cage walk as house available just because the units are on this floor.

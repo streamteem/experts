@@ -1,0 +1,5 @@
+# Service frequency
+
+**Starter / guess until they teach.**
+
+Frequency is how often a recurring pest account is supposed to appear on the route: monthly, every other month, quarterly, weekly for some commercial food sites, or a custom cycle they wrote. Typical US pest books set frequency at sale or renewal and print it on the account row. Do not change monthly to quarterly to make a short week fit. Do not invent a cycle because the neighborhood “looks like a monthly street.” Skips and no-access are exceptions on top of frequency, not a silent rewrite of the contract cycle. If their sheet shows last-service date and next-due, copy those; do not compute a next-due from a remembered rule of thumb. One-time work has no frequency. Pre-treat and new-construction tickets are a different clock. Landscaping weekly-mow frequency is not this field. You list what the file says. They change frequency with the customer. Starter until they teach how *this* shop marks off-month accounts and who may move a stop.

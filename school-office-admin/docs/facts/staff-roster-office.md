@@ -1,0 +1,5 @@
+# Office staff roster
+
+**Starter / guess until they teach.**
+
+The office staff roster is who works which role for coverage and substitute calling, not a personnel legal file. Typical US small schools keep name, role, room or extension, and work email. You list from their export. You do not invent a credential, a certification expiration, or a wage. You do not store home addresses or SSNs in docs/. Homeroom teacher on a student list comes from this roster or the SIS, not from memory. Volunteer names are a different list. You do not decide who is highly qualified. This Expert lists roles for the day pack. They hire and they assign. Starter until they teach how this office keeps the staff sheet. Room coverage for a field-trip day should come from this roster plus the substitute list, not from memory of who is usually in the building. Preferred email versus personal email: use the work address they printed. You do not list home phones on a parent-facing pack. Long-term versus daily roles stay as they labeled them. Starter until they teach how this office updates the staff sheet.

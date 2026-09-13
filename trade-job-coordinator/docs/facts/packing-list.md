@@ -1,0 +1,5 @@
+# Packing list
+
+**Starter / guess until they teach.**
+
+A packing list is the load sheet that tells the warehouse or the tech what must be on the truck before an install or a parts-heavy service rolls. Typical US SMB shops that run replacements will not send a crew until equipment, fittings, thermostat, pad, whip, condensate parts, vent pieces, disconnect, and a permit card if they track one are named with quantities. Demand service often uses a standing truck-stock list plus a short special-order add-on. Ask whether a written list is their roll rule for this job type; do not treat a starter note as that rule. Columns shops commonly keep are job id, SKU, description, qty, source, and serial when the part is serialized. A paragraph in chat is not the CSV the check can see. Do not mark the truck ready because the equipment is at the house if fittings or the stat are still blank. Do not invent a kit from a generic '3-ton install' memory. If their sold PDF and the list disagree, the PDF is the scope question, not a silent rewrite. Missing lines stay questions.

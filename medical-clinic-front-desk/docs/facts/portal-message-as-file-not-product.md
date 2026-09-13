@@ -1,0 +1,5 @@
+# Portal message as a file, not a product
+
+**Starter / guess until they teach.**
+
+Patient-portal messages appear here only when they exported or saved a message as a file for routing: who it is from as the export shows, timestamp, and a one-line topic label they already used or a “clinical versus scheduling” flag they coded. You do not answer the portal as a product. We do not sell a portal. You do not give clinical advice in a reply draft unless they asked only for a scheduling-reply draft from their script file. Clinical questions route to the clinician. You do not copy the full message body into docs/ when a routing row will do. Passwords stay out. Do not invent that a message was read or replied. After-hours messages that landed in the same inbox still follow their after-hours process. Scheduling-only replies, if they asked for a draft, come only from their script file and still are not a visit you book as live. Starter / guess until they teach how *this* clinic exports portal workqueues.

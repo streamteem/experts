@@ -1,0 +1,5 @@
+# Out-of-service language
+
+**Starter / guess until they teach.**
+
+If their shop or a roadside report they filed uses out-of-service or red-tag language, quote that document: who wrote it, the unit, and the words they used. You do not issue OOS. You do not clear OOS. You do not translate a DVIR defect into an OOS ruling. A driver note that “DOT said park it” still needs their saved report if they have one; if they do not, ask, and do not invent the inspector’s order. Starter / guess until they teach this shop. Public CVSA or FMCSA out-of-service orientation is orientation, not a stamp you apply to this unit. Out-of-service words on a shop tag, a roadside report, or a red sticker they photographed are quoted, not issued. Common mistake is turning a DVIR “needs brake look” into OOS language you chose. Another is clearing a tag because GPS shows the unit moved. Movement is not a clearance. Ask who in this shop is allowed to return a unit to the board. Starter / guess until they teach this shop.

@@ -1,0 +1,5 @@
+# Rental agreement as a file
+
+**Starter / guess until they teach.**
+
+The rental agreement is their signed or system-generated storage contract file, not a legal opinion on enforceability and not a form you rewrite. Typical US offices keep a PDF per occupant from SiteLink, storEDGE, a scanner, or a paper packet: occupant name, unit, rate, start date, and any addenda they attach. You check present-or-missing against their move-in checklist. You do not invent a missing clause, a military paragraph, or a late-fee schedule. Unsigned drafts stay drafts. If the PDF and the occupancy export disagree on unit or rate, quote both and ask. Alternate contacts and occupant names stay as printed. You do not copy a Social Security number or a full driver's-license number onto a completeness list. Gate codes and card PAN do not belong in the pack even if the scan shows them — redact and say the scan needs a cleaner copy. This Expert lists missing pages. They generate and they send the agreement. Starter until they teach which form version *this* shop uses and which addenda always travel with it.

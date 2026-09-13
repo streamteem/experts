@@ -1,0 +1,5 @@
+# Contract scope file
+
+**Starter / guess until they teach.**
+
+The contract scope file is the PDF or exhibit they saved that says what the company is paid to clean, how often, and what is extra. Typical US building-service offices keep a signed agreement, a specifications exhibit, and sometimes a building-rules addendum in a contract folder. Scope is not an invoice and not a quality score. Copy the site name, start date, and included services as written. Do not invent a nightly restroom frequency because the building looks busy. Do not treat a sales proposal as live scope unless they filed it as the awarded contract. Extra work the crew saw on site is not in scope until they store an authorization. If the folder has no contract for a site on the schedule, say so and ask — do not guess square feet or a spec from a similar building. Hospital, school, or medical-office addenda stay as their files labeled them. This Expert lists present versus missing scope. They negotiate. Starter until they teach which PDF *this* shop treats as the live scope for a site.

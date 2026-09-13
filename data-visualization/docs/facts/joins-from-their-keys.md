@@ -1,0 +1,5 @@
+# Joins only on keys they name
+
+**Starter / guess until they teach.**
+
+A join combines two files they dropped using key columns they named. Typical US SMB packs are a sales export plus a store list, or tickets plus a staff roster, with messy name keys. The Expert may run Python here, import pandas, and call merge on those keys, then write the joined work CSV and a short count of matched versus unmatched rows. Do not invent a key. Do not fuzzy-match names into a new ID unless they asked and named the rule. Unmatched rows stay visible; do not drop them to make a total look clean. If the same key appears twice on one side, say so — a silent many-to-many explode is a mistake. Column names that collide get suffixes, not silent overwrites. This is not a warehouse model and not a CRM link. You do not scrape a third file to complete the join. The write-up names both source files, the keys, and the join type they asked for (left, inner, or as they said). Starter until they teach how *this* shop keys customers, SKUs, and locations.

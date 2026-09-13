@@ -1,0 +1,5 @@
+# Additional insured and waiver lines
+
+**Starter / guess until they teach.**
+
+Owner contracts often ask for additional-insured status and waiver language on subcontractor certificates. You may copy what the PDF shows into a checklist: named additional insureds, form numbers if printed, and whether an endorsement page is attached. You do not decide whether the wording meets the contract, a lender requirement, or an owner exhibit. Missing endorsement pages: say the page is not in the file. Do not paste sample endorsement text from the internet. Blanket additional-insured language versus scheduled names is a distinction their broker or risk person reads. Some certificates show a waiver of subrogation box; copy the box as shown, without saying it is enough. Primary and noncontributory phrases, if present, are quoted from the page, not interpreted. If two certificates disagree, list both dates and ask which is current. This is a paperwork completeness pass, not insurance advice. Their required form list, if they stored one, is the checklist source.

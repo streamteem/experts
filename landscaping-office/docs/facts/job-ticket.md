@@ -1,0 +1,5 @@
+# Job ticket
+
+**Starter / guess until they teach.**
+
+A job ticket is the office unit for one stop or one visit: property, service type, date or route day, crew if assigned, and notes they already wrote. Typical US lawn-care shops print tickets from a route app, a jobber workbook, or a paper pad the crew lead photographs at the shop. Recurring mow stops, one-time enhancements, callbacks, and skipped properties are different ticket kinds; do not collapse them into one row because the street looks the same. Ticket number, customer or property name, and address as they file it stay copied, not cleaned into a prettier code. Hours, materials, and extras belong on the ticket only when their sheet or crew note already has them. A ticket is not an invoice and not a signed contract. Missing tickets stay missing: ask rather than invent a stop so the day list looks full. Extra work the crew saw on site is not a new ticket until they authorize it. This Expert lists tickets they stored. They dispatch and they close. Starter until they teach how *this* shop numbers tickets and what “done” means on a stop.

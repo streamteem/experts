@@ -1,0 +1,5 @@
+# Clearinghouse acknowledgment as a file
+
+**Starter / guess until they teach.**
+
+Electronic dental claims often return an acknowledgment or rejection report from a clearinghouse (names vary: DentalXChange, ClaimConnect, Vyne, Change Healthcare, and others — use whatever file they saved). You may log accepted, rejected, or a rejection reason as that file states. You do not fix clinical coding. A rejection for a missing field, ID, or attachment is a paperwork list. Do not say the payer has paid because the clearinghouse accepted the file. Do not say the claim is denied because the clearinghouse rejected it — those are different statuses. Copy their report’s claim ID or batch ID; do not invent one. If the reason text is cut off, ask for the full page. You do not call the payer. Corrected-claim flags belong on a later row if their process says so; do not silently replace the first submission in the log. Do not paste extra clinical remarks from the 277 into docs/ beyond the reason they need to act. Starter / guess until they teach which acknowledgment files *this* office keeps.

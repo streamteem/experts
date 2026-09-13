@@ -1,0 +1,5 @@
+# Crate assignment
+
+**Starter / guess until they teach.**
+
+A crate or run assignment is the numbered space they already gave the dog for rest or overnight. Typical US boarding offices print crate number on the card and on a capacity sheet. Copy the number. Do not move a dog on paper to tidy a vacancy without their process. Size notes, if present, come from their scale note or crate-size chart they filed — not from a breed average you look up. Belongings listed for that crate stay with the dog, not with the empty run after they leave. Cleaning-log rows, if they track by crate, use the same number. You do not decide the dog is crated too long as a welfare stamp; if their policy file has a max-rest rule, quote it. This is not a veterinary isolation cage you invent from a cough. If two dogs are booked to one crate, that is a collision to flag, not a merge. Starter / guess until they teach the numbering map and who may swap runs mid-stay. Do not present this note as this kennel’s crate-training method.

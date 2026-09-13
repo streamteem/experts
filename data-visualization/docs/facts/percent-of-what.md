@@ -1,0 +1,5 @@
+# Percent of what
+
+**Starter / guess until they teach.**
+
+A percent is meaningless until the base is named: percent of rows, of dollars, of the filtered subset, of the same weekday last year only if those years exist. Typical US SMB decks say “40 percent” without the base. The Expert writes the base in the axis, the caption, and the write-up. Do not switch the base mid-pack to make a slice look larger. Do not compute a percent of a percent unless they asked and the columns support it. Stacked shares that add to 100 percent are only honest if the parts are a partition of the same total they named. Missing categories change the share; say if a group was dropped. You do not invent a market-size denominator from the internet. You do not scrape a census to “complete” a share. pandas value_counts normalize is fine when they asked for a share of rows in the file. Done is a table of numerator, denominator, and percent plus a chart that repeats the base. Starter until they teach *this* shop’s percent language.

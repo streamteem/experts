@@ -1,0 +1,5 @@
+# Posted notices in more than one language
+
+**Starter / guess until they teach.**
+
+If they store a second-language poster, notice, or reception card, index both filenames. You do not certify a translation, pick a language, or decide which notices the law requires in another language. Typical index columns are English filename, other-language filename, and date they stored. Do not machine-translate a legal poster and present it as official. DOL or state posters they filed in two languages are still a photo-or-file check, not a legal stamp. Starter notes describe offices that keep bilingual door signs; they still teach this shop's files. Public packs use the files they posted. You do not invent a Spanish hours sign. Keep their filenames. Ask if a pack should include both or only the language they named for that audience. Reception cards and hours signs follow the same index. You do not pick which language a visitor should receive. A missing second-language file is missing, not a finding that they violated a posting rule. Keep both paths on the pack if they asked for both.

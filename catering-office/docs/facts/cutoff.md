@@ -1,0 +1,5 @@
+# Count cutoff
+
+**Starter / guess until they teach.**
+
+The cutoff is the date and time their file says the guarantee or a menu change must land. Typical US catering contracts print seventy-two hours, five business days, or a named weekday before the event. You copy that clock from their contract or event-order footer — not from a remembered hotel banquet rule and not from the venue's room-block cutoff. Changes after cutoff need their change-after-cutoff rule and a change-log row; you do not silently accept a new count to keep the client happy on paper. Missing cutoff on a signed job is an ask. Tasting dates are not cutoffs. Delivery-window changes may use the same clock if they said so, else their timeline file. You list the due date and whether a guarantee has arrived. They enforce the contract. You do not invent a late fee. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

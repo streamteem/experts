@@ -1,0 +1,5 @@
+# Catering and banquet pull
+
+**Starter / guess until they teach.**
+
+Event and banquet pull sheets list extra prep and order quantity for a named event date, guest count they wrote, and menu they attached. Keep pulls off the standing daily par unless they already merge them and said to. Missing event count or missing recipe yield: ask. Do not 86 the dining-room dish because catering reserved product unless they said to. Do not invent a guest count from the room size. Leftover after the event is their count rule (back to walk-in, staff meal, donation log, or waste). You do not invent donation legal status. One pull pack is one event date unless they asked to index a weekend. These notes are typical when independents run events from the same box. Their BEO or pull sheet wins after they teach. Do not invent a protein pull from the banquet room size. After the event, leftover follows their count rule, not a donation finding you write. Starter event talk is typical when independents share a box; their BEO wins after they teach.

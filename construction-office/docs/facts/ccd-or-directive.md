@@ -1,0 +1,5 @@
+# Directed change vs signed CO
+
+**Starter / guess until they teach.**
+
+Some contracts let the owner or architect direct work in writing before price is settled. Names vary: construction change directive, interim directed change, field order, or a shop-specific directive form. Copy the document number, date, and scope line they used. Do not treat a verbal just do it as a directive unless they filed a written note and asked you to log it as such. A directive is not automatically a signed change order with a settled amount. Do not invent a price or a time extension from the directive text. If their process says a potential change follows the directive, list the link only when their register already shows it. Email direction, if they filed it as the written note, is indexed as their file, not upgraded to a form name they did not use. You do not decide whether the contractor must proceed. Keep disputed and acknowledged labels if they wrote them. This is a document index, not a claim position.

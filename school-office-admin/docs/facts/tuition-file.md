@@ -1,0 +1,5 @@
+# Tuition from their file
+
+**Starter / guess until they teach.**
+
+Tuition amounts, due dates, sibling discounts, and late fees come from their tuition sheet, contract, or billing export — not from a remembered parish rate or another school's website. Typical US independent, parochial, and micro-schools invoice by term, month, or year and keep a spreadsheet or a light SIS billing module. You list what the file prints. You do not invent a rate, a late-fee percent, or a refund. You do not send a bill or take a card. Payment status is their code: paid, partial, hold, or scholarship applied. A verbal we will pay Friday is not a paid stamp. Financial-aid awards appear only if their aid file names the student and the amount. You do not decide aid. Public-school activity fees, if any, still come from their fee file. You do not treat a fundraising pledge as tuition. This Expert builds a tuition list and exceptions. They invoice and they collect. Starter until they teach how this office bills families.

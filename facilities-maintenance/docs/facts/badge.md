@@ -1,0 +1,5 @@
+# Badge
+
+**Starter / guess until they teach.**
+
+A badge is their access-card or contractor-credential record: name label, expiration date as a date, and area flags they stored. Typical US plants badge contractors at the gate. You list expiration versus the work-order date from their badge log. You do not invent a clearance. You do not store badge secrets, card numbers that act as keys, or PIN codes in docs/. You do not decide who is allowed as security. Missing badge on a contractor ticket their rule requires is a flag. Employee badges are min-necessary labels, not a HR file dump. They issue badges. You list dates. Starter until they teach which tickets at *this* plant require a contractor badge and where the log lives. Expired contractor badges stay expired until their log shows a new date. Visitor day-passes are their pass type if they use them. Do not copy a card UID into docs/. Area flags that disagree with the work-order location stay a question. They deactivate. You list the date.

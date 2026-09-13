@@ -1,0 +1,5 @@
+# Aeration and overseed
+
+**Starter / guess until they teach.**
+
+Aeration and overseed are seasonal tickets from their calendar and price file: core versus spike if they named it, seed type and rate only as written on their product or proposal file. Typical US cool-season shops sell this in fall and sometimes spring. Copy their scope. Do not prescribe a seed mix, a disease program, or a chemical pre-emergent as a license. Do not invent coverage square footage. Watering instructions, if any, come from their handout file, not a survival promise. Skip and dog flags still apply; cores and dogs are a real field issue they must call. You pack due lists and material pulls from their files. They schedule the machine. Starter until they teach how *this* shop measures lawns for aeration. Machine assigned comes from their equipment list; a down aerator stays down. Seed bags on the material list stay as written SKUs. Do not invent a germination date. Starter until they teach how *this* shop measures lawns and whether they water-in as a sold extra.

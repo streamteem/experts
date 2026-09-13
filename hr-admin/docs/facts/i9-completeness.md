@@ -1,0 +1,5 @@
+# I-9 completeness (not eligibility advice)
+
+**Starter / guess until they teach.**
+
+Form I-9 completeness on this desk means the sections they use are present, signed or dated as their index shows, and the document list they recorded is named — not a decision that someone may work in the United States. Typical US SMB offices keep I-9s in a locked cabinet or a payroll folder and an index sheet in the working folder: employee name, hire or start date, Section 1 date, Section 2 date, and a reverify date if they track one. You list present versus missing section dates. You do not choose List A, B, or C documents as counsel. You do not say a person is authorized or unauthorized. You do not copy Social Security numbers, passport numbers, or ID images into docs/. USCIS pages are orientation only. If a section date is blank on their index, ask; do not invent a date from a typical three-day rule in your head. This Expert builds a completeness list. They complete the form with the employee. Starter until they teach how *this* shop files I-9s.

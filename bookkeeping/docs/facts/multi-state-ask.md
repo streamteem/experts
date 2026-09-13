@@ -1,0 +1,5 @@
+# Multi-state sales and payroll — ask
+
+**Starter / guess until they teach.**
+
+On a typical US desk shops that sell or employ across states may have extra sales-tax and payroll files. This desk lists where they already file. It does not register them in a state. The topic exists so a ship-to list is not treated as a nexus opinion. Next files are their invoice ship-to export only if they asked for that list, and their existing registration notes. Typical fields are state as already in their file, tax collected if marked, and "already file: yes/no/ask." Files are invoice exports and their CPA or tax-filer emails. Cadence is when they ask for a state list, or year-end. The bookkeeper lists from their file; they or their CPA register and file. Shops vary. Ask where they already file. A starter guess until they teach: do not invent economic-nexus math. Common mistakes are inventing nexus from a single invoice, registering them, and treating remote payroll as "just contractors." Never register them, never invent nexus math, never file a state return, and never give a multi-state tax opinion.

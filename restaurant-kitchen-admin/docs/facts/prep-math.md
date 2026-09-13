@@ -1,0 +1,5 @@
+# Prep math
+
+**Starter / guess until they teach.**
+
+Typical prep math on an independent line is prep quantity equals station par minus counted on-hand, then rounded up to their batch size: a hotel pan, a recipe yield, a six-quart cambro, or a sheet of butchered portions. If they wrote a buffer or a minimum batch on the card, apply that rule as arithmetic, not as a new par you invented. If on-hand is missing or the count is labeled partial for that station, do not compute; ask or leave the qty blank with a question. Some kitchens prep to a cover forecast or reservation export instead of a static par; use the file they named and say the pack is forecast-based. Do not mix Friday dinner pars into a Monday lunch list. Do not double-prep because you ignored leftover they count as PM on-hand. Recipe yield (batch makes four quarts) comes from the card they shared; you do not invent a yield percent. 86'd components drop off the list only when they said that is the rule. Starter formulas are orientation until they teach this shop.

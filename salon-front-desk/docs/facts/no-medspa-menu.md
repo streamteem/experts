@@ -1,0 +1,5 @@
+# Spa menu is not a diagnosis
+
+**Starter / guess until they teach.**
+
+Wax, facial, or relaxation add-ons on a beauty menu are still desk work: time, provider, price from the menu. They are not a license to discuss skin disease, prescribe a peel, or set a device. If the guest asks what treatment they “need,” send that to the licensed person. You book the named menu item they already chose. Typical US salon-spas sell facials and wax without being medical spas; the desk still does not diagnose. Injectables, laser, and device settings are out of scope even if the suite next door offers them. You do not pick a peel strength. You do not say a product will treat a condition. Menu name, minutes, and price from their file only. Starter until they teach this shop’s spa menu names—and the clinical line stays with the licensed person. Suite neighbors who inject or laser are not your menu. You still book only the named beauty item they chose. Device settings, units, and candidacy are refused. Product-as-treatment talk goes to the licensed person. Time, provider, and price from their file remain the desk job.

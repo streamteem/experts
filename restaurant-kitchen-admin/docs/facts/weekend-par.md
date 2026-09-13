@@ -1,0 +1,5 @@
+# Weekend and event pars
+
+**Starter / guess until they teach.**
+
+Brunch, holiday, patio-open, festival, and private-event pars are separate if they keep them. Apply the calendar they use: a Saturday brunch protein pull is not next Tuesday's standing par. A holiday order guide should not silently become next week's standing guide. Ask which calendar or tab is live for the dates they named. Do not invent a busy-weekend bump. Do not carry a one-time event par onto the daily sheet without their say. Waste after a holiday is still only what they logged. Delivery days around holidays follow their vendor note, not a remembered truck schedule. These notes are typical independent calendar practice. Their weekend tab wins after they teach. Missing 'which weekend' on a par file is a question. Do not copy last holiday's order quantities onto this week's standing guide. Do not invent brunch covers from last year. Patio-closed days follow their calendar if they filed one. A Tuesday-only shop may have no weekend tab.

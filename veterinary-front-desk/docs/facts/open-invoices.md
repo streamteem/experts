@@ -1,0 +1,5 @@
+# Open invoices from export
+
+**Starter / guess until they teach.**
+
+Balances due come from their accounts-receivable export: client, invoice IDs, amounts, and aging buckets they already use. You do not threaten collections. You do not withhold records as your own policy; their written policy and the veterinarian decide. You do not call this a legal demand. Payment-plan balances stay as written. You may list open items for a checkout or end-of-day write-up. Do not add a late fee the export does not show. Do not apply a courtesy write-off. If a balance looks wrong next to a posted payment, ask. Starter / guess until they teach aging columns, who speaks to clients about money, and whether rescue accounts age differently. Aging buckets are their labels: current, thirty, sixty, and so on as exported. Do not write a demand letter. Do not apply a small-balance write-off. If a payment sits unapplied, list it as unapplied and ask. Records-release questions on an open account follow their written policy, not this rule file.

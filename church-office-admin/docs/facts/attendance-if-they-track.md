@@ -1,0 +1,5 @@
+# Attendance if they track it
+
+**Starter / guess until they teach.**
+
+Attendance is their dated worship or class count if they track one: a headcount sheet, Planning Center Check-Ins, or a usher tally they saved. Typical US churches record total in the room, sometimes by service, sometimes by age group. You copy the number and the date they wrote. You do not invent a count from memory of a full Easter. You do not turn a low count into a pastoral diagnosis. You do not publish a growth claim. If two services share a day, keep them on the rows they used. Online or livestream views, if they track them, stay on their livestream file, not guessed from YouTube. Class or small-group attendance is a different sheet if they split it — do not merge silently. Missing sheet for a Sunday they asked about is missing, not a zero you type to tidy a chart. Charts from their CSV are allowed when they named the question; correlation is not causation. They take the official count. You list and flag. Starter until they teach what this office counts and who writes the number.

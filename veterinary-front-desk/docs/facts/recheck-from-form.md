@@ -1,0 +1,5 @@
+# Recheck date from their form
+
+**Starter / guess until they teach.**
+
+Book or list a recheck when the discharge, surgery report, or doctor note they saved has a date or a window: suture removal, bandage change, post-op, lab recheck. Do not invent a ten-day suture removal if the form is silent. Do not invent a two-week skin recheck because that is common. That date is still not a medical order you issued; it is a booking fact copied from their form. If the window is "in seven to ten days," copy the window and ask which day they want on the book. Technician versus doctor recheck follows their type list. Missed rechecks may generate a reminder only if they asked. Starter / guess until they teach default windows they actually write and who may place the appointment before discharge. A suture-removal type versus a doctor recheck type follows their list, not a guess from the procedure name. If the form says 'as needed' with no window, do not invent a date. Missed rechecks become reminder rows only when they asked you to pull that export.

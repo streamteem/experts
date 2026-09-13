@@ -1,0 +1,5 @@
+# Rooms and holds
+
+**Starter / guess until they teach.**
+
+Room holds come from their calendar export or a room sheet they already keep. You do not book a room in Outlook, Google, or a room-panel product. Typical columns are room name, date, start, end, and the meeting title or owner they stored. Double books: list both holds and ask which is current. Canceled holds stay canceled if the export says so; do not revive them. A 'hold' without a title is still a hold; do not invent an agenda. Equipment in the room (display, phone, whiteboard) belongs only if their room sheet lists it. You do not rearrange furniture or decide capacity as a fire-code call. Visitor rooms versus internal rooms follow their labels. If the week pack mixes two rooms on one row, split only when their export already has two rows. After-hours or weekend holds belong if they exported them. Starter notes describe common SMB conference-room practice; they still teach the room names this shop uses and whether a separate room sheet exists. Do not add a room from a floor-plan guess.

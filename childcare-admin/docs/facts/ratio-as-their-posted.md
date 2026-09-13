@@ -1,0 +1,5 @@
+# Ratio as their posted numbers
+
+**Starter / guess until they teach.**
+
+Staff-to-child ratio on this desk is arithmetic from numbers they posted or exported: children present in a room, staff assigned to that room, and the ratio or maximum they wrote for that age band. Typical US centers post a chart in the office or keep it in the parent handbook and the licensing binder. You copy their numbers. You do not invent a state ratio from memory of another license, and you do not declare the room legal or illegal. If they gave children present but no staff count, ask. If they gave a posted maximum and the attendance count is higher, flag the difference as their math, not as a citation. Mixed-age rooms use the rule they wrote for mixed groups, not a guess. Floats and directors “in ratio” only if their schedule or handbook says so. You do not send a staff member into a room and you do not release children to fix a number. Starter until they teach which posted chart *this* center uses for each room.

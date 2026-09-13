@@ -1,0 +1,5 @@
+# Remaining visits from their file only
+
+**Starter / guess until they teach.**
+
+Remaining visits, remaining units, and “visits left this year” come only from their dated eligibility screenshot, auth letter, or visit-count tracker they pointed to. Typical US PT front desks get asked at the window how many visits are left. You quote the file. You do not subtract used from authorized in your head unless they asked you to copy their tracker’s remaining column as already calculated. You do not invent remaining from last month’s similar plan. You do not carry last visit’s remaining forward. You do not treat. No file: ask. A quoted remaining figure is still not a promise the plan will pay the next visit. Stale screenshots are a question, not current remaining. Do not copy extra member IDs from the remaining block into docs/. This is the hard remaining-from-file rule for this desk. Starter / guess until they teach which remaining column *this* clinic quotes at check-in. Do not treat a verbal remaining number from the window as file remaining until they save a dated print.

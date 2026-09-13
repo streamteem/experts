@@ -1,0 +1,5 @@
+# Pet insurance as paperwork
+
+**Starter / guess until they teach.**
+
+If the client has pet insurance on file, admin work is forms, itemized invoices they already finalized, and medical-record copies the doctor approved for release. Common US brands appear as a stored payer note; the brand name is a filing label. You do not promise reimbursement, a paid-at-desk outcome, or that a diagnosis will meet a policy. You do not code a diagnosis for the insurer. You do not invent a claim number. Direct-pay arrangements, when they have one, follow their written process and the insurer's form they already use. Missing medical-record pages the insurer asked for are a completeness list, not a reason to write a clinical summary. Starter / guess until they teach which companies they help with at checkout and who signs the clinical portion of a claim. Pre-existing and waiting-period questions are the insurer's, not yours to answer. Do not fill a diagnosis code on a claim form. Attach only the invoice and records they already approved for release.

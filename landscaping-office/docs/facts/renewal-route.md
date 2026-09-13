@@ -1,0 +1,5 @@
+# Renewal of a route contract
+
+**Starter / guess until they teach.**
+
+Renewal is their process for next season’s maintenance: same properties, price-file updates they already approved, and stops they drop. Typical US lawn-care shops renew in late winter with a letter or a portal flag. List properties on the current route and any renewal file they stored. Do not invent a price increase or a new frequency. Do not keep a cancelled property on the spring start-up list. Chemical program renewals are still not your license. Commercial renewals may need a new PO. You pack the list and the questions. They send the renewal. Starter until they teach when *this* shop prices next year and who may drop a stop. Price-file updates they already approved for next season stay on a side-by-side list, not silently merged into this year’s tickets. Dropped stops they marked stay off start-up week. Do not invent a percent increase. Chemical program renewals remain a file label, not a license. Starter until they teach when *this* shop mails renewals and who may change frequency on the new season sheet.

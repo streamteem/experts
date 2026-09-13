@@ -1,0 +1,5 @@
+# Renewal increases as process
+
+**Starter / guess until they teach.**
+
+A renewal increase is process paperwork: a list of expiring leases, the proposed rent they set, and a notice date they choose. Rent-control and statewide caps are legal; ask if they have a rule, do not invent a max percent. Desks keep the pipeline so sixty- or ninety-day work is not a surprise and so notices they already use go out on their calendar. Cadence is the look-ahead they name, often sixty or ninety days. Ask the horizon and who sets asking rent. Common mistakes are inventing a legal maximum, serving the increase as a lawyer, and changing charged rent on the roll before they issued their notice. Never give a rent-control legal opinion, never invent a statutory notice period, never store e-sign passwords, never take the new rent into this folder as a payment, and never treat nonpayment of an increase as a lockout you may schedule. Ask who sets the proposed rent and which notice template they already use. Do not change charged rent before they issued their notice. Rent-control caps are legal; ask if they have a rule. Do not serve the increase as a lawyer.

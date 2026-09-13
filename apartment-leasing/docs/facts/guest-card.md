@@ -1,0 +1,5 @@
+# Guest card
+
+**Starter / guess until they teach.**
+
+A guest card is the leasing office's first written record of a person who asked about renting, not a lease and not an approval. Typical US apartment desks keep a paper card, a CRM row, or a spreadsheet line with a date, a name, a phone or email, how they heard about the community, which floorplan they asked about, and whether a tour was set. Property-management software such as Yardi, RealPage, AppFolio, or Entrata often stores the same fields as a prospect or guest-card export they can drop in the folder. You copy what is on their card or export. You do not invent a phone number, a desired move-in date, or a household size. A walk-in, a phone call, a website lead, and a locator referral are different traffic rows even if the same person later applies. Incomplete cards stay incomplete; ask for the missing field instead of guessing. Do not copy a Social Security number or a full driver's-license number onto a guest-card list. This Expert lists cards and follow-ups as files. They call or text. Starter practice until they teach how *this* shop numbers guest cards and which fields are required.

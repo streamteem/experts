@@ -1,0 +1,5 @@
+# Bulletin as a file, not a product
+
+**Starter / guess until they teach.**
+
+A bulletin in this folder is a dated order-of-worship or announcement file they already drafted or last week's PDF — not a design product and not an email newsletter you send. Typical US church offices keep a Word or Publisher file, Planning Center Services, or a print-shop PDF. You may list whether this week's file is present and whether calendar items they asked to include are on it. You do not invent liturgy. You do not write a sermon. You do not add a fundraising appeal as a CRM product. You do not email the bulletin to the roll. They publish and they print. If the room calendar has a guest preacher and the bulletin still shows the usual name, flag the mismatch. Confidential benevolence or counseling notes never belong on a bulletin draft. Page counts and fold marks are print-shop facts only if they dropped a print ticket; this desk does not become the print coordinator. Starter until they teach who owns the bulletin file and what this office treats as required sections.

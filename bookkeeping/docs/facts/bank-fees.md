@@ -1,0 +1,5 @@
+# Bank fees and interest
+
+**Starter / guess until they teach.**
+
+On a typical US desk the bank statement includes service charges, wire fees, NSF fees, and interest credited. Fees are expense. Interest earned is other income, not sales. The lines exist so the rec zeros and so small amounts are not "noise." Next files are the statement lines CSV and the rec pack. Typical fields are date, description, amount, and the expense or other-income account they use. Files are the statement PDF or CSV. Cadence is each statement. The bookkeeper codes; the bank charges. Shops vary on account names (Bank charges versus Office). Ask. A starter guess until they teach: fee lines to their bank-fee account if they have one, otherwise a labeled guess; interest to other income, not sales. Common mistakes are netting fees against sales, ignoring small fees so the rec does not zero, and coding interest as customer sales. Never invent a fee, never treat interest as taxable as an opinion, never call the bank as them, and never hide a rec difference inside "bank fees."

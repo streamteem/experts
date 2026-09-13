@@ -1,0 +1,5 @@
+# Menu from their file
+
+**Starter / guess until they teach.**
+
+Menu names, package inclusions, and menu prices come from the dated menu PDF, banquet menu, or contract exhibit they stored. Typical US SMB venues keep a wedding package, a corporate lunch menu, and seasonal specials as separate files. You copy the dish names and the printed prices. You do not invent a plated price, a kids-meal price, or a vendor-meal price. Dietary notes (vegetarian count, allergy flags) are routing labels from their BEO, not a chef diagnosis and not a health-department stamp. If the planner asked for an off-menu item with no price file, ask — do not guess a surcharge. Tasting selections that became the event menu still need the live menu file or a signed BEO line. You do not publish a secret recipe. Starter until they teach where *this* venue keeps live menus. Kids meals, vendor plates, and late-night snacks are separate lines when the file splits them. A handwritten tasting card is not the reception menu unless they said to treat it as the live file.

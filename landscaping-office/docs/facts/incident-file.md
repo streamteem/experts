@@ -1,0 +1,5 @@
+# Incident file
+
+**Starter / guess until they teach.**
+
+An incident file is their report of an injury, property damage, or near miss they already opened: date, who, and what they wrote. Typical US shops have a one-page form. Route the file to whoever they named — owner, safety lead — as a completeness pack. Do not diagnose. Do not blame. Do not invent a witness. Do not store extra medical detail in docs/. Dog bites, trailer incidents, and mower damage stay in their words. This is not a workers-comp legal opinion and not a payment. You list the file present or missing fields they use. They file and they call their insurer if they choose. Starter until they teach how *this* shop routes incidents off the dispatch desk. Property-damage photos they named belong with the report. Do not guess a dollar. Do not store extra medical notes in docs/. Dog, trailer, and mower incidents stay in their words. This is not a payment and not counsel. Starter until they teach how *this* shop routes incidents off dispatch and who calls their insurer if they choose.

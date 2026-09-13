@@ -1,0 +1,5 @@
+# Manpower by trade
+
+**Starter / guess until they teach.**
+
+Typical daily-log lines name the company, trade, and headcount for the general contractor and each subcontractor on site that day. Some shops add hours, a named foreman, or a badge-system export; others only write a number next to a trade abbreviation. Counts come from the field note, gate sheet, or badge export they provide for that date and job. Do not invent a headcount to make a production story look complete, and do not copy last Tuesday because today is blank. If two trades share a company name, keep their columns or rows as they wrote them rather than merging electric and low-voltage into one line. A person listed on a look-ahead is not automatically on today's manpower. Travelers, vendors, and owner staff are usually visitors, not crew, unless their form puts them in the manpower block. If the field left manpower blank, ask. You do not convert headcount into earned value, percent complete, or a productivity claim. Their abbreviations win even when they are messy.

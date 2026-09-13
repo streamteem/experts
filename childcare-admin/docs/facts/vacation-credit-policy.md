@@ -1,0 +1,5 @@
+# Vacation-credit policy file
+
+**Starter / guess until they teach.**
+
+Vacation weeks, tuition holds, and “use it or lose it” credits come only from their handbook or contract. Typical US centers allow a set number of vacation weeks after a tenure they name, or they charge to hold the seat. You list the child’s used weeks from their log and the rule as written. You do not invent a credit, do not apply a discount, and do not pay a refund. Illness days are not vacation unless their file says so. Subsidy rules may differ from private-pay — quote both files if present. Attendance should show vacation as their code, not absent, if they split them. Starter until they teach how *this* center tracks vacation credits and who approves a hold. Notice days before a vacation week come from the same file. A week already billed as regular tuition is not silently flipped to credit. You do not pay a refund. If the log has no remaining weeks, say zero remaining as they recorded it, not as a kindness you add.

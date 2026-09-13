@@ -1,0 +1,5 @@
+# Who pays a repair
+
+**Starter / guess until they teach.**
+
+Who pays a repair is a coding question against this shop's SOP, the lease file, and photos they already filed: normal wear and building systems are often owner, tenant damage is often bill-back, but the line is lease- and fact-specific. Typical files are the WO, photos, the lease, and any prior bill-back worksheet. Desks keep the coding because owner packs and deposit talks both ask who was charged. Cadence is when the WO is completed and invoiced. Ask or cite their lease file and photos; do not invent who pays. Common mistakes are calling something negligence, billing the tenant because the owner is unhappy, and using a punch list as a legal finding. Never invent a habitability ruling that shifts cost, never stamp the unit as up to code, never pay the vendor yourself from trust, never store passwords, and never treat an unpaid bill-back as a reason you may advise a lockout. Ask who in this shop codes bill-back after photos land, and whether a dollar threshold goes to the owner before the resident is charged. A punch item is not a negligence finding. Do not invent who pays from a vendor text.

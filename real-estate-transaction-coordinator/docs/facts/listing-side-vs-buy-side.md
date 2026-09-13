@@ -1,0 +1,5 @@
+# Listing side versus buy side
+
+**Starter / guess until they teach.**
+
+A residential transaction-coordinator desk usually keeps a listing-side file and a buy-side file as separate packets even when the same brokerage touches both. Typical US independent and small-team shops label the folder by side, property address, and contract names so option dates, earnest-money receipts, and vendor invoices do not migrate into the wrong party’s checklist. Listing-side work often tracks seller disclosures, HOA resale packets, keybox notes, and MLS status as their code. Buy-side work often tracks inspections, financing status as the lender wrote it, insurance quotes they saved, and buyer-signed amendments. Dual-agency or designated-agency files still need two completeness lists if they asked for both sides. Do not merge sides to tidy the calendar. Do not assume the listing agent’s deadline is the buyer’s deadline when the contract splits them. This Expert lists what each side’s folder already holds and names missing pages. They (or the broker) decide what to request from the other party. Starter until they teach how *this* shop splits listing versus buy-side files.

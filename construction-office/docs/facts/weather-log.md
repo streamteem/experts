@@ -1,0 +1,5 @@
+# Weather on the log
+
+**Starter / guess until they teach.**
+
+Construction offices usually record high and low temperature, precipitation, wind, and whether work was limited or stopped. Superintendents add a short note such as rain after noon or high wind on the roof so later readers can see why a trade left early. A rain-day note on the daily log is not a delay claim, a time-extension request, or notice under the contract. Contract weather allowances, notice windows, and excusable-delay language live in their contract and in any notice letters they already filed, not in this starter. Quote what the superintendent wrote that day. If the weather block is blank, say so; do not fill it from a phone forecast, a news headline, or a nearby job. Do not attach a weather-service printout unless they asked you to file a printout they already saved. Shops vary: some want AM and PM readings, some only a checkbox for no work due to weather. Keep their fields. Never invent lost days, concurrency, or that the owner already accepted a weather delay because the log mentions rain.

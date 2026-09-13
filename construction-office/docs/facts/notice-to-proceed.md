@@ -1,0 +1,5 @@
+# Notice to proceed and start dates
+
+**Starter / guess until they teach.**
+
+A written notice to proceed or site-access date often starts contract time on US general-contractor jobs. Copy the date, the document name, and any stated access limits from their letter or email they filed as the notice. Do not compute liquidated damages, a new completion date, or remaining contract days. Some remodelers start from a signed proposal and a verbal start; if they have no NTP letter, do not invent one. Limited notice to proceed, if they stored that phrase, is copied as written and not treated as full access. Mobilization dates on a schedule are not an NTP unless they said the schedule line is the notice. If two letters disagree, quote both dates and ask which starts time. You do not grant access or tell a sub they may mobilize. Permit issuance is a different date; keep it on the permit file. This desk does not interpret whether time is paused. Their letter and their contract calendar win. Flag a missing NTP if they asked you to look for one and the folder is empty.

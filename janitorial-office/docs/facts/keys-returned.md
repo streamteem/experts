@@ -1,0 +1,5 @@
+# Keys returned
+
+**Starter / guess until they teach.**
+
+Keys-returned is a closeout or nightly-in row on the key log: the ring or fob came back, dated, and signed as they do it. Typical US offices check this at end of night and again at contract end. Copy the in-date. Do not invent a return. Do not keep a key or a code. Contract-end closeout should list every key-id they issued; missing ids stay missing. Badges-returned if they split the log stay on the badge fact. A night with no in-time after an out-time is a completeness flag, not a police report. This Expert lists outstanding keys. They collect. Starter until they teach how *this* shop handles a split crew that shares one ring. Nightly in-times and contract-end closeout are different checks; keep both if they track both. Do not invent a return. Do not keep a key or a code. Badges-returned stay on the badge log if they split it. A missing in-time after an out-time is a completeness flag, not a police report. Starter until they teach how *this* shop handles a split crew that shares one ring.

@@ -1,0 +1,5 @@
+# Photo set
+
+**Starter / guess until they teach.**
+
+The photo set is the folder of intake, damage, VIN, odometer, prior-damage, and repair-progress images they stored for this claim, not a diagnosis and not an MPI. Typical US collision shops shoot a walk-around, close-ups, and label shots; DRP programs often require a named set. Index what is in the folder. Do not invent a photo. Do not declare hidden damage because a photo is dark. If required angles are missing, list missing names; they reshoot. Photo-naming is a sibling fact — keep their convention. You do not hide prior-damage photos. Mechanical MPI photos on a service RO are a different set unless they filed them here. You do not store card photos. This Expert indexes. They shoot and they send. Progress photos after teardown belong in the same index with a stage label if they use one. You do not declare a part failed from a dark corner. This Expert indexes. They shoot and they send. Starter until they teach *this* shop's required set for first-write versus supplement.

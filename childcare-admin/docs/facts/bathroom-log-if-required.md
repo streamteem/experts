@@ -1,0 +1,5 @@
+# Bathroom or diaper log if they require one
+
+**Starter / guess until they teach.**
+
+Infant and toddler rooms often keep a diaper or toileting log for families and for licensing samples. If their process requires it, you check that the dated sheet exists and that required blanks are empty. You do not change a child, do not teach toileting, and do not diagnose a rash. Do not copy extra medical notes or body-detail narrative into docs/. If they do not require a log, say not required — do not invent one. School-age bathrooms are usually not logged; follow their file. Photo of a log on a parent app is still a photo-release plus least-detail question. Starter until they teach which rooms at *this* center log diapers or bathrooms and where the sheet lives. Potty-training charts for families are a different sheet if they split them; do not merge medical rash notes into that chart in docs/. Missing initials for a required change window are a completeness flag, not a finding that neglect occurred. You do not change a diaper.

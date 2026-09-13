@@ -1,0 +1,5 @@
+# Chef count
+
+**Starter / guess until they teach.**
+
+Chef count is how many cooks they assigned to prep and to the event, copied from the staffing file. Typical US offices split commissary chefs and on-site chefs. You copy the number and names if present. You do not invent a chef from a remembered “one chef per fifty plated.” Action-station chefs are station staff if they coded them that way. You do not stamp a food-safety certification. Recipe work stays on their recipe file; you do not write a formula for a short-handed night. Restaurant line-cook counts are kitchen-admin. If chef count is blank, ask. You list the file number. They schedule. You do not invent overtime for the chef without their OT file. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

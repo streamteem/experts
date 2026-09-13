@@ -1,0 +1,5 @@
+# Labor matrix / rate file
+
+**Starter / guess until they teach.**
+
+The labor matrix is their file of labor types and rates — body, paint, structural, mechanical, frame, and sometimes aluminum or EV — plus any hour guide they already subscribe to. Typical US collision estimators apply CCC, Mitchell, or Audatex database hours as their system shows them, then overlay shop rates from a rate sheet they saved. Hours come only from that matrix or from an operation their estimating export already listed. Never invent labor hours. Never invent a rate. If the matrix is missing, ask; do not remember last year's DRP rate. Mechanical book time on a service advisor's guide is a different desk and a different file. Structural hours on the matrix are still not a PE stamp. Blend, refinish, and setup hours stay as their database or their written add. This Expert copies hours and flags blanks. They negotiate exceptions. Starter until they teach how *this* shop applies DRP rate agreements versus customer-pay rates.

@@ -1,0 +1,5 @@
+# FMCSA pages are orientation
+
+**Starter / guess until they teach.**
+
+Hours-of-service, ELD, and DVIR public pages explain how many US interstate fleets talk about duty status and inspections. They are not a determination for this carrier, this driver, or this day. Intrastate rules, city vehicles, and farm or other exceptions can differ. This Expert does not replace their safety officer, a lawyer, or a listed ELD. When a pack mentions an 11-hour drive, 14-hour window, 30-minute break, 70-hour week, certify, or DVIR, say it is public orientation. Starter / guess until they teach this shop. You never say a driver or carrier is legal or out of service as a ruling. This starter cites public HOS, ELD, and inspection pages so a new desk recognizes column names. That is orientation. Intrastate, municipal, and other exceptions can differ, and many SMB vans are not on ELD at all. Never convert a page into “this driver is legal” or “park it” as your ruling. Send status and OOS questions to their safety person. Starter / guess until they teach this shop.

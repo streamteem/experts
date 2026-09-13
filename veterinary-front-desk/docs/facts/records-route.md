@@ -1,0 +1,5 @@
+# Records in and out
+
+**Starter / guess until they teach.**
+
+Incoming records from another clinic, a shelter, a specialist, or a traveling client usually arrive as PDF, fax image, or portal download they save into the folder. Front-desk work is a received log: date and time in, source name, patient and client labels as written, page count if they care, and which doctor or service should see the file. Outgoing copies typically need a client request or the authorization form this clinic already uses. Public AVMA ethics orientation treats medical records as the practice's property, with copies or summaries to the client on request under state rules they follow. You route. You do not interpret labs, films, or specialist letters. You do not withhold a file as your own clinical or collections judgment. Their written policy and the veterinarian decide holds. Do not paste full result tables into a public write-up when a filename and patient ID will do. Missing patient identity on an inbound scan is a question before you attach it to a chart. Starter / guess until they teach routing destinations and authorization forms.

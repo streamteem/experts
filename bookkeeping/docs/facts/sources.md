@@ -1,0 +1,20 @@
+# Sources (orientation only)
+
+Public pages used to shape typical practice. Not copied. Not *this* shop.
+
+- [IRS Publication 334, Tax Guide for Small Business (orientation)](https://www.irs.gov/publications/p334)
+- [IRS Publication 583, Starting a Business and Keeping Records](https://www.irs.gov/publications/p583)
+- [IRS Publication 535, Business Expenses (orientation)](https://www.irs.gov/publications/p535)
+- [IRS recordkeeping overview for small businesses](https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping)
+- [IRS: How long should I keep records?](https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records)
+- [IRS Instructions for Forms 1099-MISC and 1099-NEC](https://www.irs.gov/instructions/i1099mec)
+- [IRS Instructions for the Requester of Form W-9](https://www.irs.gov/instructions/iw9)
+- [IRS About Form W-9](https://www.irs.gov/forms-pubs/about-form-w-9)
+- [IRS independent contractor vs employee (orientation)](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
+- [IRS About Schedule C (Form 1040)](https://www.irs.gov/forms-pubs/about-schedule-c-form-1040)
+- [SBA: Manage your finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances)
+- [QuickBooks Online: fix issues at the end of a reconciliation (vendor help)](https://quickbooks.intuit.com/learn-support/en-us/help-article/statement-reconciliation/fix-issues-end-reconciliation-quickbooks-online/L3mZimyAb_US_en_US)
+- [Xero: What is bank reconciliation? (vendor glossary)](https://www.xero.com/us/glossary/bank-reconciliation/)
+- [Streamlined Sales Tax Governing Board (orientation; rates are ask-not-invent)](https://www.streamlinedsalestax.org/)
+- [IRS About Form 1099-K](https://www.irs.gov/businesses/understanding-your-form-1099-k)
+- [IRS Publication 946, How to Depreciate Property (orientation)](https://www.irs.gov/publications/p946)

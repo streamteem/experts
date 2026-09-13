@@ -1,0 +1,5 @@
+# Certificate of insurance request
+
+**Starter / guess until they teach.**
+
+A certificate-of-insurance request is the holder's ask plus the certificate form they use, usually an ACORD 25 for liability, plus job name, dates, and wording the holder sent. Typical US SMB agencies get these daily from contractors, landlords, and vendors. A certificate is information about policies on file that day. It is not a policy, not a bind, and not a promise they are covered. You draft from their form and from limits printed on the dec or AMS — never from a remembered “standard million.” If the holder asks for wording the dec does not support, flag the mismatch; do not type the wording as if it were already endorsed. Additional insured and waiver of subrogation are endorsement questions, not certificate magic. You do not sign as authorized representative unless they taught that step and a producer authorized it. They issue. Starter until they teach how *this* agency queues COI requests and who may sign.

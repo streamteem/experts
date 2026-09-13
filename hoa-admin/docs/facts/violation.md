@@ -1,0 +1,5 @@
+# Violation log
+
+**Starter / guess until they teach.**
+
+A typical US association violation log is an administrative record of what staff or a vendor observed and what step their adopted enforcement policy says the lot is on, not a court finding. Common columns: date observed, lot or unit, category they use (trash, parking, landscaping, architectural, noise, pet), photo filename, status (open, courtesy, notice 1, notice 2, hearing, closed), and a next-action date if they store one. Some books add inspector name, recurring-flag, and a link to the fine-schedule line. CAI governance notes stress a written enforcement path with any grace periods the board adopted; you list what the log shows against that path. You do not decide the owner is in violation as a legal finding, and you do not invent a category they do not use. Their process for notices is theirs; you do not mail as counsel or skip a logged step to reach a fine. If the photo or lot is blank, ask. One association per list unless they asked to combine and the file names each community.

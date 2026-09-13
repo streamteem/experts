@@ -1,0 +1,5 @@
+# Shelter or rescue account flag
+
+**Starter / guess until they teach.**
+
+Some books have rescue rates, nonprofit accounts, or a billed-to organization separate from the foster's personal file. Use their account name and the price-file tab they named. You do not grant a discount. You do not decide the foster is the owner. Ownership of the animal is their paperwork: shelter transfer, rescue contract, or client registration as filed. Estimates and reminders must hit the account they specified. Medical decisions remain the veterinarian's; a rescue coordinator is an authorized-agent question, not a second doctor. Starter / guess until they teach which rescues have accounts, who may approve an estimate for that account, and whether fosters book under the organization. Foster personal accounts and rescue organization accounts are easy to mix; use the billed-to they named on the booking. You do not extend rescue pricing to a newly adopted pet unless their file already flipped the account. Estimate approval for a rescue may need a coordinator signature their form already requires.

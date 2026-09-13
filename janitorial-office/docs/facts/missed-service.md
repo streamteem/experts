@@ -1,0 +1,5 @@
+# Missed service
+
+**Starter / guess until they teach.**
+
+A missed service is a scheduled site or task they coded as not done: locked out, no crew, customer closed, or skipped. Typical US offices mark this on the schedule CSV or a night-supervisor note. Copy the reason they wrote. Do not hide a miss to protect a score. Do not invent a make-up night unless their extra-day or callback file says so. A complaint can point at a miss; keep both rows if they logged both. Holiday closures are not misses if the holiday calendar already removed the night. Invoice-from-contract still uses their billing rule — you do not invent a credit. This Expert lists misses. They call the customer. Starter until they teach how *this* shop codes lock-outs versus crew no-shows. Night-supervisor notes and time-clock gaps can support a miss only as they already coded it; you do not infer a miss from a late punch alone. Do not hide a lock-out inside a quality score. Invoice credits stay their billing rule. Starter until they teach how *this* shop codes weather, lock-out, and crew no-show as different miss reasons.

@@ -1,0 +1,5 @@
+# Notices as process, not legal
+
+**Starter / guess until they teach.**
+
+Notices in this folder are process paperwork, not legal advice. Entry notices, late letters, and lease-violation letters sit under state and lease rules; this desk does not invent those rules. Typical office process is a log with notice type, unit, date prepared, delivery method they used, and who signed off. Desks keep the log because an owner or attorney will ask what was sent and when, and a chat thread is a poor archive. Cadence is whenever they prepare a notice, plus a weekly gap check. Ask which templates they already use, who is allowed to send, and whether counsel owns statutory notices. Common mistakes are drafting pay-or-quit or lockout language as if it were counsel work, inventing a statutory day count from another state, and stating that a notice was properly served. Never give eviction or fair-housing legal advice, never invent a habitability ruling inside a violation letter, never store passwords on the log, and never send money or a refund because a notice mentioned a balance. They or their attorney send legal notices.

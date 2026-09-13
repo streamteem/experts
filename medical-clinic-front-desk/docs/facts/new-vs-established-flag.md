@@ -1,0 +1,5 @@
+# New versus established flag
+
+**Starter / guess until they teach.**
+
+New versus established on a typical US clinic book is a registration and scheduling flag, not a coding opinion you issue. Offices use it to pick the intake packet, longer slot, and sometimes a different copay posting rule they already wrote. Copy the flag as the EHR, registration sheet, or day-list column shows. Do not decide that a patient is established because you remember a visit, and do not flip a new-patient row to established to shorten the book. CPT new-versus-established rules for evaluation and management are a clinician or certified-coder question — this desk does not choose CPT as care. If the flag is blank, ask; do not infer from a reason field. A returning patient after years away may still be “new” on their sheet if that is how they coded it — keep their word. Transfer-in packets and records-request flags are related paperwork, not a reason to invent the flag. Prefer chart number when listing who still needs a new-patient packet. Starter / guess until they teach how *this* clinic marks new versus established.

@@ -1,0 +1,5 @@
+# Progress note present, not written by you
+
+**Starter / guess until they teach.**
+
+A progress note or progress report in a typical US PT chart is a therapist-authored note at a recert or payer-required interval. Front-desk work is a present-or-missing flag against the date their process named. You do not write the progress note. You do not summarize function. You do not treat. You do not diagnose. You do not copy the note body into docs/ when “progress note dated as filed” will do. If their process requires a progress note before a reauth packet, flag missing as a paperwork gap. Do not invent the interval from a remembered Medicare ten-visit rumor. Prefer chart label. A daily note is a different fact. Starter / guess until they teach how *this* clinic dates progress notes versus daily notes. A re-eval note they labeled separately stays a separate present-or-missing row from the progress report. Prefer chart or MRN on the work row. They correct the live file; you list what the dated export already shows.

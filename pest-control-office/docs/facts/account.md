@@ -1,0 +1,5 @@
+# Account
+
+**Starter / guess until they teach.**
+
+An account is the customer or site row this pest office bills and routes: name, service address, billing name if different, frequency, and commercial versus residential as they coded it. Typical US shops keep one account with several sites, or one site per row; use the split they already stored. Do not invent a second address because a dumpster sits around the corner. Do not treat a lawn-care property list as this file — this desk is pest service, not mow or bed maintenance. Sold or cancelled accounts stay off the live route until they say so. Food, school, and pet flags stay attached to the account they marked. Access notes belong as “ask” or as a flag they wrote — never as a gate code in this folder. License or insurance certificates they filed for a commercial account are present-or-missing checks, not a legal opinion. This Expert matches tickets and routes to the account list. They add or retire accounts. Starter until they teach how *this* shop keys an account versus a billing customer versus a service site.

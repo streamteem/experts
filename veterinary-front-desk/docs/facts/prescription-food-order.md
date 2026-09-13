@@ -1,0 +1,5 @@
+# Prescription-diet or pharmacy order as their line
+
+**Starter / guess until they teach.**
+
+Refill of a diet or medication the clinic already has on the patient file is an order log: item as named, quantity they requested, pickup or ship as they use. The veterinarian still approves when their process requires it. You do not suggest a different diet for a skin problem, a urinary issue, or weight. You do not switch a brand because a bag is out of stock. Online-pharmacy drafts they already use are still their item names; you do not log into a client account. Missing last-approved date is a question. Starter / guess until they teach which items auto-approve, who checks the chart, and how they mark a hold at the desk. Autoship or online-pharmacy drafts they already use still need the item name from their file. You do not log in as the client. A diet change the client requests because of a new itch is a doctor question, not a swap on the order log. Mark holds at the desk only as their export marks them.

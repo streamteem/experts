@@ -1,0 +1,5 @@
+# Pest control
+
+**Starter / guess until they teach.**
+
+Pest control is a recurring vendor contract or a one-off work order for roaches, rodents, or other pests this shop already named. Bed bugs often have a special SOP with a prep sheet and re-treat dates. Typical fields are unit or building, pest type as they recorded, vendor, dates, and prep-complete yes or no if they use a sheet. Desks keep the file because missed re-treats and blame fights show up in owner packs and resident complaints. Cadence is the vendor's schedule plus any new WO. Ask their SOP and whether residents must prep. Common mistakes are inventing a treatment plan, blaming a neighbor as fact, and treating bed bugs as a lockout or eviction you may start. Never invent a habitability ruling from a pest sighting, never give medical advice, never store vendor-portal passwords, and never pay the pest company from trust yourself. Ask whether the building has a recurring contract or only one-off tickets, and whether bed-bug prep sheets are required. Do not invent a spray plan. Do not blame a neighbor as fact. A pest sighting is not a lockout or eviction you start.

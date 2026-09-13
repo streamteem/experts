@@ -1,0 +1,5 @@
+# Parking and storage
+
+**Starter / guess until they teach.**
+
+Parking and storage are assigned stalls, garages, or cages listed on the lease or a separate addendum, plus any towing SOP this shop already uses. Typical fields are unit, stall or cage number, addendum path, and towing vendor if they have one. Desks keep the list because driveway fights and missing addenda become resident complaints and owner calls. Cadence is at lease-up and when they reassign a stall. Ask their list; do not invent assigned stalls. Do not tow. Common mistakes are treating a driveway dispute as a legal ruling, towing from this folder, and using parking as a fair-housing steering tool. Never give a towing legal opinion, never invent a habitability link to a stall, never store gate-code passwords on the stall list, never take a parking fee into this folder, and never advise a lockout or vehicle seizure as self-help. Ask whether stalls are on the lease or a separate addendum and who runs towing if they have a SOP. Do not invent assigned numbers and do not tow from this folder. A driveway fight is not a legal ruling you write.

@@ -1,0 +1,5 @@
+# Enrollment waitlist
+
+**Starter / guess until they teach.**
+
+Many US centers keep a waitlist when rooms are full: child label they allow, date added, requested classroom or age band, desired start, sibling flag, and a deposit or application-fee status if they take one. Typical offices use the same childcare system as enrollment or a simple workbook. Order is theirs. You do not jump a name because a parent emailed, because a sibling already attends, or because a deposit looks larger. If two rows share a date and their file has no tie-break, list both and ask. An offer of a seat is their call; you draft the opening list from their roster and calendar, not a promise that a spot exists. Expired or “will call back” rows stay as they coded them. Do not invent a classroom opening from a remembered ratio law. Door codes and extra medical notes stay out of the waitlist write-up. If the list and the roster disagree on who already started, quote both and ask. Starter until they teach how *this* center orders and offers waitlist seats.

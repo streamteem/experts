@@ -1,0 +1,5 @@
+# Noise curfew
+
+**Starter / guess until they teach.**
+
+Outdoor music end time, generator quiet hours, and indoor last-song times come from their house policy, lease, or a city-note file they saved — not from a remembered ordinance. Typical US wedding barns print a ten o’clock outdoor cutoff. You copy the clock they wrote. You do not interpret municipal noise law and you do not promise a variance. DJ and band contracts the client sent still yield to the house curfew if that is their rule; show both times if they disagree. Indoor versus outdoor clocks may differ on the same file. You do not extend last call as a liquor-license act; last call is a separate house file. Flag a BEO that runs music past the curfew file. They cut the set or they seek their own permit. Starter until they teach *this* venue’s quiet hours. Generator quiet hours on a tented lawn are part of the same house file when they wrote them. A planner timeline that runs music past curfew is a conflict line, not an automatic extension. You do not call the city for a variance.

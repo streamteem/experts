@@ -1,0 +1,5 @@
+# Attrition (from their file)
+
+**Starter / guess until they teach.**
+
+Attrition is a contract formula for unused banquet minimum, unused room nights, or unused food commitment — only as written in their group contract or addendum. Typical US hotel group files name a percentage, a date, and what is measured. You copy the clause or the worksheet they stored. You do not invent an attrition percent from another brand’s playbook. You do not calculate a damage number unless their sheet already shows the math fields and the pickup or spend file is present; even then label the math as from their worksheet, not a legal assessment. If they have no attrition exhibit, say none on file. Banquet F&B minimum shortfall is a different line if their contract splits it. You do not waive attrition. They apply the clause. Starter until they teach how *this* venue tracks attrition. Complimentary rooms and staff rooms stay in the columns they used on the worksheet. You do not trade banquet spend against room attrition unless their exhibit already writes that offset.

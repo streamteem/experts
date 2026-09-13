@@ -1,0 +1,5 @@
+# In-unit HVAC filters
+
+**Starter / guess until they teach.**
+
+In-unit HVAC filters are a tenant-change SOP in some shops and a PM-included task in others. Size is on the equipment or their unit file; ask, do not guess a SKU. No-heat or no-cool in extreme weather is emergency per their rule. Typical fields are unit, filter size if they stored it, last-changed date from their file, and who is responsible. Desks keep the size and last-changed date because a wrong filter and a missed change become a no-heat WO. Cadence is PM visits and any no-heat ticket. Common mistakes are guessing a SKU, treating freeze no-heat as a three-quote job, and certifying the furnace as code-compliant. Never invent a legal duty interval, never invent a habitability ruling, never store thermostat or portal passwords, never pay HVAC from trust yourself, and never advise a lockout because a resident did not change a filter. Ask who changes filters and where size is stored on the unit file. Do not guess a SKU. No-heat or no-cool in extreme weather follows their emergency rule. A missed filter is not a lockout and not a legal duty interval you invent.

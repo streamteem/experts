@@ -1,0 +1,5 @@
+# Climate versus standard
+
+**Starter / guess until they teach.**
+
+Climate-controlled and standard (or non-climate) are type flags on their unit mix, not a promise about temperature, humidity, or what goods will survive. Typical US facilities split interior climate halls from drive-up standard rows; some also flag dehumidified or heated-only. You copy the flag from their export or map. You do not tell a renter their piano is safe, and you do not invent a climate surcharge. If the agreement PDF and the unit master disagree on climate, quote both and ask. A first-floor interior unit is not automatically climate unless their file says so. Wine, medical, or archive marketing language stays off the pack unless they stored that copy. Flood, pest, and heat events are separate file questions. You do not certify a building as climate as an engineer. This Expert lists type as coded. They decide what to advertise. Starter until they teach how *this* shop codes heated, cooled, and standard and which buildings share a mechanical room.

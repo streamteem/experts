@@ -1,0 +1,5 @@
+# Breed as they typed it
+
+**Starter / guess until they teach.**
+
+Breed on a daycare or boarding card is the word the client or staff already typed — mixed, unknown, a named breed, or a mix string. Typical US offices keep it for crate-size notes they already use, for playgroup flags they already set, and for lost-and-found descriptions. Copy the string. Do not upgrade “mix” to a named breed from a lobby photo or a voice guess. Do not downgrade a named breed because you disagree. Mixed and unknown are valid stored values. Breed is not a medical stereotype you add, not a bite-risk opinion you write, and not a reason to invent a temperament flag. This desk does not use breed to diagnose or to pick a vaccine. If breed is blank and their card requires it, ask; do not fill from the internet. Rescue or shelter dogs may have “unknown” forever; leave it. Two dogs in one household may have different breed strings; keep each row. Starter / guess until they teach whether *this* shop uses breed for playgroup placement at all or only as a description field. Do not present this note as how this floor already groups dogs.

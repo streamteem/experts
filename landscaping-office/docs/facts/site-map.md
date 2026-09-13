@@ -1,0 +1,5 @@
+# Site map
+
+**Starter / guess until they teach.**
+
+A site map is their sketch, satellite print they marked, or CAD they stored showing beds, turf, gates, and sometimes irrigation zones as labels they wrote. Typical US shops paper-clip a marked print to the enhancement ticket. Copy their labels. Do not redraw a grade or a drain as an engineer. Do not invent square footage from an unmarked aerial. If the map and the property list address disagree, ask. Crew notes may point to “bed 3 on map.” Lighting and mulch quantities should trace to the map they used to sell. You attach the file they have. They update the sketch. Starter until they teach how *this* shop measures from maps versus wheels. North arrows and street labels they drew stay; do not add a drain you invented. Bed numbers on the map should match the material list. If only an unmarked aerial exists, say unmarked and ask for a takeoff. Starter until they teach how *this* shop measures from maps versus a wheel and who updates the sketch after a change order.

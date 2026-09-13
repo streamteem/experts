@@ -1,0 +1,5 @@
+# Pickup ticket
+
+**Starter / guess until they teach.**
+
+A pickup ticket is the call-off or retrieve record: contract, unit, site, requested pickup date, and whether the renter said the machine is ready and accessible. Typical US SMB desks create pickup tickets when the renter calls off rent or when a due date passes and their process writes a retrieve. Off-rent time, if they capture it on the call, belongs on their contract or ticket as they recorded it — not a time you guess. If the site note says mud, locked gate, or “still using it,” copy the note; do not invent a wait fee unless their fee file prices that event. Pickup is not a return inspection; the inspection-return sheet is a separate file when the unit hits the yard or the driver completes their form. You do not diagnose why the unit will not load. You do not invent a fuel or cleaning charge on the pickup ticket; those come from policy files after inspection. Starter until they teach how *this* yard closes a pickup versus a will-call return. Gate codes stay out of the write-up.

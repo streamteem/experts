@@ -1,0 +1,5 @@
+# Estimate from their price file
+
+**Starter / guess until they teach.**
+
+Written estimates are ordinary US clinic practice and, in public AVMA practice notes, a trust and transparency tool so clients see likely fees before work proceeds. Front-desk work is to fill lines only from their current price file or a stored estimate template they named. Quantity, laterality, and which lines belong on this visit come from the veterinarian, a technician acting under their process, or a prior estimate they saved and asked you to refresh. You do not add a surgery, dental, or blood panel because it is common on other hospitals' quotes. High and low ranges appear only if their template has range columns. Deposits for surgery or dentistry, if they collect them, are a line or policy from their file, not a percentage you invent. Species or weight-banded fees must match the patient data they stored. Label the draft as a draft until their authorization process is complete. Starter / guess until they teach which tab, which date of the fee file, and whether this doctor uses a named template.

@@ -1,0 +1,5 @@
+# Job number
+
+**Starter / guess until they teach.**
+
+The job number is the shop's unique handle for one ticket, one reprint, or one split of a ticket if they number splits. Typical US SMB shops use a yearly sequence, a customer-plus-sequence, or the estimating system's next number. You copy the number as written on the ticket, the proof folder, the stock pull, and the delivery ticket so those files stay tied. Do not invent a job number to tidy a board. Do not reuse last month's number because the reprint looks the same. A quote number is not a job number unless their file says they convert quotes one-for-one. A customer PO is not a job number; keep both fields. If two PDFs in the folder use different numbers for the same piece, quote both and ask which wins. Voided or killed jobs stay labeled void if their export says so; do not silently drop them from a reprint log. This Expert traces files by the number they wrote. They assign new numbers. Starter until they teach *this* shop's numbering.

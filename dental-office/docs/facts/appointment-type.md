@@ -1,0 +1,5 @@
+# Appointment type as booked
+
+**Starter / guess until they teach.**
+
+Offices book types with stored durations: new patient, recall hygiene, child prophy, periodontal maintenance they already labeled, restorative block, consult, emergency or same-day slot, and sometimes a short check or seat appointment. Copy the type as their system stored it. Duration comes from their appointment-type setup or book, not from a generic table you invent and not from another office’s template. A type label is not a diagnosis and is not a CDT choice you make. If type and a procedure code both appear, keep both as labeled; do not “fix” a mismatch by changing the code. Offices vary on whether emergency is a type, a reason, or a reserved block. Keep their words. Do not shorten a new-patient slot to squeeze a fill unless their rule file says that type is releasable. Unscheduled treatment types on a pending list stay as exported; you do not add a type because the last visit was similar. Ask what *this* office uses for seat, try-in, and post-op if those rows look blank. Starter / guess until they teach.

@@ -1,0 +1,5 @@
+# Procedure pages as their system
+
+**Starter / guess until they teach.**
+
+Procedure pages are OEM or information-system PDFs they already saved for this VIN and these operations — sectioning, adhesive, scan, calibration — not a procedure you invent and not a stamp you performed them. Typical US collision estimators attach ALLDATA, OEM, I-CAR, or estimating-system procedure pages to the estimate or a procedure folder. Index present versus missing for the operations they wrote. Do not invent a page. Do not skip a required page to make the estimate look ready. I-CAR and OEM sites are orientation; you still need their saved PDF. Mechanical TSB prints on a service RO are a different folder. If an ADAS or weld line has no procedure PDF, flag. This Expert lists present/missing. They pull pages and they repair. A printed estimating note that says “see OEM” is not the page. If the PDF is for the wrong year, flag the mismatch. This Expert lists present and missing. They pull pages and they repair. Starter until they teach which information system *this* shop uses.

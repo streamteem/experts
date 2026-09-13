@@ -1,0 +1,5 @@
+# Two plans on file
+
+**Starter / guess until they teach.**
+
+When two dental plans appear on the registration form, offices often mark primary and secondary as the patient stated or as a prior note. You may list both plan names, member IDs, and group numbers as written. You do not decide birthday rules, employer versus spouse primacy, or which plan pays first. You do not promise that secondary will pay the remainder. Secondary claims in many shops need the primary explanation of benefits as an attachment they already have or still need; list that attachment as present or missing. Do not invent a primary paid amount. If only one card image is in the folder and the form lists two plans, ask. Medical and dental dual coverage are easy to mix on portal prints; quote only the dental blocks they pointed to. Do not apply one sibling’s benefit screenshot to another without a file that says so. Least PHI: two chart-linked plan labels are enough. Starter / guess until they teach how *this* office marks primary versus secondary.

@@ -1,0 +1,5 @@
+# Short-haul and local flags
+
+**Starter / guess until they teach.**
+
+Some fleets mark local or short-haul drivers, 150-air-mile flags, or “timecard only” on the roster. That flag is theirs. You do not decide a driver is exempt from ELD or hours-of-service, and you do not apply a short-haul exception to today’s trip. If the roster says timecard only, quote the roster and still do not certify. Mix of CDL over-the-road and local vans is common in US SMB shops; use the label on each row. Public short-haul exception text is orientation, not a determination that this run qualifies. Starter / guess until they teach this shop. You do not compute air-miles or invent a radius from a map. US SMB mix is common: a few CDL tractors on ELD and a larger van fleet on timecards. Keep the flag on each row. Do not export the ELD question pack onto a timecard-only driver as if they were under the same certify columns. Air-mile and time-card exceptions in public text are orientation. You do not measure a radius or clock a 14-hour local window as a ruling. Starter / guess until they teach this shop.

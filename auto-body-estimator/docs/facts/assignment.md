@@ -1,0 +1,5 @@
+# Insurer assignment
+
+**Starter / guess until they teach.**
+
+An assignment is the insurer's or customer's written referral of one loss to this shop, not a mechanical repair order and not a promise that the car will be repaired here. Typical US collision offices receive it as a CCC, Mitchell, Audatex, or DRP portal PDF, a fax, or an email they saved: claim number, VIN, date of loss, insured or claimant name, deductible if shown, rental flag, and sometimes a preferred-shop code. Copy those fields. Do not invent an assignment so the board looks full. Do not treat a walk-in estimate as an assignment unless they filed it that way. A mechanical service advisor's RO is a different desk; this file is a claim handle, not a customer-states concern. If two assignments share a VIN, list both and ask which is live. Missing assignment on an insurer-pay file is an ask, not a guess. This Expert lists intake. They accept or decline the job. Starter until they teach how *this* shop files assignments and what their DRP screen requires.

@@ -1,0 +1,5 @@
+# Copay as their posted amount
+
+**Starter / guess until they teach.**
+
+Copay collected at a typical US clinic window is the amount they posted from their fee-posted sheet, their EHR collection screen, or the exact copay line on a dated eligibility screenshot they pointed to. You copy that posted figure. You do not invent a specialist-versus-PCP copay from a public plan brochure. You do not average last week’s collections. If the screenshot and the posted sheet disagree, quote both and ask which they collect today. A copay is not a deductible remaining, not coinsurance math you invent, and not a promise that the plan will pay the rest. Sliding-fee copays, if any, come from their sliding schedule for the visit type they already coded — still not a number you invent. You do not take a card into this folder. Day-close tender later lists what they recorded as collected, not what you think should have been collected. If they have no posted copay file and no screenshot line, ask. Starter / guess until they teach how *this* clinic posts copays by plan and visit type.

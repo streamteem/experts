@@ -1,0 +1,5 @@
+# Par level
+
+**Starter / guess until they teach.**
+
+A par is how much this kitchen wants on hand for a named daypart or delivery cycle — a house target, not a legal amount and not a health-department figure. Typical independent practice is par minus counted on-hand equals order quantity or prep quantity, sometimes plus a buffer they already wrote on the sheet. Friday dinner pars often differ from Tuesday lunch; brunch, patio, and holiday pars may live on separate columns or tabs. Stale pars (a high par on a dead item, a low par that 86s every Saturday) are questions for the chef or GM, not numbers you silently raise or cut after one busy night. You do not change a par unless they asked you to edit the file. If they keep min and max instead of a single par, use their columns and say so. If they set prep from a cover forecast instead of a static par, use that forecast file and label the math. Missing par on a line is a question, not a number you invent from last week's order. A starter note about typical par math is orientation until they teach this shop.

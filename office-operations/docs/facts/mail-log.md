@@ -1,0 +1,5 @@
+# Incoming mail and parcels
+
+**Starter / guess until they teach.**
+
+Reception often logs certified mail, overnight packs, and checks seen at the desk. Typical columns are date, sender, type (certified, overnight, regular, parcel), and who it went to. You do not open mail they marked confidential or legal. Checks are noted as 'check seen — they deposit'; you never endorse, deposit, or move funds. Do not retype full account or routing numbers from a check image. Certified article numbers can be copied if they already write them on the log; do not photograph IDs. If a parcel is missing a recipient, flag it; do not guess the host. Attorney or government envelopes follow their routing note if they have one. You do not sign a delivery as the company officer unless they taught a file-only 'who signed' field they already use. This is orientation for most US SMB front desks, not a mailroom SOP for this shop. They still teach whether a week log is wanted and where the binder lives. Postage and meter funding are a separate supply-style list, not a payment you make.

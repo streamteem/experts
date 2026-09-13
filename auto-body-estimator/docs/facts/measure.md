@@ -1,0 +1,5 @@
+# Measure / structure readings
+
+**Starter / guess until they teach.**
+
+A measure is the print or CSV of structure or panel readings they stored from a tram, laser, or rack system, not an engineering stamp that the body is in spec. Typical US collision shops attach a before-and-after measure when they write frame or structural labor. Copy the file name, date, and whether their sheet says before or after. Do not invent readings. Do not stamp the vehicle straight. If frame labor exists and no measure file is in the folder, flag missing. A mechanical alignment print is a different tool unless they filed it as the structure measure. You do not convert millimeters you remember. If two prints disagree, quote both. This Expert lists measure files against frame ops. They pull the car. After-repair prints stay labeled after; do not treat a before print as proof the pull is done. You do not convert units they did not write. This Expert lists measure files against frame ops. They pull the car. Starter until they teach which system *this* shop uses and when a measure is required.

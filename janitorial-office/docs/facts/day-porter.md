@@ -1,0 +1,5 @@
+# Day porter
+
+**Starter / guess until they teach.**
+
+Day-porter work is occupied-hours coverage they already scoped: restrooms, spill response, lobby, and restock as their duty list says. Typical US contracts put a named hour block and a task list in the scope file, separate from the night board. Copy the hours and the list. Do not invent a porter because a lobby looked busy. Do not fold day-porter hours into night budget hours. Supplies the porter uses still come from the site par, not a guessed case count. Medical-office porters may have a bloodborne file pointer — present or missing, not a stamp. Call-outs on the day roster stay as they noted. A day-porter missed-service is still a missed-service row. This Expert lists assigned porter blocks. They hire the shift. Starter until they teach how *this* shop writes porter duties versus night specs for the same site. Spill and restroom notes the porter wrote stay on their duty log if they keep one; you do not invent a spill. Occupied-hours windows come from the scope file only. Starter until they teach how *this* shop signs a porter out at the end of the block.

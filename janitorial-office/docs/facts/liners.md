@@ -1,0 +1,5 @@
+# Can liners
+
+**Starter / guess until they teach.**
+
+Liners are the bag SKUs on their par sheet: size, mil or brand as they wrote, and par for each closet. Typical US janitorial closets split small desk bins from large cans and restroom bins. Copy the SKU and par. Do not invent a size to match a can you remember. Do not mix a hospital red-bag SKU onto an office par unless their file does. Brand comes from their consumable-brand file or the par row, not a substitute. Below-par liners are a supply-below-par flag. Restock of liners is a task on the spec, not a new order you place. Barcode if they use one stays on the sheet. This Expert lists liner holes. They purchase. Starter until they teach how *this* shop names sizes and whether case pack is the unit on the par. Red-bag or medical liners stay on medical or hospital pars only if their file names them; you do not add a biohazard SKU to an office closet. Case-pack versus each stays their unit. Starter until they teach how *this* shop names liner sizes across a campus with mixed cans.

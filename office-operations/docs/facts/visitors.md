@@ -1,0 +1,5 @@
+# Visitors
+
+**Starter / guess until they teach.**
+
+Some offices log visitors for reception, after-hours questions, and a simple safety record. Typical columns are date, visitor name or company, host, time in, and time out if they record it. Ask whether a visitor log is in scope before you build a week pack. You do not build a badge system, print credentials, or wire a lobby tablet. Do not copy ID numbers, license photos, or passport data into docs/ or work/. A 'contractor on site' row is still a visitor row unless they taught a separate trades log. Delivery drivers and mail carriers may be excluded on their sheet; follow that rule. If the pack might sit at reception, omit home addresses and personal cells. After-hours visitors belong only if their log includes them. You do not decide who is allowed in the building. Lost-visitor or unsigned-out rows are flags, not accusations. This is orientation for most US SMB reception desks, not a security policy for this shop. They still teach the form they use and whether a week file is even wanted.

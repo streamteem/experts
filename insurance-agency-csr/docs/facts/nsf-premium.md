@@ -1,0 +1,5 @@
+# NSF premium flag
+
+**Starter / guess until they teach.**
+
+NSF or returned-item premium is a flag on their payment file or finance notice that a draft did not clear. Typical US SMB agency-bill and premium-finance accounts see this monthly. You log the date and the amount as printed. You do not resubmit a card or ACH. You do not store bank numbers. You do not say the policy is cancelled or still in force as your conclusion — quote the notice if they have one. A second NSF is still a file fact, not a collections lawsuit you start. Direct-bill NSF may appear only on a carrier screenshot they saved. You do not invent a fee. They contact the insured and they decide rewrite or cancel handling. Starter until they teach how *this* agency codes NSF and whether finance company or carrier owns the next notice. A finance-company NSF and a carrier direct-bill NSF are different notices; keep the source labeled. You do not promise a courtesy rewrite. Amounts come from the notice, not from last month's installment memory.

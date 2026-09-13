@@ -1,0 +1,5 @@
+# Court / eviction — files only
+
+**Starter / guess until they teach.**
+
+Court and eviction files in this office are a status copy from their tracker: notice, counsel, filed, hearing, writ. You do not give eviction advice, pick a cause of action, or say they will win. Desks keep the status because owner packs and the rent roll need a honest possession flag, not a hallway story. Cadence is whenever they update the tracker. Ask who their attorney is if they want a how-to. If they ask how to evict, refuse and point to their attorney. Common mistakes are drafting a statutory notice as counsel, predicting a win, and treating a tracker row as a lockout you may schedule. Never invent a notice period or cause of action, never advise a self-help lockout, never store court-portal passwords, never pay filing fees from this folder, and never invent a habitability defense or ruling. Ask who updates the tracker and who their attorney is if they want a how-to. Copy status only. If they ask how to evict or lock out, refuse. A hearing date is not a lock day. You do not pick a cause of action.

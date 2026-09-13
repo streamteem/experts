@@ -1,0 +1,5 @@
+# Commission as their file
+
+**Starter / guess until they teach.**
+
+Commission amounts, bonuses, and who pays whom come only from their listing agreement, buyer-broker agreement, or the commission page they stored, not from a remembered percent. Typical US residential TC desks copy those figures onto a closing checklist or a CDA worksheet the broker owns. You do not invent six percent, do not split a fee, and do not promise a cooperating broker money. MLS-offered compensation, if they still print it, is a file they exported, not a number you add. Amendments that change commission need the signed page. You do not send a commission invoice as live. You do not pay anyone. This Expert lists the written figures and missing agreements. The broker issues the CDA. Starter until they teach how *this* shop files listing versus buyer-broker compensation after rule changes in their market. A handshake percent in an agent chat is not a commission file. If the CDA worksheet is blank, ask; do not fill the split to finish the pack.

@@ -1,0 +1,5 @@
+# Holiday bake-up
+
+**Starter / guess until they teach.**
+
+A holiday bake-up is a dated production plan on their calendar — pies, cookies, laminated, or bread — not a restaurant weekend cover bump you invent. Typical US SMB bakeries keep a holiday tab: item, qty, freeze/thaw dates, preorder cutoff, and cafe versus wholesale. You copy that tab and the production calendar. You do not invent a holiday qty from last year. You do not invent a formula for a seasonal special. Preorders and standing extras stay on those files. Ingredient pars may need a below-par pack against the holiday list; still do not invent a flour order qty without their par and count. Oven and mixer windows follow their schedule files. After the holiday, do not leave holiday qty on the daily bake list unless they said so. Starter until they teach *this* shop's holiday calendar. Pie week and cookie boxes can share an oven; still do not invent a bake minute to make both fit. Preorder cutoffs stay on the calendar they stored. Starter until they teach *this* shop's holiday tabs and what happens the Tuesday after.

@@ -1,0 +1,5 @@
+# Flatware
+
+**Starter / guess until they teach.**
+
+Flatware is fork, knife, and spoon counts from their service-style file, the order, or a rental PO. Typical US plated meals need a place setting per guarantee; buffets and stations may use a different utensil mix they wrote. You do not invent a setting from a remembered “three forks for formal.” Serving utensils for chafers belong on the equipment list, not as guest flatware. Compostable cutlery for drop-off is a disposable line. If the rental PO and the house cage both list salad forks for the same event, show both so they do not double-pack. Venue flatware on a saved BEO is hall kit if they said so. You list pieces as written. They roll the napkins. You do not invent a polish-labor hour. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

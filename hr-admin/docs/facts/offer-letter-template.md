@@ -1,0 +1,5 @@
+# Offer-letter template they own
+
+**Starter / guess until they teach.**
+
+An offer letter is their written job offer, usually from a template they already keep: job title, start date, pay as they wrote it, supervisor or department if they print those, and any contingent language they already use. Typical US SMB shops store a Word or PDF template and fill names and dates per hire. You draft only from that template and from the numbers they put on the hire sheet. You do not invent a wage, a bonus, equity, a start date, or an exempt versus nonexempt label. You do not rewrite legal-looking paragraphs from memory of another company. If the template is missing, ask; do not paste a generic internet letter. Contingent phrases such as background check or I-9 stay as they wrote them — you do not add immigration or employment-law language. A draft stays a draft until they send it. This Expert fills blanks they already defined. They choose the template version and they send. Starter until they teach how *this* shop versions offer letters.

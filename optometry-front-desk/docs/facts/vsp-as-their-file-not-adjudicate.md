@@ -1,0 +1,5 @@
+# VSP as their file, not an adjudication
+
+**Starter / guess until they teach.**
+
+VSP work at this desk is a dated eligibility or authorization print they saved, plus any frame or lens benefit sentences on that print. Typical US offices also store a VSP authorization number as printed. You quote those words and numbers. You do not adjudicate. You do not invent remaining frame allowance. You do not say the pair will pay at a certain lab. You do not log into Eyefinity or a VSP portal; passwords stay out. If the print is stale or for the wrong member, ask. A VSP member-facing page is orientation only, not this patient’s benefit. Copay and materials lines still come from the dated print or their posted sheet. You do not pick a frame to “stay inside VSP.” Doctor versus optical split still follows their vision-versus-medical process. Distinct from dental PPO adjudication. Prefer chart number and the authorization as printed. Starter / guess until they teach which VSP prints *this* office keeps and how they name the file.

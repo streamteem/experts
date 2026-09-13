@@ -1,0 +1,5 @@
+# Memorial gift
+
+**Starter / guess until they teach.**
+
+A memorial or in-honor gift is a giving row they already tagged with a memorial or honor name, plus any fund their process uses for those gifts. Typical US congregations print a memorial book or a software tribute field. You copy the tag as written. You do not invent a memorial fund. You do not invent a family acknowledgment letter as a CRM product. You do not send flowers. If their process routes memorials to a named fund and the gift landed in general, flag it. You do not decide the gift is deductible. You do not publish the amount on a public list unless their process says amounts print. Family addresses are min necessary and only if they asked for an acknowledgment-run list they will send. Funeral-calendar rows and memorial gifts are different files; join only on their ids. They notify the family if their process says so. You list tags and holes. Starter until they teach how this office codes memorials and whether amounts are public.

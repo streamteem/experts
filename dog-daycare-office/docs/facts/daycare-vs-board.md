@@ -1,0 +1,5 @@
+# Daycare versus overnight board
+
+**Starter / guess until they teach.**
+
+Daycare and overnight board are different stay types on a typical US pet-care card even when the same building and the same dog are involved. Daycare is usually a day play or lounge block with a same-day pickup window. Board is one or more nights with a crate, suite, or kennel assignment and a go-home date. Most shops split packages, peak deposits, and feeding schedules by stay type in Gingr, PetExec, or a calendar export. Copy the type they stored. Do not convert a daycare row into a board because the client “might be late,” and do not convert a board into daycare to free a suite on paper. Late-pickup rules and overnight fees come from their fee file, not from a type you rewrite. A dog booked daycare who is still here after their posted close is a late-pickup or emergency-board question they already wrote, not a medical hold you invent. This is occupancy work, not a veterinary surgery drop-off book. Starter / guess until they teach how *this* shop codes half-days, late-stay, and trial days versus paid board. Do not present this note as this floor’s package list.

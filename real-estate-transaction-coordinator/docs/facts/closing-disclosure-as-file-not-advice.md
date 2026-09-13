@@ -1,0 +1,5 @@
+# Closing Disclosure as a file
+
+**Starter / guess until they teach.**
+
+A Closing Disclosure is the lender or settlement PDF they stored, used here as a file to check names, address, dates, and whether a later revision arrived, not as consumer-finance advice. Typical US residential financed deals show a CD at least as a document on the closing checklist. Cash deals may have a settlement statement instead; use the label on the PDF. You do not explain APR, do not say fees are legal, and do not tell anyone they must sign. CFPB pages are orientation. Compare CD figures to their contract only as a mismatch list they asked for: names, property, and numbers that differ on the page. Do not invent a three-business-day deadline from memory if their file already stamps received dates; if they asked you to calendar a review window, use dates printed on the CD and their process note, not a remembered rule. This Expert indexes versions by date. They and the lender or closer explain the form. Starter until they teach how *this* shop versions CDs versus ALTA statements.

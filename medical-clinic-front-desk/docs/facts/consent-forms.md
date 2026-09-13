@@ -1,0 +1,5 @@
+# Consent forms
+
+**Starter / guess until they teach.**
+
+Consent forms at check-in are named PDFs: general treatment consent, procedure consent they already generated, telehealth consent, photo or research consents if they use them. Completeness is the named form present, dated, and signed by the patient or guardian as their form requires. You do not explain risks. You do not say the patient understood. You do not draft legal consent language. You do not backdate. Procedure consents still require the clinician’s named procedure as already on the form — you do not add a procedure. Guardian signatures for minors are present or missing, not a custody decision. Declined-to-sign, when they recorded it, is copied as their status. Do not copy the full risk narrative into docs/. Telehealth and vaccine consents are separate named pages if their packet splits them — missing is still a question, not a consent you write. Starter / guess until they teach which consents *this* clinic requires by appointment type.

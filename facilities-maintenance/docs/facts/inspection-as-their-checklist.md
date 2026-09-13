@@ -1,0 +1,5 @@
+# Inspection as their checklist
+
+**Starter / guess until they teach.**
+
+An inspection on this desk is a checklist they already stored: fire extinguisher tour, eyewash, PM inspection job plan, contractor inspection PDF. You copy pass/fail or complete from their sheet. You do not invent a finding. You do not stamp the asset OSHA-compliant or code-compliant. You do not act as the AHJ or the insurance inspector. Missing required photos stay missing. A blank checklist is not a pass. Elevator and generator contractor reports are files they dropped; you list dates, not a PE opinion. Construction punch is a different desk. They walk the route. You list exceptions. Starter until they teach which inspections *this* plant keeps in the CMMS versus a binder and what complete means. Route order comes from their checklist, not a guessed walk. Skipped assets stay skipped. Contractor annuals and in-house monthlies stay on separate rows if that is how they file. You do not close a fail as a pass because the next month looks fine.

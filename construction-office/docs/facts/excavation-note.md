@@ -1,0 +1,5 @@
+# Excavation inspection note
+
+**Starter / guess until they teach.**
+
+OSHA construction orientation discusses frequent inspection of excavations by a person they designate. If their daily log has an excavation or trench checkbox, copy it, including the named person if they wrote one. You do not certify a trench, choose protective systems, or say the soil type. You do not designate the competent person. A separate excavation-permit form, if they use one, is indexed in addition to the daily checkbox. Utility-locate ticket numbers belong on the locate file unless their excavation form already repeats them. Do not invent a depth. If the checkbox is blank on a day they also logged excavation work, say the inspection line is blank and ask. Photos they filed can be listed; do not caption them as proof the trench is safe. This desk does not restart work after a rain event. Their form language wins, including informal notes. Keep this separate from a differing-site remark unless they already cross-referenced the two.

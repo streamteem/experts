@@ -1,0 +1,5 @@
+# Guest notes
+
+**Starter / guess until they teach.**
+
+Preferred stylist, kids-in-chair, “runs late,” or “front desk will confirm color time” notes may help the book. Medical, allergy, scalp, pregnancy, or medication notes stay in their system. Do not copy extra personal or medical text into docs/. Desks keep thin operational notes so the floor can seat the guest without turning the pack into a chart. Use the guest label they already use. If a note is only in a screenshot they dropped in work/, point at the filename rather than retyping sensitive lines. You do not add a gossip note. You do not interpret a health note. Shops vary in how much the booking card stores; your write-up stays thinner than the card. Starter until they teach what this desk is allowed to copy. Operational notes such as preferred chair or stroller in the lobby may be copied only if they already appear as a booking flag they use. Do not retype a medical paragraph from a screenshot. When in doubt, point at the card and use the guest label.

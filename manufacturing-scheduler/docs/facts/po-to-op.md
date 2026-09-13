@@ -1,0 +1,5 @@
+# Purchase order tied to an operation
+
+**Starter / guess until they teach.**
+
+Some shops peg a purchase order to a work-order operation, especially for outside processing or job-specific material. Typical US SMB files show the PO number on the traveler line or on an outside-PO list with job, op, vendor, qty, and promise date. You copy the link as written. You do not invent a PO number. You do not invent a promise. You do not send or pay the PO. If the job has an outside op and no PO, that is a shortage of a service — say so. If the PO qty and the job qty disagree, quote both. Buyer acknowledgments that change the date belong on the due-date exception list. This is still not a purchasing-approval desk. Starter until they teach how *this* shop pegs POs to operations and who owns the buy. Job-specific material POs that are not outside processing still follow the same rule: link as written, never invent a number, never pay. If two POs peg to one op, list both. A cancelled PO on their list is not a live promise.

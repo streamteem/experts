@@ -1,0 +1,5 @@
+# Lease file index
+
+**Starter / guess until they teach.**
+
+A lease file index is the completeness list of signed paperwork for one unit: the lease PDF, addenda (pet, parking, utility, concession), lead-pamphlet receipt if they use one, and renewals. Typical fields are path, document type, signed yes or no, and dates as printed. Desks keep the index because screening, bill-back, utility coding, and deposit talks all start from what was actually signed, not from memory. Cadence is at move-in, each renewal, and when an addendum is added. Ask their naming pattern and which drive or software holds the live PDFs. You index what is present or missing; you do not interpret clauses as counsel. Common mistakes are filling a missing addendum from a flyer, copying SSNs or license photos from the application into this folder, and treating a draft lease as executed. Never invent a statutory notice period from a clause you paraphrased, never store passwords, never pay from trust because a clause mentions a fee, and never give a lockout or eviction reading of a default section.

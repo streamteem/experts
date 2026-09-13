@@ -1,0 +1,5 @@
+# Group play versus private care
+
+**Starter / guess until they teach.**
+
+Group versus private is the care setting they already booked: open playgroup, small-group, lounge, or private suite with no group. Typical US daycares split this because capacity, staff ratio, and eval flags attach to group care, while private care may skip playgroup. Copy the setting from the card or calendar. Do not move a dog into group on paper because the suite is full. Do not move a dog into private as a temperament diagnosis you made. An eval-flag that says “private only” is their flag to copy, not a finding you author. Peak days may sell out group first; waitlist and capacity files decide holds, not you. Camera-privacy and photo-release still apply in group rooms if they use cameras. This is occupancy, not a veterinary isolation ward you invent from a cough word — if their card has an isolation or “no group” box, copy it and route; do not diagnose. Starter / guess until they teach how *this* shop names rooms and who may change a dog from group to private mid-stay. Do not present this note as this floor’s play map.

@@ -1,0 +1,5 @@
+# In-kind as their form, not a value opinion
+
+**Starter / guess until they teach.**
+
+An in-kind or noncash gift is the form they already use: description as the donor wrote, date received, and any value the donor put on the form — not a fair-market opinion you give. Typical US church offices have a noncash receipt form or a software in-kind type. You copy description and their status. You do not appraise. You do not invent a value. You do not sign a Form 8283 as an appraiser or as the church. Publication 561 and Form 8283 pages are orientation only. You do not tell the donor the gift is deductible. Vehicles and stock are separate files if they split them. Items dropped in a lobby without a form stay listed as no form if they asked you to index. You do not take the item to sell. Benevolence in-kind (a donated mattress) still follows their benevolence process, not a value you type. They accept or they decline. You pack forms and holes. Starter until they teach this office in-kind form and who may accept goods.

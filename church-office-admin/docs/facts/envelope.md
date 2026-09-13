@@ -1,0 +1,5 @@
+# Offering envelope
+
+**Starter / guess until they teach.**
+
+An offering envelope is their numbered pew or mailed envelope, or a digital envelope code in the giving system. Typical US congregations issue a yearly box of numbered envelopes and map the number to a household in ACS or a workbook. You copy the envelope number and the fund boxes they checked. You do not invent a number for loose cash. You do not assign an envelope to a name from memory. Loose plate cash without a number stays loose if that is how they coded it. If the envelope fund box and the software fund disagree, quote both and ask. You do not read a prayer request or a pastoral note on the flap into docs/. You do not decide the gift is deductible because an envelope was used. Destroyed or unreadable envelopes stay listed as unreadable, not guessed. This is not a fundraising-appeal code product. Completeness is number, amount, and fund as they marked. They issue envelopes and they map numbers. Starter until they teach this office envelope year and mapping file.

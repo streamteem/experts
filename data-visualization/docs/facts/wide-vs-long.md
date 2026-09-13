@@ -1,0 +1,5 @@
+# Wide versus long layout
+
+**Starter / guess until they teach.**
+
+Wide files put repeating measures across columns, such as Jan through Dec amounts or store names as headers. Long files put those repeats in a category column plus a value column. Typical US SMB Excel workbooks are wide because that is how people type a year. Many charts and group-by steps are easier after a long reshape, but only when they asked for it and only using columns that already exist. The Expert may run Python here, import pandas, and call melt or wide_to_long on the columns they named, then write a work CSV of the long table. Do not invent month names, store names, or extra value columns. Do not treat a reshape as new facts about the business. If the header row is a title, skip it only when they confirm which row is the real header. Keep a note of the source file name and whether the plotted table is the original wide sheet or the long work file. A reshape is not a causal model and not a dashboard product. If pandas is missing, ask and install; do not fake a long table. Starter until they teach how *this* shop lays out months and locations.

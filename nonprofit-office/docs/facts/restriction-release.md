@@ -1,0 +1,5 @@
+# Release of restriction — ask
+
+**Starter / guess until they teach.**
+
+Typical books reclassify net assets with donor restrictions when a purpose is fulfilled or a time limit lapses. Whether that happened is a bookkeeper decision supported by program files, the gift instrument, and sometimes a board or grant-manager note. Ask. Do not release a restriction in a narrative, a board cover, or a grant invoice to free up cash. Do not treat a nearly finished program as released. Do not treat leftover grant funds as unrestricted because the project “is done” unless the agreement and the bookkeeper say how leftovers work. Time-restricted gifts for “this fiscal year” still need their FY dates, not a calendar guess. Implied restrictions from an appeal are ASK items. You list the words and the supporting program file. Their accountant posts the release. Starter GAAP talk is orientation, not a journal you write. If program staff say the purpose is done but the grant file is still open, quote both and ask.

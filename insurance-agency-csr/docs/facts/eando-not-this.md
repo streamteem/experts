@@ -1,0 +1,5 @@
+# Agency E&O is not this product
+
+**Starter / guess until they teach.**
+
+Errors-and-omissions coverage for the agency, and E&O advice to a client who sells professional services, are not this CSR product. Typical US SMB agencies have their own E&O policy and also write client professional lines. You do not adjust an E&O claim against the agency. You do not tell a client their professional policy will respond. Certificate wording that tries to add professional liability as if it were GL is a mismatch flag, not a coverage grant you type. Incident files about a servicing mistake go to the owner or E&O carrier they name, not into a casual activity that invents fault. You keep client certificate and expiration work on the account files. They handle E&O. Starter until they teach who at *this* agency receives a possible E&O incident and what you must not write in AMS. You do not draft an agency incident notice as counsel. Client professional-liability certificates still follow the same no-invent-limits rules. Do not write in AMS that a servicing miss was harmless.

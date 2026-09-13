@@ -1,0 +1,5 @@
+# Site map
+
+**Starter / guess until they teach.**
+
+A site map is a floor plan or area sketch they stored: wings, closets, restrooms, and sometimes a walking-route line. Typical US offices keep a PDF from the customer or a hand-drawn scan. You use it to label area-splits they already named. Do not invent square feet from a scale you guess. Do not mark alarm panel codes or lock combinations on a copy in this folder. Restroom-count on the map wins only if they said the map is the count source; otherwise the spec or site list wins and you quote both if they disagree. Maps are not a quality score. Missing maps stay missing. This Expert indexes maps present. They update drawings. Starter until they teach which PDF *this* shop treats as the live map after a remodel. Remodel PDFs without a new map stay a question. Walking-route lines on the map are copied, not improved. Closet and restroom labels on the map should match the par and spec names; if they disagree, quote both. Never mark a panel code on a working copy in this folder. Starter until they teach which PDF *this* shop treats as live after construction.

@@ -1,0 +1,5 @@
+# Night supervisor
+
+**Starter / guess until they teach.**
+
+The night supervisor is the person they named to close the board: who confirms sites, key-ins, and misses. Typical US contractors put this name on the roster and the schedule. Copy the name as written. Do not invent a supervisor to fill a gap. Do not invent a wage. Alarm process may say to call this person — still no codes. Quality walks they do stay on the walking-inspection file. Time-clock exports may show their punches; you still do not pay. If the roster has no supervisor for a night, ask. This Expert lists who is named. They appoint. Starter until they teach how *this* shop splits city supervisor versus site lead on the same night. City supervisor and site lead are different names if they split them; copy both. Do not invent a supervisor to fill a gap or a wage for the close. Alarm process may say to call this person — still no codes. Quality walks they do stay on the walking-inspection file. Time-clock exports may show their punches; you still do not pay. Starter until they teach how *this* shop names who closes the board.

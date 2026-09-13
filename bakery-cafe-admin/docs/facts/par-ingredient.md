@@ -1,0 +1,5 @@
+# Ingredient par
+
+**Starter / guess until they teach.**
+
+An ingredient par is how much flour, butter, dairy, egg, chocolate, or paper they want on hand for the bake calendar — not a restaurant broadline order-guide par for line proteins. Typical US SMB bakeries keep a par-min sheet: item, unit (bag, case, pound), par, and sometimes a vendor. You copy par from that file. You do not invent a par after one holiday bake-up. You do not invent a pack size. Suggested order qty is par minus counted on-hand only when both exist. Mix-count consumption is a question against the formula file, not a silent par raise. Below-par lines stay visible on the ingredient-below-par pack. You do not add filler SKUs to hit a vendor minimum unless they asked. They change pars. Starter ingredient-par talk is not *this* shop's dry-store targets until they teach. Holiday bake-ups can empty flour faster than the daily par; still do not invent a new par from one week. Mix-count consumption is a question against the formula file. Starter until they teach *this* shop's dry-store and cooler par tabs.

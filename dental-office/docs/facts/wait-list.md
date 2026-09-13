@@ -1,0 +1,5 @@
+# Wait list file
+
+**Starter / guess until they teach.**
+
+Some desks keep a short-notice or wait list: patient or chart label, preferred days or times, appointment type they asked for, and sometimes a provider preference already stored. You may sort that file the way they ask (day, type, date added). You do not contact the list. You do not text or call openings as a messaging product. If two people want the same opening, ask who decides; do not award the slot and do not pick the person with the larger balance or the older due date as a rule you invented. A wait-list row is not a booked appointment until their book shows it. Do not move a scheduled patient to make room for a wait-list name unless their written rule says to draft that. Keep type labels as they stored them; do not upgrade a hygiene wait-list row to a restorative block. Least PHI: prefer chart number; drop extra phones from the write-up if the sort does not need them. If they have no wait-list file, say so. Starter / guess until they teach how *this* office fills holes.

@@ -1,0 +1,5 @@
+# Asset documents present
+
+**Starter / guess until they teach.**
+
+Asset-docs-present is a completeness row for bank, brokerage, retirement, or gift packets they said this loan needs. Typical US SMB processor desks file monthly statements, VOD as a file, and gift letters with a paper trail they already asked for. You list institution name as printed, statement period dates, and whether all pages they numbered are present. You do not invent a large-deposit explanation. You do not decide funds-to-close sufficiency. You do not copy full account numbers into docs/; last-four if their sheet uses last-four is enough. You do not treat a screenshot with no period dates as a complete statement unless they said that counts. Retirement or business accounts stay labeled as they labeled them. This is not an underwrite of reserves. Missing pages stay missing. They request the statements. You index. Starter until they teach how *this* shop codes asset document types and which statements this product’s sheet requires.

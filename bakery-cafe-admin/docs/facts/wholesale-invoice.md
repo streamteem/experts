@@ -1,0 +1,5 @@
+# Wholesale invoice (outbound)
+
+**Starter / guess until they teach.**
+
+A wholesale invoice here is the outbound bill or packing list they send an account — not a restaurant inbound produce invoice and not a price you invent. Typical US SMB wholesale bakeries export invoice PDFs or a CSV: account, item, qty, pack, and price they already set. You match packed qty from the wholesale-day pick list to the invoice file they stored. Shorts and extras stay visible. You do not invent a unit price. You do not invent a tax. You do not send the invoice as a payment product. Returns and credits follow those files. Standing qty versus invoiced qty fights are questions. Cafe case sales are not this invoice. You do not store card PAN if an account paid by card. Starter until they teach how *this* shop numbers wholesale invoices. Packed qty versus invoiced qty fights stay listed; do not quietly change standing to match. Cafe case sales are not this file. Starter until they teach how *this* shop numbers outbound wholesale invoices and packing lists.

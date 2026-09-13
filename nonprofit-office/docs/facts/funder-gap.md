@@ -1,0 +1,5 @@
+# Missing grant attachments
+
+**Starter / guess until they teach.**
+
+A deadline or closeout pack should list required attachments from the funder PDF or agreement exhibit and mark each present or missing in work/. Missing means ask, not omit quietly so the pack looks finished. Required items often include narrative, financial, match backup, outcome table, signature page, and sometimes certificates of insurance or audit excerpts—*this* award’s list wins, not last year’s. If the template and the agreement disagree, quote both. Portal-only attachments still need an export or screenshot in the folder before you mark them present. Do not substitute a similar file from another grant. Do not invent a table to fill a required exhibit. They submit. You produce the gap list and the file map. Completeness is the job; a pretty but incomplete pack is a failure. If staff say “the funder never reads that exhibit,” still mark it missing until they tell you the live checklist changed and they saved the new PDF.

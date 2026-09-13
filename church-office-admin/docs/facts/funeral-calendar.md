@@ -1,0 +1,5 @@
+# Funeral calendar
+
+**Starter / guess until they teach.**
+
+The funeral calendar is their dated list of services, visitations, and rooms for a death they already scheduled with the family or the funeral home. Typical US congregation offices keep a one-line book: date, time, room, officiant as assigned, and a family label they allow. You copy those rows. You do not invent a service time. You do not give pastoral care, a eulogy, or a diagnosis. You do not call the death a cause. If the funeral home sheet and the room calendar disagree, quote both and ask. Receptions in the hall are building-use rows if they stored them. Memorial gifts are a giving-fund fact, not a funeral fee you invent. You do not publish an obituary as this product. Livestream, if any, is their file, not a streaming product you run. Sensitivity: extra family conflict notes stay out of a weekday pack that might sit on a counter. They schedule with the family. You list rooms and collisions. Starter until they teach how this office logs funerals and who may add a row.

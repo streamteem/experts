@@ -1,0 +1,5 @@
+# Column types as stored
+
+**Starter / guess until they teach.**
+
+Column type is what the file actually holds after a read, not what a slide title hopes it is. Typical US SMB exports mix numbers stored as text, dates as serials, and currency with dollar signs. The Expert may run Python in this workspace, import pandas, and use dtypes, to_numeric with errors shown, or to_datetime on the columns they named. Write a short type table to a work CSV so the write-up can say which fields were numeric, text, or datetime after the read. Do not silently coerce a text ID into a float and drop leading zeros. Do not invent a type that was not supported by the cells. Percent columns that are already 0–1 or already 0–100 stay labeled as they came; ask if the file does not say. Boolean flags they typed as Y/N stay as their codes unless they asked for a mapped column and named the map. Type cleanup is for the chart they asked for, not a warehouse project. Missing parse failures stay listed. Starter until they teach how *this* shop types money, dates, and IDs.

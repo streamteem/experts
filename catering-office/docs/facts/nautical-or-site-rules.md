@@ -1,0 +1,5 @@
+# Nautical or site rules
+
+**Starter / guess until they teach.**
+
+Site rules are the client's or property's constraints they stored: boat galley limits, campus dock hours, park no-glass, no-open-flame, coat-check path, or security check-in. Typical US caterers attach a one-page site sheet to the order. You copy the rules. You do not invent a nautical menu. You do not stamp that an open flame is legal. Chafers and fuel must follow their site-rules file; if the file forbids sterno and the pack-out lists sterno, flag it. Gate codes stay out of docs. A saved venue BEO may repeat some rules; quote both if they fight. You list the written constraints. They plan the kit. You do not give a fire-marshal opinion or a Coast Guard opinion. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

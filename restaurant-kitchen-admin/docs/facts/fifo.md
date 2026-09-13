@@ -1,0 +1,5 @@
+# FIFO and rotation
+
+**Starter / guess until they teach.**
+
+First-in-first-out is typical walk-in talk in US independents: older dated product toward the front, new cases behind. Use their shelf labels, day-dots, and count notes. You do not invent that a case is older than another without a date on the case or a note they wrote. You do not assign a discard day to an unlabeled pan. Rotation misses (new case opened while an older dated case sits behind) are questions for the chef or closer, not a finding that they failed inspection. FIFO is their storage system, not a Food Code stamp you apply. If they use a different rotation (day-dots by prep date, colored dots by weekday), follow that system and say so. You do not rearrange the box on paper. Starter FIFO language is orientation until they teach this walk-in. Do not invent an age from a faded box print when they wrote no date. Starter FIFO language is orientation for typical independents; their labels win after they teach this walk-in.

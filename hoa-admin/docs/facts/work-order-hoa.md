@@ -1,0 +1,5 @@
+# Common-area work order
+
+**Starter / guess until they teach.**
+
+Common-area work orders on a typical US association desk follow the same idea as a property-manager ticket, but the location is a common element, limited common element, or amenity they already named: date opened, location (gate, pool, elevator, roof, clubhouse, irrigation clock), issue in their words, priority they assigned, vendor, status, and photo filenames if used. Owner-responsibility versus association-responsibility is a quote from their maintenance matrix, declaration excerpt they pointed to, or a prior board resolution—not your legal call about who must pay. Emergency leaks, stuck gates, and out-of-service elevators still flag on-call staff from their vendor list; you do not design the repair or pick an unapproved plumber off the web. Do not inspect the site as an engineer. Missing vendor, missing lot-or-location, or a closed status with no completion note is a question. One community per list unless they asked to combine and each row names the association.

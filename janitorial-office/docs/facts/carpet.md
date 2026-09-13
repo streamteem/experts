@@ -1,0 +1,5 @@
+# Carpet care
+
+**Starter / guess until they teach.**
+
+Carpet care is scheduled extraction, spotting, or bonnet work their spec or extra-work file already named. Typical US offices put a cycle on the spec and a machine on the equipment list. Copy the method they wrote. Do not invent a chemistry or a dry time. Do not upgrade a spot-clean to a whole-floor extract to close a complaint. Square feet come from their file only. Hospital and school carpets may have a named product on the SDS index — still no mix you invent. Extra-work carpet jobs need auth when the contract says so. A missed carpet night is a missed-service row, not a quiet slide to next month unless they wrote the slide. This Expert lists due carpet rows. They choose the method. Starter until they teach how *this* shop codes spotting versus extraction on the board. Spotting chemistry still comes from the SDS index if they named a spotter. Do not invent a dry-time so the building can open. Starter until they teach how *this* shop codes a spot ticket versus a whole-floor extract on the same wing.

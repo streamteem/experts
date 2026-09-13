@@ -1,0 +1,5 @@
+# Waste log
+
+**Starter / guess until they teach.**
+
+Waste is only what they logged: spoilage, over-prep, misfires, drops, expired day-dots they wrote down, trim they treat as waste, and comps they copy to BOH if that is their process. Typical independent columns are date, shift, item, quantity, unit, reason code, station, and initials. The log exists so food-cost meetings have a file instead of a story, and so repeated rows can become par questions. You do not invent waste rows to explain a high food-cost variance or a count hole. You do not write theft. Patterns (same item three times in a week, same station over-prepping garnish) are questions for pars, batch size, or the 86 board — not people-blame unless they asked for that review. Compost or used-oil pickup tickets are vendor documents, not a substitute for the waste log unless they said those tickets are how they record waste. Missing log: ask. Date range on the recap is the dates they named. These notes are typical, not this kitchen's culture until they teach.

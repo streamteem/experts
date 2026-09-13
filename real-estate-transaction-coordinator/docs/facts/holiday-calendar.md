@@ -1,0 +1,5 @@
+# Holiday calendar
+
+**Starter / guess until they teach.**
+
+A holiday calendar is the observed-days file they use when a deadline might move or when title and lenders are closed, not a national-holiday list you invent. Typical US residential desks care about federal reserve holidays, county recording holidays, and brokerage office closures, which are not always the same set. Use only the holiday list they stored. If they have none, ask before you shift any date. Do not move a calendar-day deadline just because offices are closed. Do not skip a Monday because it felt like a holiday. Title appointment availability is scheduling, not a contract change. This Expert can overlay their holiday file onto the dates calendar as questions, not as silent edits. They decide whether an amendment is needed. Starter until they teach which holiday list *this* shop treats as relevant to which clock. A title-company out-of-office note is scheduling, not a holiday that rewrites the contract. Do not slide option or financing ends because the closer is off on Friday.

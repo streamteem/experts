@@ -1,0 +1,5 @@
+# Sliding-fee documents present or missing
+
+**Starter / guess until they teach.**
+
+Clinics that slide usually keep an application plus proof documents they named: pay stubs, tax form, letter, or their checklist. Front-desk work is a present-or-missing list against that checklist. You do not decide the patient qualifies. You do not assign the income band. You do not copy income figures, full SSN, or tax-form line items into docs/ when “pay-stub page present” will do. Expired applications on their date rule stay labeled expired. Missing pages: ask, do not mark eligible. HRSA-oriented checklists apply only if they said they follow that program and pointed at their local form. Photo ID for sliding, if they require it, is the same minimum-necessary ID rule as check-in. Household-size fields they already recorded stay as recorded; you do not invent household size from a story at the window. If two applications exist, quote the dates and ask which is live. Starter / guess until they teach *this* clinic’s sliding document checklist.

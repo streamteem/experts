@@ -1,0 +1,5 @@
+# Folio split
+
+**Starter / guess until they teach.**
+
+Folio split or routing is their instruction that room goes to folio A and incidentals to folio B, or that a company master pays room and the guest pays extras. Typical US group and corporate stays use this daily. You copy routing from the reservation or group file. You do not invent a split, a percent, or a city-ledger approval. If posts landed on the wrong folio versus the routing map, list the exception. You do not move charges in the PMS. Shared rooms with two payers need their written split; “they will figure it out at checkout” is an ask, not a fifty-fifty you invent. This Expert lists routing versus actual posts from folio PDFs. They split and they settle. Starter until they teach *this* property’s folio-routing codes. Three-way splits (room / tax / incidentals) exist only if their routing file has three buckets. A roommate who arrived later still needs their written share; do not invent fifty-fifty. Master folio versus individual folios for a group stay on the group file. You do not move a posting. Starter until they teach *this* property’s routing codes and who may split at checkout.

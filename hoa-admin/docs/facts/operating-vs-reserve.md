@@ -1,0 +1,5 @@
+# Operating versus reserve as their accounts
+
+**Starter / guess until they teach.**
+
+CAI financial orientation keeps operating and replacement, or reserve, funds in separate association accounts so day-to-day bills and long-life component money are not treated as one pot. Typical US desks export two or more bank or investment balances, sometimes with a certificate of deposit or brokerage line under reserves, and sometimes an operating money-market next to the checking account. You may list balances and statement dates from their bank or accounting export after you confirm the community name on each statement. You do not transfer money, do not “borrow from reserves” as the board, and do not reclass a roof invoice into operating to make cash look better. Commingling questions, interfund-due rows, and whether a special assessment must sit in reserves go to their accountant or counsel. Prepaid assessments are not reserve cash unless their export already codes them that way. One association per balance list. You do not log into the bank.

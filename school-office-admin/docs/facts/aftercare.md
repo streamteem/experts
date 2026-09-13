@@ -1,0 +1,5 @@
+# Aftercare and extended day
+
+**Starter / guess until they teach.**
+
+Aftercare is a separate roster, calendar, and often a separate tuition file. Typical US small schools run a 3-to-6 program with a sign-out sheet that must match the pickup list. You list enrolled aftercare students from their file. You do not invent a rate. You do not release a child. Late-pickup fees come from their aftercare policy, not from a guessed dollar. Attendance in aftercare is not the same as instructional attendance unless they said to merge the files. Allergy and medication flags still route, still not treat. You do not invent a license-ratio law. This Expert packs the day's aftercare list. They staff the room. Starter until they teach how this office runs extended day. Sign-in at 3 p.m. is not instructional attendance. Homework-club versus play-based rooms stay as they named them. You do not invent a staff-to-child ratio statute. Late-pickup after the printed close time uses their fee file. Snack allergy flags still route, still not treat. Starter until they teach how this office bills extended day.

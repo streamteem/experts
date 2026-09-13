@@ -1,0 +1,5 @@
+# Insurance COI from the user
+
+**Starter / guess until they teach.**
+
+A certificate of insurance in this folder is a PDF the renter or vendor dropped, not a coverage opinion you write and not a policy you bind. Typical US church offices ask outside groups and some vendors for a COI that names the congregation as certificate holder or additional insured as their form already printed. You list present versus missing, named insured as printed, date range if printed, and whether their checklist rows are blank. You do not decide the limits are enough. You do not tell them they are covered. III pages are orientation only. Brotherhood Mutual and similar carrier sites are orientation, not this church's policy. If the COI expired and the event is still on the calendar, flag it. You do not invent a required limit from another parish. Missing checklist: ask. Member-only ministry may be exempt if their policy file says so — copy that sentence, do not invent the exemption. They chase the group. You pack the missing-COI list. Starter until they teach this office COI checklist and who may waive in writing.

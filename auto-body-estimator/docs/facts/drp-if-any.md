@@ -1,0 +1,5 @@
+# DRP if any
+
+**Starter / guess until they teach.**
+
+A DRP is a direct-repair program agreement they already filed — rates, parts rules, cycle-time targets, photo rules — not a program you invent and not a legal opinion that they must take the job. Typical US collision shops keep a rate letter or a portal screenshot of program rules next to the assignment. Copy the program name and the rule they pointed at. Do not invent a DRP rate. Do not apply another carrier's matrix. Non-DRP and customer-pay stay labeled. You do not store the portal password. CIECA assignment flow is orientation; their export is the file. If the assignment says DRP and the rate file is missing, ask. This Expert lists program versus rate file. They decide to accept. Another carrier's letter is not this job's matrix. If they left a program, keep the old letter labeled old. This Expert lists program versus rate file. They decide to accept. Starter until they teach which carriers *this* shop is on and where those letters live.

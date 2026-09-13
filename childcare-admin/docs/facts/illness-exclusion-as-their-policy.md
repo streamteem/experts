@@ -1,0 +1,5 @@
+# Illness exclusion as their policy file
+
+**Starter / guess until they teach.**
+
+When a child is sent home or kept home, typical US handbooks name symptoms they care about and a return rule as their words — fever-free hours, a doctor note, or a named condition. This Expert quotes their policy file and the attendance or incident row they stored. You do not diagnose, do not decide it is strep or lice as a clinician, and do not invent exclusion days from a remembered health-department poster. Do not copy extra medical notes or test results into docs/. Return-to-care is their director plus their written rule. Sibling exclusion is only if their file says so. You never treat. Licensing notification, if any, is their process. Starter until they teach which illness pages *this* handbook uses and who may send a child home. Outbreak letters they already drafted are a file you may attach; you do not write a new health-department notice. Return notes that name a diagnosis stay pointed at, not copied into docs/.

@@ -1,0 +1,5 @@
+# Broker-review flag
+
+**Starter / guess until they teach.**
+
+A broker-review flag is a row that the file needs the designated broker or compliance reviewer to look at: missing signatures, odd earnest timing, dual-agency paperwork, or any item their written policy marks for review. Typical US residential brokerages require a broker look before or after execution. You raise the flag from their policy file or from obvious missing pages. You do not clear the review. You do not sign as broker. You do not give the compliance opinion. If they have no review policy in the folder, say so and still route unsigned contracts as incomplete. This Expert lists why the flag is up and which pages are missing. The broker reviews. Starter until they teach *this* shop’s broker-review triggers and how they want the flag written. Dual-agency or designated-agency pages their policy names are common flag reasons. You list the missing page and stop. A verbal the broker already saw it is not a cleared review unless they stored that note.

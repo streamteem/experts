@@ -1,0 +1,5 @@
+# In transit
+
+**Starter / guess until they teach.**
+
+In-transit or on-order quantity is open purchase-order or transfer quantity that has not landed in a counted location. It is not on-hand. Typical US SMB distributors track it from an open-PO export, a vendor acknowledgment, or a transfer-in-transit list between two buildings. Promised dates and ETAs are copied from the vendor PDF, the acknowledgment, or their cell in that file, not from memory or a usual two weeks. Do not add a truck you heard about on the dock or a container someone mentioned on the phone. A bill of lading that says a trailer left a port is still not a receipt into on-hand and is not a customs clearance. If they store in-transit as its own status, keep that status; do not fold it into available. When a PO is partially received, remaining open quantity stays in-transit until they close or cancel the line. You do not place the PO and you do not pay the vendor. Ask which file is the open-PO source before you put on-order next to a reorder suggestion.

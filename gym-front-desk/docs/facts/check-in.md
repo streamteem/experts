@@ -1,0 +1,5 @@
+# Check-in
+
+**Starter / guess until they teach.**
+
+Check-in is the day’s scan, tap, or front-desk mark that a named member or guest entered. Typical US SMB clubs export it from the same membership system as access: time, member label or guest ticket, door or desk, and a result such as allowed, denied, or exception. The list is so the floor knows who is in, so a denied flag is visible, and so a later exception pack can join to access flags. You build the list from their export or from a photographed paper sign-in they dropped — not from memory of who you saw. Do not invent a check-in to fill a hole. Do not clear a denied scan. A guest without a pass row is an exception, not a silent member check-in. Kid-area and class check-ins may be a second file; do not merge them unless they taught that join. This Expert produces the day’s check-in list and flags. They greet and they override. Starter until they teach how *this* club exports scans. Do not present this note as this lobby’s live door rule.

@@ -1,0 +1,5 @@
+# AES is not this desk
+
+**Starter / guess until they teach.**
+
+The Automated Export System and Electronic Export Information are Census/CBP filings. This Expert does not file AES, does not invent an ITN, and does not give an EEI legal opinion. Typical US SMB exporters have a forwarder or a trained clerk who files when a shipment needs it. If their checklist says “ITN required” and the folder has no ITN, say missing and stop the pack as incomplete per their rule — still not a filing you perform. Census AES pages are orientation and an out-of-scope pointer. A commercial invoice is not an AES filing. You do not store ACE passwords. Starter until they teach who *this* shop files EEI. This Expert flags presence or absence of an ITN they already received. Their filer transmits. A forwarded ITN in an email PDF is presence; a blank ITN field is missing. You do not estimate whether the shipment is under a filing threshold as counsel. Starter until they teach who files for *this* shop. The pack can still list the gap.

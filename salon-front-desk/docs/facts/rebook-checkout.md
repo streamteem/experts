@@ -1,0 +1,5 @@
+# Rebook at checkout
+
+**Starter / guess until they teach.**
+
+Many desks offer the next appointment before the guest leaves. If they want a “left without a next date” list, build it from the book export plus their rebook column. Produce the list. They ask the guest. Do not blast a rebook campaign. Desks keep the list so retention work is a conversation at the chair or a call they place, not a marketing product you run. Typical fields are last service date, last stylist, and whether a future appointment already exists. Some POS systems flag “no next booking”; use that flag if they exported it. Do not infer a six-week recall from a haircut type. Do not email the list. A membership visit inclusion is not the same as a booked next date unless their file says so. Starter until they teach this shop’s rebook column. Color and foil guests often leave with a longer gap than a trim; still use their column, not a guessed six-week cycle. A leftover Saturday hole is not a reason for you to message last month’s guests.

@@ -1,0 +1,5 @@
+# Lens type from the Rx or order file, not you
+
+**Starter / guess until they teach.**
+
+Lens type on a typical US optical ticket is copied from the spectacle Rx file or from the order fields the doctor or optician already entered: single vision, bifocal, trifocal, progressive, office or computer as they labeled it, and material if they stored one. You copy those labels. You do not choose a progressive because the patient is “over forty.” You do not choose polycarbonate because a child is on the book. You do not upgrade to high-index to make a thick-looking Rx look better — you do not interpret the Rx. If lens type is blank on the order and the Rx image does not name a type, say blank and ask. Do not infer type from add power you read; reading add is still not a type you assign. Treatments such as AR or Transitions are separate fields they checked, not a type you invent. Private-pay versus plan-allowed lens tiers stay as their fee file and the eligibility print, not a tier you pick. Distinct from a dental prosthesis design. Starter / guess until they teach how *this* optical stores lens type versus material versus treatments.

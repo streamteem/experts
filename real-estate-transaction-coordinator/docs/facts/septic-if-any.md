@@ -1,0 +1,5 @@
+# Septic file if any
+
+**Starter / guess until they teach.**
+
+A septic or on-site wastewater file is the inspection, pump ticket, permit, or county letter they stored when the property is not on a named sewer, not a system design. Typical US residential rural and suburban deals make this a contract exhibit or a lender condition. You list required items from their checklist as present or missing. You do not pass or fail the system. You do not invent a pump-out interval. If the contract is silent and no one flagged septic, do not add a septic row from a map guess; ask if they want the row. Repair bids they attached are files for a repair amendment, not work you order. This Expert completeness-checks only. They hire the inspector. Starter until they teach how *this* shop flags septic versus sewer on the property sheet. County permit PDFs and pumper tickets are separate rows from the inspection report. You do not schedule a pump-out. A failed report is a file, not a deal-killer opinion you write.

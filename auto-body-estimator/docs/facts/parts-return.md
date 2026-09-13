@@ -1,0 +1,5 @@
+# Parts returns
+
+**Starter / guess until they teach.**
+
+A parts return is unused or incorrect collision parts their PO or return log already recorded, not a payment you collect and not a silent delete from the estimate. Typical US collision offices return extras after a supplement cut or a wrong-ship, then keep a return authorization. Copy the RA and the part. Do not invent a return to tidy an overage. If the estimate still has the part and the return log shows it went back, list both; they correct the estimate or the invoice. Cores stay as their vendor file. You do not pay or refund. Mechanical core returns on an RO are a different log unless they parked them here. This Expert matches returns to estimate lines. They ship the part back. A core tag is not a return of a new unused part; keep types labeled. Do not delete the estimate line because a return started. This Expert matches returns to estimate lines. They ship the part back. Starter until they teach how *this* shop times returns versus invoice close.

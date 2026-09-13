@@ -1,0 +1,5 @@
+# Walk-in and station count
+
+**Starter / guess until they teach.**
+
+On-hand for ordering and prep comes from their count sheet, not from sales, not from a POS theoretical, and not from last week. Typical US independents count the walk-in, lowboys, reach-ins, freezer, and dry, and sometimes the line mise and garnish rail. Count in their unit as printed: each, case, split, hotel pan, sixth pan, quart, pint, or pound. You transcribe or check what they wrote; you do not guess a hole because the steam table looked empty in a photo you cannot treat as a count. If the count file is missing, ask. Partial counts (walk-in only, protein only, AM only) stay labeled partial so the order pack does not pretend the house was fully counted. Open versus close timestamps matter: use the time they wrote and ask which count feeds the order. Do not average two counts to hide a miss. Do not fill blank rows from a recipe or from theoretical usage. Shelf-map kitchens count by location so the same case is not written twice; follow their map if they filed one. These notes are typical, not this box until they teach.

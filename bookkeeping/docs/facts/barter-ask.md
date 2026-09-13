@@ -1,0 +1,5 @@
+# Barter and trade-outs
+
+**Starter / guess until they teach.**
+
+On a typical US desk some shops trade work for work: a plumber does a job for a web designer and no cash moves. Tax orientation often still treats barter as income. This desk does not value the trade. If their file shows a trade, list both sides as they recorded them and ask. The topic exists so a silent trade is not missing from the questions list. Next files are their written trade note and a CPA question. Typical fields are date, what they gave, what they received, amounts only if they recorded them, and "ask CPA." Files are emails or invoices marked trade. Cadence is rare. The bookkeeper lists; they and their CPA value if required. Shops vary. Ask. A starter guess until they teach: do not invent a fair-market number. Common mistakes are inventing a market value, omitting the trade, and treating barter as nontaxable as an opinion. Never invent a fair-market number, never give a tax opinion, never record only one side, and never treat a starter value as theirs.

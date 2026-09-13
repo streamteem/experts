@@ -1,0 +1,5 @@
+# Drainage as an ask, not an engineer
+
+**Starter / guess until they teach.**
+
+Standing water, a soggy gate, or a customer asking for a drain is a question pack: photos they stored, where they said it ponds, and whether they want an estimate. Typical US maintenance shops see this after rain. You do not stamp a drainage design, do not size a pipe, and do not say the grade is code-legal. Do not invent a catch-basin price without their price file. A wet-check ticket is irrigation, not civil drainage, unless they coded a repair. You list the ask and the photos. They hire an engineer or they sell a simple regrade they already scoped. Starter until they teach how *this* shop routes drainage calls off the mow desk. A soggy gate after rain is not automatically an irrigation leak; keep the customer words and the photos. Do not invent a French-drain length. Price only if they asked for a number and the price file has a line. Starter until they teach how *this* shop routes drainage calls to an estimator or off the mow desk entirely.

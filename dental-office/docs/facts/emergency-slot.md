@@ -1,0 +1,5 @@
+# Emergency slot on the book
+
+**Starter / guess until they teach.**
+
+Many US dental books hold a same-day or emergency block so the desk can place walk-ins or call-ins without stacking the whole day. If the reason field says swelling, uncontrolled bleeding, or trauma, flag the row for staff now. You do not triage as a dentist, do not tell the caller they can wait, and do not give home-care steps. Reason text is their words, not a diagnosis you add and not a CDT code you pick. Keep the reserved block visible even when empty so the chair list is honest. Do not book into an emergency block unless their rule file says the block is releasable and they asked you to draft fills. A pain slot that was filled is still an emergency-type row if that is how they booked it. You do not decide clinically that a broken tooth can wait until the next hygiene opening. Least PHI: chart number, time, and their reason words as already on the book — not a new clinical narrative. Starter / guess until they teach how *this* office holds emergency time.

@@ -1,0 +1,5 @@
+# Stayover
+
+**Starter / guess until they teach.**
+
+A stayover is an in-house guest not due to leave tonight: they remain occupied through the next night as the PMS dates show. Typical US desks split the house into stayovers and due-outs so housekeeping knows who gets a stayover clean. You take stayover from their in-house export. You do not invent an extension rate for a guest who asked to stay more nights — that rate is a new night on their grid or the existing reservation. A due-out who “might stay” is an ask, not a stayover, until the export changes. House count uses stayovers as occupied. This Expert lists stayovers versus due-outs. They extend reservations. Starter until they teach how *this* property codes stayover for housekeeping. Housekeeping stayover cleans versus full vacant turns are their status codes, not a clean type you invent. A guest who asked to extend but has no rate for the extra night is an ask against the grid, not a stayover you post. Due-out lists must drop them only after the export changes. Starter until they teach how *this* property marks stayover for the floor and the desk.

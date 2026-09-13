@@ -1,0 +1,5 @@
+# Sibling-discount file
+
+**Starter / guess until they teach.**
+
+Sibling or staff-child discounts come from their rate exhibit: which child gets the percent, whether it stacks with subsidy, and when it ends. You apply only the written percent to the written child. You do not invent a family rate or extend the discount to a cousin. If two exhibits disagree, ask. The discount is not a payment you make. Waitlist priority for siblings is a waitlist-order question, still theirs. Do not copy extra household financial notes into docs/. Year-end statements should show what they billed, not a guessed discount. Starter until they teach which sibling rule is live at *this* center and which child is “first” for full tuition. Three-child families follow the written third-child line if they have one; do not extend the second-child percent. Part-time siblings still need the schedule that matches the exhibit. You never send the discounted invoice as a payment you collect. If a subsidy copay and a sibling percent both exist, ask which file wins before you show a net.

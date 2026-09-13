@@ -1,0 +1,5 @@
+# Service charge from their file
+
+**Starter / guess until they teach.**
+
+Service charge, gratuity, or admin fee is a percent or a flat amount copied from their menu file, contract, or invoice template — never from a remembered “twenty percent is standard.” Typical US caterers print the percent on the proposal. You copy the number and the name they used (service charge is not always gratuity; use their word). You do not invent a percent. You do not give a tax opinion on whether the charge is taxable. Tax-from-file is a separate fact. If the invoice file and the order disagree, quote both. Venue banquet service charges on a saved BEO are the hall's number. You do not add a tip line they did not write. You list the file amount. They invoice. You never send that money. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

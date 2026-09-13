@@ -1,0 +1,5 @@
+# Program vs management vs fundraising
+
+**Starter / guess until they teach.**
+
+Public nonprofit reporting in the United States often groups expenses as program, management and general, and fundraising—the functional split many boards see on a 990-style attachment or an audited statement. Their accountant decides the split, including joint-cost and allocation methods. You only allocate a line if their file already has a class, fund, location, or functional code. Do not invent percentages to make a grant look “mostly program,” to make overhead look smaller for a board slide, or to match a funder’s preferred ratio you saw on another award. If a vendor bill or payroll row has no class, list it as uncoded and ASK. Small offices sometimes keep cash books by fund and only see a functional split at year-end when the CPA recasts; do not silently convert a fund-coded P&L into a functional P&L. Starter talk about “program versus admin” is orientation, not a new chart of accounts. Their codes win after they teach. You do not certify a 990 functional column.

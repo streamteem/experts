@@ -1,0 +1,5 @@
+# NAIC company code as a label
+
+**Starter / guess until they teach.**
+
+The NAIC company code is a five-digit label printed on the dec, certificate, or AMS carrier table to identify the insurer legal entity. Typical US SMB certificates show it next to the carrier name. You copy the code as printed. You do not invent a code from memory of “that company.” You do not certify solvency or admit status from the code. If two affiliates appear — writing company versus issuing company — keep both labels as the file shows. A blank NAIC box on a draft certificate is a completeness miss, not a number you guess from a public list unless they taught that lookup and you still label it a guess. Group codes and company codes are different. Starter until they teach where *this* agency stores carrier NAIC numbers and which entity they print on certificates. You do not look up a code to imply the carrier is safe or admitted. If the certificate library shows a different NAIC than the dec, quote both and ask which legal entity they print. Surplus-lines carriers still use the code as a label only.

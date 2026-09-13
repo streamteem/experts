@@ -1,0 +1,5 @@
+# Retainage (if they bill it)
+
+**Starter / guess until they teach.**
+
+On a typical US construction-adjacent desk retainage is a portion of a billed job held until the job ends. Accrual shops may keep retainage receivable separate from current AR. Many small shops ignore the word and just have an unpaid invoice. The topic exists only if they bill it. Next files are the AIA-style invoice if they use one and the AR aging. Typical fields are job, invoice, retainage amount, and release date if they store one. Files are their invoice template and job list. Cadence is each progress bill and at job close. The bookkeeper lists what the invoice shows; they negotiate retainage. Shops vary. Ask. Do not invent retainage accounting for a shop that never used the word. A starter guess until they teach: if their invoice shows retainage, list it and ask how they book it; otherwise skip. Common mistakes are inventing a retainage receivable, income-coding unreleased retainage as if collected, and writing it off. Never invent the accounting, never give a contract-law opinion, never file a lien, and never treat retainage as a tax deferral opinion.

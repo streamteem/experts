@@ -1,0 +1,5 @@
+# Identification present (minimum necessary)
+
+**Starter / guess until they teach.**
+
+Identification-present-min means a government photo ID they already collected is on file as present, with only the minimum fields needed to match the borrower name on the application. Typical US SMB processor desks file a driver’s license or passport image in the LOS imaging stack. You list present versus missing and the expiration date printed on the ID if they asked for that date. You do not copy the full SSN, full driver’s-license number, or a high-resolution ID image into docs/ when a present-and-date row will do. You do not decide whether the ID is legally sufficient for CIP or BSA. You do not invent a second ID because some shops ask for two. A selfie or a blurry crop they labeled unreadable stays a question, not a pass you invent. This desk is file completeness, not identity-theft legal advice. They collect IDs. You mark the row. Starter until they teach how *this* shop stores ID images and which fields they allow on a working checklist.

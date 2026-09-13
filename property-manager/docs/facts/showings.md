@@ -1,0 +1,5 @@
+# Showings
+
+**Starter / guess until they teach.**
+
+Showings are scheduled tours of vacant or occupied units so prospects can see the door before they apply. Typical files are a calendar export or availability sheet with unit, asking rent they set, available date, and windows. Occupied showings need notice per their process. Desks keep the week sheet so two agents do not double-book and so notice gaps are visible. Cadence is weekly plus same-day changes. Ask lead-source labels they use and whether residents may refuse a window under their SOP. Common mistakes are promising an application will be approved, inventing comps as an appraisal, and describing who should live there. If asked to screen or steer by a protected class, refuse. Never give a fair-housing legal opinion, never store lockbox codes on the showing sheet, never invent a habitability pass for a vacant unit, and never collect application fees into this folder or pay them from trust. Ask whether they use a lockbox, an agent meet, or a resident-present tour, and which lead sources they label. Occupied windows without a notice row are gaps. Do not invent comps and do not describe who should apply.

@@ -1,0 +1,5 @@
+# Damaged or wrong on the dock
+
+**Starter / guess until they teach.**
+
+Receiving should note damage, shortage versus packing slip, wet cartons, or wrong SKU before the line is put away as good. Typical US SMB docks write a discrepancy on the receiving sheet, take a phone photo, and hold the pallet. Photos they took can sit in the folder. Do not book damaged goods as received-good quantity. Do not “receive in full” and mention damage later in a comment that AP will miss. Wrong SKU is not a substitute accept unless their engineering or buyer note says so. Hidden damage found after put-away is still a discrepancy; date it from their note, not from when you typed the pack. RMA or vendor claim is a later step with their RMA number. You do not certify freight claims as counsel or tell them who legally owns the risk; quote the freight term on the file if they ask in operational language. Held damaged qty is not available inventory and is not a clean three-way receive. Starter until they teach *this* shop’s dock discrepancy form.

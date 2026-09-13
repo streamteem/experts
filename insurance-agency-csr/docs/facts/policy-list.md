@@ -1,0 +1,5 @@
+# Policy list
+
+**Starter / guess until they teach.**
+
+A policy list is the agency's inventory of in-force, pending, and recently cancelled contracts for a client or a book: line of business, carrier as labeled, policy number, named insured, and effective and expiration dates from their AMS export. Typical US SMB CSR desks pull this weekly for expiration work and for certificate requests. The list is a file, not a coverage grant. Status codes stay as they coded them — pending, issued, cancelled, rewritten — without translating a code into “they are covered.” Package policies may show one number with several lines underneath; keep the carrier's structure. Do not invent a missing policy number or a phantom line because last year they had one. Monoline flood, bonds, or life sit only if their export includes them. You assemble the list and write-up. They use it to call, remarket, or service. Starter until they teach how *this* agency filters the book and which statuses belong on a working list.

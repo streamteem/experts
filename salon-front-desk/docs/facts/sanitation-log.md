@@ -1,0 +1,5 @@
+# Sanitation log as a file
+
+**Starter / guess until they teach.**
+
+Many state boards expect a disinfection or implement log for stations, tools, and foot spas. If they keep one, you may list missing dates from that file. You do not certify the shop is “in compliance,” and you do not give infection-control medical advice. Desks keep the log so a missing Tuesday is a question for the floor, not a board citation you write. Typical columns are date, station, what was disinfected as they labeled it, and initials. You do not fill in a blank initial to complete the week. Nail-salon whirlpool logs and hair-station spray logs may be separate sheets—keep them as labeled. OSHA and board pages are orientation; you do not stamp the shop. Starter until they teach whether this shop keeps a log and where the file lives. Barbicide, autoclave, or foot-spa rows stay under the headings they wrote. You do not certify a disinfectant contact time. A photo of a filled log is a file if they dropped it in work/; you still do not stamp the shop compliant.

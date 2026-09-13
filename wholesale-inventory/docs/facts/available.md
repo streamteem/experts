@@ -1,0 +1,5 @@
+# Available vs on hand
+
+**Starter / guess until they teach.**
+
+Available-to-promise is not the same as on-hand in shops that reserve or hard-allocate stock to sales orders, will-call tickets, or transfers. Typical small US wholesale rooms subtract reserved, allocated, or quality-hold quantity from on-hand to get what a salesperson may still sell. Use their column names: available, ATP, free, reserved, allocated, or hold. Do not invent a reserve because a salesperson said in chat to save two cases. Soft allocations that live only in someone's head are not a file and must not change a pick or reorder pack. If they have no allocation export, say available was not in the folder and keep on-hand labeled as on-hand. Customer-owned or consignment stock is often on the floor but not available as house inventory; keep the owner flag. You do not promise a customer a fill from an available number you computed without their rule. Quarantine and damage locations are not available even if the unit is physically in the building.

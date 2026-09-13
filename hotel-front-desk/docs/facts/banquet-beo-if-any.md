@@ -1,0 +1,5 @@
+# Banquet BEO if they have one
+
+**Starter / guess until they teach.**
+
+A banquet event order exists only if this property files BEOs for meeting rooms or breakfast-for-groups. Typical US inns with one ballroom keep a BEO PDF: date, setup, guarantee, menu from their file, and billing. You copy the BEO they dropped. You do not invent an F&B minimum, a menu price, or a liquor-license opinion. Guest count for the house may differ from the banquet guarantee — keep both. Room-block pickup for the same group is a different workflow. If they have no banquet folder, say none; do not invent events. This Expert packs BEO versus house-count notes they asked for. They run the event. Starter until they teach whether *this* property uses BEOs and where they live. Setup diagrams and revisions, if dated on the PDF, stay with their revision date; do not mix an old diagram into today’s pack without labeling it old. Guarantee versus actual count is their banquet check, not a house-count invention. Outdoor or rain-plan notes exist only if the BEO has them. Starter until they teach whether *this* property files BEOs and who owns revisions.

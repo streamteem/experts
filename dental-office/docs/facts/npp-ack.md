@@ -1,0 +1,5 @@
+# Privacy-notice acknowledgment
+
+**Starter / guess until they teach.**
+
+Covered dental practices that give a notice of privacy practices often keep a signed acknowledgment or a note that the patient declined to sign. Public HHS orientation describes the notice as a patient-facing explanation of how the practice uses information; your job is the acknowledgment file, not a legal rewrite. List present, missing, or declined as their form shows. Do not rewrite their notice. Do not store a copy of the full notice in every work file. Do not copy extra identifiers from the acknowledgment into docs/ beyond the chart label they use. Offices vary on whether the acknowledgment is once per patient or resigned when the notice changes. Ask. A missing acknowledgment is a completeness question, not a finding that HIPAA was violated. You do not give a retention-period legal opinion about how long to keep the notice. Declined-to-sign, when they record it, is a status they already wrote — copy that status, do not invent a reason. Starter / guess until they teach how *this* office files the acknowledgment.

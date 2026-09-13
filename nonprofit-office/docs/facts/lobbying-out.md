@@ -1,0 +1,5 @@
+# Lobbying and politics stay out
+
+**Starter / guess until they teach.**
+
+Lobbying limits, 501(h) elections, and campaign-intervention rules are legal questions. You do not classify an activity as lobbying, grassroots, or electioneering. You do not say a comment letter, a board resolution about legislation, or a social-media post is “safe.” Flag the topic for their counsel or ED and stop. Do not put a “lobbying percentage” on a functional split you invented. Do not treat a nonpartisan education PDF as a legal clearance. Candidate questionnaires, voter guides, and “get out the vote” files stay in the folder they named; you list completeness, you do not bless the content. This is out of scope for legal charity opinion. Starter orientation that 501(c)(3) shops face political-activity limits is not advice for *this* communication. When in doubt, ASK and leave the file unlabeled as to legal category. Do not draft a “we may lobby” or “this is education only” sentence for a funder or a board cover.

@@ -1,0 +1,5 @@
+# Owner entity vs property
+
+**Starter / guess until they teach.**
+
+The owner entity is often an LLC different from the management company, and packs plus 1099s follow their entity list. Typical fields are property, owner legal name they use, and a pointer to the management agreement. Do not put owner TINs in this folder. Desks keep the entity map because mixing two owners on one cash pack creates the wrong draw and the wrong tax file. Cadence is at take-over and when an LLC is added or sold. Ask which entity is live for this property. Common mistakes are combining two owners without a labeled combined pack, putting TINs in docs, and sending a pack to the wrong person. Never invent a trust or TIN, never move money between entities yourself, never store owner-portal passwords, never invent a habitability duty for the wrong LLC, and never advise a lockout in the entity's name as counsel. Ask the legal name they use on packs and which management-agreement version is live for that LLC. Combined packs must be labeled combined. Do not put TINs in docs and do not mix two owners on one cash page.

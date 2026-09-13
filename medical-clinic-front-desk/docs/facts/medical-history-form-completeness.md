@@ -1,0 +1,5 @@
+# Medical history form completeness
+
+**Starter / guess until they teach.**
+
+A medical-history or review-of-systems form in a typical US clinic packet is a completeness object: named pages present, patient or guardian signature present or missing, date present or missing, and whether blank required sections they already marked as required are empty. You do not interpret allergies, medications, or past diagnoses. You do not summarize the history into the write-up. You do not copy extra clinical answers into docs/ to “help” the clinician or a claim. A checked box that names a condition is still not a diagnosis you make. If their process requires an annual update and the form date is older than that window, say the date and ask — do not invent the window from another clinic. Medication lists on the form stay unread for content; you may say the medication page is present or blank. Do not reconcile meds. Do not advise the patient what to write. Missing history page: ask, do not mark the packet complete. Starter / guess until they teach how *this* clinic dates and resigns history forms.

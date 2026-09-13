@@ -1,0 +1,5 @@
+# Trash plan
+
+**Starter / guess until they teach.**
+
+Trash plan is how they haul service waste: house bins, contractor bags on the pack-out, or a site rule that the venue takes trash. Typical US park and barn jobs require the caterer to haul out. You copy the plan from the order or the site-rules file. You do not invent a dumpster. You do not invent a haul fee. Leftover food is not trash unless their leftover policy says discard. Venue trash rooms on a saved BEO are the hall's path; copy if filed. You do not put a dumpster-gate code in docs. Breakdown time should include haul-out if they wrote it. You list bags, bins, and whose trash it is. They haul. You do not pay a waste hauler. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

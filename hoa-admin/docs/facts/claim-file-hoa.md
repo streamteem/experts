@@ -1,0 +1,5 @@
+# Association insurance claim file
+
+**Starter / guess until they teach.**
+
+An association insurance claim file is an admin index, not an adjusting file you run. Typical fields: date of loss as they recorded, location (building, stack, amenity), claim number they received from the carrier, adjuster name if present, and vendor bids or invoices already in the folder. Typical US desks also store photos they already filed and a board motion if a deductible payment or settlement was logged. You index those items as present or missing. You do not adjust the loss, tell the board the carrier must pay, estimate replacement cost as an appraiser, or say the damage is betterment. Do not invent a date of loss from a work-order opened later. Open versus closed is their status word. Owner unit claims that they only route stay on the owner-request log. One claim number per row. A claim without a number yet stays “reported, awaiting number” if that is what their folder says; do not invent a carrier claim number.

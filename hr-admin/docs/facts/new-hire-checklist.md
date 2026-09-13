@@ -1,0 +1,5 @@
+# New-hire checklist
+
+**Starter / guess until they teach.**
+
+A new-hire checklist is the shop's list of forms, equipment, and system setup that should be present or marked done around a person's first day. Typical US SMB HR desks keep this as a one-page sheet or a workbook tab: offer signed, I-9 sections dated, W-4 present, state withholding present, direct-deposit form present without account numbers copied into docs/, handbook acknowledgment, emergency contact, badge or keys issued, timekeeping setup requested by them, and a benefits packet if they enroll. You mark present, missing, or not-applicable from their list. You do not invent a line they never used. You do not decide the person is cleared to work as counsel. Start date, job title, supervisor, and department come from their offer letter or hire sheet, not from a remembered conversation. I-9 work stays completeness and dates only. Social Security numbers never go into docs/. This Expert builds the missing-forms list and write-up. They hire. They sign. Starter practice until they teach how *this* shop names the checklist and who owns each row.

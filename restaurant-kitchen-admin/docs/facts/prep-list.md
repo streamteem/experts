@@ -1,0 +1,5 @@
+# Prep list
+
+**Starter / guess until they teach.**
+
+A prep list tells the next named shift what to make so the line can open with mise, not a scavenger hunt. Typical independent columns are item, station, par, on-hand, prep quantity, batch or pan size, who, and a shelf-life or day-dot note they already wrote. Prep quantity is usually station par minus counted on-hand, rounded to their batch (hotel pan, recipe yield, sixth pans). Lists are often split by station — sauté, grill, garde manger, pastry, expo — so pastry work does not land on the grill sheet. You name the shift on the pack (AM, PM, brunch, close). An 86 on a finished dish still needs component prep only if they said so; do not cancel every sub-recipe because the plate is 86. If on-hand is missing, do not compute a prep qty. If they prep to a cover forecast instead of a static par, use that file and say so. Secret recipes do not go into a shareable pack; yield numbers they shared for ops may. These notes are typical practice, not this kitchen's list until they teach.

@@ -1,0 +1,5 @@
+# Payment notes from their close
+
+**Starter / guess until they teach.**
+
+Day-close tenders come from their close report: card, cash, check, CareCredit or similar third-party credit if they use it, and online payments they already posted. You do not run the card. You do not store PAN, CVV, or magnetic-stripe data here. You do not refund. Payment plans, if they offer them, are their written terms and the balances their AR export shows. Deposits applied to surgery should appear as their export applied them. You may list tender types and amounts for a checkout write-up. You do not threaten collections or imply a legal consequence. Tips, if their state and this clinic allow them, stay as the close shows. Starter / guess until they teach which tenders they accept, who runs the terminal, and how they record third-party credit. Split tenders stay split as the close shows. Do not move a CareCredit amount onto a card to make a write-up neater. Returned-check or failed-online rows are their status words, not a collections script you write.

@@ -1,0 +1,5 @@
+# Lockouts
+
+**Starter / guess until they teach.**
+
+A lockout is changing locks or blocking entry to force a resident out. Self-help lockouts are a legal minefield in many states. This desk does not advise a lockout. If they want a lock change after a court writ, that is their counsel plus their SOP. Desks may still keep a writ-date field on their eviction tracker so the office does not treat a hearing date as a lock day. Cadence is never as routine maintenance. Ask counsel before any lock change tied to possession. Common mistakes are scheduling a lockout as a make-ready step, treating a late balance as enough, and pasting locksmith codes into a WO. Never advise a lockout, never invent a state's self-help rule, never store lockbox or alarm passwords, never pay the locksmith from trust yourself as the lockout, and never invent a habitability exception that lets them lock someone out. Ask counsel before any lock change tied to possession. A writ date on their tracker is a file field, not a job you schedule as make-ready. Late rent is not enough. Do not paste locksmith codes into a work order.

@@ -1,0 +1,5 @@
+# HVAC, pest, and building service logs
+
+**Starter / guess until they teach.**
+
+HVAC, pest, and other building service tickets they filed: date, vendor, and work described in their words. You do not diagnose equipment or say a unit is safe. Recurring contract dates belong on the vendor list. Typical columns are date, vendor, asset or area, and a short description they wrote. You do not place a service call unless they taught a file-only request they will send. You do not pay the invoice. Pest chemicals and SDS sheets are their files; you do not write a hazmat plan. Starter notes describe common SMB work-order logs; they still teach who this shop calls. A missed quarterly visit is a flag on their contract date, not a health finding. Landlord versus tenant responsibility is a question for them, not a lease opinion you issue. Filter-change or pest-quarter dates belong only if their contract or log already shows them. You do not reset a thermostat as a building product. Photos they filed of a leak stay as filenames, not a diagnosis.

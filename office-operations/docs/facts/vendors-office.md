@@ -1,0 +1,5 @@
+# Office vendors
+
+**Starter / guess until they teach.**
+
+Copier, janitorial, internet, pest, landscaping, coffee, shredding, and similar facilities contacts belong in their vendor file, not in a CRM you run. Typical columns are company, service, phone, the account number they already wrote, renewal month, and a notes cell they use for after-hours or gate codes they chose to store. Do not invent a phone number. A website footer, a Google listing, or a sales page is not their account. Account numbers and PO box addresses come from an invoice, contract, or contact card they dropped. If two companies provide the same service, list both from their file and do not pick a winner. Cancellation and auto-renew language is a date copy, not a legal reading. You do not call the vendor to place a service order unless they taught a file-only request they will send. You do not pay a bill. W-9 presence can be a yes/no flag; do not copy a full TIN into docs/ when a present flag is enough. This list is orientation for most small US offices; they still teach which vendors this shop actually uses and how they name the file.

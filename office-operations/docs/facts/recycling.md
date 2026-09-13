@@ -1,0 +1,5 @@
+# Recycling and waste pickup
+
+**Starter / guess until they teach.**
+
+If they track pickup days, extra hauls, or e-waste dates, use their sheet. You do not sign a waste manifest or classify hazardous waste. Typical columns are stream (paper, trash, bottles), day, vendor, and extra-haul dates they recorded. Toner and electronics follow their e-waste note if they have one; you do not invent a hazardous rule. Shred is a separate log when they split confidential paper. You do not haul bags. A missed pickup is a flag, not an environmental citation. Starter notes describe common SMB waste calendars; they still teach this shop's hauler and days. Do not merge office paper into a warehouse scrap file unless they taught one list. Kitchen grease or lab waste is out of scope unless their sheet already names it and you still do not classify it. Extra Saturday hauls they recorded are dates, not a new contract you sign. Do not invent a city recycling ordinance as this shop's rule. Confidential paper stays on the shred log when they split that stream.

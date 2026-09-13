@@ -1,0 +1,5 @@
+# Cake
+
+**Starter / guess until they teach.**
+
+Cake on this desk is whether the caterer bakes, plates a client-furnished cake, or only provides cake-cutting service — copied from the order. Typical US wedding jobs have a baker drop-off time on the timeline and a cutting-fee line from their fee file. You do not invent a cutting fee. You do not invent a cake flavor. Client-furnished cake still needs a leftover rule if they cut it. You do not diagnose whether a homemade cake is safe. Venue cake-cutting fees on a saved BEO are the hall's fee; list them only if they filed that BEO and said it applies to the caterer's invoice. Allergen flags (nuts, wheat) route to the allergen sheet. You list who brings the cake and the fee file line. They cut. You do not invent a plating garnish recipe. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

@@ -1,0 +1,5 @@
+# Unapplied customer payments
+
+**Starter / guess until they teach.**
+
+On a typical US desk an unapplied payment is customer money sitting on AR without an invoice, or a leftover credit after a short pay. Software often shows it as a credit on aging. It exists so cash application stays honest and so deposits are not income twice. Next files are the AR aging, the undeposited-funds match, and the AR questions pack. Typical fields are customer, payment date, amount, method, and invoices they said it applies to if any. Files are the AR open-credits export and the bank or processor line. Cadence is weekly cash application and month-end. The bookkeeper proposes application; they confirm odd leftovers. Shops vary on oldest-open versus invoice number in the memo. Ask their rule. A starter guess until they teach: do not apply a payment just because the amount matches an invoice. Common mistakes are applying to the wrong invoice, writing off a leftover, and income-coding an unapplied payment a second time when it deposits. Never write off, never invent the invoice, never email the customer unless they asked, and never store card numbers from the payment.

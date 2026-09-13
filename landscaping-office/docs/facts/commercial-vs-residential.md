@@ -1,0 +1,5 @@
+# Commercial versus residential
+
+**Starter / guess until they teach.**
+
+Commercial and residential stops use different paperwork even when the same truck hits both. Typical US shops invoice houses on a recurring route and invoice commercial sites against a contract, a monthly lump, or a customer PO. Keep the type they coded. Do not apply a residential extra-work text process to a site that requires a PO. Time windows, insurance they already filed, and quality checklists often differ; copy the file for that type. Snow, lighting, and irrigation addenda are more common on commercial. A homeowner association can behave like commercial even when the lots look like houses; use their coding. You do not invent a PO or a lump-sum price. You label the pack. They bill. Starter until they teach how *this* shop splits commercial crews versus neighborhood routes. Night watering or tenant complaints on a commercial file stay as their notes, not a diagnosis. Do not mix a house skip into a campus row. Starter until they teach how *this* shop splits invoices when one customer owns both a house and a lot.

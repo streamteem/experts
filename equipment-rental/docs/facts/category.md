@@ -1,0 +1,5 @@
+# Equipment category
+
+**Starter / guess until they teach.**
+
+Category is the family the yard uses to find a substitute and to read a rate line: earthmoving, aerial, compaction, air, power, tools, party, or trailers. Typical US SMB rental desks print a rate book by category and then by model class, not by every serial. Their category codes on the fleet export win. Do not invent a category so two unlike machines look interchangeable. A boom and a scissor may share an “aerial” heading and still be different reservation classes. Indoor versus outdoor notes, height class, and weight class sit on their item or rate file when they keep them. If the reservation names a category and the fleet row uses a different code, quote both and ask. Utilization packs usually roll up by category; keep the rollup as their export groups it. You do not invent a day rate for a category from memory of another yard. Starter until they teach *this* shop’s category tree and which classes they will substitute without a phone call. Category is a filing label, not an engineering stamp and not a license class you award.

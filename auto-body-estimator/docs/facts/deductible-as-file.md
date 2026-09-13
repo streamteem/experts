@@ -1,0 +1,5 @@
+# Deductible as their file
+
+**Starter / guess until they teach.**
+
+The deductible is the dollar their assignment or estimate already posted as the customer's share, not a number you invent and not a payment you take. Typical US collision files show deductible on the assignment and again on the estimate header. Copy both if they differ and ask which wins. Do not invent a deductible because “that carrier is usually five hundred.” Do not store a card to collect it. Customer-pay work is not a deductible. Third-party files may show zero deductible; do not add one. You do not promise the insurer will waive it. Mechanical advisors collect shop deductibles on a different RO type. This Expert lists the posted deductible. They collect. A blank deductible on a first-party file is an ask, not a remembered five hundred. You do not waive it. This Expert lists the posted number and any fight between assignment and estimate. They collect. Starter until they teach how *this* shop posts deductible on claimant files.

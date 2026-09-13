@@ -1,0 +1,5 @@
+# Bill of material from their file
+
+**Starter / guess until they teach.**
+
+A bill of material is the list of components and quantities to make a parent item, including units and sometimes scrap factors or find numbers. Typical US SMB plants store BOMs in the ERP, in a spreadsheet engineering released, or as a PDF from the customer. Component quantity on a kit or shortage pack comes only from that file times the job quantity they issued — not from a remembered “we always use two.” You do not invent a BOM line, a substitute, or a yield. If the work-order BOM and the item-master BOM disagree, quote both and ask. Phantom or kit parents stay labeled as their file labels them. A drawing balloon that is not on the BOM is a question, not a silent add. If no BOM exists for a make item, say missing and stop the kit list rather than guessing fasteners. Engineering changes that alter a BOM are ECO files they approve, not edits you apply. Starter until they teach how *this* shop versions bills and when a job may freeze an old BOM.

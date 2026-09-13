@@ -1,0 +1,5 @@
+# Deposits held
+
+**Starter / guess until they teach.**
+
+Deposits held are the security, pet, or other prepaid amounts the office tracks apart from monthly rent, often on a separate ledger and sometimes in a separate bank or book account. Typical fields are unit, amount held, account label they use, move-in date, and addenda that mention extra deposits. HUD-insured programs and many state rules talk about not commingling operating cash with deposits; those rules vary and this desk does not invent a trust rule. Desks keep the ledger because move-out talks, owner packs, and year-end questions all ask what is still held. Cadence is at move-in, mid-lease changes they recorded, and move-out. Ask this shop's account labels and whether pet deposits sit on the same book. Common mistakes are treating last month's rent as a security deposit, applying a deposit to current rent without their rule, and ruling what the law lets them keep. Never invent a state's return deadline, never pay a refund from this folder, never store bank logins, and never say an account is a lawful trust.

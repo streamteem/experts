@@ -1,0 +1,5 @@
+# Surplus lines as their label
+
+**Starter / guess until they teach.**
+
+Surplus lines or nonadmitted is a label their AMS, dec, or invoice already prints — a filing and tax world the producer and surplus-lines licensee handle, not a stamp you apply. Typical US SMB agencies place hard-to-write risks in surplus lines. You copy the label and the surplus-lines broker name if shown. You do not declare a risk must go surplus. You do not invent a surplus-lines tax or stamping-office fee. You do not give a regulatory opinion. Diligent-search forms are completeness if they stored the blank or the signed copy. NAIC alien-list questions are not yours to certify. Policy numbers and dates still come from the dec. They place and they file. Starter until they teach how *this* agency tags surplus-lines accounts and which disclosures they require in the folder. Stamping-office or surplus-lines association numbers stay as printed on their invoice or dec. You do not file a surplus-lines tax return. Admitted versus nonadmitted is their label, not a market opinion you give the insured.

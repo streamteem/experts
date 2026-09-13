@@ -1,0 +1,5 @@
+# Year-end statement as their process, not an opinion
+
+**Starter / guess until they teach.**
+
+A year-end contribution statement is the annual list they produce from their process file and their closed-year export — not a tax opinion and not a substitute for the donor's own records. Typical US congregations print or PDF a household total by fund for the calendar year they named. You list who is on the run, which gifts their process includes, and holes: open batches, missing funds, or a donor label they forbade on the public copy. You do not write this is tax deductible. You do not invent a quid-pro-quo split. You do not value goods they received at a dinner. You do not say a stock gift's deductible amount. Broker letters and in-kind forms stay as their files, not numbers you type. You do not mail or email the packet as this product unless they taught that send step and the process says send. This is not Form 990 work and not the nonprofit acknowledgment-template desk. They decide wording. Starter until they teach how this office closes the year and who reviews statements.

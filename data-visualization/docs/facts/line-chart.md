@@ -1,0 +1,5 @@
+# Line chart for a named series
+
+**Starter / guess until they teach.**
+
+A line chart connects a measure they named along an order they named, usually a parsed date. Typical US SMB lines are daily sales, weekly tickets, or monthly units. The Expert may run Python in this workspace, import pandas and matplotlib, sort by the date column, and call plot, then save a PNG. Gaps stay gaps unless they asked to connect across missing days and said so. Do not smooth a line into a story. A rolling mean is a separate series they requested, not a replacement for the raw line unless they said replace. Do not extend the line past the last date in the file as a forecast. Dual axis with a second measure is an ask with caution. Annotations come from a file they stored, not from your guess about a holiday. Units and the source file name belong on the chart. If matplotlib is missing, ask and install. Done is out/*.png plus a work CSV of the plotted x and y. Starter until they teach how *this* shop spaces days and weeks.

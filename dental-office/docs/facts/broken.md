@@ -1,0 +1,5 @@
+# Broken appointments
+
+**Starter / guess until they teach.**
+
+Broken, cancelled, and no-show tracking exists only if their sheet or export has the column, reason code, or status they use. Typical US shops count a no-show differently from a same-day cancel and differently from a cancel made the day before; that policy is theirs, not a starter rule you invent. You may list chart numbers or the patient labels they allow and the status as stored. Some systems use broken as a single bucket; others split failed, late cancel, and rescheduled. Keep their words. You do not invent a broken-appointment fee, a three-strikes rule, or a dismissal. You do not refuse future booking as a clinical or financial decision. If they have no broken column, do not create one as fact and do not infer no-show from a blank confirmation field. A wait-list fill after a cancel is a scheduling file they already keep, not a slot you award. Do not copy extra clinical reason text into docs/ beyond the status code they stored. Ask how *this* office wants overlaps and same-day cancels listed on the day sheet. Starter / guess until they teach.

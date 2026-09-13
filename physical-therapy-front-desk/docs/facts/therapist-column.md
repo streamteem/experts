@@ -1,0 +1,5 @@
+# Therapist column
+
+**Starter / guess until they teach.**
+
+The therapist column on a day list is who the slot is booked to: a named physical therapist, a PTA, an occupational therapist if they share the gym, or a float they already coded. Typical US SMB PT clinics also store a supervising PT when a PTA treats. Copy the name or resource as the export shows. Do not move a patient to another therapist to fill a hole unless their written rule file says you may draft options and they asked. Do not invent a covering therapist from last week’s huddle. If two columns exist — treating versus supervising — keep both. You do not decide who may treat under a plan of care. Overlaps on the same therapist at the same time stay flagged; you do not hide them. Documentation and lunch blocks still belong to that column. Prefer their staff ID on work files if they use one. Starter / guess until they teach how *this* clinic names therapists and PTA rows. Credentialing and payer-participation questions stay as their file; you do not decide who may treat under the plan.

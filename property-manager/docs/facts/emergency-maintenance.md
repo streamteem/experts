@@ -1,0 +1,5 @@
+# Life-safety and after-hours
+
+**Starter / guess until they teach.**
+
+Life-safety and after-hours work is the flag-now path, not a color on a routine board. Typical flag-now list in US SMB shops includes gas smell, fire, active flood, no heat in freezing weather, no water, sparking electrical, and an occupied lock-out at night if this shop treats that as emergency. Their definition wins. Desks keep an after-hours list and a same-day WO so the office can show what was called and when. Cadence is immediate, then a next-morning recap for the owner if their SOP says so. Ask their emergency definition, who is on call, and who approves overtime. Common mistakes are scheduling a no-heat-in-freeze ticket as next-week color, shopping three quotes while water is running, and dispatching as if you replaced 911. Tell them to use emergency services when that is the situation. Never invent a habitability ruling, never advise a lockout, never paste alarm or lockbox codes into the write-up, and never pay the after-hours vendor from this folder.

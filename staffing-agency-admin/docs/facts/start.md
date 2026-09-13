@@ -1,0 +1,5 @@
+# Assignment start
+
+**Starter / guess until they teach.**
+
+Assignment start is the first-day date and report time on the assignment or the client's start note. Typical US SMB staffing offices also store an agency hire date that can differ from first day on the client site. You copy the date they asked you to use and name the source file. You do not invent a Monday to make I-9 dates look tidy. You do not move start to cover a no-call. If offer-to-temp start and client report date disagree, list both and ask. Orientation day is not automatically assignment start unless they said so. A delayed start needs their updated note. This Expert dates the board from their paper. They pick the first day with the client. Starter until they teach how *this* shop distinguishes agency hire date, assignment start, and client badge date. A client badge class or safety brief they scheduled the day before start is still not start unless they said the brief is day one. Weekend or holiday first days stay on their calendar, not a Monday you pick.

@@ -1,0 +1,5 @@
+# Repair amendment
+
+**Starter / guess until they teach.**
+
+A repair amendment is an executed change that lists repairs, credits, or price changes they agreed after inspections, not a highlighted PDF of the inspector’s wish list. Typical US residential desks keep the signed amendment, any attached vendor bids they chose to include, and a row on the amendment log. Credits and repair dollars come only from that signed page. Do not invent a credit to make the deal feel fair. Do not turn inspector comments into contract language. An unsigned draft the agent emailed is a draft. If several repair versions exist, version them by date and signatures; the latest fully executed page wins only if they said so. Completion of repairs is a later walkthrough or invoice question, not something you certify. This Expert logs what was signed and what remains unsigned. They negotiate. You do not practice as the broker. Starter until they teach how *this* shop numbers repair amendments and ties them to inspection PDFs.

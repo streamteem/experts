@@ -1,0 +1,5 @@
+# Roommate add
+
+**Starter / guess until they teach.**
+
+A roommate add is another adult (or an occupant their form names) who will live in the home, each usually needing an application or an occupant form as their checklist says. Typical US conventional leases name all adult occupants; adding someone later is a new packet, not a handshake. You list each adult from the application and the roommate form. You do not decide that two people may share a bedroom, and you do not invent an occupancy cap from a memory of local law. Occupancy limits, if any, come only from their written community policy or lease form. You do not steer household composition. A minor occupant may need a different form if they use one; still not a custody opinion. Screening each adult is their process; completeness is yours. Do not copy extra ID numbers into docs. This Expert flags missing roommate forms. They approve adds under their process. Starter until they teach how *this* shop adds occupants before and after move-in.

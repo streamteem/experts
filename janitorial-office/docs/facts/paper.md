@@ -1,0 +1,5 @@
+# Paper products
+
+**Starter / guess until they teach.**
+
+Paper is the towel and tissue SKUs on their par sheet: roll, folded, jumbo, or a house alias. Typical US offices lock dispenser types to a SKU so a substitute will not fit. Copy the SKU. Do not invent a case count. Do not switch hard-roll to folded to clear a warehouse. School and medical sites may name a different SKU — use their row. Green or recycled paper stays only if their file says so. Restock on the quality checklist is present or missed as they coded it. Below-par paper is a reorder flag from their min, not a purchase you send. This Expert lists paper holes. They buy. Starter until they teach how *this* shop maps dispensers to SKUs on a new site. Dispenser-type notes on the site or closet sheet lock the SKU; a warehouse leftover that will not fit is still not a substitute you pick. Recycled or jumbo claims stay their file. School summer shutdowns do not invent a new paper par. Starter until they teach how *this* shop maps a new dispenser to a SKU on start-up.

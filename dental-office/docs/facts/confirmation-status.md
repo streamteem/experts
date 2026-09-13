@@ -1,0 +1,5 @@
+# Confirmation as a column
+
+**Starter / guess until they teach.**
+
+Many US dental books show confirmed, left message, text sent, unconfirmed, or a color they already mapped in the practice system. List that status from the export. You do not place the confirmation calls or texts as a messaging product. If status is blank, say blank. Do not mark confirmed because a similar patient usually confirms or because a recall list was printed. Some offices confirm two days out, some the day before, some only new patients; that timing is theirs. A confirmed flag is not consent, not a signed form, and not a promise the patient will sit. Do not invent a confirmation column if the file has none. Do not treat a failed confirmation as a no-show unless their status says so. Preferred contact on the registration form is what they stored for *them* to use; extra numbers that the day-list task does not need stay out of the write-up. Least PHI: chart number plus status is usually enough. Ask how *this* office wants same-day unconfirmed rows flagged on the huddle list. Starter / guess until they teach.

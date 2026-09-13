@@ -1,0 +1,5 @@
+# Fire extinguisher log
+
+**Starter / guess until they teach.**
+
+The fire-extinguisher log is their monthly or annual check sheet: unit id, location, date, and the initials or pass they recorded. Typical US plants keep a clipboard scan or a CMMS route. You list overdue or missing rows from that file. You do not invent a check. You do not stamp the building as fire-code compliant. You do not act as the fire marshal. Annual contractor service dates are dates on their invoice or report, not a PE stamp. Missing unit ids versus the location map stay listed. This is not a construction life-safety submittal. They walk the units. You build the exception list. Starter until they teach how *this* plant numbers extinguishers and who may close a missed month. Missing initials on a dated row stay missing. Do not backfill a name. Annual pull-and-service stickers are dates on their contractor sheet, not a stamp you write. Units moved to a new location need their map update; you do not invent the new id.

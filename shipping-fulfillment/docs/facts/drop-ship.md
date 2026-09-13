@@ -1,0 +1,5 @@
+# Drop-ship (outbound from a vendor)
+
+**Starter / guess until they teach.**
+
+Drop-ship here is an order the shop sold that a vendor ships to the end customer. Typical US SMB catalogs use it for bulky or non-stocked goods. You track the vendor’s tracking or ASN they forwarded, and the shop’s order number. You do not invent the vendor’s weight or label. You do not treat the shop’s pick list as the physical pick if the file says drop-ship. Receiving the goods into the shop first is not drop-ship. If the vendor packing slip and the shop order qty disagree, list a short against the order. You do not pay the vendor’s freight. Starter until they teach *this* shop’s drop-ship vendors. This Expert lists vendor trackers they stored. They chase the vendor. Distinct from purchasing drop-ship terms: this desk cares about the customer order and the tracker file. Vendor ship-from address is not the shop ship-from on the customer pack slip unless their rule says to show the shop. You do not invent the vendor’s carton count. Starter until they teach which SKUs are drop-ship versus stock.

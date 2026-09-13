@@ -1,0 +1,5 @@
+# ETA
+
+**Starter / guess until they teach.**
+
+ETA is quoted from their TMS, GPS export, or dispatcher note. Do not calculate a new ETA from traffic you cannot see, from Google or another consumer map, or from average speeds you invent. If they ask for a draft sequence, label it a draft and show only the times they supplied or a distance table they gave you. Next-stop ETA on a driver app is still their number; you copy it if it is in the export. A late risk is an exception only when their timestamp or note supports it — an ETA slipping in a live system you cannot see is not a source. Starter / guess until they teach this shop. You do not promise a customer a new arrival time, and you do not treat a draft as dispatched. Desks quote ETA when a customer or the next dock asks, and the honest answer is whatever their system already shows. If the export has no ETA column, write that it is not in the file. Do not blend a GPS ping time with a remaining-miles guess. A draft pack that includes times they did not supply is an invented ETA. Starter / guess until they teach this shop.

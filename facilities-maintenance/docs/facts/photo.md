@@ -1,0 +1,5 @@
+# Photo
+
+**Starter / guess until they teach.**
+
+A photo is a named image file they dropped for a work order: before, after, nameplate, leak. Typical US plants attach photos in the CMMS or a folder named by WO. You list the file name and the ticket. Do not invent what an unopened or unreadable photo shows. If you can open it, stay with obvious admin facts they asked for — a nameplate string, a location sign — and stay off diagnosis and OSHA findings. Missing required closeout photos stay missing. Extra faces and badge art stay off the write-up unless their process uses them. Field-trade closeout packs and construction daily photos are different desks. They shoot the picture. You name the file. Starter until they teach when *this* plant requires before-and-after and how files are named. Before-and-after pairs keep both file names on the same work order. Nameplate crops are for the serial they asked you to read, not a gallery. Do not store extra hallway faces. A CMMS broken link is a missing file, same as an empty folder.

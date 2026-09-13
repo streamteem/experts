@@ -1,0 +1,5 @@
+# Business-day versus calendar-day ask
+
+**Starter / guess until they teach.**
+
+Whether a deadline uses business days or calendar days is a question for the executed form, a state-association definition they stored, or their broker’s written note. Typical US residential files mix both on one contract. You do not assume weekdays-only because that is how offices think. You do not assume calendar days because that is simpler. Federal consumer-finance business-day definitions on a Closing Disclosure are not automatically the same as a state purchase-contract definition; do not import one into the other. If a deadline lands on a weekend or holiday, whether it moves is another ask unless their file already says. This Expert labels each calendar row with the day-type printed on the source page. Missing day-type: ask. Starter until they teach how *this* shop defines business day on each form they use. Recording-office closures and brokerage office closures can differ from the contract clock. Keep those lists separate until they teach which one moves which deadline.

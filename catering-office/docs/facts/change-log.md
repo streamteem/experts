@@ -1,0 +1,5 @@
+# Change log
+
+**Starter / guess until they teach.**
+
+The change log is the dated list of count, menu, style, window, or site changes after the order was signed. Typical US offices keep a revision number on the event order and a one-line log. You copy each change as they wrote it. You do not invent a change to tidy a shortage. Changes after cutoff need their after-cutoff rule and stay visible — do not hide them. Tasting-note menu swaps belong here when they approved them. A saved venue BEO revision is a source you may quote; it does not silently replace the caterer's log. You do not invent a fee for the change unless their file has that fee. You list old value, new value, and date. They approve. You do not present a starter log as how *this* office already revises. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

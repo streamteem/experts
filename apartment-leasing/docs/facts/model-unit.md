@@ -1,0 +1,5 @@
+# Model unit
+
+**Starter / guess until they teach.**
+
+A model is a decorated unit used for tours, not automatically a vacant home someone can lease this week. Typical US communities keep one model per popular floorplan, or a first-floor show unit, and they still rent models when inventory is tight. You list the model from their availability or unit-mix file: unit number, floorplan, and whether it is leasable or display-only. You do not treat every staged photo on the website as a live model, and you do not promise the furniture stays. If they tour a vacant ready unit instead of the model, say so on the showing list. A model that is also on hold or on notice needs both labels. Keys to the model stay in their key control; you do not invent a lockbox code in a pack. Damage or make-ready on a model is a maintenance question for the other desk if they split work that way. This Expert only reports how they coded the model. They decide when to lease it. Starter until they teach how *this* shop flags models versus vacant stock.

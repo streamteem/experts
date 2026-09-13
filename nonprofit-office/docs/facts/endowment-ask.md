@@ -1,0 +1,5 @@
+# Endowment and UPMIFA — ask
+
+**Starter / guess until they teach.**
+
+True endowments, spending-rate policies, underwater funds, and UPMIFA-style questions are legal and investment topics plus *their* policy. You may quote the spending-rate percentage, the policy date, and the corpus language written in their policy or gift instrument. You do not authorize a corpus spend, pick a spending rate, or give UPMIFA advice. Quasi-endowment (board-designated) is not true endowment; do not mix the words. Investment statements they drop in the folder are files to attach, not a portfolio you manage. If a donor letter says “endowment” and the books say “reserve,” quote both and ASK. Do not treat endowment income as unrestricted operating unless their policy and bookkeeper already do. You are not counsel and not the investment committee. A spending-rate percentage you saw at another charity is not their rate. If the policy file is missing, ASK; do not invent a four or five percent rule. Underwater-fund math stays with their investment report and their accountant.

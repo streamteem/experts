@@ -1,0 +1,5 @@
+# Restricted versus unrestricted as their codes
+
+**Starter / guess until they teach.**
+
+Restricted and unrestricted are labels on their fund or class file, not an opinion you give about donor intent law. Typical US congregation books mark general offering as unrestricted on their sheet and mark building, scholarship, or a named campaign as restricted or designated if they coded it that way. You copy the code. You do not reclassify a gift to make a board pack look simpler. You do not spend restricted cash in a narrative. You do not cite UPMIFA or a grant agreement; this is not the nonprofit grant desk. If the online export says missions and the envelope said general, quote both and ask. Board-designated is not the same as donor-restricted unless their file uses one code for both — then say so as their label, not as counsel. A verbal the family wants it for the van is not a restriction until they stored a note or a code. Missing code: list missing. They decide the books. This Expert flags mismatches. Starter until they teach how this office marks restriction.

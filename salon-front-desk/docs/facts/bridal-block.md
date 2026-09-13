@@ -1,0 +1,5 @@
+# Bridal and party blocks
+
+**Starter / guess until they teach.**
+
+Wedding parties and groups often need a block of chairs and a single coordinator. Book the block from their event sheet: date, count, services, deposit. Do not split the party across random leftover slots to “make it fit” without asking. Desks keep an event sheet so a bridal morning is one plan, not six unrelated cuts. Typical fields are party name or label, arrival, service list per guest as they recorded, stylist assignments, and deposit status from their policy. You do not invent a trial date. You do not charge the remainder. If the event sheet and the book disagree on headcount, quote both and ask. Color trials are consults or services as they labeled them—do not convert a trial into a full wedding slot. Starter until they teach this shop’s bridal packet. Trials, day-of, and payments may be separate rows on the event sheet—keep them. Do not invent a headcount from a text thread. If a party member is a booth-renter guest, ask which close owns that ticket before you list house sales.

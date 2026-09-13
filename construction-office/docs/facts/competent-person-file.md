@@ -1,0 +1,5 @@
+# Competent person as a name on a file
+
+**Starter / guess until they teach.**
+
+OSHA construction text uses competent person for someone who can spot predictable hazards and is authorized to correct them. Some activities such as excavation and scaffolds have extra inspection notes on field forms. You may list the name they already wrote on a daily log, permit, or inspection card. You do not designate a competent person, judge competence, invent a name to fill a blank, or say a person is qualified because they are a foreman. If the name field is empty, say empty and ask. Different trades may list different names on the same day; keep each form as written. A toolbox-talk leader is not automatically the competent person. You do not pick protective systems, stop work, or restart work. This folder is a name-on-a-file index, not a training file you create. If they store cards or certificates, index the filename and date on the card; do not say the card proves competence. Their designation process stays with them.

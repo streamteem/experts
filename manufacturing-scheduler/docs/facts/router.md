@@ -1,0 +1,5 @@
+# Router
+
+**Starter / guess until they teach.**
+
+A router is the planned sequence of operations and work centers for an item or a job, often stored on the item master and copied onto a work order when the job is created. Typical US SMB plants keep a primary router and sometimes an alternate for a backup machine. The router is the source for operation order, work-center names, and setup or run minutes when those minutes exist on their file. You do not invent a router if the item has none. You do not reorder operations to make a dispatch list look smoother. If the work-order router and the item-master router disagree, quote both and ask which one the floor should follow. A missing router is an ask, not a chance to write a “typical” three-op path from another plant. Alternate routers stay labeled alternate until they choose. Outside operations belong in the sequence if their file has them. Cycle times stay blank if the router left them blank. They own the router. Starter until they teach how *this* shop maintains routings and when a job may use an alternate.

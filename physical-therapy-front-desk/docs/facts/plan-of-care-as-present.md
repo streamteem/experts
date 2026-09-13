@@ -1,0 +1,5 @@
+# Plan of care as present
+
+**Starter / guess until they teach.**
+
+A plan of care in a typical US outpatient PT file is a named document the therapist already wrote: goals, frequency, duration, and signature lines as their template uses. Front-desk work is a present-or-missing check, not a clinical reading. You list whether the POC PDF or EHR print is in the folder, whether it is dated, and whether their required signature fields show signed. You do not write the plan. You do not add goals. You do not treat from it. You do not decide the plan is adequate. A missing POC on a visit type their process says needs one is a question, not a plan you draft. Recertification is a later dated file, not this first-plan row. Do not copy goal narrative into docs/ when “POC present” will do. Prefer chart label on the index. Starter / guess until they teach how *this* clinic names the live POC versus a draft. A draft POC in the EHR is not the live signed plan unless they said the draft is what they file.

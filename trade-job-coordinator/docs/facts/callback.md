@@ -1,0 +1,5 @@
+# Callback / warranty return
+
+**Starter / guess until they teach.**
+
+A callback is a return to a recent job, usually the same equipment, the same symptom, or a promised adjustment, rather than a brand-new sale. Typical office flags include a day window they already use, same tech versus a senior tech, and whether the visit is billed or no-charge. Shops differ on how many days count and whether the return uses a job type or a child work order; ask their definition and how they code it on the board. Warranty labor and manufacturer parts warranty are not the same clock. Do not bill a flagged return like a new demand sale unless they marked it billable. Do not admit fault as a legal warranty or write that the shop breached a statute. Do not invent a no-charge decision to calm a customer. Quote the original job id, the return job id if they opened one, the symptom in their words, and the bill mark they already stored. If the file is silent on bill versus no-charge, that silence is a question for the person who owns pricing, not a guess.

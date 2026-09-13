@@ -1,0 +1,5 @@
+# Client data minimum
+
+**Starter / guess until they teach.**
+
+Keep work files to what the task needs. A reminder list may need client name, patient name, phone or email they already export, and a due date. Extra identifiers, full medical narrative, and card numbers do not belong in docs/. Public AVMA-oriented privacy writing treats client information as confidential and released with consent or as required by law. Veterinary records are not the same as human HIPAA charts, but most US desks still treat the account as private. You do not post a case, a cute photo, or a funny reason line on the web. You do not store card numbers, CVV, or portal passwords in this folder. When a write-up must name a patient, use the label they allow. Shelter or rescue accounts still get the same minimum: organization name as filed, not a public story about the animal. If two people ask for the same chart, follow their authorization process. Starter / guess until they teach which fields they allow in shared folders.

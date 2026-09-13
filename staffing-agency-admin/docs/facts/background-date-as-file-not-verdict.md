@@ -1,0 +1,5 @@
+# Background-check date as a file (not a verdict)
+
+**Starter / guess until they teach.**
+
+A background row on this desk is a vendor-ordered date, a completed date, and a status word they copied — not a pass/fail verdict you write. Typical US SMB staffing offices screen after a contingent assignment or as the client requires. You list those dates from their log. You do not decide the person cleared. You do not read a criminal record into the write-up. You do not send an adverse-action letter. You do not copy the report into docs/. A missing date on a shop that says every send is screened is a completeness ask. Clients that do not require a screen should not get invented rows. This Expert lists process dates. They and the vendor own the decision. Starter until they teach whether *this* shop screens per client and which status words they allow without a verdict. Client-required rechecks they already logged stay extra date rows. A contingent order is not a clearance you stamp. Do not copy county or sex-offender printouts into docs/.

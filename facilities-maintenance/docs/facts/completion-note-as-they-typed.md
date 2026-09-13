@@ -1,0 +1,5 @@
+# Completion note as they typed it
+
+**Starter / guess until they teach.**
+
+The completion note is the sentence the technician or the clerk typed when they closed the work order. Typical US plants require a short what-was-done field. Quote that text. Do not rewrite it into a diagnosis you prefer. Do not invent a close note because the status says complete. Do not turn their words into an OSHA finding or a PE conclusion. If status is complete and the note is blank, say blank. Failure codes stay separate unless they used the note as the only close field. Parts-used and leftover-return still need their rows. They write the note. You quote it. Starter until they teach the minimum close fields *this* plant requires and who may edit a note after close. Edited notes after close stay labeled edited if they show a history; you do not pick the prettier version. Translated notes you write are not the official close. If they use a code plus a sentence, keep both. You do not add a cause they did not type.

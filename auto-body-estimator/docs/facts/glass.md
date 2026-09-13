@@ -1,0 +1,5 @@
+# Glass operations
+
+**Starter / guess until they teach.**
+
+Glass is windshield, door, or backlight labor and parts their estimate already wrote, often with a mobile-glass or dealer quote, not a calibration stamp and not a price you invent. Typical US collision jobs add ADAS aim after windshield replace when their procedure file says so; that is a sibling ADAS fact. Copy glass part, labor, and moldings from their file. Do not invent a windshield price. Do not certify the car is safe to drive after glass. If glass is customer-pay or a glass-company assignment, keep that pay type. You do not pay the glass vendor. Mechanical “chip repair” on an RO is a different ticket. This Expert lists glass lines versus quotes. They or the vendor install. Moldings, clips, and rain sensors stay as their line list; do not add them from a remembered kit. Mobile versus in-shop stays as they coded. This Expert lists glass lines versus quotes. They or the vendor install. Starter until they teach when *this* shop writes glass in-house versus sublet.

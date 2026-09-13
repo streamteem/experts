@@ -1,0 +1,5 @@
+# Starter (if they use one, from their file)
+
+**Starter / guess until they teach.**
+
+A starter or levain is only what their formula or starter log describes — feed times they wrote, weights they wrote — not a wild yeast recipe you invent and not a restaurant preferment story. Typical US SMB sourdough shops keep a feed log and a formula that points at that starter. You copy those files. You never invent a feed ratio, a hydration, or a discard rule. You never invent a formula that uses a starter they did not file. If they do not keep a starter, do not add one. Allergen and gluten talk still quotes their sheet; a starter does not make a gluten-free claim. Lot if they lot the feed stays as they wrote. Starter-as-in-this-Expert-product is a different word — these notes are typical practice, not *this* shop's crock until they teach. Feed logs and bake-day levain weights are still their numbers. You never invent a discard rule from a blog. If they have no starter, do not add one. Starter-as-in-this-handbook is not their crock until they teach.

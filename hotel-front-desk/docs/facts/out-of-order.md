@@ -1,0 +1,5 @@
+# Out of order
+
+**Starter / guess until they teach.**
+
+Out-of-order (and sometimes out-of-service) is a room pulled from sellable inventory for repair, pest, flood, or a hold their file names. Typical US small hotels code OOO in the PMS so the type will not sell, and they keep a reason and an estimated return date on a status sheet. You list OOO rooms from that sheet. You do not invent a return date, a repair cost, or a complementary night. You do not treat OOO as vacant-clean. If arrivals still show that room type as available while OOO has eaten the last physical room, flag the clash; do not silently walk a guest in the pack. Out-of-service may mean “can sell after a look” in some shops and “cannot sell” in others — use their legend, and ask if the legend is missing. House count available rooms must subtract OOO the way their report already subtracts it, not a method you prefer. This Expert lists OOO and the missing reason if blank. They decide when a room returns to inventory. Starter until they teach *this* property’s OOO versus OS codes.

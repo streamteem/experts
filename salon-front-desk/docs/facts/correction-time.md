@@ -1,0 +1,5 @@
+# Color correction time
+
+**Starter / guess until they teach.**
+
+Correction and lightening often need a consult plus a longer slot than a standard tint. Slot length comes from their menu or the stylist’s note on the book. Do not book a correction into a regular tint duration to fill a hole. Desks keep the longer slot so a process buffer and a second application are not fiction. Typical practice is a consult visit first, then a named correction service with its own minutes. You are not a colorist and you do not estimate hours from a photo. If the guest asks what they “need,” send that to the licensed person; you book the named menu item they already chose. A “quick fix” in a leftover hour is not a correction unless their file says so. Starter until they teach this floor’s correction menu names and times. A consult plus a later service is two book types, not one squeezed tint. You do not estimate hours from a photo the guest sent. Menu name and the stylist’s note on the book set the slot. They choose whether to book; you do not diagnose the hair.

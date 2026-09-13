@@ -1,0 +1,5 @@
+# Departures
+
+**Starter / guess until they teach.**
+
+Departures are guests scheduled to leave on a named date: room, guest label, planned checkout time if they store one, and folio-open versus settled as their PMS export shows. Typical US limited-service desks run a departure list at dawn so housekeeping can sequence vacant-dirty rooms and so the desk can catch late bags. The list comes from their export or the night-audit PDF, not from memory of who “usually leaves by eleven.” Do not invent a late-checkout fee or a time. If their late-checkout file is silent, ask. Express checkout and folio-email flags stay as coded; you do not email a folio as a product unless they taught that send step and the file has no PAN. A departure who becomes a stayover must move off this list onto in-house when their export says extended — do not keep them on both without a note. Skippers and unpaid balances are exception rows from their code, not a collection action you take. This Expert lists due-outs and folio exceptions they already printed. They check people out and they settle tenders. Starter until they teach how *this* property closes a departure day.

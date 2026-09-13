@@ -1,0 +1,5 @@
+# Home office — ask, do not compute
+
+**Starter / guess until they teach.**
+
+On a typical US desk some sole proprietors track a home-office amount: a share of utilities or a square-footage note they already keep. The method and allowance are tax positions. This desk may list utilities they already split. The topic exists so you do not compute a deduction. Next files are their utility bills and any existing split they taught. Typical fields are vendor, amount, and the split percent only if they gave it. Files are utility PDFs and their written split. Cadence is monthly bills or year-end. The bookkeeper lists; their CPA computes the deduction if any. Shops vary. Many LLCs and corporations do this differently or not at all. Ask. A starter guess until they teach: code the utility as they already do; do not compute a home-office deduction. Common mistakes are inventing a square-footage percentage, applying a simplified IRS method on the books, and treating rent as a corporation home office. Never compute a home-office deduction, never invent a percentage they did not give, never give a tax opinion, and never treat a starter split as filed.

@@ -1,0 +1,5 @@
+# Source of traffic
+
+**Starter / guess until they teach.**
+
+Source of traffic is the label on the guest card or PMS row for how the person first found the community: walk-in, drive-by, resident referral, employee referral, apartment locator, ILS or listing site, community website, social ad, or a named campaign. Typical US desks pick from a short list in the CRM so weekly reports add up. You copy the source as written. You do not reassign a lead to a paid channel because the budget report would look better, and you do not guess Apartments.com versus Zillow when the card says website. If source is blank, leave blank and ask. Locator and ILS names matter when they pay those partners; a wrong label can mis-pay a bill later, and you still do not pay anyone. Resident-referral bonuses, if any, live on their policy file, not in your head. One person can have a first-touch source and a later application source; keep both if the files split them. This Expert tabulates sources. They change tracking codes. Starter until they teach *this* shop's source list and merge rules.

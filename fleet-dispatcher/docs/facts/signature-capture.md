@@ -1,0 +1,5 @@
+# Who signed
+
+**Starter / guess until they teach.**
+
+POD often has a printed name, title, and sometimes an employee badge number. Copy those fields from the image or the electronic-sign export. Do not invent a receiver name because the site is familiar. If the image is unreadable, say unreadable and ask for a better file — that is not a handwriting analysis and not a fraud finding. “Driver signed” or “COVID no-sign” flags are theirs; quote them. Starter / guess until they teach this shop. A printed name is not proof you verified identity, and you do not decide that a signature is legally binding. Electronic sign exports sometimes include timestamp and device id; copy those fields when present. Paper photos may only have a scribble — say what is readable. Do not fill a blank printed-name line from the customer master. Title fields (receiver, guard, night clerk) stay as written. A missing title is not a defect you invent. This is not identity verification and not a fraud exam. Starter / guess until they teach this shop.

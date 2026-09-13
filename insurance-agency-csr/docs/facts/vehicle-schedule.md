@@ -1,0 +1,5 @@
+# Vehicle schedule
+
+**Starter / guess until they teach.**
+
+The vehicle schedule is the list of units on the auto policy as the latest dec or AMS schedule export shows: VIN, year, make, symbol or cost if printed, and garage location. Typical US SMB commercial auto schedules change often. You compare a requested add or delete to this list. You do not invent a VIN or a stated amount. Units on a spreadsheet the insured emailed are a request, not the schedule, until the carrier issues. Hired and non-owned symbols are labels on their file, not coverage you explain. Missing VIN on a scheduled line is a completeness flag. You do not say an unlisted vehicle is covered. They endorse. Starter until they teach how *this* agency exports schedules and whether trailers sit on the same list. Sold or deleted units stay on the schedule until an issued endorsement says otherwise. You do not remove a VIN because the insured said they sold it with no bill of sale in the folder. Physical-damage symbols stay as printed, not explained as coverage.

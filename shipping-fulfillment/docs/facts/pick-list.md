@@ -1,0 +1,5 @@
+# Pick list
+
+**Starter / guess until they teach.**
+
+A pick list is the outbound work file that tells the floor which SKUs, lots if they use them, and quantities to pull for orders that are ready to ship. Typical US SMB fulfillment desks print or export it from a WMS, Shopify plus a spreadsheet, QuickBooks fulfillment, or a numbered workbook: order or wave, SKU, location, qty, and sometimes a kit or lot column. This is outbound. It is not a receiving sheet and not a cycle count. You list and flag from their export. You do not invent a pick qty to tidy a backorder, and you do not mark a line picked when the file still shows open. If the pick export and the sales-order export disagree on qty, quote both and ask which is live. Short picks stay visible as short — never rewrite the order as fully picked. Locations come from their location file if they have one; you do not invent a bin. Starter until they teach how *this* shop releases picks. This Expert prepares the pick list and write-up. They release the wave and they pick.

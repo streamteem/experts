@@ -1,0 +1,5 @@
+# Tenant versus owner on the lot
+
+**Starter / guess until they teach.**
+
+Some logs need both the owner, who is on the assessment ledger, and an occupant or tenant, who may receive a gate fob, a violation courtesy, or a move-in packet. Copy both if their file has them, and keep the ledger name on dues and collections rows so you never age a tenant as if they were the account. Violation notices typically go the way their adopted policy and the roster flags say—owner only, occupant copy, or both. You do not decide landlord-tenant law, do not evict, do not draft a notice to quit, and do not tell an owner they may lock out a tenant or shut off utilities. Lease-addendum or registration completeness is pages present, not a fair-housing screening decision. A missing occupant name when their move-in form requires one is a question. One lot per row. If the ledger owner and the occupant disagree about who should get the notice, follow their written policy file and ask; do not pick a recipient as counsel.

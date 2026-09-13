@@ -1,0 +1,5 @@
+# Rental from vendor file
+
+**Starter / guess until they teach.**
+
+Rentals are tables, chairs, china, glass, tents, or extra chafers ordered from a rental house, copied from their vendor file or rental PO — not from a remembered catalog. Typical US SMB caterers send a PO with event date, delivery window, and return window. You do not invent a rental SKU or a price. You do not pay the rental house. If house equipment already covers the count, still list the PO they wrote; do not cancel it on paper. Venue-provided rental on a saved BEO is the hall's vendor, labeled as such. Missing delivery address on the PO is an ask. Damage notes after return are their file, not a collection lawsuit you write. You match PO lines to the pack-out. They order. You never send money or store the rental-portal password. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

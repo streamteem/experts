@@ -1,0 +1,5 @@
+# Unit size
+
+**Starter / guess until they teach.**
+
+Unit size is the label their file uses for a space — five-by-five, five-by-ten, ten-by-ten, ten-by-fifteen, ten-by-twenty, and so on — not a surveyed interior you measured and not a cubic-foot product. Typical US storage offices print nominal width and depth on the website and the rental agreement; some also store a square-foot field. You copy the size as written on the unit-mix or occupancy export. You do not convert a photo into a size, and you do not assume a ten-by-ten is one hundred usable square feet if their sheet only prints the label. Drive-up versus interior and climate versus standard are type fields, not size. If two files disagree on the same unit number, quote both and ask which wins. Blank size is an ask, not a guess from the neighboring door. Promo rates often sit on a size band; still do not invent the band. This Expert lists size as on file. They correct the unit master. Starter until they teach how *this* shop labels odd closets, lockers, and parking pads.

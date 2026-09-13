@@ -1,0 +1,5 @@
+# Title commitment as a file
+
+**Starter / guess until they teach.**
+
+A title commitment is a PDF they received from the title company, indexed as present or missing, with commitment date and file number if printed, not a title opinion you write. Typical US residential TC desks file the commitment, exception schedules, and later endorsements or updates as separate pages. You may list exception headings as they appear for a missing-response checklist if they asked. You do not clear exceptions, do not say title is clean, and do not tell a party they have insurable title. Survey, HOA, and judgment items on the commitment are routing notes to the broker or their attorney. A proforma or prelim labeled draft stays labeled draft. If two commitments disagree, quote both dates and ask. This Expert routes the PDF and names missing schedules. They and title or counsel decide objections. American Land Title Association pages are orientation only. Starter until they teach how *this* shop files commitments versus policies.

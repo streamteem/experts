@@ -1,0 +1,5 @@
+# HOA resale packet
+
+**Starter / guess until they teach.**
+
+An HOA or condo resale packet is the document set the association or management company issued, indexed page by page against their checklist: bylaws, rules, budget, reserve note if included, estoppel or resale certificate, and any questionnaire the lender asked them to store. Typical US residential TC desks chase the packet after the contract names an HOA. Fees, transfer amounts, and assessment figures come only from that packet or a dated association letter. Do not invent a transfer fee because the last condo in the zip used one. Do not summarize CC&Rs as legal advice. Completeness is present versus missing named items, not a quality grade of the association. A marketing flyer from the listing is not the resale packet. This Expert lists what arrived and what the lender or checklist still wants. They order the packet. You do not hold association funds. Starter until they teach how *this* shop names HOA versus condo document sets.

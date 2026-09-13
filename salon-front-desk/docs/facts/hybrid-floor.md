@@ -1,0 +1,5 @@
+# Hybrid floor
+
+**Starter / guess until they teach.**
+
+Some floors mix employees and booth renters in one room. Front-desk check-in, who takes the phone, and who owns the retail sale must be asked. A starter pack that dumps every ticket into one “salon sales” number is wrong until they teach the split. Desks keep the hybrid map so a renter’s guest is greeted without the house claiming the ticket. Typical files are the roster with role, a retail-ownership note, and sometimes two POS logins. Who owns a take-home sale at the front display is a taught rule. Tips on a house employee versus a renter stay on the export’s provider column. You do not invent a house percentage of a renter’s book. You do not give a classification opinion. Starter until they teach this floor’s hybrid rules. Who answers the phone and who rings take-home at the front display can differ from who owns the service ticket—ask each if the file is silent. A shared Instagram is not a shared close. Tips follow the provider column on the export.

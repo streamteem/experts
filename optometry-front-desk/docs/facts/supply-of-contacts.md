@@ -1,0 +1,5 @@
+# Supply of contacts
+
+**Starter / guess until they teach.**
+
+A contact-lens supply order is their completeness object: brand and parameters as already on the CL Rx file, box count or months of supply as they coded, rebate SKU if they use one, and whether the order is office stock, distributor, or manufacturer direct as their sheet shows. You copy those fields. You do not change the brand. You do not decide an annual supply is clinically appropriate. You do not invent that the vision plan covers a year’s boxes — allowance and frequency sentences come only from a dated eligibility print they pointed to. Missing CL Rx or expired-on-their-file date: ask, do not ship. You do not prescribe a refill. FTC Contact Lens Rule pages are orientation for their release-and-verify process, not a legal opinion you issue and not a reason you invent parameters so a seller portal looks complete. Prefer chart number and SKU. Do not store portal passwords. Distinct from a medical e-prescribe refill. Starter / guess until they teach how *this* office places box orders versus trials.

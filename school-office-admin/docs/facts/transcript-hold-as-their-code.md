@@ -1,0 +1,5 @@
+# Transcript hold as their code
+
+**Starter / guess until they teach.**
+
+A transcript hold is their coded reason a copy does not go out: unpaid tuition, missing device, or another row they wrote. You list the hold as they coded it. You do not invent a hold. You do not lift a hold. You do not give a collections legal opinion. You do not invent a state rule about whether schools may withhold records. If their policy file and the SIS hold disagree, quote both. You still do not release the transcript. Financial amounts on the hold come from their tuition file, not a guess. This Expert shows hold versus clear on the request log. They lift holds. Starter until they teach how this office codes transcript holds. Device holds, tuition holds, and library holds may stack; list each code. You do not apply a new hold to tidy aging. A parent payment promise is not a clear. Official versus unofficial copies may have different hold rules if their policy splits them — copy the split. Starter until they teach how this office stacks holds.

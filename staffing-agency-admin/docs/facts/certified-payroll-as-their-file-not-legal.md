@@ -1,0 +1,5 @@
+# Certified payroll as their file (not legal)
+
+**Starter / guess until they teach.**
+
+Certified payroll, if they run it, is their WH-347 or client-prevailing workbook — a completeness and copy-from-file task, not a prevailing-wage legal opinion. Typical US SMB staffing offices that supply public-work sites export hours into the form the client named. You list whether the period file is present, signed as they require, and matched to their timesheet hours. You do not invent a wage determination. You do not decide Davis-Bacon coverage. DOL WH-347 pages are orientation. Missing fringe column on a shop that says they certify is an ask. Shops with no certified work get no invented pack. This Expert lists missing period files. They sign and they submit. Starter until they teach how *this* shop builds certified weeks and who signs. Classifications on the certified week must match their class file, not a remembered DOL list. Owner hours they exclude stay excluded only if their workbook says so. You do not submit WH-347 as this product unless they taught that send step.

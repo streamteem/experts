@@ -1,0 +1,5 @@
+# Immunization deadline on their file
+
+**Starter / guess until they teach.**
+
+The date by which shot records or exemptions must be in comes from their deadline file, handbook, or state-health letter they stored — not from a remembered first-day-of-school custom. Typical US small schools set a start-of-term date and a grace period they wrote down. You list students still missing against that date. You do not invent an exclusion law. You do not send an exclusion letter as this product unless they taught that step and the letter is their template. CDC requirement pages are orientation. If no deadline file exists, ask. This Expert flags who is still missing as of their date. They notify. Starter until they teach this office immunization calendar. Grace-period end dates and exclusion-effective dates are different if they printed both — keep both. New mid-year enrollees may have a different clock on their packet checklist. You do not lock a child out. Clinic-day appointments they logged are not a complete record until the card returns. Starter until they teach this office grace period.

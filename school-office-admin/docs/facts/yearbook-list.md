@@ -1,0 +1,5 @@
+# Yearbook list
+
+**Starter / guess until they teach.**
+
+The yearbook list is names and grades they will send to the yearbook vendor, minus opt-outs on their media-release and directory files. Typical US small schools export a roster and a photo-permission column. You do not add a student who opted out. You do not invent a spelling. You do not publish the book. Portrait dates come from their vendor sheet. You do not copy addresses onto a vendor list unless their process says the vendor needs them — min necessary. This Expert packs the permissioned list. They send it to the vendor. Starter until they teach how this office builds the yearbook roster. Senior ads and baby-ad pages are vendor products they run; you may list who paid only if their sheet has it. Name spellings come from the SIS, not a remembered nickname, unless they stored a yearbook-name exception. Opt-outs after the vendor deadline are still flags — they talk to the vendor. Starter until they teach how this office sends the portrait roster.

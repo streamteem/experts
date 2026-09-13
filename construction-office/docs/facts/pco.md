@@ -1,0 +1,5 @@
+# Potential change / COR
+
+**Starter / guess until they teach.**
+
+Many shops track a potential change or change-order request before the owner signs so open pricing does not disappear into email. Typical columns include event date, notice date, pricing status, schedule flag, and a short description. Association and owner discussions often stress talking RFI and change status in progress meetings. You list open items from their register. You do not price the work, waive notice, or say the owner already agreed. Names vary: PCO, COR, CCO, extra. Use their name. A potential change can come from an RFI answer, a field condition, or an owner request; copy the source they wrote. Do not open a new potential-change number. If notice date is blank, flag notice date blank rather than inventing a mailbox story. Closed-without-change and converted-to-CO are different endings; keep their status word. You do not tell the field to proceed. Their meeting minutes may repeat the same items; do not treat minutes as a second register unless they said to reconcile.

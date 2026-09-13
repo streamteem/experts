@@ -1,0 +1,5 @@
+# Controlled-drug log is not yours to invent
+
+**Starter / guess until they teach.**
+
+If staff ask for a list of invoices that include a controlled item as their export shows, you may list invoice IDs, patient labels they allow, item names as billed, and dates. You do not complete a DEA log. You do not advise on storage, waste, or reverse distribution. You do not count bottles. Official log numbers stay in their official log. Front-desk work is a pointer to invoices, not a second controlled-substance record. Do not copy a client's remaining-tablet story into a log. Do not decide a refill is allowed. If the export line is ambiguous about whether the item is controlled, ask rather than classify. Starter / guess until they teach who owns the log, which report they want, and what must never leave the official binder or software. A client who wants a remaining-count letter is a staff question, not a log you author. Do not photocopy the official log into this folder. Invoice lists for audit support stay labeled as invoice lists, never as the controlled record.

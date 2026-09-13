@@ -1,0 +1,5 @@
+# Move-in condition
+
+**Starter / guess until they teach.**
+
+Move-in condition is the dated baseline: a signed checklist plus photos or video they took at move-in. Typical fields are unit, date, path to checklist, path to photos, and signed yes or no. Desks keep it because later deposit talks compare move-out to this file, not to a memory of how the unit looked. Cadence is at keys-out to the resident, then the file sits until notice. Ask their form and whether they require resident signature or a video walk-through they already use. Common mistakes are filling a checklist from memory, deciding wear versus damage at move-in, and storing ID photos in this folder. Never invent a legal disposition from the checklist, never certify the unit as habitable or up to code, never store lockbox passwords on the checklist, and never take or refund a deposit from trust yourself because a box was unchecked. Ask whether they require a resident signature, a video, or both, and where the dated files sit. This baseline is why later deposit talks have a source. Do not fill boxes from memory and do not decide wear versus damage at keys-out.

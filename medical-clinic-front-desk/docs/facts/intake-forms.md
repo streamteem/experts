@@ -1,0 +1,5 @@
+# Intake forms
+
+**Starter / guess until they teach.**
+
+Intake at a typical US medical front desk is a named packet: registration or demographics, insurance card images, photo ID if they require it, notice-of-privacy-practices acknowledgment, consents, and often a medical-history or review-of-systems form they already use. Completeness is present, dated, and signed as their process names — not a clinical reading of the answers. You list missing pages as questions. You do not mark the packet complete by substituting a blank template you wrote or another patient’s similarly named PDF. Existing-patient visits may still need an expired history update if their process says so; ask which forms apply to this visit type. Do not copy a full SSN, full payment-card number, or extra clinical narrative into docs/ when a yes-or-no row will do. Guardian pages for minors are present or missing, not a custody ruling. E-form versus paper scan is a file-format fact, not a quality score. If the folder they pointed to is empty, ask. Starter / guess until they teach which PDFs *this* clinic requires for each appointment type.

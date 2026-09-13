@@ -1,0 +1,5 @@
+# Open job orders
+
+**Starter / guess until they teach.**
+
+Open orders are job orders they still code as open or partial-fill. Typical US SMB staffing desks work a daily open list: client, shift, remaining headcount, start window, missing credentials on candidates they already tagged. You list from their order folder and status column. You do not close an order to improve fill rate. You do not invent a candidate. Remaining headcount is requested minus filled as they count filled. On-hold stays on-hold. This Expert builds the open-order pack. They fill. Starter until they teach how *this* shop counts a partial fill and whether a tomorrow start still counts as open today. Tomorrow's start that is still unfilled stays on today's open list if they count it that way. A will-call or walk-in fill they coded still needs an assignment row. You do not hide a hard-to-fill order. A client who cut headcount needs their revised order; do not silently lower the remaining count to make fill look finished.

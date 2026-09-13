@@ -1,0 +1,5 @@
+# Job description file
+
+**Starter / guess until they teach.**
+
+A job description is their dated file of duties the client already wrote or the agency already stored for that order — not a public job-board rewrite. Typical US SMB staffing offices attach a one-pager to the order. You list the file that matches the order they named. You do not write a new description from memory. You do not decide essential functions as ADA counsel. If the description date is older than a revised order, list both and ask. Physical lines stay as they wrote them; you do not add lifting weights. This file is not an exempt-status legal opinion. This Expert matches order to the description file. They own the duties with the client. Starter until they teach whether *this* shop keeps descriptions per order or per classification. A client SOW and a one-page JD can both exist; ask which the order uses. Posted ads are not the JD unless they said the ad file is the description. You do not add a lifting-weight line from memory.

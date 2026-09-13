@@ -1,0 +1,5 @@
+# Aging buckets
+
+**Starter / guess until they teach.**
+
+On a typical US desk AR and AP aging is a snapshot of open invoices or bills grouped by age: current, 1–30, 31–60, 61–90, 90-plus. Some shops use invoice date, some due date. The buckets exist so the owner knows who to call and what to pay. Next files are the aged CSV and the AR or AP write-up. Typical fields are customer or vendor, document number, date used for aging, open amount, and bucket label. Files are the software aging export. Cadence is weekly or monthly. The bookkeeper produces the list; the owner acts. Shops vary on bucket labels and on whether they email statements. Ask. Credits sitting in 90-plus often mean a mis-applied payment. A starter guess until they teach: use their export's buckets and date basis. Common mistakes are calling 90-plus uncollectible, changing dates to move a row, and mixing invoice-date aging with due-date aging in one pack. Never write off, never invent buckets, never email customers unless they asked, and never treat aging as a legal demand.

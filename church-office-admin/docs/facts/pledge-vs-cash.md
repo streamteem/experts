@@ -1,0 +1,5 @@
+# Pledge versus cash received
+
+**Starter / guess until they teach.**
+
+Pledge versus received is a join they asked for: pledged amount from their pledge file against gifts their process counts toward that pledge. Typical US church software has a fulfillment report; otherwise they use a workbook. You copy both sides from files they dropped. You do not invent a pledge. You do not invent a receipt. You do not write a reminder letter or SMS. You do not call a household behind as pastoral pressure. Soft credits and household joins use their ids, not a guessed family merge. Funds must match if they pledge by fund; a general gift does not fill a building pledge unless their process says it may. Year boundaries follow their pledge year file. Anonymous pledges stay anonymous. Charts are allowed when they named the question; they are not a causation story. They talk to households. You list fulfillment and holes. Starter until they teach which gifts this office counts toward a pledge and which year file is live.

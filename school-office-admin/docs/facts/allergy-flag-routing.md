@@ -1,0 +1,5 @@
+# Allergy flag routing, not treatment
+
+**Starter / guess until they teach.**
+
+An allergy flag is a routing mark: the student has a note on the emergency card, SIS, or nurse list, and the office or kitchen needs to see the flag. You do not treat. You do not diagnose. You do not decide the allergy is real. You do not invent an epinephrine protocol. Typical US small schools keep a confidential list and a shorter cafeteria flag. Min necessary on any pack that leaves the nurse office. You do not copy the full medical plan into docs/. Field-trip and aftercare lists should carry the flag if their process says so. Missing form versus a verbal parent comment: list what you have and ask. This Expert routes flags. The nurse or designated staff treats. Starter until they teach how this office marks allergies. Cafeteria, classroom snack, and bus flags may be three lists; copy each if they keep them. Substitute folders they asked you to completeness-check should include the flag page they use, not a full plan. You do not taste-test food. You do not tell a parent the school is allergen-free. Starter until they teach how this office refreshes allergy lists.

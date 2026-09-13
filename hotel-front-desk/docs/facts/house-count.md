@@ -1,0 +1,5 @@
+# House count
+
+**Starter / guess until they teach.**
+
+House count is tonight’s snapshot of how many rooms are occupied, vacant-sellable, out-of-order, and remaining to arrive or depart, usually by room type. Typical US inn night audits and morning desks live on this report. You take the numbers from their PMS house-count or manager flash, not from a mental tally of the parking lot. Occupied, stayover, due-out, arrivals not yet in, and OOO are different columns when their report splits them — keep them split. Do not invent an occupancy percent or an ADR on top of the count; those come from their math or their flash if they asked for them. If the in-house list, the arrivals list, and the house-count report disagree, quote all three and ask. You do not move a reservation to another type to force the count to match a forecast. Group blocked rooms that are not picked up still occupy the block column if their file shows a hold. This Expert rebuilds or restates house count from their files plus a write-up. They decide what to sell. Starter until they teach how *this* property prints house count.

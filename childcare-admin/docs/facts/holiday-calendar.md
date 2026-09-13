@@ -1,0 +1,5 @@
+# Holiday and closure calendar
+
+**Starter / guess until they teach.**
+
+Center closures, staff-only days, and tuition-charged holidays come from their calendar file or handbook exhibit. Typical US centers close on a published list and still charge selected holidays. You copy that list into a pack with the dates they asked. You do not invent a federal-holiday rule, and you do not decide whether tuition is charged — the file does. Camp weeks and school-district days off are different calendars if they split them. Staff schedules on a closure day stay on the staff sheet. Parent notices are theirs to send unless they taught a send step. If two calendars disagree, quote both. Starter until they teach which calendar is live for *this* year and whether tuition is due on named closures. Weather closures they added after print are a dated memo if they stored one — quote it beside the printed list. You do not decide whether a make-up day happens. Staff training days stay off the parent tuition-charged list unless the file says families pay.

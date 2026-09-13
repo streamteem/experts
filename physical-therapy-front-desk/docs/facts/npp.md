@@ -1,0 +1,5 @@
+# Notice of privacy practices acknowledgment
+
+**Starter / guess until they teach.**
+
+Typical US covered PT clinics offer a notice of privacy practices and keep an acknowledgment or a declined-to-sign note. Front-desk work is a file check: acknowledgment present, dated, signed, or declined as their form shows. You do not rewrite their notice. You do not store the full notice text in every work file. You do not copy extra identifiers from the acknowledgment into docs/ beyond the chart label they allow. A missing acknowledgment is a completeness question for staff, not a HIPAA legal finding you issue. How often they resign it comes from their process file, not from a remembered CMS rumor. HHS NPP pages are orientation only. Do not backdate or autofill a signature. Do not tell the patient what the notice “means” as counsel. Ask where *this* clinic files the acknowledgment and which visit types require it on the first visit. Starter / guess until they teach. E-form checkboxes count the same as paper acknowledgments: present or missing as their form shows.

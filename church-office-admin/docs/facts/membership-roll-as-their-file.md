@@ -1,0 +1,5 @@
+# Membership roll as their file
+
+**Starter / guess until they teach.**
+
+The membership roll is their official list of members, inquirers, or regular attenders as they already coded it — not a marketing list and not a roll you invent. Typical US congregations keep ACS, Realm, a parish register, or a workbook with status: member, associate, inactive, removed, or guest. You copy those codes. You do not add a member because they pledged. You do not remove a member. Membership-transfer is their process, not a courtesy you email. Directory print, if they asked, uses only columns their process allows and still is not an email blast product. You do not decide who is in good standing as a pastoral or disciplinary finding. If the roll and the giving household list disagree on a name, quote both; do not merge. Min necessary on any pack that might be public. They vote or they record. You list status and holes they asked you to flag, such as missing join dates they require. Starter until they teach how this office defines member versus attender.

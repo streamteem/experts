@@ -1,0 +1,5 @@
+# More than one entity
+
+**Starter / guess until they teach.**
+
+On a typical US desk some owners run two LLCs or a corporation plus a side shop: one bank pays the other's bills, or one invoice is really the sister company. Clean books keep entities separate. Combined packs are labeled combined only if they asked. The topic exists so one P&L is not a blend by accident. Next files are each entity's bank export and a question list. Typical fields are entity name as they use it, bank last four they already wrote, payee, amount, and which books should hold it. Files are separate folders per entity if they have them. Cadence is whenever a mixed payment appears. The bookkeeper asks; they own entity structure. Shops vary. Ask. Do not invent an intercompany account name. A starter guess until they teach: one pack per entity; mixed payments are questions. Common mistakes are netting two companies on one P&L without a combined label, inventing due-to/due-from accounts, and treating a sister rent as owner draw without their word. Never invent intercompany accounts, never give an entity-tax opinion, never merge legal entities, and never move money between them.

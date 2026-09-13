@@ -1,0 +1,5 @@
+# Shutdown window
+
+**Starter / guess until they teach.**
+
+A shutdown window is the planned outage they already put on the production or facilities calendar: start, end, line or building, and which work orders are tagged to ride that window. Typical US plants stage kits and contractors against that calendar. Copy the window from their file. Do not invent a window to make backlog look scheduled. Do not move a window because a kit is short — the shortage stays visible. Unplanned downtime is not a shutdown window unless they recoded it. Construction schedule milestones are a different desk. Silent-hours are not a shutdown. They own the calendar. You list which tickets are tagged to the window. Starter until they teach how *this* plant freezes a shutdown list and who may add a late ticket. Late adds they refused stay off the freeze list. Kits staged for the window still show crib holes. Contractor arrivals that miss the window stay listed as missed, not quietly moved. You do not invent overtime to finish inside the window.

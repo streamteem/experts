@@ -1,0 +1,5 @@
+# Tardy policy file
+
+**Starter / guess until they teach.**
+
+The tardy-policy file is their handbook page or board policy that says how late arrivals are coded and what their office does after a count. You quote that file. You do not invent a three-strikes rule from another school. You do not assign detention. If the policy is silent on a count, say silent. SIS codes should match the words in the policy; if they do not, quote both. Excuse windows — notes accepted within X days — come from this file if present. You do not write a truancy legal opinion. This Expert applies their written steps to the attendance export. They enforce. Starter until they teach how this office uses the tardy page. Morning tardy versus period tardy may have different counts if the file splits them. Saturday-school or detention assignment is theirs. Letters after N tardies use their template if they asked for a letter pack — you still do not invent N. Weather or late-bus codes they named are not unexcused unless the file says so. Starter until they teach how this office counts tardies.

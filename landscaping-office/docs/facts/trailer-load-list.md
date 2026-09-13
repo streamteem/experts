@@ -1,0 +1,5 @@
+# Trailer load list
+
+**Starter / guess until they teach.**
+
+A trailer load list is what must be on the truck before it leaves: mowers, handhelds, fuel cans if they list them, materials for today’s enhancements, and site tools they named. Typical US shops tape a load-out sheet to the trailer door or keep it in the same workbook as the crew day. Quantities come from the material list and the equipment assigned file. Do not add a chemical tank as if this desk mixes product. Do not invent a strap count or a dump-trailer need to look thorough. Weight and axle questions are theirs; you are not a CDL instructor. If materials for two jobs share a trailer, label by ticket. Missing items stay missing. You draft the list. They load and they inspect. Starter until they teach *this* shop’s morning load-out ritual. Morning leftovers from yesterday stay on the list only if they wrote them as still needed. Do not invent a second fuel can. Starter until they teach *this* shop’s load-out photo or checklist habit.

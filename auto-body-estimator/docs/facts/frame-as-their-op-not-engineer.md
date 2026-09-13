@@ -1,0 +1,5 @@
+# Frame as their operation, not an engineer
+
+**Starter / guess until they teach.**
+
+Frame or structural lines are operations their estimate already listed — pull, measure, set up, or replace as their system coded — not a professional-engineer stamp and not a declaration the structure is restored. Typical US collision shops write frame hours from the database or a written rack operation, then attach a measure print they stored. Copy the operation and the hours from their matrix. Never invent structural hours. Never stamp that the vehicle is structurally sound, crashworthy, or repaired to OEM structure. If they have no measure file and the estimate has frame labor, flag missing measure; do not invent readings. Welding and sectioning are sibling facts and still not stamps. A mechanical alignment print is not a frame proof unless they filed it as such. This Expert lists frame ops and missing measure. They rack the car. Starter until they teach how *this* shop names structural versus body labor.

@@ -1,0 +1,5 @@
+# Serial numbers
+
+**Starter / guess until they teach.**
+
+Serialized items need the unique serial on receive, putaway, pick, transfer, and return if they track them. Typical US wholesalers serialize higher-value equipment, electronics, or warranty goods and leave commodity cases unserialized. Do not invent a serial. Duplicate serial in the file is a flag. A serial that appears in two locations at once is a flag. Missing serial on a serialized SKU is an exception list, not a reason to type a look-alike. Count lines for serialized goods are often one unit per serial; do not roll them into a loose quantity without their rule. You do not register a warranty with a manufacturer. You do not wipe a serial to tidy an export. Customer-owned serialized assets stay under the owner code. Starter notes do not decide which SKUs are serialized; the master flag does. Warranty cards, manufacturer portals, and asset registers are their files if they stored them; you index a serial they already wrote, you do not mint one to finish a row.

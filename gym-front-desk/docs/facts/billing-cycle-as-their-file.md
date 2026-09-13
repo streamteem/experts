@@ -1,0 +1,5 @@
+# Billing cycle from their file
+
+**Starter / guess until they teach.**
+
+Billing cycle is the cadence and draft day on their membership or billing export: monthly on a named day, every four weeks, prepaid with no draft, or a corporate invoice cycle. Typical US SMB clubs keep it so a failed-draft list and a freeze end date line up with the next scheduled pull. The cycle comes only from their file — never from a remembered “everyone drafts on the first.” If the export has no cycle column, say the column is absent. Do not invent a draft day to complete a calendar. A mid-cycle join or a freeze that “skips a draft” is their policy file, not a rule you apply from another gym. Annual prepaid rows may show no cycle; do not force a monthly label. EFT run is theirs; you list the cycle, you do not pull money. ClubReady, ABC, and Mindbody cycle fields often use different words for the same idea — keep their word. Starter until they teach how *this* club prints cycle and draft day. Do not present a starter sentence as this shop’s live billing calendar.

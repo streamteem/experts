@@ -1,0 +1,5 @@
+# Year-end tuition statement ask
+
+**Starter / guess until they teach.**
+
+Families often ask for a year-end statement of tuition paid for dependent-care planning. Typical US centers print a report from Procare, Brightwheel, or QuickBooks: payer name, child label, and amounts they recorded as paid in the year. You assemble that report if they exported it. You do not give tax advice, do not decide what is eligible under IRS Publication 503, and do not invent a provider EIN if it is missing from their letterhead file. Taxpayer ID they already print on their statement stays as they print it — do not copy extra SSNs into docs/. Unpaid balances are not “paid.” Camp versus childcare lines stay as they split them. Starter until they teach which year-end report *this* center sends and who signs it. January reprints for the prior year use the year they named on the export. Correcting a posted payment is their ledger edit, not a number you overwrite. You do not prepare a family tax return. If they split two centers under one owner, ask which provider name prints.

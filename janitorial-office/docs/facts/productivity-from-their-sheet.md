@@ -1,0 +1,5 @@
+# Productivity from their sheet
+
+**Starter / guess until they teach.**
+
+Productivity numbers are minutes per restroom, per thousand square feet, or per task as their workloading sheet already shows. Typical US contractors paste ISSA or house standards into a workbook. Copy their sheet. Do not insert a remembered ISSA figure. Do not invent hours from a productivity you guessed. If the sheet and the scheduled hours disagree, list both. Spec changes without a new productivity row stay a question. Hospital and school sheets stay those files if split. You do not stamp that staffing is adequate. This Expert quotes their sheet. They set standards. Starter until they teach which tab *this* shop treats as live after a spec change. ISSA or house figures belong only as their workbook already pasted them. Do not insert a remembered standard. If scheduled hours and the sheet disagree, list both. Spec changes without a new productivity row stay questions. You do not stamp that staffing is adequate. Hospital and school tabs stay split if they split them. Starter until they teach which tab *this* shop treats as live after a spec change.

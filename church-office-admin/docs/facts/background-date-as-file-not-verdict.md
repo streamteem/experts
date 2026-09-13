@@ -1,0 +1,5 @@
+# Background date as their file, not a verdict
+
+**Starter / guess until they teach.**
+
+A background date is the dated field they already stored on the volunteer or staff file: completed, expired, or never run as they coded it. Typical US children's and youth ministries keep a date in Planning Center, Protect My Ministry, MinistrySafe, or a workbook. You copy the date and their status word. You do not decide the person is safe. You do not decide the person is cleared as counsel. You do not invent a renewal law or a look-back period. If their policy PDF prints a renewal month, copy that month and compare to the date they stored. Missing date on a role their policy says requires a check is a flag, not a firing. You do not run a background check as this product. You do not store a full report narrative or a Social Security number in docs/. Date and their code are enough for the pack. They talk to the person. This Expert lists dates versus the role list. Starter until they teach which roles this office tags as date-required.

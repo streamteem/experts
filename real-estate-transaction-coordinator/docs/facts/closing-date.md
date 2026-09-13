@@ -1,0 +1,5 @@
+# Closing date
+
+**Starter / guess until they teach.**
+
+The closing or settlement date is the date on the executed contract or the latest executed amendment that changed it, plus any time or location note those pages print. Typical US residential desks also keep a title-company appointment time as a scheduling fact; that appointment is not a new legal closing date unless they executed a change. Do not invent a closing date from a lender’s hoped-for week. Do not move the date because a holiday makes it inconvenient. Funding, disbursement, and recording may be different timestamps on title or lender files; keep those labels if the PDFs split them. You do not promise they will close. A calendar hold is not an amendment. If two amendments disagree, quote both and ask which is live. This Expert puts the printed closing date on the dates calendar and lists appointment notes separately. They amend. Title schedules the table. Starter until they teach how *this* shop separates on-or-before language from a firm appointment.

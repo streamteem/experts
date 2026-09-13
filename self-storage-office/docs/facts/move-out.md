@@ -1,0 +1,5 @@
+# Move-out
+
+**Starter / guess until they teach.**
+
+Move-out is the date and status their file uses when an occupant leaves a unit, not a deposit-disposition legal opinion and not a lock you cut. Typical US storage offices want a notice-to-vacate if they use one, an empty-unit check, a lock-removed note, a condition or photo if they take one, and a paid-through or credit row on the payment export. You list those files as present or missing. You do not invent a refund, a clean-out charge, or a notice period from another state. You do not overlock or cut a lock as this product. If the occupancy export still shows occupied after their vacate note, quote both and ask. Abandoned or auction-path units are a different file set — do not relabel a normal move-out as abandoned. Gate access close is a process step they run; you never write the code. This Expert lists leftovers and questions. They inspect and they close the account. Starter until they teach how *this* shop codes vacated, dirty, and ready-to-rent.

@@ -1,0 +1,5 @@
+# In-kind gifts
+
+**Starter / guess until they teach.**
+
+List in-kind items from *their* log: date received or promised, donor label they already use, description they wrote, program or site if tagged, and any intake-form filename. Typical small offices log donated goods, space, and sometimes professional services; treatment on the books is a bookkeeper topic, not a value you assign. You do not assign fair market value as an appraiser. You do not tell the donor what they may deduct. Vehicle gifts, publicly traded stock (usually not “in-kind goods” in the same log), closely held stock, real estate, crypto, and restricted art often have extra IRS paper or a gift-acceptance path; point at their gift-acceptance policy and the files they have, then stop. Do not complete a valuation, a 1098-C, or a noncash Form 8283 for anyone. If the log is blank on description, ask them to write what arrived before you put the row in a grant narrative. Volunteer hours are a separate log; do not treat hours as in-kind goods unless their files already do.

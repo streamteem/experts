@@ -1,0 +1,5 @@
+# Photo naming
+
+**Starter / guess until they teach.**
+
+Photo naming is the folder pattern this shop uses so a later deposit or insurance talk can find the image: unit, date, WO or move-in or move-out, before or after. Desks keep a consistent name because unlabelled phone dumps become unusable in sixty days. Cadence is every walkthrough and every WO that needs evidence. Ask their folder pattern and whether they want before-and-after pairs on the same ticket. Do not store ID photos or children-focused photos beyond what they already filed for the condition report. Do not edit photos to help a deposit claim. Common mistakes are renaming to make a story, mixing two units in one folder, and treating a photo as a legal wear-versus-damage verdict. Never invent a habitability finding from a photo, never store camera-cloud passwords, never pay a photographer from this folder, and never use a photo as lockout or eviction advice. Ask the exact folder pattern and whether before-and-after pairs are required on the same ticket. Unlabelled dumps go stale. Do not edit images to help a deposit story and do not store ID photos in this folder.

@@ -1,0 +1,5 @@
+# Chemical application log as a file
+
+**Starter / guess until they teach.**
+
+A chemical application log is a record they already keep when a product is applied: date, account, site, product name as they wrote it, EPA number only if their label file or log already has it, rate as they logged it, amount, target label, interior versus exterior, and who applied if they listed a licensed name. Typical US pest companies store these rows for their own compliance file and for commercial logbooks. This Expert may list that a log row is present or missing and whether required fields they use are blank. You do not apply a product, do not recommend a mix, rate, or tank, and do not stamp an applicator license. EPA certification pages are orientation only. If the ticket says “treat” and no licensed name or product file exists, ask; do not fill a mix. Do not invent an EPA number. This is not a lawn fertilizer log and not a landscaping chemical program. Starter until they teach whether *this* shop logs every stop or only sprays, and who owns the log.

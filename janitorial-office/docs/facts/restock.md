@@ -1,0 +1,5 @@
+# Restock
+
+**Starter / guess until they teach.**
+
+Restock is filling dispensers and closets from the site par: paper, soap, liners, and other consumables they named. Typical US night and day-porter specs include restock as a task, while the par sheet says how many cases live in the closet. Copy both. Do not invent a restock quantity because a restroom ran out once. Do not substitute a brand. A restock miss can be a complaint or a missed-service row if they coded it that way. Medical and hospital restock may exclude patient-care items you do not add. Barcode scans they exported stay as their count, not a guessed each. Extra cases on a truck are not a new par. This Expert flags below-par and missing restock notes. They buy and they fill. Starter until they teach how *this* shop counts a restock complete on the quality form. Empty-dispenser photos they stored support a complaint or quality line; you still do not invent a case pull. Day-porter restock and night restock stay on the shift they coded. Starter until they teach how *this* shop marks restock complete on the closet sheet versus the quality form.

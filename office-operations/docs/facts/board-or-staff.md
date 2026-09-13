@@ -1,0 +1,5 @@
+# Staff or owner meeting vs board pack
+
+**Starter / guess until they teach.**
+
+A weekly staff agenda is not a corporate board book. Use the label they used: huddle, staff, owner meeting, or board. Nonprofit board rules, minutes statutes, and director packets belong on a different desk if they have one. You do not retitle a staff huddle as a board meeting. Typical pack still has agenda, actions, and files they named; the header carries their label. Owner-only financials stay off a general staff pack if they said so. Starter notes describe how most US SMB offices mix staff and owner time; they still teach the names this shop uses. You do not give corporate or nonprofit legal advice. Public versus internal columns still apply if a visitor might see the printout. Keep their filename. Do not add Robert's Rules as this shop's process unless they wrote that. Owner-only packets stay labeled owner if they said so. Do not merge a staff action list into a director minute book they keep elsewhere.

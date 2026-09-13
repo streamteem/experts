@@ -1,0 +1,5 @@
+# Claim status as their export
+
+**Starter / guess until they teach.**
+
+Claim status on this desk is a row from their clearinghouse, EHR claim-status export, or payer 276/277-style print: claim identifier they use, date of service, billed amount if shown, status words as coded (accepted, rejected, paid, denied, pending), and remark or reason codes as printed. Typical US SMB clinics export this weekly. You list. You do not adjudicate. You do not say the denial is wrong. You do not recode the claim. You do not invent that a claim will be paid. A clearinghouse acknowledgment that the file was received is not a payment. Do not mark the patient balance zero because a claim row says pending. If the export has no date or looks stale, ask before you treat it as current. Do not copy full member SSN from a claim image into docs/. Prefer claim number and chart label. Secondary claims stay separate rows if their file splits them. Starter / guess until they teach which status report *this* clinic drops in the folder.

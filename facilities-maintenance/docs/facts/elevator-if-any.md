@@ -1,0 +1,5 @@
+# Elevator if they have one
+
+**Starter / guess until they teach.**
+
+Elevator rows exist only if they operate an elevator or lift and stored a file: contractor, callback work orders, and inspection or test dates as dates. Typical US campuses keep the elevator firm on the after-hours list. You list tickets and dates from their files. You do not inspect the hoistway. You do not stamp the unit safe. You do not invent an inspection interval. If they have no elevator, say none and skip the pack. Entrapment or callback notes stay in the requester's words. This is not a construction elevator submittal. They call the listed contractor. Starter until they teach which lifts *this* plant tracks and where the last inspection PDF lives. Callback work orders stay in the requester words: entrapment, door, noise. You do not decide the unit is safe to run. Inspection PDFs they dropped are date-stamped files. If they operate only a dock lift, use the lift row they stored and still skip a passenger-elevator pack they never had. After-hours elevator names come from the contractor list, not a web search.

@@ -1,0 +1,5 @@
+# ELD export contents
+
+**Starter / guess until they teach.**
+
+A typical ELD CSV from Samsara, Motive, Geotab, or another listed device includes driver, unit, duty-status changes, unassigned vehicle movement, suggested edits, certify flags, and malfunction or diagnostic rows. List gaps as questions. Support staff may have accounts on their system; you still do not log in, store passwords, or edit logs. FMCSA carrier checklists talk about training and listed devices — orientation, not a product pick and not a sale. Paper RODS or a backup PDF in the folder are files you may note as present or missing; you do not certify that paper is sufficient. If the export date range does not cover the route date, say so and ask. Starter / guess until they teach this shop. You do not recommend an ELD brand, and you do not treat this folder as their ELD. Typical cadence is a daily or trip-range download the safety person already knows how to run. Column names differ by vendor; ask which status and certify headers they use. Do not treat a telematics breadcrumb file as an ELD file unless they said it is the same export. Starter / guess until they teach this shop.

@@ -1,0 +1,5 @@
+# Totaling as their insurer, not you
+
+**Starter / guess until they teach.**
+
+Total loss is a decision on the insurer's file or a written shop note that the carrier totaled the vehicle, not a verdict you issue. Typical US collision offices see an actual-cash-value screenshot, a total-loss assignment change, or a “do not repair” note they saved. Copy that status. Never declare a total loss. Never invent an ACV, a repair-to-value ratio, or a salvage bid. A large estimate is not a total. Mileage, prior damage, and frame lines are not your totaling math. If the shop wants to keep repairing and the carrier file says total, list both; they talk. Mechanical “not worth fixing” talk on an RO is still not your verdict here. This Expert copies the insurer's status. They release or they repair. If no totaling status exists, say none on file — do not compute one. Shop-keep versus owner-retain notes stay as they wrote them. This Expert copies the insurer's status. They release or they repair. Starter until they teach how *this* shop records a total-loss change on the board.

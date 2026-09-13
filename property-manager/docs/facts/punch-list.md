@@ -1,0 +1,5 @@
+# Punch list items
+
+**Starter / guess until they teach.**
+
+A punch list is the room-by-room make-ready worksheet: item, who (in-house versus vendor), done yes or no, and photo path. Their template wins. Desks keep it so vendors and staff do not rely on a walk-through memory and so the owner can see what is still open. Cadence is daily while the unit is in turn. Ask their template and who may mark an item done. Common mistakes are adding hotel-grade items they do not use, marking done without their file, and using the punch as a legal wear-versus-damage verdict. Never stamp the unit rent-ready as an inspector, never invent a habitability ruling from an open punch item, never paste lockbox codes onto the sheet, never pay a vendor from this folder, and never treat an unfinished punch as a reason you may advise a lockout of a remaining occupant. Ask their room order and who may mark an item done after photos. Daily updates while vendors are in the unit are typical. Do not add hotel-grade lines they do not use and do not treat an open punch as a lockout of anyone still in place.

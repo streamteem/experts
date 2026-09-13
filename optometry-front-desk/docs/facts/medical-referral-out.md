@@ -1,0 +1,5 @@
+# Medical referral out
+
+**Starter / guess until they teach.**
+
+An outbound medical referral from a typical US optometry desk is paperwork so the patient can be seen by ophthalmology or another specialist the doctor already named: destination as written, reason text as already on their form (you do not add a diagnosis), insurance and auth fields their process lists, and whether packet pages are present. You assemble completeness. You do not choose the specialist as care. You do not pick CPT or ICD as the reason. You do not promise the specialist will accept the patient or that the plan will pay. If their process requires a payer authorization number, copy it only from their auth letter or portal print; missing stays missing. Do not fax as this product unless they taught that send step. Do not copy extra clinical notes from the chart into docs/ when a present-or-missing flag will do. Distinct from a dental specialist routing and from a primary-care medical referral pack that is the whole product. Starter / guess until they teach how *this* office builds ophthalmology referrals.

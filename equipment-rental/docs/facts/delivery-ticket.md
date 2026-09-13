@@ -1,0 +1,5 @@
+# Delivery ticket
+
+**Starter / guess until they teach.**
+
+A delivery ticket is the yard’s record that a unit left on their truck or a hired hauler: contract, unit, site address as they stored it, zone or mileage if they use a zone sheet, driver or carrier name, and time out. Typical US SMB yards print a delivery ticket from the rental system or a three-part form. The ticket is not a rate you invent and not a bill of lading you sign as a hazmat certifier. Delivery-zone dollars come from their zone sheet or rate file. If the address is missing, ask; do not invent a jobsite from a phone memory. After-hours drops stay labeled after-hours if their ticket says so. Photos of placement they stored belong with the ticket. Gate codes and lockbox combinations stay out of docs/. Starter until they teach how *this* yard numbers tickets and whether the renter signs on site. You do not pay the hauler. You do not diagnose a unit that would not start at drop-off; you route the note to them and to the inspection or shop file they use.

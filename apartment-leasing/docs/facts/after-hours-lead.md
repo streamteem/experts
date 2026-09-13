@@ -1,0 +1,5 @@
+# After-hours lead
+
+**Starter / guess until they teach.**
+
+An after-hours lead is a call, web form, chat, or lockbox request that arrived outside posted leasing hours. Typical US desks dump these into the CRM overnight and work them the next open morning, or they use an answering service with a script. You log the lead with the timestamp from their export. You do not book a night tour unless their after-hours file says they do, and you do not text from a personal number stored in this folder. Voicemail transcripts they saved are source files; you do not invent what the caller asked. Same-night self-guided tours exist only if their process and availability file allow them. An after-hours lead is still traffic; it belongs on the traffic log with the true source. Do not promise a unit will be held until morning. Emergency maintenance after hours is the other desk. This Expert lists the lead and the next open slot from their hours file. They return the call. Starter until they teach *this* shop's night and weekend lead rule.

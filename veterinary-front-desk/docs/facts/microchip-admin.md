@@ -1,0 +1,5 @@
+# Microchip as a registration file
+
+**Starter / guess until they teach.**
+
+Chip numbers, when they scan or the prior record has one, are identifiers to copy onto their registration form, certificate, or lost-and-found log. Common US registries appear as a brand on the implant record; that is a filing label. You do not register the chip on a public site from this folder. You do not store registry passwords here. Missing chip on a found-animal intake is a staff flag, not a medical exam you perform. A chip that does not match the name on the account is a question, not a merge. Travel certificates that require a chip stay incomplete until the number they store is on the form the veterinarian completes. Starter / guess until they teach which registry they use, who updates owner data, and whether a scan is part of new-patient intake. A chip that reads but is not in the PIMS is still a number to copy and a question for staff, not a new registration you file online. Do not call the registry as the clinic. Travel forms that need a chip stay incomplete until their stored number is on the completed certificate.

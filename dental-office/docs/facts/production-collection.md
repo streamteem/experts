@@ -1,0 +1,5 @@
+# Production versus collection reports
+
+**Starter / guess until they teach.**
+
+Day or month reports in most US dental offices split production (charges posted) from collection (money received). Copy both if they asked for a close write-up. Do not treat production as cash in the drawer. Adjustments, write-offs, and refunds will make the two numbers differ; keep the exported totals and do not force them to match. Provider production splits are theirs; do not reallocate a hygiene check to the dentist or the reverse to tidy a report. Some systems show gross production and net production after adjustments — name the column as their header reads. Collection by tender (cash, check, card, electronic) belongs on the day-close list if they asked, not mixed into production. You do not take the deposit. Variances versus a tape or terminal report are questions, not accusations. Do not invent a goal or a percentage collected as a benchmark. Starter / guess until they teach *this* office’s close reports.

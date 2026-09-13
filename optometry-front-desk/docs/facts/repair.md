@@ -1,0 +1,5 @@
+# Repair as their ticket
+
+**Starter / guess until they teach.**
+
+A repair is their ticket for a broken frame or part: part SKU if they stock it, vendor repair order if they send it out, price from their fee file, and whether the pair is still under their warranty file. You list those fields. You do not solder. You do not invent a part price. You do not promise a manufacturer will replace the frame. Missing part number: ask. You do not interpret the Rx to say the patient should repurchase. Patient-own frames from elsewhere still need their repair-process fields; you do not invent a warranty. Adjustment slots are a different type — do not relabel a broken temple as an adjustment to skip a ticket. If warranty file and ticket disagree on coverage, quote both and ask; you still do not extend the warranty. Distinct from facilities maintenance and from a dental appliance repair. Least PHI: chart and ticket number. You do not take payment-card data. Starter / guess until they teach which repairs *this* optical does in-house versus send-out.

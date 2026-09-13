@@ -1,0 +1,5 @@
+# Change order as a numbered file
+
+**Starter / guess until they teach.**
+
+A change order is a numbered file: number, project name, amount as printed, description as the vendor wrote, and whether the board, manager, or owner’s representative already signed, as the PDF shows. Allowances that convert to extras stay labeled as the form uses so the base contract total is not silently changed. You do not approve extras, do not redesign the roof or the irrigation layout, and do not say the extra was foreseeable or already in the original bid. Missing signature, a number that skips in the sequence, or an extra that does not name the association is a question. Do not fold unsigned extras into the contract total on a bid comparison. One project’s change-order log per write-up unless they asked for a vendor index. Time extensions printed on the same change-order form stay next to the dollar amount; you do not grant days or money, and an email “ok” is not a signature unless their form treats it as one.

@@ -1,0 +1,5 @@
+# Cameras and privacy — ask
+
+**Starter / guess until they teach.**
+
+Doorbell cameras and common-area cameras raise privacy and sometimes state recording-consent questions. Ask their policy. Do not place cameras. Do not store video in this folder. Do not give a wiretap opinion. Typical office file is a short policy pointer and a list of common-area camera locations they already published, not the footage. Desks keep the policy pointer because residents ask and because a coordinator should not invent placement or start a recording rule. Cadence is at install and when a resident complains. Common mistakes are storing video here, placing a camera as your idea, and writing a legal recording memo. Never give a wiretap or privacy legal opinion, never invent a habitability need for cameras, never store camera passwords or cloud logins, never pay a camera vendor from trust yourself, and never use footage as a reason you advise a lockout. Ask whether doorbell cameras are resident-owned, office-owned, or banned, and where any common-area camera list is published. Do not place a camera, store footage, or write a wiretap memo. Cloud logins stay out of this folder.

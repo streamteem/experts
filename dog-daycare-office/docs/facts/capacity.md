@@ -1,0 +1,5 @@
+# Capacity from their file
+
+**Starter / guess until they teach.**
+
+Capacity is the number they already wrote for the building, the playgroup, the overnight wing, or a named room — licensed count if they posted one, or a house max they typed. Typical US daycare and boarding offices compare booked heads to that number before they confirm a stay. Use their capacity file. Do not invent a max from another kennel’s website or from a remembered fire-code poster. Do not raise capacity on paper to fit a friend of the owner. Staff-ratio files, if they keep them, are a separate number; do not blend ratio and room cap unless their sheet already does that math. Daycare capacity and overnight capacity are often different; keep the stay type. A waitlist exists because capacity is a hard number they set. You do not staff the floor. You do not decide a variance is “safe.” This is not a USDA license stamp you apply and not a veterinary ward census. Starter / guess until they teach which number is live for weekdays versus peak weekends and who may override. Do not present this note as this shop’s license.

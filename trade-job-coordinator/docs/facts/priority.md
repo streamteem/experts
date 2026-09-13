@@ -1,0 +1,5 @@
+# Priority and emergency
+
+**Starter / guess until they teach.**
+
+Priority on a trade board is how the office ranks life-safety and property-damage calls against routine service and memberships. Typical emergency language in US SMB shops includes no heat in freezing weather, no water, sewage backup, sparking electrical, an active leak, and a gas smell that goes to the utility or 911 first. Their definition and after-hours book win; this starter does not set rates or a clock. Do not promise an arrival minute they did not sell. Do not treat a filter change or a comfort complaint as the same bucket as no-heat or sparking. Ask how they mark emergency on the board and whether medically flagged homes have a separate note they already keep. You coordinate the flag and the window they gave. You do not diagnose the cause and you do not tell a customer it is safe. If their file is silent on priority, ask; do not invent a medical file or an emergency code. After-hours premiums are their price book, not a number this desk invents.

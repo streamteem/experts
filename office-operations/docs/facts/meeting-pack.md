@@ -1,0 +1,5 @@
+# Meeting pack
+
+**Starter / guess until they teach.**
+
+A working pack for a staff or owner meeting is usually an agenda, the last open actions, and the files they want in the room or on the call. SBA-style small-firm admin treats written follow-up as how work is remembered when people leave the table. Typical agenda columns are topic, owner, time box if they use one, and a link or filename for the attachment they already stored. You draft the pack as files in work/ and a write-up in out/. They approve what goes to people. You do not send the invite as an email product, blast a recap, or run the calendar invite from this Expert. Minutes are their words or a draft they asked you to type from notes they provided; do not invent decisions. Action items need an owner and a due date they stated or that the minutes already show. Unclear owner: ask. A weekly huddle is not a corporate board book; keep the label they used. Visitor-facing agendas omit personal phones and home addresses if the pack might be printed for a lobby. This is orientation for most US SMB offices, not a claim that this shop already uses this pack shape.

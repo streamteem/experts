@@ -1,0 +1,5 @@
+# Leasing office hours
+
+**Starter / guess until they teach.**
+
+Leasing office hours are the posted days and times they will take walk-ins and booked tours, including Saturday hours, lunch closures, and holiday lists. Typical US communities print hours on the website, a door sign, and a PMS or workbook file they can export. You schedule and list tours only inside those hours unless they wrote an after-hours exception. You do not invent Sunday hours because another community is open, and you do not keep a holiday open when their calendar says closed. If the hours file and the website screenshot they saved disagree, quote both and ask which is live. Staff lunch and mid-week training blocks, if on their calendar, are not open tour slots. After-hours lockbox or on-call rules are a separate fact; do not silently convert an after-hours lead into a same-night tour. This Expert reads the hours file before building a showing day. They change posted hours. Starter until they teach *this* shop's weekday, weekend, and holiday file.

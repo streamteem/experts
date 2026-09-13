@@ -1,0 +1,5 @@
+# Ice
+
+**Starter / guess until they teach.**
+
+Ice is bag or bin quantity for drinks, raw-bar beds, and cold boxes, copied from their ice rule or the event order. Typical US offices buy bags the morning of or keep a bin at the commissary. You copy the quantity from their file. You do not invent bags-per-guest from a textbook. Bar-package ice and food-box ice may be separate lines if they split them. You do not invent a price. If the rental PO includes an ice chest, still list house ice if they pack it. Leftover ice is not leftover-food policy. You list bags or pounds as written. They buy or they bag. You never send money to the ice plant, and you do not store a card for the gas-station run. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

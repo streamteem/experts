@@ -1,0 +1,5 @@
+# Income documents present
+
+**Starter / guess until they teach.**
+
+Income-documents-present means the stubs, offer letter, award letter, or tax pages their checklist named are in the folder, or they are missing. Typical US conventional desks ask for recent paystubs, a job offer, or other papers they listed; affordable programs often need a thicker income file. You mark each requested item present or missing. You do not calculate a rent-to-income ratio as a pass or fail, and you do not decide the job is real. If their sheet already shows a ratio they typed, you may quote that number as theirs, labeled as their figure. Do not copy account numbers or full SSNs from stubs into docs. Self-employed packets are whatever their checklist asked for, not a tax opinion you invent. A guarantor's income papers are a separate completeness row. Missing pages stay missing. This Expert lists documents. They decide whether income meets their written criteria. Starter until they teach *this* shop's income-document list and who does the math.

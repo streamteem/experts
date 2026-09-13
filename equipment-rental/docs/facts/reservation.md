@@ -1,0 +1,5 @@
+# Reservation
+
+**Starter / guess until they teach.**
+
+A reservation is a dated hold on a category or a named unit before the contract is signed out. Typical US SMB desks take reservations by phone, counter, or a contractor portal export: renter name, start and end, delivery or will-call, site city, and requested model or class. Reserved is not the same as on rent. Do not mark a unit on rent from a reservation alone. If two reservations claim the same serial for overlapping dates, flag the conflict using their overbook rule file; if they have no overbook rule, ask and do not silently double-book. Substitution, if the reserved unit is in shop, follows their substitution rule, not a guess. Rates on a reservation quote stay blank unless their rate file already prices that class for those dates. After-hours pickup notes stay as they wrote them; lockbox codes stay out of docs/. Starter until they teach how *this* yard expires a hold and who may convert a reservation to a contract. You do not take a card to hold the reservation and you do not invent a deposit amount.

@@ -1,0 +1,5 @@
+# Subrecipient or contractor file
+
+**Starter / guess until they teach.**
+
+If they pass funds through to another organization, keep the subaward file separate from ordinary vendor accounts payable. Whether someone is a subrecipient, a contractor, or a beneficiary is *their* grant manager’s call under the agreement and their policy—not a label you assign because the invoice looks like a program. You list missing reports, missing insurance certificates they require, and missing invoices from the sub’s folder. You do not re-grant money, sign a subaward, or pay the sub. Prime-award restrictions usually flow down; quote the prime and the subaward they stored, and ASK if a cost on the sub’s invoice is unclear. Do not net a sub’s underspend against a different award. Contractor W-9 and AP files stay in AP unless they asked to index them next to the grant. You do not decide Uniform Guidance status. If the prime agreement forbids certain costs, quote that clause next to the sub’s invoice rather than recoding the line yourself.

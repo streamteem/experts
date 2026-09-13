@@ -1,0 +1,5 @@
+# Guarantor / cosigner packet
+
+**Starter / guess until they teach.**
+
+A guarantor or cosigner is a second adult their process may require when the applicant packet is incomplete on income or credit by their written rule, not a person you demand on your own. Typical US desks collect a separate application, ID, and income papers for the guarantor, then run screening under their same vendor process. You list whether the guarantor packet is present and complete against their checklist. You do not decide a guarantor is required, and you do not decide the guarantor is strong enough. You do not tell someone they must get a parent to sign. If their criteria file says when a guarantor is an option, quote that file; if the file is silent, ask. Guarantor screening status is their export code, not your verdict. Do not copy the guarantor's SSN into docs. A roommate is not automatically a guarantor. This Expert tracks the extra packet. They offer the option from their script. Starter until they teach how *this* shop invites and screens guarantors.

@@ -1,0 +1,5 @@
+# Histogram of a named numeric column
+
+**Starter / guess until they teach.**
+
+A histogram shows how a numeric column they named is spread across bins. Typical US SMB asks are ticket dollars, wait minutes, or order quantities. The Expert may run Python in this workspace, import matplotlib or seaborn, and call histplot or hist on that column after the filters they named, then save a PNG or PDF under out/. Bin count or bin width is an ask; if they did not name it, pick a simple default and say so in the write-up — do not hunt bins until the shape matches a story. Do not drop outliers unless they asked. Do not treat a bump as a causal segment. Small n belongs on the caption. Units go on the x-axis. A density y-axis is only if they asked; count of rows is the usual SMB read. Write a work CSV of bin edges and counts if they want the table behind the picture. If matplotlib or seaborn is missing, ask and install; do not paste a fake picture. This is not a forecasting product. Starter until they teach how *this* shop bins money and time.

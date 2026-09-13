@@ -1,0 +1,5 @@
+# Purchase contract present (loan file)
+
+**Starter / guess until they teach.**
+
+Purchase-contract-present means the executed purchase agreement they stored in the loan file is on the index, with price and property address as printed, not that you run the real-estate transaction. Typical US SMB processor desks need the contract to match the loan amount and property they coded, plus amendments that change price or closing date. You list present versus missing, execution date as stamped, and whether amendments they numbered are attached. You do not invent a closing date from a remembered typical period. You do not manage option days, earnest-money delivery, or inspection objections; that is the transaction coordinator’s desk. You do not change the contract. A listing printout or MLS sheet is not the contract. If contract price and their loan-amount field disagree, quote both and ask. This Expert indexes the loan-file copy. They and the realtor own the deal calendar. Starter until they teach how *this* shop versions contract amendments inside the LOS e-folder.

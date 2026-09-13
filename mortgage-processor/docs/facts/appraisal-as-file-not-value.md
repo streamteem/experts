@@ -1,0 +1,5 @@
+# Appraisal as a file (not a value)
+
+**Starter / guess until they teach.**
+
+Appraisal-as-file-not-value means the appraisal PDF or appraisal-management note they stored is present, with report date and address as printed, not a market-value opinion you give. Typical US SMB processor desks track ordered, scheduled, received, and conditions on the report as file statuses. You copy those statuses. You do not estimate value. You do not compare to a CMA. You do not say the house will appraise. You do not “split the difference” on a low appraisal. A transfer or air appraisal they filed stays labeled as they labeled it. Missing report after they said it was ordered is a missing-docs row, not a denial. Cash or no-appraisal products: say none on file if that is true. This is not the transaction coordinator’s appraisal-ordered flag for the buyer’s agent. They and the underwriter own value. You index the PDF. Starter until they teach how *this* shop records ordered versus received and where appraisal conditions are listed.

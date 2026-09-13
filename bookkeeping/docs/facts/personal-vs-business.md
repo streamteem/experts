@@ -1,0 +1,5 @@
+# Personal vs business
+
+**Starter / guess until they teach.**
+
+On a typical US desk personal versus business is the daily mess of a personal charge on the shop card, or a shop deposit into a personal account. SBA-style orientation is that a dedicated business account reduces mix-ups. Real shops still mix. The ask exists so draws and contributions are labeled and so the P&L is not a household register. Next files are the card-coding pack and the bank-questions list. Typical fields are date, payee, amount, and their label (business, draw, contribution, ask). Files are the card or bank line and their word. Cadence is every coding batch. The bookkeeper asks; the owner labels. Do not lecture. Shops vary. Ask; code draws or contributions when they say so. A starter guess until they teach: mixed-looking lines are questions, not silent office supplies. Common mistakes are hiding personal in supplies, treating a mixed account as fully business income, and scolding the owner in the write-up. Never invent the label, never treat a mixed account as all sales, never give a commingling legal opinion, never pay personal bills, and never store personal account passwords.

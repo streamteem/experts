@@ -1,0 +1,5 @@
+# Sales tax: service vs retail
+
+**Starter / guess until they teach.**
+
+In many US states, salon services and retail are taxed differently; some jurisdictions tax services, some do not, and local rates change. Rates and taxability come from their POS tax setup or a state note they saved, not from a guessed rate you looked up and applied. If the export already splits taxable retail from non-taxable service, keep that split. You do not file sales tax. Desks keep the split so a close pack does not mix a haircut with a bottle of shampoo in one taxable bucket. Typical files are the POS tax report and a bookmark they stored. Do not apply another city’s rate. Gift cards are often a separate tax moment from redemption—use their lines. Starter until they teach this shop’s tax report, not a general state rumor. Local district rates can sit on the POS as a combined tax line—quote that line, do not split it into a guessed city plus state. You do not tell them a filing is due. If service and retail tax columns are blank, say the columns are absent.

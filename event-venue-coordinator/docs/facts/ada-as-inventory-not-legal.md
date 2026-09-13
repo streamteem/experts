@@ -1,0 +1,5 @@
+# ADA as inventory (not legal)
+
+**Starter / guess until they teach.**
+
+Accessible tables, ramps, restrooms, assistive-listening kits, and guest-room types appear as inventory on their room or hotel file — not as an ADA legal opinion. Typical US venues can list how many wheelchair-companion positions their diagram template includes if that template is in the folder. You copy those counts. You do not decide whether the venue complies with law. You do not refuse or promise an accommodation as counsel. A guest request is a routing note to them. You do not invent a ramp that is not on the inventory. Stage access is inventory if they have a ramp or lift on file. Sources such as ADA.gov are orientation only. Starter until they teach how *this* venue logs accessible inventory and requests. Companion-seat positions on their template are inventory, not a seating-law ruling. You do not move a guest as counsel. Assistive-listening kit present-or-missing is a file check. Service-animal questions route to them; you do not write a policy.

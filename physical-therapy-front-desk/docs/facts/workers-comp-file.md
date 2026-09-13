@@ -1,0 +1,5 @@
+# Workers’ compensation as their file
+
+**Starter / guess until they teach.**
+
+Workers’ compensation PT visits in a typical US clinic need a claim number, employer or carrier as they recorded, date of injury as on their form, and whether the carrier letter, adjuster note, or auth they require is in the folder. Completeness only. You do not decide compensability. You do not give a legal opinion that the injury is work-related. You do not treat. You do not choose work-status restrictions as the therapist. Copy work-status forms as present or missing after the therapist already completed them — you do not fill restrictions. Billing a WC carrier versus the health plan is their billing rule file, not a coverage promise you invent. If the claim number is missing, ask; do not invent one. Do not copy extra incident narrative into docs/. Remaining WC visits still come only from their WC auth file. Starter / guess until they teach how *this* clinic flags WC appointments. Adjuster phone numbers are for their staff; do not store extra claim narrative in docs/.

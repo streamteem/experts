@@ -1,0 +1,5 @@
+# Start-up week
+
+**Starter / guess until they teach.**
+
+Start-up week is their planned first maintenance visits of the growing season: first mow, clock wake-up if they do it, debris, and sometimes a walk that becomes extras. Typical US northern shops crush this week; southern shops still date a “season start” after dormancy or after a hold. Dates come from their seasonal calendar and property list, not from a bloom you saw on a street. First-mow height comes from their height file, not a scalp you recommend. Irrigation start-up is a ticket and a clock file, not an engineering stamp. Skip lists still win. You pack the week. They call the start. Starter until they teach when *this* shop rolls the first mow and who may delay a neighborhood. First-visit extras the walk finds still need authorization. Irrigation start-up stays a ticket, not a redesign. Skip lists and dog flags still win on week one. Do not invent a first-mow height. Starter until they teach when *this* shop rolls neighborhoods and who may hold a street for wet ground.

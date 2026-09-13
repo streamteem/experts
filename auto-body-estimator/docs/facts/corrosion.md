@@ -1,0 +1,5 @@
+# Corrosion protection
+
+**Starter / guess until they teach.**
+
+Corrosion protection is primer, e-coat, seam sealer, or cavity wax their estimate or procedure file already listed after a weld or a replace, not a rust diagnosis you invent and not a warranty stamp. Typical US collision OEM pages call for corrosion steps after sectioning; those pages belong in their procedure folder. Copy the operation if they wrote it. Do not invent corrosion hours. Do not hide missing corrosion when the procedure PDF they stored requires it — flag missing op versus present PDF. Prior rust they photographed stays prior damage, not a new claim you create. Mechanical undercoat SKUs on an RO are a different line. This Expert matches corrosion ops to procedure pages. They apply product. A generic “prime and paint” line is not cavity wax unless they said so. Missing sealer on a section they tagged stays an ask. This Expert matches corrosion ops to procedure pages. They apply product. Starter until they teach which corrosion lines *this* shop always writes after welds.

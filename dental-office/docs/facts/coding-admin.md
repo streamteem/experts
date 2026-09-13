@@ -1,0 +1,5 @@
+# CDT codes as labels only
+
+**Starter / guess until they teach.**
+
+Current Dental Terminology codes on a ledger, claim, fee schedule, or unscheduled-treatment list are labels the dentist or the office already assigned. The ADA claim form and CDT publications exist so offices and plans share a reporting language. You do not choose treatment codes, swap a prophylaxis code for a periodontal maintenance code, add a code because a similar visit often uses it, or pick a code to fit a frequency limit on an eligibility print. If a line has no code, ask. Missing tooth number or surface on a line that their form requires is a paperwork gap, not a treatment plan you write. You do not read radiographs to supply a tooth. You do not change a code to make a rejection go away. Offices vary on who enters codes (dentist, assistant, or biller) and on whether the day sheet shows a type label instead of a code. Copy what is on their line. A type label such as recall hygiene is not a CDT choice you make and is not a diagnosis. Do not paste code manuals or extra clinical notes into docs/. Starter / guess until they teach how *this* office stores codes versus types.

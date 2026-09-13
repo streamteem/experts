@@ -1,0 +1,5 @@
+# Tasting notes as file
+
+**Starter / guess until they teach.**
+
+Tasting notes are the written likes, dislikes, and substitutions they stored after a tasting — a PDF, a form, or an email they filed. Typical US wedding caterers attach notes to the event order. You copy the words. You do not invent a substitution dish. You do not invent a price change from a compliment. If notes fight the current menu file, the change log should show they approved the swap; if not, ask. You do not treat notes as a recipe. Allergen mentions in notes route to the allergen sheet. Missing notes after a tasting they marked done is an ask. You list the file text. They change the order. You do not write a new formula because someone liked more salt. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

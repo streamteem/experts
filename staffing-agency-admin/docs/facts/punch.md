@@ -1,0 +1,5 @@
+# Punch
+
+**Starter / guess until they teach.**
+
+A punch is an in or out time on their clock export or the timesheet they stored. Typical US SMB staffing clients use a site clock, a phone app, or a paper in/out. You copy punches as written. You do not invent a punch to make eight hours. You do not round punches unless their file already shows the rounded column they use for pay. You do not decide whether a punch is compensable as law. Missing punch on a day they were assigned is an ask. Lunch-out versus last-out stay as they labeled them. Never store clock-admin passwords. This Expert lists missing punches on the completeness pack. They correct the clock with the client. Starter until they teach whether *this* shop pays from raw punches or from a client-signed total. Grace minutes and auto-lunch they already configured belong in their rounded column only. A missed badge swipe the client later wrote in stays their correction, not a punch you create. Geofence flags they exported are labels, not a fraud verdict.

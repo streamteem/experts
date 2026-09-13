@@ -1,0 +1,5 @@
+# Committee packets
+
+**Starter / guess until they teach.**
+
+Committee meetings—finance, governance, development, program, or audit—may have their own mini-packs: a short agenda, last committee notes, and the exhibits that committee actually reviews. Keep those files labeled as committee, not as full-board action, until the board pack or the adopted minutes say the item moved up. A finance-committee recommendation is not a board vote. A development-committee prospect list is still a list they communicate from, not a blast you send. If the same PDF appears in both a committee folder and the board folder, label which meeting it is for so directors are not told a draft was already adopted. You assemble completeness. You do not chair the committee, decide a recommendation, or recast restricted figures in the finance mini-pack. If they ask you to lift a committee exhibit into the board packet, copy the file they named and keep the committee label in the index until the board agenda says otherwise. Starter committee names are a sketch; *their* committee list wins.

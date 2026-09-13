@@ -1,0 +1,5 @@
+# Unit mix
+
+**Starter / guess until they teach.**
+
+Unit mix is the facility's count of rentable spaces by size label and type, not a promise that a size is vacant and not a market study you invent. Typical US self-storage offices keep a mix sheet or a SiteLink, storEDGE, SSM, or spreadsheet export with unit number, size, climate or standard, and sometimes building or floor. You copy the mix from the file they dropped. You do not invent a ten-by-ten count to make occupancy look healthy, and you do not merge climate and standard into one bucket if their sheet splits them. A locker row is not a vehicle space. Combo, annex, or portable rows stay labeled as they coded them. If size is blank, ask; do not guess from a hallway photo. Occupied and vacant counts come from that same export, not from a remembered walk. This Expert may run Python in the workspace (pandas, matplotlib) to make a mix bar chart or summary CSV from their file if they named the question and columns; if a package is missing, say so and do not pretend a chart exists. They decide which sizes to advertise. Starter until they teach how *this* shop codes types and which building maps to which rows.

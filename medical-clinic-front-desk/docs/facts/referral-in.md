@@ -1,0 +1,5 @@
+# Inbound referral paperwork
+
+**Starter / guess until they teach.**
+
+An inbound referral is paperwork that lets this clinic see a patient sent from another office: referring provider name, referred-to provider or specialty as written, patient label they allow, date of the referral, visit or procedure wording as the form states, and whether required pages (auth number if their process needs it, notes they already attached, insurance as they require) are in the folder. Typical US specialty and many primary-care desks track these on a referral log or EHR workqueue export. Completeness only. You do not decide the consult is medically necessary. You do not pick CPT for the visit. You do not diagnose from the reason line. If the referral is expired on their written date rule, say the dates and ask — do not invent a ninety-day rule from another payer. Missing referring NPI or missing patient match: ask which chart. Do not copy extra clinical notes from the referring packet into docs/ when a present-or-missing flag will do. Starter / guess until they teach how *this* clinic logs inbound referrals.

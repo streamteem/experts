@@ -1,0 +1,5 @@
+# Employee and owner reimbursements
+
+**Starter / guess until they teach.**
+
+On a typical US desk a reimbursement is an employee or owner out-of-pocket spend that the shop will repay: an expense report with receipts, then an AP bill or a bank transfer. Owner out-of-pocket may be contribution plus expense or a draw reversal. Ask. The trail exists so the same lunch is not on the card and on a report. Next files are the expense report, receipts, and the pay list. You never pay. Typical fields are person, date, amount, account, receipt path, and paid-or-open. Files are the report PDF or sheet plus receipts. Cadence is whenever reports arrive. The bookkeeper codes; they pay. Shops vary. Ask owner treatment. A starter guess until they teach: employee reports become AP if they enter bills; do not expense a reimbursement that is already on the card. Common mistakes are double-counting card plus report, paying from this folder, and treating owner out-of-pocket as wages. Never pay, never invent a report, never store a full card image, and never treat a reimbursement as a tax-free plan opinion.

@@ -1,0 +1,5 @@
+# Write-offs and allowances
+
+**Starter / guess until they teach.**
+
+On a typical US desk writing off accounts receivable is an owner or CPA decision with a date and a reason in their file. Cash-basis shops may have little AR to write off. An allowance for doubtful accounts is even less common on small books. The rule exists so aging is not "cleaned" for looks. Next files are their written instruction and a journal only if they already use one. Typical fields are customer, invoice, amount, date they authorized, and reason as they wrote. Files are an email or a close-checklist tick. Cadence is rare, often year-end. The bookkeeper does not write off; they list and ask. Shops vary. Do not write off to make aging pretty. A starter guess until they teach: 90-plus is a question list, not a write-off. Common mistakes are dumping write-offs into miscellaneous expense, writing off a credit balance, and treating a write-off as a tax bad-debt opinion. Never write off without their word, never invent an allowance, never decide tax deductibility, and never threaten the customer.

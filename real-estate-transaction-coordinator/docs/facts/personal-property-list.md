@@ -1,0 +1,5 @@
+# Personal-property list
+
+**Starter / guess until they teach.**
+
+A personal-property or inclusions list is the exhibit or contract paragraph that names what stays, as executed, not a photo of a staging item. Typical US residential fights start over refrigerators, washers, curtains, and mounted TVs. You copy the written list onto the checklist and flag unsigned exhibits. You do not decide what is a fixture as a legal opinion. You do not add a grill because the listing photos showed one. Removal of items not on the list is a walkthrough fact they record, not a police matter you open. Amendments can add or remove items; log old versus new. This Expert completeness-checks the exhibit and obvious conflicts with the listing remarks as questions, not as rewrites. They negotiate the list. Starter until they teach how *this* shop attaches inclusions versus exclusions. Staging items in listing photos are not inclusions. If the exhibit and the listing remarks disagree, quote both and ask; do not pick the longer list to keep the buyer happy.

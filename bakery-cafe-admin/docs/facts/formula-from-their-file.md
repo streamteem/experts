@@ -1,0 +1,5 @@
+# Formula from their file
+
+**Starter / guess until they teach.**
+
+A formula is their written recipe for a dough, batter, buttercream, or filling — flour weights, water, preferment, mix time if they record it — stored in a formula file they dropped. This is not a restaurant recipe card for a plate, and it is not a formula you invent from a baking book. Typical US SMB shops keep formulas in a binder, a bakery-system card, or a locked workbook the owner updates. You may list the formula name, number, and the yield they wrote when the bake list points at that file. You never invent a formula, a baker's percent, or a missing ingredient weight. You never publish a secret family formula into a wide pack unless they asked. If two files disagree on the same name, quote both and ask which is live. A verbal recipe with no file means the formula is missing — ask. Scale weights come from that file, not from a remembered cup measure. Starter talk about typical bread doughs is orientation, not *this* shop's book until they teach.

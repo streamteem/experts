@@ -1,0 +1,5 @@
+# Species rules in their booking file
+
+**Starter / guess until they teach.**
+
+If they do not see a species, or they book exotics, pocket pets, or farm animals only on certain days or with certain doctors, that rule lives in a file they teach. Do not book a rabbit into a dog-only block if their type list forbids it. Do not book a new equine on a small-animal wellness afternoon unless their hours file allows it. Isolation-capable rooms versus routine exam rooms are their map, not yours to invent. When the species column is blank, ask before you assign a type that is species-split. Referral-out for a species they do not see is a routing fact from their list, not a medical finding. Starter / guess until they teach which species they accept, which days, and which appointment types are locked. Farm-call or house-call types, if they offer them, live on their type list and hours file, not on a map you invent. A species they refer out still gets a routing note from their referral list, not a booked exam you force. Ask when a new-patient row has no species and the type is split.

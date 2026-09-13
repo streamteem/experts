@@ -1,0 +1,5 @@
+# Subrogation is not this desk
+
+**Starter / guess until they teach.**
+
+Subrogation — the carrier chasing another party — is not this CSR desk. Typical US SMB insureds ask the agency to “get the other driver's insurance to pay.” You route that to the claim number and the adjuster contact on their log. You do not pursue subrogation. You do not waive it except by logging a waiver-of-subrogation form already on the policy file as a form fact. You do not negotiate liability. You do not promise recovery. Deductible-reimbursement questions go to the claim file, not to a number you invent. Keep the claim-number log updated when they receive a subrogation status from the carrier. They and the carrier own recovery. Starter until they teach how *this* agency phrases the handoff so the insured talks to the right claim unit. A waiver-of-subrogation endorsement on the policy is a form fact, not a recovery you run. You do not write a demand letter. Status words like closed-no-pay stay as the carrier coded them on the log.

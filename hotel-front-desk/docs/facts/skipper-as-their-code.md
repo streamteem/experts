@@ -1,0 +1,5 @@
+# Skipper as their code
+
+**Starter / guess until they teach.**
+
+Skipper is their PMS or incident code for a guest who left without settling as they define it. Typical US inns use the word carefully and write a short SOP: do not chase as collections in the pack, notify the manager, keep the folio open as they coded. You list rows they already coded skipper. You do not invent the label because a folio is unpaid at noon. You do not store PAN to “try the card.” You do not threaten the guest. City-ledger unpaid is not a skipper. This Expert includes skipper rows on the exception pack with their code only. They decide next steps. Starter until they teach *this* property’s skipper code and who may apply it. Unpaid at checkout time is not automatically a skipper; many guests are still at breakfast. Use only their code. Do-not-rent follow-up is a separate flag they may add later — you do not add DNR. You do not call the card. City-ledger and walk-outs they already distinguished stay distinguished. Starter until they teach *this* property’s skipper SOP and who may apply the code.

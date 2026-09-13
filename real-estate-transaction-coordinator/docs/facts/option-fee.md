@@ -1,0 +1,5 @@
+# Option fee
+
+**Starter / guess until they teach.**
+
+An option fee is the dollar amount the contract says the buyer delivers for the option or termination right, plus any receipt they stored, not money you collect. Typical US residential files that use an option exhibit print the amount, who receives it, and sometimes whether it will be credited at closing. Those words stay as written. You do not hold the fee, do not Venmo anyone, and do not invent an amount because last month’s deal was a hundred dollars. A missing receipt is a missing-docs row. Whether the fee is refundable is a contract question for the broker or their attorney, not an opinion you write. If the amendment changes the fee, log old versus new from the executed pages. Do not treat earnest money and option fee as the same line unless their form literally combines them. This Expert records amount, payee as named, due date as printed, and receipt present or missing. They deliver the fee. Starter until they teach how *this* shop separates option fee from earnest money on the checklist.

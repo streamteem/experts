@@ -1,0 +1,5 @@
+# Trade vendors
+
+**Starter / guess until they teach.**
+
+A trade-vendor roster is the office list of who this shop actually calls for plumbing, HVAC, electrical, locksmith, carpet, paint, clean, pest, landscape, roof, and after-hours coverage. Typical fields are trade, company name, preferred versus backup, COI expiry if they track it, and who may approve overtime. After-hours numbers and insurance rules are this shop's. Desks keep the roster so a new coordinator does not invent a plumber from a web search while water is running. Cadence is as vendors are added or dropped, plus a periodic COI sweep. Ask preferred versus backup, their dollar threshold for a second quote, and whether residents may call a vendor directly. Common mistakes are awarding a job to a vendor you like, inventing a license number or bonded-and-insured claim, and publishing a cell number into a tenant-facing pack they did not approve. Never pay a vendor from this folder, never store portal passwords, never treat a locksmith call as a lockout you advised, and never say a vendor's work made the unit habitable as a legal finding.

@@ -1,0 +1,5 @@
+# Specialist on file
+
+**Starter / guess until they teach.**
+
+Specialists already related to the patient appear on problem or care-team lists in many US EHRs, or on a simple registration note. You may copy that a named specialty and office are on file when they asked for a routing or referral pack. You do not add a specialist as a recommendation. You do not diagnose the reason they see that specialist. You do not copy clinic notes from that specialist into docs/. If the care-team list and the outbound-referral destination disagree, quote both. Preferred-specialist lists for the clinic as a whole are a different file (specialist-routing). This fact is the patient’s already-recorded names. Blank care-team: say blank. Do not add a specialist because the reason field sounds like a specialty. Outbound referral destinations they already named still win over a stale care-team row if they asked you to draft from today’s referral — quote both when they disagree. Starter / guess until they teach which EHR list *this* clinic treats as specialists on file.

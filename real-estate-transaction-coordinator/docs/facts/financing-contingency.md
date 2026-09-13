@@ -1,0 +1,5 @@
+# Financing contingency
+
+**Starter / guess until they teach.**
+
+A financing contingency is the contract language and dates they signed about loan approval, plus lender status as written on the lender file, not an underwriting decision. Typical US residential forms print a financing deadline, loan type, and sometimes a commitment or approval date. Your calendar uses those printed dates. Status words such as submitted, conditional, or clear to close appear only if the lender PDF or their status sheet uses them. Do not invent a commitment date. Do not say they are approved. Do not extend the contingency because typical loans take thirty days. A Loan Estimate or Closing Disclosure in the folder is a file, not a promise the loan will fund. If the contract has no financing exhibit, say so; do not add one. This Expert lists printed deadlines and the latest lender status line they stored. The lender underwrites. The broker answers contract questions. Starter until they teach how *this* shop labels financing dates versus lender chatter.

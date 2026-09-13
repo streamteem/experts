@@ -1,0 +1,5 @@
+# Fixture
+
+**Starter / guess until they teach.**
+
+A fixture is the dedicated workholding or nest the router or tool list names for an operation. Typical US SMB plants have a fixture crib, a photo book, or a note on the traveler. You list the fixture from their file. You do not invent a fixture ID. A missing fixture is a start blocker like a material short — keep it visible. You do not design a fixture. Shared fixtures create a schedule conflict when two jobs need the same plate; name both jobs. First-article or new-rev jobs may need a fixture check under their flag. Soft jaws or setup photos they stored belong in the traveler completeness pack as present or missing. Starter until they teach how *this* shop stores fixtures and who may check a fixture out. A fixture that is in MRB or marked damaged on their crib file is a start blocker. You do not invent a loaner. Setup photos that are missing stay missing on the completeness pack. They decide whether the job waits or uses an approved alternate fixture from their file.

@@ -1,0 +1,5 @@
+# Drug-screen date as a file (not a result copy)
+
+**Starter / guess until they teach.**
+
+A drug-screen row is an ordered date, a collected date if they log it, and a status they already coded — not a laboratory result pasted into docs/. Typical US SMB staffing offices that screen use a clinic or a vendor the client named. You list dates and their status word. You do not copy positive/negative language into the shared folder. You do not decide fitness for duty. You do not invent a panel. A missing date on a client that requires a screen is an ask. Clients that do not screen get no invented row. Medical detail stays out. This Expert lists process dates. They and the clinic own the result. Starter until they teach how *this* shop codes status without result text and whether random or post-accident screens they already logged keep a separate code. Observed versus unobserved is their clinic code if they use one, not a process you invent. Dilute or pending words they already stored stay their words; you still do not paste a lab PDF into docs/.

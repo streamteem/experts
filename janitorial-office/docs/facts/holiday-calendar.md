@@ -1,0 +1,5 @@
+# Holiday calendar
+
+**Starter / guess until they teach.**
+
+The holiday calendar is their dated list of nights or days a site is closed, reduced, or needs extra coverage. Typical US offices keep a customer calendar plus a company holiday list; they can disagree. Copy both when present and flag conflicts. Do not invent a federal holiday skip. Do not invent extra-day coverage for a party. School calendars and hospital 365 calendars stay those files. A holiday skip is not a missed-service if they already removed the night. Crew hours on holidays come from their file, not a wage you invent. This Expert packs coverage holes. They call the customer. Starter until they teach which calendar wins when the customer is open and the company is closed. Company holidays and customer-open days can disagree; quote both. School district calendars and hospital 365 calendars stay those files. Do not invent extra-day coverage for a party. A calendar skip is not a missed-service. Crew names on holiday nights come from the roster, not a guessed volunteer. Starter until they teach which calendar wins when the customer is open and the company is closed.

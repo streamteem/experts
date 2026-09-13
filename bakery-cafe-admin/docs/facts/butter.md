@@ -1,0 +1,5 @@
+# Butter
+
+**Starter / guess until they teach.**
+
+Butter is a par-ingredient and a laminated-dough input from their formula file — not a restaurant sauté butter par and not a roll-in weight you invent. Typical US SMB shops receive cases of prints or blocks, keep a case or pound count, and name a roll-in butter on the laminate formula if they stored it. You copy counts and pars from their files. You do not invent a butter percent. You do not invent a case pack. Receiving shorts on butter stay visible next to the invoice. Dairy allergen status quotes their sheet. Freeze of extra blocks follows their freeze note. Cafe versus wholesale does not change the ingredient par unless they split dry stores that way. You do not pay the dairy vendor. Starter butter talk is orientation until they teach *this* shop's butter SKU and par. Roll-in butter on a laminate formula is still their weight, not a percent you guess from a croissant book. Invoice pounds and case counts stay separate columns if they keep both. Starter until they teach *this* shop's butter SKU and how they count open blocks.

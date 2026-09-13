@@ -1,0 +1,5 @@
+# Tooth and surface as their labels
+
+**Starter / guess until they teach.**
+
+Tooth number and surface on a claim, ledger, or lab slip are labels already on the line. Typical US offices use the Universal numbering system (1–32) on claims; some chairside notes use Palmer or names. Copy the numbering their form already shows. If a restorative line their form requires is missing tooth or surface, list the gap. Do not pick a tooth because a radiograph, photograph, or chart note looks like that tooth to you. You do not read films. Do not invent a surface to match a common crown or filling pattern. Quadrant or arch labels, when their form uses them, stay as printed. Missing-tooth boxes on the ADA form are paperwork they already marked or left blank — you do not complete them from memory. A missing label is not a treatment plan. You do not change tooth number to fix a rejection unless their note says the office already corrected it. Least PHI: the tooth label on the claim line is enough; do not paste the clinical note that mentions the tooth. Starter / guess until they teach how *this* office writes tooth and surface.

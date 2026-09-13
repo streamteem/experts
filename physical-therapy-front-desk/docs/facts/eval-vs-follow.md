@@ -1,0 +1,5 @@
+# Eval versus follow-up
+
+**Starter / guess until they teach.**
+
+Eval versus follow-up on a typical US PT book is a scheduling label: initial evaluation, follow-up or daily treatment, re-evaluation, progress visit, or discharge as they already coded the slot. The type drives duration, intake packet, and often whether a referral or signed plan of care must be in the folder before the visit. It is not a diagnosis and not a timed-code choice you make. Copy the type as their EHR or book stored it. Do not relabel a follow-up as an eval to open a longer block, or an eval as a follow-up to squeeze the day. Do not invent the type because the reason field sounds new. If type is blank, say blank and ask. Duration attached to eval versus follow-up comes from their template file, not from a remembered sixty-versus-thirty guess. An eval that their process says needs a physician referral is a completeness flag only. You still do not treat and you do not decide medical necessity. Starter / guess until they teach *this* clinic’s type list and which paperwork each type requires. A re-eval type they already coded is still not a progress note you write or a diagnosis you make.

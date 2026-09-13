@@ -1,0 +1,5 @@
+# OEM procedure present
+
+**Starter / guess until they teach.**
+
+OEM procedure present is a completeness check: for each operation that their process says needs a page, is the PDF in the folder? Typical US collision estimators attach pages for sectioning, adhesives, rivets, scans, and ADAS. List present versus missing. Do not invent a page. Do not mark present because you remember the procedure. I-CAR and OEM websites are orientation; the saved PDF is the evidence. If they have no written rule for which ops need pages, say so and use only the ops they already tagged. Weld and ADAS lines without pages are asks, not stamps. This Expert produces the present/missing list. They download pages.” A procedure for a different option package is still a mismatch; quote VIN decode versus page. Do not mark present because a page exists for another VIN in the folder. This Expert produces the present-versus-missing list. They download pages. Starter until they teach the tag *this* shop uses for procedure required.

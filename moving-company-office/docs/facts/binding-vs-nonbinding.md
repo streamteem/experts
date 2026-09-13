@@ -1,0 +1,5 @@
+# Binding vs non-binding as their file
+
+**Starter / guess until they teach.**
+
+Binding, non-binding, and not-to-exceed are labels on their estimate or order form — not a legal opinion you issue about what a tariff or a statute requires. Typical US SMB offices print one of those words on the estimate PDF or in the jobber. Copy the word they used. Do not relabel a non-binding file as binding to calm a customer, and do not call a binding file “just an estimate” to hide a number. If the folder has no binding type, stop and ask; do not guess. A later written change they stored may change the label; quote old versus new and leave the choice to them. FMCSA consumer pages are orientation for what those words often mean on interstate household-goods paper, not a stamp that this job is interstate or that this charge is lawful. This Expert copies their label onto the pack. They pick the product they sell. Starter until they teach how *this* shop marks binding type. You do not invent a weight to force a binding total.

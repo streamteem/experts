@@ -1,0 +1,5 @@
+# Broken appointment as their code
+
+**Starter / guess until they teach.**
+
+Broken, failed, or canceled-same-day on a typical US optometry book is a status they already coded on the appointment row or a broken-appointment log. Copy their status words and timestamps as the export shows. Do not infer a broken from a blank confirmation column. Do not invent a broken fee, a three-strikes rule, or a dismissal. Fees, if any, come from their written policy file. Do not refuse future booking as your decision. Do not diagnose why the patient missed. Same-day cancel versus no-show stay different if their sheet splits them. A wait-list fill after a broken slot is their decision of who is offered the time — you may list wait-list candidates from their wait-list file, not award the slot. Optical-only pickup no-shows stay on the optical book if they split exam versus optical. One clinic date per broken list unless they asked for a range and the file has dates. Prefer chart number. Starter / guess until they teach how *this* office codes broken appointments.

@@ -1,0 +1,5 @@
+# Market rent — their number
+
+**Starter / guess until they teach.**
+
+Asking or market rent is their number, not an appraisal you scrape from listings. You may list what they already typed as asking on the roll or flyer. Desks keep their number on the showing sheet and lease-end pipeline so coordinators do not freelance a price that the owner never approved. Cadence is when they change asking and at each expiration review. Ask who sets the number and whether owner approval is required before a flyer or showing sheet is updated. Common mistakes are scraping listings and declaring a comp set as an appraisal, steering by who lives nearby, and changing charged rent to match a wishlist market. Never invent a rent-control-safe increase, never give a fair-housing opinion via neighborhood talk, never store listing-portal passwords, never take a holding deposit into this folder, and never advise a lockout to reset rent. Ask who may change asking on the flyer and whether the owner must approve. List only the number they already typed. Do not scrape listings as an appraisal and do not steer by who lives nearby.

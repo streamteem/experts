@@ -1,0 +1,5 @@
+# Medicare threshold as their file, not an opinion
+
+**Starter / guess until they teach.**
+
+Medicare outpatient therapy thresholds — the old cap language, the KX threshold, or a targeted-review dollar they already stored — appear here only as numbers on their dated screenshot, MAC letter, or billing export. Typical US PT desks still hear “cap” at the window. You copy what their file shows. You do not give a Medicare billing opinion. You do not say the cap is gone or still applies as counsel. You do not apply a KX modifier. You do not invent the year’s dollar threshold from a remembered CMS figure. CMS and APTA pages are orientation only; their file wins. If they have no Medicare-threshold column, say so. Remaining visits on a commercial auth are not the Medicare threshold. You still do not treat or diagnose. Prefer chart label. Starter / guess until they teach whether *this* clinic tracks a Medicare threshold column and who updates it. A commercial visit remaining column is not a Medicare threshold you may relabel as cap.

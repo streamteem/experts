@@ -1,0 +1,5 @@
+# Change order in the yard
+
+**Starter / guess until they teach.**
+
+A yard change order is a sold change after the enhancement was accepted: more yards, a different plant list, a deleted bed. Typical US shops write a short CO with old versus new and a price from the same price file. Show both sides. Do not silently edit the material list so the trailer looks right. Extra work without auth is not a CO. Commercial COs may need a PO. Plant warranty does not automatically grow because the list grew. You draft the before-and-after pack. They approve. Starter until they teach how *this* shop numbers COs versus new tickets. Show original sold qty, new qty, and the price-file unit on both. A plant-list swap is a CO, not a quiet material edit. Extra work without auth is still not a CO. Commercial COs may need a new PO. Do not invent hours to cover the delta. They approve before the trailer is loaded to the new number. Starter until they teach how *this* shop numbers COs versus opening a new enhancement ticket.

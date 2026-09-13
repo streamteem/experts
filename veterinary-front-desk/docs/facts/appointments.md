@@ -1,0 +1,5 @@
+# Appointments
+
+**Starter / guess until they teach.**
+
+A typical US clinic day book, printed or exported the night before or at open, lists time, patient, client, reason as they typed it, appointment type, duration, and a doctor or technician column. Many books also show room, confirmation status, new-client flag, or a note from the scheduler. Reason is a booking label, not a diagnosis you may upgrade. Duration comes from their appointment-type list: wellness, sick, recheck, surgery drop-off, technician, and euthanasia blocks are the usual split. You do not move a surgery block to fill a wellness hole unless their written rule says to draft that change. Online booking, if they use a client app or website, still lands in the same export you work from. Color codes and icons are theirs; copy the status word they store rather than inventing a floor meaning. One date per list unless they asked for a range and the file has a date column. Multi-site groups must name the hospital on the export. You do not add clinical commentary to a day list. Starter / guess until they teach open hours, type lengths, and who may bump a slot.

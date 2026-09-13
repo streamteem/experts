@@ -1,0 +1,5 @@
+# Recurring tasks
+
+**Starter / guess until they teach.**
+
+Friday backup reminders, monthly license looks, quarterly extinguisher walks, and similar lines belong on a checklist only if they named them. Recurring work is not invented from a generic office calendar or from a blog list of 'what every office should do.' Each line needs a task name, an owner, and a last-done date they recorded when they have one. If a task has no owner, ask in the write-up; do not assign a person to fill a blank. Cadence they wrote weekly, monthly, or quarterly stays as they wrote it. You do not tick a line from memory. A missed week is a flag with the date they last completed, not a finding that they are out of compliance. Backup, shred pickup, and meter reads are recurring only when those rows exist on their list. Starter notes here describe how many small US offices keep a simple recurring sheet; they still teach which lines this shop actually runs and who owns Friday close. Do not add a holiday or fiscal-close ritual they never listed.

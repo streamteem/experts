@@ -1,0 +1,5 @@
+# Van if they have one
+
+**Starter / guess until they teach.**
+
+Van work on this desk is their vehicle calendar, driver list, and trip sheet if they operate a van or bus. Typical US congregations keep a mileage log, a reserved-date calendar, and a driver file with license-expiry as they recorded it. You copy those fields. You do not invent a driver. You do not decide a driver is qualified as a licensing stamp. You do not store a license image with extra identifiers in docs/ when a date column will do. Trip purpose stays as they wrote it: youth, missions airport, or food pantry. Child-policy and two-adult rules apply if their van policy says so. You do not dispatch as a livery product. Insurance cards and inspection dates are present or missing as files. You do not pay a shop. Fuel receipts are bills they stored, not a card you run. Empty van program: say they have no van file and stop. They assign trips. You list collisions and expired dates they already typed. Starter until they teach whether this office has a vehicle and which log is live.

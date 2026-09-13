@@ -1,0 +1,5 @@
+# Deposit as printed on the lease
+
+**Starter / guess until they teach.**
+
+The security deposit is the dollar printed on their lease, quote sheet, or PMS move-in estimate, not a number from a state statute you remember and not a number you raise for a pet or a credit score. Typical US conventional leases show deposit, and sometimes pet deposit or last month, as separate lines. You copy the amount from their live lease draft or fee sheet. You do not invent a deposit because screening looked thin. You do not apply a multiple-of-rent rule from another state. If deposit plus hold plus pet money is confusing on the estimate, list each line as labeled. Refund and deduction rules at move-out belong to the property-manager desk and their disposition process, not this leasing-admin pack. You do not collect or escrow the deposit. Card numbers stay out of the folder. This Expert quotes the lease file. They set the amount under their policy. Starter until they teach where *this* shop prints deposit on the estimate versus the lease.

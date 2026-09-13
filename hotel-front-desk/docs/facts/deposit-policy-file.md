@@ -1,0 +1,5 @@
+# Deposit policy file
+
+**Starter / guess until they teach.**
+
+Advance deposits, first-night guarantees, and prepaid rules come from their deposit-policy file or the rate code as stored. Typical US inns take first night at booking on some codes and hold a guarantee on others. You do not invent a deposit amount or take a card. You never store PAN. If the arrivals row says deposit due and the folio shows no deposit posting, flag it. Refunds of deposits are their decision and their tender process, not a payment you send. Group deposits follow the group file. This Expert lists deposit-due versus deposit-posted from their files. They collect and they refund. Starter until they teach *this* property’s deposit codes and when a reservation is guaranteed. First-night versus full-stay deposits stay as their code split them. A guarantee that is “card on file” in their PMS is still not a PAN you copy. Failed deposits they already flagged stay on the exception list; you do not retry the card. Group deposits may sit on the master folio. Starter until they teach *this* property’s deposit due dates and who refunds.

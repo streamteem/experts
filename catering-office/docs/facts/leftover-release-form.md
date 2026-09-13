@@ -1,0 +1,5 @@
+# Leftover release form
+
+**Starter / guess until they teach.**
+
+The leftover-release form is their signed sheet that the client takes leftover food at their own risk, or a house form that says leftovers stay with the caterer. Typical US full-service offices keep a PDF template and a signed copy per event when the policy requires it. You check present or missing. You do not invent legal language. You do not invent a donation finding. You do not say the food is safe. USDA leftover pages are orientation. Drop-off jobs may use a different form or none; copy their rule. Missing form when the policy requires one is a completeness flag, not a silent “they took the pans.” You list form present or missing. They collect the signature. You never stamp an inspector result on the leftover. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

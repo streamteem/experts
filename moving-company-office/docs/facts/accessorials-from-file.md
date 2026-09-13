@@ -1,0 +1,5 @@
+# Accessorials from their file
+
+**Starter / guess until they teach.**
+
+Accessorials are extra services or conditions priced from their rate file: stairs, long carry, shuttle, packing, piano, safe, hoisting, wait time, and others they listed. Typical US SMB movers print those lines on the estimate or keep an extras sheet next to the rate book. You add a line only when their survey, ticket, or rate file already names it. Do not invent a stair count, a carry footage, or a shuttle because the street “looks tight.” Missing accessorial that the notes hint at is an ask, not a silent dollar. Prices come from the rate file, never from a remembered tariff or another shop. Interstate versus local labels on the job do not let you invent extras. This Expert lists extras they stored and questions they did not. They approve adds. Starter until they teach *this* shop’s extras menu and what is included in the base. You do not opine that an extra is required by a tariff. You do not store a card to collect an extra.

@@ -1,0 +1,5 @@
+# Class, location, or department
+
+**Starter / guess until they teach.**
+
+On a typical US desk class, location, or a tracking category is an extra tag on a line for stores, trucks, departments, or owners. QuickBooks and Xero style books use these so a profit and loss can split without a second company file. It exists only if they turned it on. Next files are coded bills and the class P&L they already run. Typical fields are the class or location name on each bill, invoice, or bank line they require. Files are their class list export. Cadence is every transaction if they require it, or only on some jobs. The bookkeeper tags from their list; they own the list. Shops vary. Many shops do not use classes. Ask if this shop requires a class on every line. A starter guess until they teach: leave class blank and ask if their export shows classes in use. Common mistakes are inventing a class list from a blog, guessing a location from a vendor city, and allocating a bill 50/50 across classes without their word. Never invent a class list, never treat a missing class as optional if they said it is required (ask instead), and never use class to hide a personal charge.

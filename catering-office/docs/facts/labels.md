@@ -1,0 +1,5 @@
+# Labels
+
+**Starter / guess until they teach.**
+
+Labels are the pan, box, and allergen stickers that travel with the pack-out: event name, date, dish, count, and flags their allergen sheet requires. Typical US catering commissaries print labels the morning of load. You copy dish names from the menu file and flags from the allergen or dietary sheet. You do not invent an ingredient line to “help” the label. You do not invent a holding time as law on the sticker. If their label template is in the folder, use those fields only. Restaurant date-mark labels for the walk-in are kitchen-admin unless they said event pans use the same mark. Missing allergen sheet when labels need a flag is an ask. You build a label list. They print and they stick. You do not stamp the food safe. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

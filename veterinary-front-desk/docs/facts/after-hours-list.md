@@ -1,0 +1,5 @@
+# After-hours number from their posted file
+
+**Starter / guess until they teach.**
+
+When the book is closed, the number they post is the one you quote if they asked you to draft a closed-hours note or an outgoing message script. Do not invent a nearby emergency hospital from a map. Do not send a critical caller to a general practice that is also closed. AVMA ethics orientation expects practices to help clients find emergency care; the posted list is theirs. Relief and on-call rotations, if they use them, come from their hours file. Holiday closures must match that file. You do not staff the ER. You do not triage the caller as a veterinarian while quoting the number. Starter / guess until they teach which ER they name, whether they rotate, and who updates the voicemail. A rotating on-call name on their hours file beats a remembered ER from last year. If they name two facilities, quote both as written rather than picking the closer one. Do not add driving directions as if you were dispatching an ambulance.

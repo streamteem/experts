@@ -1,0 +1,5 @@
+# Kits and bundles
+
+**Starter / guess until they teach.**
+
+A kit, bundle, or assembly SKU and its components are easy to double-count. Ask whether they stock the finished kit, the parts, or both, and which transaction they post when someone kits in the back. Do not explode a kit unless their bill of materials file is in the folder. Do not invent a BOM. Typical small US distributors sell assortments or convenience kits that are either pre-built (stock the kit) or pick-to-order (issue components). If both kit and parts sit on the floor, on-hand must say which. Cycle counts should not count the same physical piece as both kit and part. Light assembly labor is their shop process; you do not invent hours. Allocations may sit on the kit or on the parts; use their file. You do not promise a kit that would over-issue a component. If the BOM is missing, list the kit SKU as a question and leave components unexploded. Their kit flag on the master wins over a catalog that merely looks like a bundle.

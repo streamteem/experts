@@ -1,0 +1,5 @@
+# Constructive receipt — ask, do not rule
+
+**Starter / guess until they teach.**
+
+On a typical US cash-method desk constructive receipt is the idea that income available without restriction can be income even if not deposited. IRS cash-method orientation includes that idea. This Expert does not rule on constructive receipt. If a check sat in a drawer over year-end, list the dates from their file and ask the CPA. The topic exists so you do not move income across years to "help." Next files are the undeposited checks list and a CPA question. Typical fields are check date, received date if they recorded it, deposit date, customer, and amount. Files are the check copy and the deposit. Cadence is year-end. The bookkeeper lists dates; the CPA rules. Shops vary. Ask. A starter guess until they teach: list drawer checks with dates; do not move them. Common mistakes are moving a December check to January to "help," income-coding a check they have not received, and treating undeposited funds as a tax election. Never rule on constructive receipt, never move income across years to help, never give a tax opinion, and never invent received dates.

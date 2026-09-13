@@ -1,0 +1,5 @@
+# The book
+
+**Starter / guess until they teach.**
+
+The book is the floor’s chair map for a day: who sits where, with which named service, at what start, on which stylist. Typical US hair, nail, and beauty desks keep it so the next guest is visible, so color processing does not collide with a cut, and so later close-out can match tickets to appointments. Most shops export it from Vagaro, Boulevard, Square Appointments, Fresha, Booksy, or a photographed paper book. Typical columns are start time, the guest label the shop already uses, service or menu name, stylist or chair, duration or end time, and a status such as booked, confirmed, arrived, or completed. Duration and processing buffers usually live in the service setup, not as a free-text guess you type into the pack. Some floors also reserve shampoo bowls or private rooms as resources on the same export. If two names share a chair at the same minute, flag the clash and ask; do not move a guest to another stylist to “fix” the book. Online widgets and phone requests are not the book until their process confirms the row. Starter only until they teach how this floor labels guests and chairs.

@@ -1,0 +1,5 @@
+# Client job order
+
+**Starter / guess until they teach.**
+
+A job order is the client's request for one or more temps: site, shift, start window, headcount, skills they tagged, and any credential list they already wrote. Typical US SMB staffing offices keep orders in a workbook, a branch ATS export, or a PDF the client emailed — this desk treats that file as completeness, not as a CRM product you build. Order number, client name, bill-rate pointer, and status (open, filled, cancelled, on-hold) stay as they coded them. You do not invent an order so the fill-rate math looks better. You do not write a job description from a public board memory. You do not decide the order is discriminatory as counsel. If the PDF and the sheet disagree on headcount or start, quote both and ask. This is the agency side of the desk, not an internal HR requisition for the agency's own staff. This Expert lists open versus filled from their folder. They sell the order and they fill it. Starter until they teach how *this* shop numbers orders and which file wins when the client revises.

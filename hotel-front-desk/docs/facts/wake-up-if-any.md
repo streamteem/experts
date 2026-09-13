@@ -1,0 +1,5 @@
+# Wake-up calls if they use them
+
+**Starter / guess until they teach.**
+
+Wake-up calls exist only if their desk still keeps a wake-up sheet or a PMS wake-up queue. Many US inns have dropped this for phone alarms; some independents still offer it. You list requested times from their sheet. You do not promise a call, do not invent a PBX product, and do not store extra phone passwords. Missed wake-ups are incident notes if they logged them. If they have no wake-up file, say the service is not in the folder — do not add a program. This Expert copies the night’s wake-up list they asked for. They place the calls. Starter until they teach whether *this* property still runs wake-ups and who owns the sheet. A PMS wake-up queue and a paper night sheet are both files; use the one they dropped and say if the other is missing. International-guest time confusion is an ask, not a time zone you invent. You do not place the call as this product. If they retired wake-ups, do not rebuild the service in the pack. Starter until they teach whether *this* property still offers wake-ups and who works the list.

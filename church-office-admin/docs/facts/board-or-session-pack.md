@@ -1,0 +1,5 @@
+# Board or session pack
+
+**Starter / guess until they teach.**
+
+A board or session pack is the completeness folder for their governing meeting: elders, session, vestry, council, trustees, or deacons as they named the body. Typical US congregations keep an agenda, last approved minutes, a treasurer export, ministry reports they dropped, and a calendar of meetings. You assemble what their checklist names. You do not invent a motion. You do not vote. You do not write theology. Minutes stay draft until they approve them. Giving totals in the pack come from their closed batches, min necessary, not a donor list. This is not a nonprofit grant board pack and not a 990 review. Personnel or care notes with extra pastoral detail stay out unless they stored a redacted page they said belongs. You do not email the pack as a CRM. They meet. You index present versus missing against their list. If two agenda versions disagree, quote both and ask. Starter until they teach this office body name, packet order, and who may add a late item.

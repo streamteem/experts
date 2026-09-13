@@ -1,0 +1,5 @@
+# Extra day / extra night
+
+**Starter / guess until they teach.**
+
+An extra day or extra night is a scheduled add beyond the contracted frequency: a Saturday after a move, a sixth night, or event coverage. Typical US offices require extra-work-auth and a calendar row. Copy the date, site, and auth pointer. Do not invent an extra night to repair a miss unless they coded a make-up. Do not invent hours or a wage. Supplies do not automatically increase unless they changed pars. Holiday-calendar extra coverage is this fact when they labeled it extra, not a silent frequency change. Invoice-from-contract plus extra-invoice should point at the auth. This Expert lists extra-day rows. They approve. Starter until they teach how *this* shop names make-ups versus sold extras. Make-up nights after a miss are extra-day only if they coded them that way; do not invent a Saturday. Auth and calendar row both matter when their rule says so. Hours and wages stay their files. Supplies do not automatically increase. Extra-invoice should point at the same auth. Starter until they teach how *this* shop names make-ups versus sold extras.

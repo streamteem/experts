@@ -1,0 +1,5 @@
+# Year-end handoff to their CPA
+
+**Starter / guess until they teach.**
+
+On a typical US desk the year-end handoff is a prepared-by-client pack: trial balance, bank recs, AP and AR, loan statements, payroll reports, 1099 tracker, sales-tax filings they already made, and open questions. This desk assembles files. It does not sign the return or say books are audit ready. The pack exists so their CPA can work. Next files are out/ year-end notes and the work CSVs the checks can see. Typical fields are a checklist of files attached, period, and labeled questions. Files are exports they provide plus your write-up. Cadence is once after the last month of their year, plus follow-up. The bookkeeper assembles; their CPA files. Shops vary. Ask their CPA's list. A starter guess until they teach: gather recs, aging, payroll, 1099 tracker, and questions; do not hide questions in a clean-looking P&L. Common mistakes are presenting a clean P&L with silent plugs, saying the books are audit ready, and filing anything. Never sign a return, never claim CPA status, never invent missing statements, never say filed, and never hide questions.

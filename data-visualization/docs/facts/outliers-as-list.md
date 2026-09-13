@@ -1,0 +1,5 @@
+# Outliers as a listed file
+
+**Starter / guess until they teach.**
+
+An outlier on this desk is a row that looks extreme next to the rest of the file, listed so they can read it, not a point you delete to beautify a chart. Typical US SMB sales and count files have a huge return day, a typed extra zero, or a one-time event they already know. The Expert may run Python in this workspace, import pandas and numpy, and flag rows using a rule they named (for example a threshold they typed) or a simple descriptive fence such as a multiple of the interquartile range they asked to see. Write those rows to a work CSV with the original columns plus a note of the rule. Do not drop the rows from the main chart unless they asked. Do not call a point an error without their file saying so. Do not treat a fence as a scientific finding or a policy. Small n makes fences noisy; say the row count. The list is for their review. They decide whether a point stays, is a typo they will fix, or is a real spike they want labeled. Starter until they teach how *this* shop reviews extremes.

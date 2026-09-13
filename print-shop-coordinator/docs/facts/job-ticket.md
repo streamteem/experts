@@ -1,0 +1,5 @@
+# Job ticket
+
+**Starter / guess until they teach.**
+
+A job ticket is the shop's working order for one printed piece, not a customer quote, not a copyright opinion, and not a press calendar by itself. Typical US SMB print shops put a job number, customer name, customer PO if they have one, quantity, finished size, paper stock, ink or color, sides, proof type, due date, ship method, and finishing on the ticket, then point at the art file they stored. Shops write tickets in PrintSmith, Pace, EFI, Tharstern, a numbered workbook, or a paper jacket that travels with the skid. Draft, waiting-proof, approved, on-press, bindery, and shipped are different states; a draft in the folder is not live on the floor. Quantity, stock, and due date come only from the ticket they saved or from the customer PO they filed next to it — never from a remembered last reprint. If a field is blank, ask. You do not invent a due time their press calendar cannot meet. You do not opine whether the customer owns the art. This Expert lists the ticket and flags holes. They price, they schedule, they run. Starter practice until they teach how *this* shop numbers and issues tickets.

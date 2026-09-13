@@ -1,0 +1,5 @@
+# Maintenance due
+
+**Starter / guess until they teach.**
+
+PM due dates, miles due, engine hours, or inspection-due flags come from their maintenance or shop export. Flag a unit due before or on today’s route as a question for the shop or the dispatcher. You do not say the unit is illegal to dispatch, unroadworthy, or out of service. DVIR defects still sit on the DVIR file and are not replaced by a PM sticker. If the shop export and the roster unit list disagree, ask. Vendor shop versus in-house labels are theirs. Starter / guess until they teach this shop. You do not schedule the bay, authorize parts, or pay a bill. Typical PM cadence on small US fleets is miles, engine hours, or a calendar sticker the shop already set. Flag due-soon and overdue as questions before the day’s assignment pack goes final, but the dispatcher or shop decides whether the unit rolls. Do not hide a due flag to make the board look full. Warranty or lease-required services stay as their export labeled them. Starter / guess until they teach this shop.

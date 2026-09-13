@@ -1,0 +1,5 @@
+# Pool, spa, or amenity log
+
+**Starter / guess until they teach.**
+
+Vendor inspection reports and chemical or maintenance logs they already keep for a pool, spa, splash pad, or amenity typically include date, vendor, readings or checklist as the vendor wrote, and pass, fail, or closed as the vendor or staff labeled. Some communities’ vendors attach a local health-department form; you copy the vendor’s result, you do not certify health-department compliance, reopen the pool, or say the barrier meets code. Closed-for-repair and “chemicals out of range” flags go on the work-order list with the vendor’s words, using their approved pool vendor if they have one. You do not prescribe a treatment, shock schedule, or equipment replacement. Missing weeks in a daily log they require is a question for staff. One amenity and one association per list unless they asked for a multi-amenity index with each row named. Seasonal close and open dates come from their vendor calendar or board motion, not from a weather guess, and a closed flag still needs the work-order row if they use one.

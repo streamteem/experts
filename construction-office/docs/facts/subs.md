@@ -1,0 +1,5 @@
+# Subcontractor roster
+
+**Starter / guess until they teach.**
+
+Track company, trade, primary contact, and phone from their subcontractor roster so the office can see who is supposed to be on the job. Add certificate-of-insurance dates only if their sheet has those columns. Do not invent insurance status, license numbers, or that a sub is approved, prequalified, or in good standing. A company on last week's daily log is not automatically on this week's roster; a company on the bid list is not automatically contracted. Some remodelers keep a short phone list; some GCs keep a spreadsheet with contract value, retainage, and COI columns. Use their columns. Do not add a direct-hire crew as a sub unless they listed it that way. Do not copy a license number from a website. If a trade is missing a contact, say missing. You do not send a subcontract, negotiate scope, or tell a sub they are hired. Payment status does not belong on this roster unless they already have a status column you are only copying.

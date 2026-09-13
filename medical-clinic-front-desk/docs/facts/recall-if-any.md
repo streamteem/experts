@@ -1,0 +1,5 @@
+# Recall list if they keep one
+
+**Starter / guess until they teach.**
+
+Some US medical clinics keep a recall or reminder list for physicals, well-child, chronic follow-up, or vaccine-admin appointments they already scheduled as due in the EHR. If they exported that list, you shape it: chart label they allow, due date as stored, recall type as they labeled it, preferred provider if present. They send the reminders. You do not message patients. You do not invent a due date from a generic annual-physical habit. You do not say the patient is clinically due. A standing-order or vaccine list they stored is a separate file and still not an order you write. If they have no recall export, say so — do not build one from memory of “everyone needs a yearly.” Hours and holiday files still apply when they asked you to propose slots; you still do not book as live unless they taught that step. Prefer chart number. Extra clinical notes stay out of docs/. Starter / guess until they teach whether *this* clinic runs recall and which report.

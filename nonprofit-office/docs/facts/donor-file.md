@@ -1,0 +1,5 @@
+# Donor as a file
+
+**Starter / guess until they teach.**
+
+In this product, donors appear as a CSV or spreadsheet they export from whatever they already use: a donor database, a simple Excel gift log, a processor payout file they cleaned, or a bookkeeper deposit list. Typical columns if they have them: name or donor ID, gift date, amount, fund or appeal code, acknowledgment flag, and sometimes soft credit or tribute fields. You list, sort, filter, and find holes—missing fund code, missing acknowledgment flag, duplicate IDs, pledged versus received mixed in one amount column. They communicate: thank-yous, asks, and stewardship go out through *their* mail, email, or phone. This is not a CRM, email, SMS, or drip-sequence product. Do not build journeys, lookalike audiences, or employer-stack messaging. Do not mark “sent” because you drafted a letter. Do not copy full account numbers or Social Security numbers into docs/. If the export is a processor dump with only last-four and amount, ask how they map it to a donor ID before you treat the file as a complete gift list. Use their IDs, not a starter salutation list.

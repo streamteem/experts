@@ -1,0 +1,5 @@
+# Training-hours log
+
+**Starter / guess until they teach.**
+
+Annual childcare training hours in typical US shops live on a log: staff name, date, topic as they entered, hours, and a certificate filename. You add rows only from certificates they dropped. You do not invent an hour total from a remembered state quota, and you do not mark a person complete because they “usually do it in August.” If their handbook names a required topic list, check present-or-missing against that list — still not a legal finding. Orientation hours versus annual hours stay separate if their log splits them. You do not teach the training. Certificates with no hours listed stay as no hours until they say how to count. Do not copy extra personnel notes into the hours write-up. Starter until they teach how *this* center counts clock hours and which topics they track. Calendar-year versus hire-anniversary clocks stay as their log header says. Duplicate certificates for the same date are one row unless they count them twice.

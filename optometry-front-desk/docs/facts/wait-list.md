@@ -1,0 +1,5 @@
+# Wait list
+
+**Starter / guess until they teach.**
+
+A wait list is their ordered file of patients who want an earlier exam slot, a specific doctor, a contact-training time, or an optical appointment that was full. Typical US optometry desks keep it in the EHR or a workbook: chart label, requested type, doctor preference if any, date added, and contact preference they already stored. You list in their order. You do not reorder to favor a plan type or a frame sale. You do not diagnose urgency from the reason field; emergency wording still flags staff now and still does not become a diagnosis. You do not message patients as a product. When a cancellation opens a slot, you may show matching wait-list rows against that slot’s type, doctor, and duration from their files — they pick who is offered. Do not invent that someone was reached. Extra phones the send-list does not need stay out of the write-up. Distinct from a medical-clinic wait list that has no optical types. Starter / guess until they teach how *this* office orders and expires wait-list rows.

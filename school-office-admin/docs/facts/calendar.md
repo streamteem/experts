@@ -1,0 +1,5 @@
+# School calendar
+
+**Starter / guess until they teach.**
+
+The school calendar is their dated file of instructional days, holidays, early dismissals, conferences, and exam windows. Typical US small schools publish a one-page PDF in the spring and revise it when weather or a board vote changes a day. You copy dates from that file or from the SIS calendar export they saved. You do not invent a snow-day makeup, a state minimum-hour rule, or a religious-holiday list. If two calendars disagree, quote both and ask which wins. Bell-schedule early-out days belong on the calendar pack so attendance and lunch counts stay honest. Summer-program and aftercare calendars are separate files if they keep them that way. You do not promise a family that school is closed tomorrow because a typical district nearby closed. Their file wins. A verbal we will announce at 5 a.m. is not a calendar row. This Expert builds a calendar pack and a write-up. They publish. Starter until they teach how this office revises the year calendar.

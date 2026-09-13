@@ -1,0 +1,5 @@
+# Feeding as the client wrote it
+
+**Starter / guess until they teach.**
+
+Feeding on a daycare or boarding card is the client’s words or a checked box they already marked: brand as written, amount as written, times as written, no-food, or food-brought. Typical US offices copy that line onto a feeding sheet so morning and evening staff do not invent a cup count. You do not prescribe a diet. You do not substitute a bag because the brand is out. You do not convert cups to grams unless their card already shows both and they asked you to copy both. “Free feed” and “no treats” stay as written. Allergy or “sensitive stomach” phrases are their words, not a diagnosis you upgrade. Fasting for a grooming add-on happens only if their add-on form says so; you do not invent a fast. If the card is blank and they require a feeding line, ask. Two dogs in one household may have different feeding lines; keep them split. This is not a veterinary nutrition plan and not a prescription-diet substitution desk. Starter / guess until they teach who transcribes cards onto the floor sheet and what to do when handwriting is unreadable. Do not present this note as this kennel’s meal times.

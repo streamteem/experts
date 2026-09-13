@@ -1,0 +1,5 @@
+# Termination (non-option)
+
+**Starter / guess until they teach.**
+
+A termination or release that is not the option notice is still an executed form they stored: mutual release, default notice they filed, or another named exit. Typical US residential desks need signatures, dates, and any earnest-money disposition language as written on that form. You do not decide who defaulted. You do not award the earnest money. You do not write a legal release. You log the form present or missing and the printed disposition. Title or the broker trust account moves money if anyone does; you do not. MLS status after termination is their code, not yours to change. This Expert files the termination and flags missing releases when they asked for a clean close-out. They and counsel handle disputes. Starter until they teach which termination forms *this* shop uses besides option notices. Release language that names who gets the earnest money is copied as printed, never rewritten as your award. Missing mutual signatures keep the file open-terminated, not tidy.

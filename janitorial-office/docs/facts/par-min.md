@@ -1,0 +1,5 @@
+# Par minimum / reorder point
+
+**Starter / guess until they teach.**
+
+Par min is the reorder point they set on a SKU: when on-hand is at or below this number, the supply-below-par pack flags it. Typical US janitorial sheets use par as the target and min as the trigger, or they use one number for both. Copy their column names. Do not invent a min because usage “feels” high. Do not place an order. Unit must match the par sheet (case versus each). Central warehouse mins and site-closet mins stay on their own rows. Chemical mins do not authorize a new product. If min is blank, ask — do not borrow another site’s min. This Expert flags at or below their min. They buy. Starter until they teach whether *this* shop’s par and min are the same cell or two columns. Warehouse min and site-closet min stay on their own rows; do not copy a warehouse min onto a closet. Unit must match (case versus each). Blank min is an ask, not a borrowed number from a sister site. You do not place the PO. Starter until they teach whether *this* shop’s par and min are one cell or two columns.

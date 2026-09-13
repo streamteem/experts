@@ -1,0 +1,5 @@
+# Cash sales and undeposited cash
+
+**Starter / guess until they teach.**
+
+On a typical US retail or cash-service desk cash sales use a Z-tape or day sheet, a deposit, and a short or over. Books should explain the deposit. The trail exists so cash days are not skipped and so cash is not labeled owner just because it was cash. Next files are the day sheet, the deposit slip, and the bank rec. Typical fields are business date, Z-tape or day-sheet total, cash deposited, card batches, and short or over. Files are the POS close and the bank deposit. Cadence is daily close, weekly rec. The bookkeeper ties; a cashier or owner counts. Shops vary. Ask their day-close file. A starter guess until they teach: every cash day in their file needs a deposit story or a question. Common mistakes are income-coding a deposit as owner because it was cash, skipping cash days with no bank deposit, and parking unexplained cash in petty cash. Never invent a Z-tape, never take the deposit, never treat missing cash as a tax loss, and never store a safe code.

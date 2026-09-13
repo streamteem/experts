@@ -1,0 +1,5 @@
+# Wedding cake
+
+**Starter / guess until they teach.**
+
+A wedding cake is a dated custom order with tasting notes, a photo they filed, servings from their chart, and often a delivery window — not a restaurant banquet dessert pull you invent. Typical US SMB shops keep a wedding folder: contract or ticket, flavor-from-menu, filling and buttercream from their file, sheet-versus-round or tier notes, and a deposit flag. You list the board from that folder and the production calendar. You never invent a formula, a serving count, or a price. You never invent a structural support method. Allergen and dietary quotes stay on their sheet. Delivery-routes-bakery apply if they deliver; otherwise pickup. Tasting leftovers are not the wedding formula. They design and bake. Starter until they teach how *this* shop boards weddings. Tiers, servings, and delivery windows all come from the wedding folder they stored. You do not invent a dowel method or a travel time. Starter until they teach how *this* shop boards weddings versus weekend custom cakes.

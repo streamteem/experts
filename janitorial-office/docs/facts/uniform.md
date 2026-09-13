@@ -1,0 +1,5 @@
+# Uniform
+
+**Starter / guess until they teach.**
+
+Uniform is the shirt, badge-wear, or PPE list they already require on a roster or a site rule: color, logo, and sometimes a customer addendum. Typical US contractors note issued-versus-returned on a simple sheet. Copy the requirement. Do not invent a uniform program. Do not stamp PPE as OSHA-adequate. Site-specific shirts (hospital, school) stay as their file. Missing uniform on a roster is a completeness flag, not a fire. You do not pay a uniform vendor. Photos in a quality pack should not be used to shame a person; min-necessary on faces. This Expert lists issued versus missing if they track it. They buy shirts. Starter until they teach how *this* shop codes customer-required wear versus house shirts. Customer-required shirts on a hospital or school exhibit stay those files. PPE on a uniform list is still not an OSHA stamp. Missing issued-versus-returned rows stay completeness flags, not a firing. You do not pay a uniform vendor or store a shop-login. Photos in a quality pack stay min-necessary on faces. Starter until they teach how *this* shop codes house shirts versus customer-required wear.

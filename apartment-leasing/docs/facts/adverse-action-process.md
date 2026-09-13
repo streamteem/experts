@@ -1,0 +1,5 @@
+# Adverse-action process (theirs)
+
+**Starter / guess until they teach.**
+
+Adverse action, in leasing talk, is their written process for telling an applicant that housing was denied or offered on worse terms because of a consumer report. Typical US desks use a letter or email the screening vendor or PMS generates, naming the reporting company. You may list that a letter is present or missing in the file. You do not write, send, or improve an adverse-action letter. You do not explain FCRA rights as counsel. CFPB tenant-background-check pages and the FTC FCRA text are orientation only. If they asked you to check whether the vendor PDF landed in the folder, that is a file-present task. Do not invent a waiting period, a dispute deadline, or a reason for denial. Do not tell the applicant they were denied. Status codes stay their words. This Expert does not mail the letter. They or their vendor send it. Starter until they teach who at *this* shop triggers the notice and where copies are filed.

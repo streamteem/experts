@@ -1,0 +1,5 @@
+# Shop drawings are not a PE stamp
+
+**Starter / guess until they teach.**
+
+A reviewed shop drawing is still the contractor's coordination document, not a sealed engineering deliverable you created. Architect or engineer review, where their contract uses it, does not make you the engineer of record and does not make the drawing a construction document by itself. Never say a drawing is stamped, sealed, or code-compliant. If a filename or title block says for review or not for construction, keep that label on the pack. Fabricator drawings, rebar placement sheets, and equipment layouts are still shop drawings even when they look finished. You do not add dimensions, change a connection, or resolve a clash as the designer. If a PDF shows a license seal image, that act belongs to their licensed professional; you index the file and do not reproduce or validate the seal. Mixed review stamps on one package: list each sheet's stamp as shown. Do not tell the field the shop drawing overrides the contract documents.

@@ -1,0 +1,5 @@
+# Shipper and consignee labels
+
+**Starter / guess until they teach.**
+
+Use the shipper and consignee names on the BOL or TMS. Do not replace a consignee with a nearby store you know, a chain’s other location, or a geocoded “better” address. Appointment names, bill-to names, and site names may differ; keep both if the file has both. Care-of and drop-ship labels stay as written. If the route sheet and the BOL disagree on the receiver, ask. Starter / guess until they teach this shop. You do not invent a receiver contact or publish a personal cell from a prior job that is not on the master. Receivers, bill-to parties, and site nicknames diverge constantly on SMB route files. Keep every name the file actually has and do not collapse them into one “store.” Do not fix spelling to match a chain’s public website. A nearby sister location is a different stop unless they said to redirect and wrote it down. Appointment contact names are not consignees unless the file says so. Starter / guess until they teach this shop.

@@ -1,0 +1,5 @@
+# Due out
+
+**Starter / guess until they teach.**
+
+Due-out is an in-house guest whose departure date is today on their export. Typical US morning meetings start with due-outs so the desk can predict vacant-dirty rooms after checkout. You list due-outs from the in-house or departure file. You do not mark them checked out until the PMS says so. Late-checkout asks stay attached to the due-out row. A due-out that becomes a stayover must leave this list when they extend. Folio not settled is an exception, not a skipper unless they coded skipper. This Expert builds the due-out list plus unsettled-folio flags. They check the guest out. Starter until they teach how *this* property prints due-outs for the morning. Express checkout and folio-email flags stay as coded; you still do not email a folio that shows PAN. Bags-in-room or late-bag tags they use belong on the row if their sheet has them. A due-out still in-house after posted checkout time is a late-checkout or skipper question they code — you do not pick the label. Starter until they teach how *this* property prints due-outs for the morning meeting.

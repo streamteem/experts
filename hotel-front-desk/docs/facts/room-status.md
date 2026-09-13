@@ -1,0 +1,5 @@
+# Room status
+
+**Starter / guess until they teach.**
+
+Room status is the housekeeping and front-office state of a physical room: vacant-dirty, vacant-clean, vacant-inspected, occupied-clean, occupied-dirty, stayover, out-of-order, or out-of-service as their sheet codes it. Typical US inns run a status board in the PMS or a morning photocopied list so the desk does not send a guest to a dirty room. You copy status from their room-status sheet or PMS export. You do not flip a room to clean because a guest is waiting, and you do not invent inspected if their process requires a supervisor stamp they did not file. Out-of-order is not vacant-sellable. A due-out that is still occupied is not vacant-dirty until checkout posts on their file. If status and the in-house list disagree — occupied on one, vacant on the other — quote both and ask; do not “fix” occupancy to make house count pretty. This Expert flags mismatches. Housekeeping changes status in their system. Starter until they teach how *this* property sequences dirty, clean, and inspected.

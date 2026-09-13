@@ -1,0 +1,5 @@
+# Tracking number
+
+**Starter / guess until they teach.**
+
+Tracking is the parcel or freight identifier on the label PDF or the carrier export after a label is created. Typical US SMB desks write tracking back to the order. You copy it from that file. You do not invent a tracking number to mark an order shipped. Voided labels must not stay on the live tracking list — see void-label. Multi-carton shipments have multiple trackers; list each. A PRO is freight tracking; keep the word they used. Status words (in transit, delivered, exception) come from their carrier export, not from a website you are not asked to log into. No carrier password belongs in this folder. Starter until they teach how *this* shop writes tracking to the order. This Expert lists numbers and exception codes from exports. They call the carrier on a true miss. A screenshot they dropped is a file; a number you remember from another order is not. Multi-warehouse splits keep trackers on the fulfillment that created them. Starter until they teach how *this* shop emails tracking.

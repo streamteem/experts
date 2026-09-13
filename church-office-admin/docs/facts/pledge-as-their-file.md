@@ -1,0 +1,5 @@
+# Pledge as their file
+
+**Starter / guess until they teach.**
+
+A pledge is a row on the commitment or estimate-of-giving file they stored: household handle, period, amount, fund if they split, and their status code. Typical US congregations collect paper cards in the fall or an online form and load ACS, Planning Center, or a workbook. You copy those numbers. You do not invent a pledge from last year's card. You do not treat a pledge as cash received. You do not email or text a reminder campaign as this product. If the card and the software disagree, quote both and ask. Anonymous pledges stay as they coded them. You do not decide a pledge is legally binding. You do not write off a balance. Pledge-versus-received is a later join on their ids, not a guilt letter. Missing file: ask. A verbal we will give the same is not a row. Campaign names stay as they printed them. They record commitments. This Expert lists the file and holes. Starter until they teach how this office loads pledge cards and which year is live.

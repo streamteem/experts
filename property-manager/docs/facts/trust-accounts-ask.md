@@ -1,0 +1,5 @@
+# Owner and deposit bank accounts — ask
+
+**Starter / guess until they teach.**
+
+Owner operating cash and security-deposit cash are often separate bank or book accounts in a clean US shop; state trust and commingling rules vary. Typical labels are operating, deposit or escrow, and owner proceeds. Desks keep the labels because paying a plumber from the deposit account or sweeping deposits as owner draw is how shops get into licensing and legal trouble. Cadence is at setup and whenever a new owner entity is added. Ask their account labels. Do not move money. Do not say an account is a lawful trust. Common mistakes are inventing a commingling rule for a named state, treating surplus on the roll as money you may send, and storing bank logins in this folder. Never send money, never pay a bill from trust yourself, never invent a habitability use of deposit funds, and never advise a lockout to collect a shortfall. Ask the exact labels on the operating, deposit, and owner-proceeds accounts they use. Paying a plumber from deposit cash or sweeping deposits as a draw is their problem to avoid; you do not move the money or declare a lawful trust.

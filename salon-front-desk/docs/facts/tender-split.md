@@ -1,0 +1,5 @@
+# Tender split
+
+**Starter / guess until they teach.**
+
+Close-out typically splits cash, card, gift card, and other—Venmo, Afterpay, house charge, or CareCredit-style tenders—if the POS export has those rows. Sum only what the file shows. If a tender is present on tickets but missing from the summary export, say so. Do not plug a cash number to force the day to balance. Desks keep the split so the drawer count they perform can be compared to POS cash-expected and so gift-card redemptions are not counted twice as cash. Typical files are Square or salon POS tender reports. “Other” is not a junk drawer you fill. Split tenders on one ticket stay as the ticket IDs show. You do not stand at the drawer. Starter until they teach which tender report is official for this shop. Afterpay, Klarna, and house-charge rows stay named as the POS named them. A gift-card redemption is not cash. Split tenders keep both ticket IDs. If they typed a cash count, that number is counted cash, not a tender you invent to match.

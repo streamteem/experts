@@ -1,0 +1,5 @@
+# Pre and post scan as their process
+
+**Starter / guess until they teach.**
+
+Pre-scan and post-scan are process steps their estimate or shop process file already listed, with prints they stored, not DTCs you invent and not a stamp that the car is healthy. Typical US collision shops scan at intake and before delivery, especially when ADAS or SRS is in play. Copy whether prints exist and what their sheet says the codes were. Do not invent a code. Do not clear codes on paper. Do not diagnose from a code list — mechanical refer-out if they said so. A service advisor's scan print is a different visit unless they filed it here. ADAS calibration is a sibling fact, not implied by a clean scan. This Expert lists pre/post prints present or missing. They scan. A pre-scan is not a post-scan. Do not copy codes forward to invent a clean post. If they require both and only one print exists, flag. This Expert lists pre and post prints present or missing. They scan. Starter until they teach *this* shop's required scan points.

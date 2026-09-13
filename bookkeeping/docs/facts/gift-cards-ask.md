@@ -1,0 +1,5 @@
+# Gift cards and stored value
+
+**Starter / guess until they teach.**
+
+On a typical US desk sold gift cards or stored value are often a liability until redeemed. Breakage and unused balances have tax and state unclaimed-property angles that are out of scope as an opinion. The topic exists only if they sell cards. Next files are their gift-card report and the liability account if they use one. Typical fields are sold date, amount, redeemed date, and outstanding if their POS tracks it. Files are a POS gift-card report. Cadence is monthly if they sell cards. The bookkeeper lists; they run the POS. Shops vary. Ask if this shop sells cards. If not, skip. If yes, ask their current method. A starter guess until they teach: do not invent breakage income. Common mistakes are income-coding sales of cards as if earned, inventing breakage, and ignoring unredeemed balances. Never invent breakage income, never give an unclaimed-property opinion, never invent a rate of unused cards, and never treat a blog method as theirs.

@@ -1,0 +1,5 @@
+# Supporting documents
+
+**Starter / guess until they teach.**
+
+Carriers often keep bills, fuel receipts, tolls, dispatch records, and other supporting documents next to records of duty status. You may list which supporting files are present for the day and which names are missing from the folder they pointed at. You do not judge whether the set satisfies a regulation, a roadside inspector, or an audit. A missing fuel receipt is a question, not a violation stamp. Do not invent a receipt or a toll plaza. If they use an ELD annotation instead of a paper bill, quote the export and still do not certify. Starter / guess until they teach this shop. Public FMCSA supporting-document orientation is orientation, not a checklist you stamp complete for this carrier. Typical supporting set on a small interstate desk is dispatch, fuel, and bills for the same date range as the RODS or ELD export. Local van fleets may have almost none of that — say what is in the folder they pointed at. Do not build a pretend audit binder. Toll transponder CSVs, if they include them, are presence only. Starter / guess until they teach this shop.

@@ -1,0 +1,5 @@
+# Travel or conference request file
+
+**Starter / guess until they teach.**
+
+Request sheets list who, dates, event name, and the estimate they wrote. You do not book travel, pay a registration, or hold a hotel with a card. Approval initials come from them. Typical columns are traveler, dates, event, estimate, and status (draft, approved, denied) as they coded it. You do not decide who may go. Receipts after the trip follow their expense sheet; do not retype card numbers. Passport or frequent-flyer numbers never go in this folder. Starter notes describe common SMB conference requests; they still teach the form. A calendar hold for the travel week comes from their export, not from you creating live holds. You do not interpret per-diem law. Missing estimate: ask, do not invent a city rate from a GSA page as this shop's policy. Conference registration confirmations they filed are files; you do not pay the balance. Companion travel stays off the pack unless their form already has that row. You do not store a frequent-flyer login.

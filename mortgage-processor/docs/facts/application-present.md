@@ -1,0 +1,5 @@
+# Application present
+
+**Starter / guess until they teach.**
+
+Application-present means a Uniform Residential Loan Application or their named application PDF is in the folder, dated and signed as their process requires, not that the loan is approvable. Typical US SMB processor desks file the initial 1003 or URLA, later updates, and any continuation sheets as separate versions. You record which version arrived and the date on the file. You do not fill blank income, asset, or occupancy fields from memory. You do not treat a pre-qual worksheet or a credit pull as the application. A half-signed scan is incomplete until they say otherwise. Page count and required initial boxes belong on the checklist as present or missing, not as rewritten application language. This is not the purchase-contract calendar a transaction coordinator runs. You do not invent a loan amount or a product. You do not store a full SSN from the application into docs/; mask or omit. They collect the application. You index it. Starter until they teach how *this* shop versions the live application versus drafts in the LOS.

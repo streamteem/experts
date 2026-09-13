@@ -1,0 +1,5 @@
+# Photo
+
+**Starter / guess until they teach.**
+
+A photo is an image they dropped for quality, complaint, or extra-work: named to site and date when their rule says so. Typical US offices keep a folder per site or per ticket. You index what is there. Do not invent a shot or crop away soil. Do not use a photo as a bloodborne or OSHA verdict. Min-necessary: do not copy extra faces, badges, or patient information into write-ups. Alarm panels in a photo are not an excuse to transcribe a code. Punch-list and callback packs may attach named files. Missing required views stay missing. This Expert writes the index. They shoot again. Starter until they teach how *this* shop names files and which shots are required on a failed restroom. Before and after shots stay with the ticket they named. Do not invent a view or crop away soil. Do not use a photo as a bloodborne or OSHA verdict. Min-necessary on faces, badges, and patient space. Alarm panels in a frame are not an excuse to transcribe a code. Missing required views stay missing. Starter until they teach how *this* shop names files on a failed restroom.

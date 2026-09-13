@@ -1,0 +1,5 @@
+# Estimate
+
+**Starter / guess until they teach.**
+
+An estimate is the office draft of what this job may cost from their rate file, inventory, and accessorial list — not a live invoice and not a tariff ruling. Typical US SMB movers write estimates in SmartMoving, MoveitPro, a numbered workbook, or a survey PDF the estimator photographed at the residence. Header fields usually include job or estimate number, customer name, origin, destination, requested load day, and the binding label they already printed. Line money comes only from the dated rate file they stored. Weight and cube stay blank unless their scale ticket or inventory sheet already has a number; you do not invent either. A survey note is not a scale. Missing rooms or missing accessorials stay questions, not silent adds that make the total look finished. This Expert prepares the estimate file and write-up. They authorize and they send it to the customer. Starter until they teach how *this* shop numbers estimates and which columns are live. You do not store a card on the estimate sheet.

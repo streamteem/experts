@@ -1,0 +1,5 @@
+# Key encode as their system
+
+**Starter / guess until they teach.**
+
+Guest keys and lock codes are created in their key-encoder or mobile-key system, not in this folder. Typical US inns encode a card at check-in with a checkout date from the PMS. You never store lock programming passwords, encoder logins, or raw key data here. You may list “key issued” only if their export or checklist already has that flag. Failed encodes and lockouts are incident or maintenance notes they wrote — you do not reprogram a lock. Extra keys follow their policy (how many, ID check); you do not invent an ID rule. This Expert does not encode keys. They encode. Starter until they teach *this* property’s key-issue checklist and who may cut an extra key. Mobile keys and plastic cards are still their encoder or app, not a file you generate. Lost-key reissues follow their ID and extra-key policy; you do not invent a rekey fee. A lock that will not take a code is a maintenance or incident row they wrote, not a password you store. Checkout date on the key must match the reservation dates they stored. Starter until they teach who at *this* property may encode and how many keys they issue.

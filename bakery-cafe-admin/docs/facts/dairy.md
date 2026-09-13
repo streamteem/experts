@@ -1,0 +1,5 @@
+# Dairy
+
+**Starter / guess until they teach.**
+
+Dairy on the production office is milk, cream, butter, and any cheese or yogurt they bake or pour — not a restaurant lowboy dairy count as the whole job. Typical US SMB bakery-cafes keep ingredient pars for cream and milk plus a cafe milk par if they run espresso. You copy item names, pars, and counts from their ingredient and cafe-par files. You do not invent a milk type or a fat percent. You do not invent an allergen-free dairy swap. Receiving shorts stay on the receiving pack. Cafe milk and bake-cream can be different lines; do not merge them without their say. Date marks on opened dairy are their system, not a Food Code seven-day stamp you apply as law. You do not inspect the walk-in. Starter dairy talk is orientation until they teach *this* shop's dairy list. Opened cream for pastry cream and cafe pitcher milk can look the same in a cooler photo; still use their line names. You do not invent a discard date as law. Starter until they teach how *this* shop splits bake dairy from cafe dairy on the sheet.

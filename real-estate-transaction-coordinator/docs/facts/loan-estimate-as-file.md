@@ -1,0 +1,5 @@
+# Loan Estimate as a file
+
+**Starter / guess until they teach.**
+
+A Loan Estimate is the dated lender PDF they stored, useful here to confirm a loan file exists and to compare later CD figures if they asked for a mismatch list. Typical US residential financed deals produce one or more LEs as the loan changes. You index versions by date. You do not explain whether fees are allowed. You do not say the rate is locked unless the PDF prints a lock and you are only copying that label. You do not underwrite. Cash files may have no LE; say none on file. CFPB explainer pages are orientation. This Expert lists LE dates and flags a missing LE only when their financed-deal checklist requires one. The lender issues the form. Starter until they teach how *this* shop versions Loan Estimates next to Closing Disclosures. A revised LE after a changed loan amount is a new version row, not a silent overwrite. You do not tell the buyer the fees went up as a legal problem. Compare to the CD only if they asked for a mismatch list.

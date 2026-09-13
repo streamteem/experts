@@ -1,0 +1,5 @@
+# Patient portion from their ledger
+
+**Starter / guess until they teach.**
+
+Estimated patient portion, when the front desk quotes it, should come from their estimate screen, fee schedule plus what the eligibility screenshot showed, or a prior EOB pattern they already stored. Prefer their number. If they have no estimate, list what is missing instead of inventing a copay, coinsurance, or deductible remainder. Collecting money is their job; you prepare a list. You do not waive a balance. You do not say the plan will leave a given amount as a fact you calculated from a typical 80 percent preventive split. Plan percentages on a screenshot are quoted text, not your math unless they asked you to copy their screen’s estimate line. Outstanding balance on the day sheet is a ledger number, not an estimate. Payment-plan balances stay on their plan sheet. Card numbers stay out of this folder. Do not refuse care as a clinical decision because a portion is unpaid. Starter / guess until they teach how *this* office estimates.

@@ -1,0 +1,5 @@
+# Opening balances
+
+**Starter / guess until they teach.**
+
+On a typical US desk opening balances are the start-date snapshot when books begin or convert: bank balances that match statements, plus AR, AP, loans, and opening equity someone already approved. They exist so the first month is not invented from a pile of old PDFs. Next files are the conversion trial balance and the first rec. Typical fields are account, amount, as-of date, and who approved. Files are the conversion workbook or CPA opening journal. Cadence is once at start, then only if they correct conversion. The bookkeeper ties banks to statements; they or the CPA own opening AR and AP. Shops vary. Do not invent opening AR. If the trial balance does not balance at conversion, ask. A starter guess until they teach: match bank statements at the start date; leave other openings as questions. Common mistakes are plugging to miscellaneous expense, inventing customer balances from memory, and changing opening equity to hide a miss. Never invent openings, never plug, never treat conversion as a filed return, and never create a named company's opening chart.

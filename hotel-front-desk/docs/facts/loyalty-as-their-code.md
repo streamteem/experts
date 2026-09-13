@@ -1,0 +1,5 @@
+# Loyalty as their code
+
+**Starter / guess until they teach.**
+
+Loyalty or stay-rewards is a member number and a rate or amenity code already on the reservation or their local punch-card file. Typical US independent inns either have a simple repeat-guest note or a brand program if they are franchised. You copy the code they stored. You do not invent points, elite status, or a free-night award. You do not log into a brand loyalty portal; no password belongs here. Missing numbers are asks. Folio discounts tied to loyalty must already be a rate code on the grid. This Expert lists loyalty codes present versus blank on arrivals. They attach numbers in the PMS. Starter until they teach *this* property’s loyalty labels and what they do at the desk. Brand elite notes, if they are a franchise, are still codes on the reservation, not points you award. Local punch cards or stay-six-get-one files are theirs if present. You do not log into a brand portal. A missing number is an ask at check-in, not a number you invent so the flash looks branded. Starter until they teach *this* property’s loyalty labels and desk steps.

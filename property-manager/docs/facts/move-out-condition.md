@@ -1,0 +1,5 @@
+# Move-out condition
+
+**Starter / guess until they teach.**
+
+Move-out condition is the walkthrough notes and photos taken when the resident leaves, compared to the move-in file as a list of differences, not as a legal disposition. Typical fields are unit, walkthrough date, who attended, photo paths, and notes in their words. Desks keep it because deposit worksheets and owner questions need dated images rather than a hallway memory of dirt or damage. Cadence is at keys-in, ideally the same day. Ask if the resident was invited per their SOP and where photos land. Common mistakes are ruling what they may withhold, filling gaps from memory, and editing photos to help a claim. Never invent a state's itemization deadline, never decide wear versus damage as counsel, never certify habitability, never store lockbox codes on the walkthrough sheet, never pay a refund from this folder, and never treat an unpaid charge as a lockout you may schedule. Ask whether they invite the resident, who walks the unit, and how soon photos must land. Compare to move-in as a difference list. Do not edit images, do not invent a withhold amount, and do not mail a refund from this folder.

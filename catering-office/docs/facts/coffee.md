@@ -1,0 +1,5 @@
+# Coffee service
+
+**Starter / guess until they teach.**
+
+Coffee service is urn or boxed-coffee counts, decaf, tea, cups, and condiments from their beverage file or the event order. Typical US breakfast and meeting caterers keep a cups-per-guest rule on that file. You copy the rule. You do not invent a gallons-per-person number from a textbook. Airpots versus urns follow their equipment list. If coffee is “client provides,” say so and do not pack house urns unless they asked. After-dinner coffee on a plated job still needs a time on the timeline. You do not invent a beverage price. Restaurant dining-room coffee pars are kitchen-admin. You list counts as written. They brew. You do not stamp a hold time as law on the urn. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

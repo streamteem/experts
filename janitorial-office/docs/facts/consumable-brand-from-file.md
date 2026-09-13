@@ -1,0 +1,5 @@
+# Consumable brand from their file
+
+**Starter / guess until they teach.**
+
+Consumable brand is the mill or house name they already put on the par sheet or a brand-standard file: liner mill, paper mill, soap brand. Typical US offices lock brands so dispensers fit and the SDS index matches. Copy the name. Do not substitute a cheaper brand to clear a below-par flag. Do not invent a brand because a closet photo looks like one. Green-product lists can further lock brands. Chemicals still need SDS present. Customer-mandated brands on a school or hospital exhibit win when they filed the exhibit. This Expert matches names. They approve a substitute. Starter until they teach how *this* shop writes house aliases versus mill names on the same SKU. House aliases and mill names can both exist; copy both if their sheet has both. Do not substitute a cheaper brand to clear a below-par flag. Green-product and customer-mandated brands further lock the name when those files exist. Chemicals still need SDS present. A closet photo is not a brand you guess. Starter until they teach how *this* shop writes aliases versus mill names on the same SKU.

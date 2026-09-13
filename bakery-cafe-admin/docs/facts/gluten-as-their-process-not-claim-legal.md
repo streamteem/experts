@@ -1,0 +1,5 @@
+# Gluten as their process, not a legal claim
+
+**Starter / guess until they teach.**
+
+Gluten and wheat status is their process and their allergen sheet — a dedicated muffin they named, a wheat formula they filed — not a gluten-free legal claim you write and not an FDA stamp. Public gluten-free labeling pages are orientation only. Typical US SMB bakeries that offer a gluten-free item keep a separate formula and a process note; many do not claim gluten-free at all because flour is in the room. You quote their sheet and their process file. You never invent a gluten-free formula. You never say a case item meets a ppm standard. You never advise a guest with celiac. If they have no gluten-free file, do not add one. Restaurant 'GF pasta' talk is a different desk. Starter until they teach *this* shop's wheat process. A dedicated muffin they named is still not a ppm finding you write. Flour in the room is their process note if they filed one. Starter until they teach whether *this* shop offers any wheat-process item and how they card it.

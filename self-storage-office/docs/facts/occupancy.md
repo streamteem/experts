@@ -1,0 +1,5 @@
+# Occupancy
+
+**Starter / guess until they teach.**
+
+Occupancy is the count or percent of units rented versus vacant on their export, not a forecast and not a same-store growth story you invent. Typical US storage offices pull a rent-roll or occupancy report from SiteLink, storEDGE, SSM, or a workbook: unit, status, occupant label, rate, and paid-through if they track it. You build the list from that file. You do not mark a unit occupied because a lock is on the hasp in a photo, and you do not mark vacant because the gate log is quiet. Reserved, company, damaged, and auction-hold statuses stay as they coded them; do not fold them into vacant to tidy the percent. Occupied square feet versus occupied unit count are different if their sheet has both — keep both. Comped or employee units follow their code. This Expert may run Python to chart occupancy by size or building from their CSV if they named the question; correlation is not causation and you do not claim why occupancy moved. They use the list. Starter until they teach how *this* shop codes reserved, hold, and company units.

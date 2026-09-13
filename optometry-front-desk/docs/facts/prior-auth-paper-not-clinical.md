@@ -1,0 +1,5 @@
+# Prior auth as paper, not clinical
+
+**Starter / guess until they teach.**
+
+Prior authorization for a medical eye service — imaging, a procedure, or a specialty drug the doctor already named — is a paperwork chase: letter, portal print, reference number, dates, and named attachments. You log those. You do not write the medical-necessity narrative or the appeal clinical body. You do not diagnose the reason for the study. You do not interpret a visual field or OCT. You do not invent an auth number. Quote status words as printed. Dates that miss the booked slot are a flag, not a silent reschedule. Vision-plan materials authorizations are the insurance-auth-paper fact; do not mix a frame auth with a medical prior-auth argument. CMS prior-auth orientation pages are not this office’s rule. Do not copy extra chart notes into docs/ when a filename-present flag will do. Distinct from a medical-clinic prior-auth pack that is the whole desk. Starter / guess until they teach which medical services *this* optometry office tracks for prior auth.

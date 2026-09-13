@@ -1,0 +1,5 @@
+# Photo POD
+
+**Starter / guess until they teach.**
+
+Some last-mile and foodservice files use a photo instead of ink: porch, dock, cooler, or bulkhead. Presence is file-name yes/no matched to the stop or PRO. Do not invent that the photo shows the right porch, the right tote, or an undamaged product. If their process requires a GPS stamp on the photo, say whether that stamp is in the export — do not add coordinates. Missing photo on a photo-required stop is a question. Starter / guess until they teach this shop. You do not enhance, crop-interpret, or certify the image as evidence for a claim. Last-mile SMB shops often require two photos or a tote label in frame. Use their rule if it is written; if it is not, ask rather than inventing a photo standard. File-name conventions (stop, PRO, timestamp) are theirs — do not rename to a neighboring shop’s pattern. EXIF or app GPS, if exported, is quoted; you do not add it. Claims still need their OS&D ticket, not your reading of the picture. Starter / guess until they teach this shop.

@@ -1,0 +1,5 @@
+# Collision estimate
+
+**Starter / guess until they teach.**
+
+The estimate is the shop's or appraiser's line list of labor, parts, refinish, and notes for this loss, not a mechanical RO and not a totaling verdict. Typical US SMB collision shops write in CCC ONE, Mitchell Cloud Estimating, Audatex, or a workbook export: operations, hours from their matrix, parts from their file, paint, materials, taxes if their file has them, and deductible as posted. Copy lines as exported. Do not invent hours or part prices. Do not add a frame or ADAS line as an engineering or calibration stamp. A first-write, a supplement, and a final invoice are different documents; label which PDF you used. If the estimate and the parts PO disagree, list both. You do not promise the insurer will pay every line. You do not declare a total loss because the estimate looks large. This Expert builds a pack from their files. They write and they negotiate. Starter until they teach how *this* shop versions estimates and what “committed” means on their board.

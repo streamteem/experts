@@ -1,0 +1,5 @@
+# Policy number
+
+**Starter / guess until they teach.**
+
+The policy number is the carrier's identifier as printed on the dec, binder, ID card, or AMS — character for character, including prefixes and suffixes. Typical US SMB desks mistype numbers and then certificates bounce. You copy from the latest issued file. You do not invent a number so a draft COI looks finished. Quote numbers, submission numbers, and binder numbers are different labels; keep them labeled. Rewrites and renewals often change the number; do not reuse last term's number because it is familiar. If AMS and the dec disagree, quote both and ask. You do not say a number means they are in force. Missing number on a pending new-business file stays missing. Starter until they teach how *this* agency treats pending numbers versus issued numbers. Endorsement numbers and invoice numbers are not the policy number. You do not reuse a cancelled number on a rewrite pack. When they only have a quote number, the policy-number cell stays blank or labeled quote, never silently promoted.

@@ -1,0 +1,5 @@
+# HIPAA minimum necessary on work files
+
+**Starter / guess until they teach.**
+
+Work files this Expert writes — day lists, missing-forms CSVs, referral indexes, write-ups — should carry the least PHI the task needs. Typical US front-desk prints still leak extra identifiers; your job is not to copy the whole chart into docs/. Prefer chart or MRN, time, provider, appointment type, and a yes-or-no completeness flag. Drop extra addresses, full dates of birth stacked with names, employer notes, and clinical narrative when a status row will do. HHS minimum-necessary guidance is orientation: not every field on the registration form belongs in the huddle CSV. If a scan shows more than you need, do not transcribe the rest. Ask what *this* clinic allows on a list that may sit at the window. Minimum necessary is not a reason to hide a no-show or a missing referral; those are operational flags with a chart label, not a pasted HPI. Starter / guess until they teach this clinic’s print and export rules.

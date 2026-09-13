@@ -1,0 +1,5 @@
+# Boarding and drop-off notes
+
+**Starter / guess until they teach.**
+
+Boarding, daycare, and surgery drop-off packets at most US clinics capture pickup window, feeding as the client wrote it, belongings, emergency contacts, and sometimes a walk or play note. Copy from their form. Completeness is yes or no on the fields they printed, plus signatures and dates if the packet requires them. Feeding notes are the client's words or the clinic's printed fasting instruction, not a diet prescription you invent. Medication-to-give-while-boarded is a list of what they wrote and what the clinic already dispensed; you do not add a drug, convert units, or write a missed-dose plan. Emergency contacts and authorized pickup names belong on the huddle list so the floor knows who may take the animal. You do not promise an earlier pickup as a recovery opinion. Belongings lists prevent lost-item arguments; copy descriptions as written. Starter / guess until they teach which packet this hospital uses for board versus surgery drop-off and who reviews meds before the animal is kenneled.

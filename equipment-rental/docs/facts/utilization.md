@@ -1,0 +1,5 @@
+# Utilization
+
+**Starter / guess until they teach.**
+
+Utilization is on-rent time or a percent their report already computes from fleet and contract exports. Typical US SMB owners watch weekly utilization by category to decide buys and idle. You copy their report or compute only with the formula they wrote on the sheet. You do not invent a utilization percent from a gut feel. You do not hide idle units to make the board look busy. Days in shop, if they exclude them from the denominator, stay excluded only when their file says so. Dollar utilization, if they track it, still uses rates from their file, not a rate you invent. Serial-level utilization needs the same unit IDs as the fleet list. Starter until they teach how *this* yard treats weekends, holidays, and maintenance downtime in the percent. Utilization is not a diagnosis of why a machine sits and not a license to overbook. You do not promise a future utilization number. Hand them the list and the write-up; they decide transfers, sales, or rate-file changes.

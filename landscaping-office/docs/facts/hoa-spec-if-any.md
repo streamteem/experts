@@ -1,0 +1,5 @@
+# HOA spec if they have one
+
+**Starter / guess until they teach.**
+
+HOA or property-manager specs are mow height, bed edges, leaf standards, work hours, and noise rules they stored as a PDF or a one-pager. Typical US shops that keep HOA contracts live and die on that file during board complaints. Use their spec. Do not invent a height, a mulch color, or a “neat and professional” standard from another community. If they have no spec, say none and do not borrow a neighboring HOA. Spec versus sold contract: quote both if they disagree. Chemical program rules in an HOA packet are still not your license to recommend a mix. Access and dumpster rules in the spec stay operational. You check the ticket against the file. They argue with the board. Starter until they teach which communities *this* shop treats as spec-driven. Quiet hours and trailer-parking rules on the spec belong on the day list as windows, not as invented times. Leaf and mulch color lines stay copied. Starter until they teach which boards *this* shop treats as spec-first versus homeowner-first.

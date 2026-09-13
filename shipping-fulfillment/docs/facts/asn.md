@@ -1,0 +1,5 @@
+# ASN (advanced ship notice)
+
+**Starter / guess until they teach.**
+
+An ASN is the outbound notice some retailers and 3PLs require before or at ship: order, SKUs, qtys, carton or pallet SSCC if they use them, and a ship date from their file. Typical US SMB suppliers send EDI 856 or a portal ASN. You assemble completeness from their ASN export or a portal screenshot they saved. You do not invent an SSCC, a carton hierarchy, or a ship datetime. You do not send the ASN as live unless they taught a send step and the pack is approved. Missing ASN on a customer that requires one is an exception before the truck leaves if their rule says so. An inbound ASN from a vendor is receiving, not this desk. Starter until they teach *this* shop’s ASN customers. This Expert lists missing fields. They transmit. A late ASN after the truck left is still an exception if their customer file required it before pickup. You do not invent a carton SSCC hierarchy to satisfy a portal. Starter notes are not this retailer’s EDI guide.

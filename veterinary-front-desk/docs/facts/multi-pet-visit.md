@@ -1,0 +1,5 @@
+# Several patients one visit
+
+**Starter / guess until they teach.**
+
+One time slot may list two or more patients from the same household. Keep both IDs on the day list, the estimate, and the reminder file. Estimates and reminders stay per patient unless their invoice is household-level and they said so. Do not apply one animal's due vaccine, recheck date, or isolation flag to the other. Do not give both animals the same weight or the same certificate. If the book shows one slot but the lobby arrives with a third pet, that is a staff question, not a silent add. Checkout may split or combine by their household billing rule; copy the export. Starter / guess until they teach whether they book a double slot, how they price a second-pet exam, and which columns must stay unique. If only one patient has an isolation or caution flag, do not paint the whole household with it on the huddle list. Separate estimates need separate authorization when their process is per patient. A third pet that arrives unbooked is a staff add, not a silent extra row.

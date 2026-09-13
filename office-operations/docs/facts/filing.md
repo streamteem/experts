@@ -1,0 +1,5 @@
+# Where files live
+
+**Starter / guess until they teach.**
+
+Ask the folder tree they already use on Drive, SharePoint, a NAS, or a labeled file cabinet. Do not invent a company-wide SharePoint or Drive structure and do not 'migrate' files into a prettier tree. A starter label like Contracts, Vendors, or HR-admin is a guess until they teach. Version control in small offices is often the filename plus a date, not a formal DMS. Keep their filename. Do not clean up by renaming legal-looking titles, signed PDFs, or lease scans. If two folders hold the same vendor name, ask which one is current. Shortcuts and 'alias' folders are common; copy the path they wrote, not a path you reconstructed. Work files for this Expert live in work/ and out/ as the work map names them; pointers to their live drive stay as a path they typed, never as a password. Personal employee files and medical records do not belong in a general pack. If they said a box is on litigation hold, do not flag it for cleanup. Starter notes describe how many SMB desks file; they still teach where this shop's contracts, insurance binders, and meeting packs actually live.

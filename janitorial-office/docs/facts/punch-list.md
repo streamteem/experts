@@ -1,0 +1,5 @@
+# Punch list
+
+**Starter / guess until they teach.**
+
+A punch list is open deficiencies from a walking inspection or a start-up: area, item, and due if they dated it. Typical US contractors keep this on the quality form back or a follow-up CSV. Copy their items. Do not close a punch to raise a score. Do not invent a deficiency from a photo you over-read. Photos they linked stay attached. Extra work that appears on a punch still needs auth if it is out of scope. Missed punches at the next walk stay open. This Expert lists open punches. They re-walk. Starter until they teach how *this* shop numbers punches and who may mark complete. Start-up punches and inspection punches stay labeled if they split them. Do not close a punch to raise a score. Do not invent a deficiency from a photo you over-read. Extra work that appears on a punch still needs auth if it is out of scope. Due dates on punches come from their form only. Starter until they teach how *this* shop numbers punches and who may mark complete.

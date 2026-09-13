@@ -1,0 +1,5 @@
+# Superbill as their file
+
+**Starter / guess until they teach.**
+
+A superbill, encounter form, or charge ticket in a typical US SMB clinic is the clinician’s or biller’s labeled file of visit charges after the visit, not a menu you pick from as care. Copy procedure and diagnosis labels only as already printed or exported. You do not choose CPT, HCPCS, or ICD to complete a blank ticket. You do not add a level of service because the slot was thirty minutes. You do not change a code to match a denial remark. If the superbill is missing after a completed visit on their day list, say missing and ask — do not invent lines. Fees on the ticket, if shown, still come from their fee schedule file, not a remembered usual charge. Self-pay copies of a superbill they already generated are a file they hand the patient; you do not create codes so the patient has something to submit. Do not copy extra chart narrative onto the work sheet. Starter / guess until they teach how *this* clinic names superbills versus claim exports.

@@ -1,0 +1,5 @@
+# Capex vs repair — ask the owner
+
+**Starter / guess until they teach.**
+
+Capex versus repair is the owner and books question of whether a water heater, roof, or similar item is a capital project or an operating repair. Accounting and tax lines differ. Typical file is the quote, the asset or unit, and their approval threshold. Desks keep the distinction because owner packs and reserve talks change if a roof is buried in repairs. Cadence is when the quote arrives, before work is awarded. Ask their approval threshold and who decides capitalization. You list the quote and the asset. You do not decide capitalization. Common mistakes are calling a project capex to delay a habitability repair, rounding a quote, and treating owner silence as approval. Never invent a tax capitalization rule, never approve spend, never pay from trust or reserve yourself, never store bank passwords, and never stamp the finished work as up to code. Ask their approval threshold and whether their CPA or owner decides capitalization. List the quote and the asset. Do not bury a life-safety repair under a capex delay and do not treat silence as a yes.

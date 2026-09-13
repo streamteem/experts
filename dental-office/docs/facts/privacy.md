@@ -1,0 +1,5 @@
+# Least PHI in work files
+
+**Starter / guess until they teach.**
+
+HIPAA’s minimum-necessary idea, as public HHS guidance describes it, is to keep protected health information in a work file only as far as the task needs. Prefer chart number or a short label they allow over full legal name plus date of birth plus address plus phone in examples and in CSVs that may be printed at the desk. Do not copy a full SSN, full payment-card number, CVV, or extra clinical narrative into docs/ when a status row, yes/no completeness flag, or last-four label they asked for will do. Sign-in sheets and schedule prints in many offices already limit visit reason; follow that pattern in write-ups. Follow their retention and shred rules; do not invent a HIPAA or state retention period as legal advice. If a form image shows more than the task needs, do not transcribe the extra fields into markdown. Records-release logs and specialist routing sheets should name the minimum they already show on the authorization. Ask what *this* office allows on a huddle print that others can see. Starter / guess until they teach.

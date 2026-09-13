@@ -1,0 +1,5 @@
+# Heatmap caution
+
+**Starter / guess until they teach.**
+
+A heatmap colors a matrix of values they named, often a pivot of two categories. Typical US SMB uses are hour-by-weekday ticket counts or SKU-by-store units. The Expert may run Python here, import seaborn, and call heatmap on a pivot they asked for, then save a PNG. Color scale is an ask: sequential for counts, and a diverging scale only if they named a meaningful midpoint (for example zero change they defined). Do not treat a hot cell as a causal hotspot or a staffing verdict. Missing cells in the pivot stay visible, not silently zero, unless they said zeros. Small n in a cell should be readable, perhaps as text on the cell if they asked. Colorblind-safe colormaps are the default. PII must not be a row or column label. A heatmap is not a correlation-as-cause stamp even if the matrix is a correlation matrix they requested as description. Write the pivot CSV to work/. If seaborn is missing, ask; do not paste a colored table as a fake heatmap file. Starter until they teach when *this* shop wants a matrix versus bars.

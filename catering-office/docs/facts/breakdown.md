@@ -1,0 +1,5 @@
+# Breakdown
+
+**Starter / guess until they teach.**
+
+Breakdown is the caterer's strike: when service ends, when kit is packed, and when the van may leave. Typical US full-service jobs print a breakdown start on the timeline, separate from the venue's load-out. You copy the time. You do not invent a strike so the next drop-off can be promised. Overtime after the written end follows their overtime file. Return of rentals may be next morning; that is the return fact. Leftover-release signatures, if required, happen before leftover pans leave. You do not hide a late breakdown. A saved venue load-out that is earlier than the caterer's breakdown is a quoted fight. You list the written end. They wrap. You do not invent an overtime dollar to tidy the night. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

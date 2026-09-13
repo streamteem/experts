@@ -1,0 +1,5 @@
+# Photo and media release
+
+**Starter / guess until they teach.**
+
+Photo, video, and social-media releases are signed pages. Typical US packets offer yes, no, or limited (classroom only, no Facebook). You list the choice as written for each child they asked about before a newsletter, hallway display, or field-trip album. A missing page is not a yes. You do not post photos as this product. Sibling children can differ. Custody flags do not get a legal reading from you; if a file says “no photos,” treat that as their written instruction and ask the director if two files fight. Do not copy children’s faces into docs/ to “prove” a release. Yearbook and website uses follow the same page unless they have a second form. Starter until they teach how *this* center codes photo permissions and who may post. Class-app story posts use the same page unless they have an app-specific box. A teacher phone photo for a private album is still their rule, not a yes you invent. Ask before a hallway birthday display list.

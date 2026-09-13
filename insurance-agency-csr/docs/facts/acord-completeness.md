@@ -1,0 +1,5 @@
+# ACORD completeness
+
+**Starter / guess until they teach.**
+
+ACORD completeness is a present-or-missing check of the ACORD applications, certificates, and loss-notice forms they already use — not a rewrite of ACORD's instruction guide and not a license to invent answers. Typical US SMB agencies print ACORD 125/126 for commercial, 80/90 series for personal, 25 for liability certificates, 24 or 27 for property evidence, and 2 or 3 for auto ID cards, plus whatever their AMS library includes. You list form number, named insured as written, and which required boxes or attachments are blank on the PDF they dropped. Blank FEIN, missing schedule, unsigned producer block, or no prior-carrier section is a question, not a guess you fill. You do not complete underwriting questions from memory. You do not say the form is “good enough to bind.” They or the producer supply the missing answers. Starter until they teach which ACORD set *this* agency uses per line and which blanks they treat as blockers.

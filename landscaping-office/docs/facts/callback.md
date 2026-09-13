@@ -1,0 +1,5 @@
+# Callback
+
+**Starter / guess until they teach.**
+
+A callback is a return visit they opened because quality, a miss, or a customer complaint was logged — not a new sold enhancement unless they recoded it. Typical US lawn-care offices track missed strips, clippings in beds, a gate left open, or a plant the customer says failed. List the original ticket, the complaint words they recorded, and photos if present. Do not diagnose a tree or turf disease as the cause. Do not promise the plant will survive this time. Warranty versus courtesy versus billable return follows their file. Hours on a callback come from their sheet, not invented time to soothe the account. Skip and dog flags still apply. You list open callbacks. They schedule and they talk to the customer. Starter until they teach how *this* shop codes courtesy versus warranty returns. If they coded the return as warranty, courtesy, or billable, keep that code. Do not upgrade a courtesy to a sold enhancement. Starter until they teach how *this* shop closes a callback ticket versus opening a new extra.

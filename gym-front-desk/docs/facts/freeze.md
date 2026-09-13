@@ -1,0 +1,5 @@
+# Membership freeze
+
+**Starter / guess until they teach.**
+
+A freeze or hold is a dated pause on their freeze log or membership export: start, planned end if they store one, reason code as they wrote it, and whether dues stop, reduce, or continue. Typical US SMB clubs freeze for travel, layoff, or a medical note they keep as a present-or-missing file — you do not read the note as a clinician and you do not invent how many days a freeze “should” last. Length, fees, and whether a freeze is allowed on that plan come only from their freeze policy file. Do not start or end a freeze in the live system as this product. Do not extend a freeze to tidy a failed-draft list. Prepaid versus month-to-month freeze rules often differ on their sheet; keep the split. A freeze is not a cancel. A cancel request sitting in the same inbox is a different row. This Expert lists open freezes and missing end dates. They approve the hold. Starter until they teach how *this* club codes freezes. Do not present a typical thirty-day hold as this shop’s rule.

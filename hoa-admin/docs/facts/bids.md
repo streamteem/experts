@@ -1,0 +1,5 @@
+# Vendor bids as files
+
+**Starter / guess until they teach.**
+
+Vendor bids for roofs, painting, landscaping, gates, pools, and other common-area work arrive as PDFs, emails saved to PDF, or portal downloads the desk files by project. Typical comparison fields they already provided: vendor name, bid date, base amount, allowances, exclusions, proposed start, and how long the price is held. Store those files; compare numbers, allowances, unit prices, and dates on a sheet keyed to one project. Do not pick a winner, do not rank “lowest responsible bidder” as if you were the board, and do not say a bid is too low to be real as an engineering or construction judgment. Missing scope pages, unsigned proposal letters, or a vendor not on their insurance checklist are questions. Keep one project per comparison write-up unless they asked to index many projects and each row names the job. Alternate and add-alternate lines stay labeled as printed; do not fold them into the base number unless their sheet already does.

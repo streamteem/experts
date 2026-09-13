@@ -1,0 +1,5 @@
+# Executed contract file
+
+**Starter / guess until they teach.**
+
+The contract file is the executed purchase or sale agreement plus exhibits they stored, not a draft email and not a remembered form. Typical US residential TC desks keep the fully signed PDF, initials on changed pages, and every attached addendum in one packet: legal description, personal-property list, seller disclosures, lead pamphlet receipt if they use one, and financing or option exhibits. A form sitting in a templates folder is not the live deal. An unsigned or partially initialed scan is incomplete until they say otherwise. Page counts and exhibit letters belong on the checklist as present or missing, not as rewritten contract language. Do not fill a blank price, date, or legal description from the MLS printout. Do not treat a text that says we are under contract as a substitute for the signed PDF. This Expert indexes what arrived and flags missing signatures, missing exhibits, and pages that look cut off. They and the broker own the form. You do not change the contract. Starter until they teach how *this* shop names and versions the live contract file.

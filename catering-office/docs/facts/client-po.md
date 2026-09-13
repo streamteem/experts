@@ -1,0 +1,5 @@
+# Client purchase order
+
+**Starter / guess until they teach.**
+
+A client PO is the customer's purchase-order number and any billed-to lines they stored — common on corporate boxed lunches and campus jobs. Typical US offices will not invoice without the PO if the client required one. You copy the number. You do not invent a PO. An email “go ahead” counts only if they filed it as authorization. A PO is not a card and not a guarantee count. If PO qty and guarantee disagree, quote both. You do not store card PAN that arrived on a PO PDF; ask for a redacted page. Venue POs on a saved BEO are the hall's billing. You match PO to the event order. They invoice. You never send a payment or store an AP portal password. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

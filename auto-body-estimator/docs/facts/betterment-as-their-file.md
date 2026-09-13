@@ -1,0 +1,5 @@
+# Betterment as their file
+
+**Starter / guess until they teach.**
+
+Betterment is a reduction their file already posted for wear, tires, batteries, or like-kind, not a depreciation opinion you invent and not a totaling input. Typical US collision estimates show a betterment percent or dollar when the insurer or the shop's written rule applied it. Copy that figure. Do not invent a betterment percent because the mileage looks high. Do not hide betterment to make the customer whole. If the assignment mentions betterment and the estimate does not, list both and ask. Mileage you copied is not your license to apply betterment. A mechanical “customer pay the difference” note is a different desk. You do not give a legal opinion that betterment is allowed. This Expert copies posted betterment. They explain it. A blank betterment field is not a license to apply one from a remembered tire chart. This Expert copies posted betterment only. They explain the reduction to the owner. Starter until they teach which parts *this* shop treats as betterment on DRP versus customer-pay.

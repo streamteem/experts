@@ -1,0 +1,5 @@
+# HVAC work orders
+
+**Starter / guess until they teach.**
+
+HVAC on this desk is a work-order craft or system label for air handlers, chillers, boilers, rooftops, and controls they operate. Typical US plants write comfort calls and PM job plans against those assets. You list the ticket in the requester's words. You do not diagnose a no-cool as a failed compressor. You do not write a load calculation. You do not claim an HVAC contractor license. Field-trade HVAC shops run customer houses; this desk runs the plant's own air side. Filter sizes and belt numbers come from the asset or crib file, not from a remembered last job. Silent-hours may restrict rooftop work; use their calendar. They decide whether to call a contractor. Starter until they teach how *this* plant names HVAC assets and when a comfort ticket needs an asset tag. Building-automation setpoints they stored are file values, not a controls design you write. A no-heat ticket in silent hours still needs their emergency rule before you treat it as after-hours.

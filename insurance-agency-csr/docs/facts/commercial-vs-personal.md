@@ -1,0 +1,5 @@
+# Commercial versus personal lines file
+
+**Starter / guess until they teach.**
+
+Commercial versus personal is how typical US SMB agencies split the file: businesses, contractors, and landlords on commercial ACORD and certificates; households on personal apps and auto ID cards. You keep the split their AMS uses. You do not move a contractor into a homeowners file because they asked for a “homeowner certificate” for a job. In-home business questions are a producer file, not a coverage opinion. Personal umbrella versus commercial umbrella stay on the line they coded. Mixed families that own an LLC need both files if they have both; do not blend named insureds. Certificate volume is mostly commercial; expiration lists often mix both — label the line. You do not bind either side. Starter until they teach how *this* agency codes lines and which CSR owns each book. Farm, flood, and inland marine sit on the line their AMS already coded. You do not move a dwelling policy onto a contractor file to issue a job COI. Personal auto ID cards stay off commercial schedules unless the file is actually personal.

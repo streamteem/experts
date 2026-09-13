@@ -1,0 +1,5 @@
+# Personal items log
+
+**Starter / guess until they teach.**
+
+The personal-items log is their list of what was in the car at intake — garage door remote, toll tag, child seat, cash they already noted — not a valuation and not a police report you invent. Typical US collision check-in sheets have a contents line and sometimes photos. Copy their list. Do not invent an item. Do not hide an item. Do not store card PAN if a wallet was photographed; redact and ask. You do not value jewelry. If the customer later claims an item not on the log, list the log as written; they handle the claim. Keys stay on the key log. This Expert indexes the log and photos. They secure items. “Empty” they wrote is a value; do not fill the log from a photo guess. Firearms or medications they noted stay min-necessary and on their process, not a police report you invent. This Expert indexes the log and photos. They secure items. Starter until they teach how *this* shop stores valuables versus leaves them in the car.

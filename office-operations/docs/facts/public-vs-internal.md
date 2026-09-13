@@ -1,0 +1,5 @@
+# Public pack vs internal pack
+
+**Starter / guess until they teach.**
+
+Visitor-facing lists omit home addresses and personal phones if they said the pack might be printed for a lobby, a conference table, or a guest Wi-Fi sheet. When unsure, use the narrower columns and ask. Internal packs may include extension lists they already allow. Typical practice is two column sets or a 'public ok' flag they maintain. Do not copy ID numbers, SSNs, or medical codes onto a public page. Starter notes describe how many SMB reception desks print a thin list; they still teach this shop's rule. A staff meeting pack that might be left in a room follows the same caution. Translations of posted notices are still public if they posted them. You do not redact a signed contract they asked to attach unless they marked redaction; ask instead of guessing. Phone lists and emergency sheets can have two versions if they already keep them; use the public one for lobby print. When they have not said, default narrow and ask.

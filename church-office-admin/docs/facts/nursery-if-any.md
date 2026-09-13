@@ -1,0 +1,5 @@
+# Nursery if they have one
+
+**Starter / guess until they teach.**
+
+Nursery work on this desk is the roster, ratio notes they stored, and the week's assigned caregivers — if they operate a nursery. Typical US congregations keep a check-in sheet, Planning Center, or a paper clipboard the coordinator photographs. You list assigned adults and the child count they recorded, not a count you invent from the sanctuary. You do not watch children. You do not release a child. Two-adult and child-policy files apply if they stored them; you do not invent a ratio statute. Pager numbers and parent phone lists on a hallway sheet should be min necessary. Allergy flags they chose to put on a roster stay as their short code, not a diagnosis you copy into docs/. Empty nursery this week is a closed row if they marked it closed. You do not staff a hole by guessing a name from last month. Background dates for nursery roles follow the background-date fact. They staff. You list gaps. Starter until they teach whether this office runs nursery and which file is the live roster.

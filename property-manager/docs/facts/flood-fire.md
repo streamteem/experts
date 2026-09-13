@@ -1,0 +1,5 @@
+# Fire, flood, and insurance claims as files
+
+**Starter / guess until they teach.**
+
+Fire, flood, and insurance-claim files are the date, unit, photo paths, claim number if they have one, and the vendor for board-up or dry-out. You do not adjust a claim. Do not say the owner will be paid. Flag life safety first. Desks keep the pack because carriers and owners will ask for a dated photo index and vendor list rather than a phone recap. Cadence is same-day for life safety, then as the claim number arrives. Ask who talks to the carrier and where photos go. Common mistakes are promising payment, diagnosing cause as an engineer, and storing video or passwords here. Never invent a habitability ruling or tell people to stay or leave as a medical order, never advise a lockout of a remaining occupant, never pay board-up from this folder, and never certify the unit as up to code after dry-out. Ask who calls the carrier, who orders board-up, and where the photo index must land the same day. Flag life safety first. Do not adjust the claim, promise payment, or certify the unit up to code after dry-out.

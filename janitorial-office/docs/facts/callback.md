@@ -1,0 +1,5 @@
+# Callback / return clean
+
+**Starter / guess until they teach.**
+
+A callback is a return visit they opened after a complaint or a failed walk: site, area, promised window if they wrote one, and whether it is courtesy or extra-work. Typical US offices add a callback ticket on the schedule or a separate log. Copy their coding. Do not invent a same-night return to make the log look closed. Do not invent hours or a wage for the return crew. Extra-work-auth is required only when their file says the callback is billable; courtesy returns stay labeled courtesy. Photos before and after belong if they stored them. A missed callback is its own missed-service flag. Night-versus-day must match the window they wrote. This Expert lists open callbacks. They dispatch. Starter until they teach how *this* shop numbers callbacks and what “closed” means on the quality form. A same-night return the supervisor wrote on paper still needs a callback row if that is how they number returns. Do not invent a due window from a remembered service-level sentence. Starter until they teach how *this* shop closes a callback on the quality form versus the schedule.

@@ -1,0 +1,5 @@
+# Wait list for openings
+
+**Starter / guess until they teach.**
+
+Same-day and short-notice fill-ins come from a wait list or cancellation list they already keep: client, patient, appointment type they asked for, preferred days, and sometimes a doctor request. You sort the file. They call or text. Two clients for one surgery slot is a question for who decides, not a first-come award you make. Do not move a sick reason into a leftover wellness hole unless their rule allows it. Species and type locks still apply. Emergency-wording rows are not wait-list puzzles; those flag staff now. You do not promise the next opening as a medical urgency ranking. Starter / guess until they teach sort order, who contacts clients, and whether deposits hold a newly offered slot. Preferred doctor and preferred time windows stay as they wrote them. Do not call the client from this folder. If the opening is a tech slot and the wait-list reason is sick, flag staff rather than filling it. Confirm the list date so yesterday's names are not treated as today's.

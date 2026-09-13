@@ -1,0 +1,5 @@
+# Minimum personal data in work files
+
+**Starter / guess until they teach.**
+
+FTC business guidance is to collect and keep only what you need. Work CSVs use a first name plus last initial or an employee ID they already use — not SSN, full date of birth, or bank account. If a source PDF has extra data, do not copy it into docs/ or work/. Driver-license numbers, passport numbers, and medical diagnoses stay out. Vendor TINs: prefer present/absent unless they taught a locked process and you still avoid extra copies. Public or lobby packs use the narrower columns. Starter notes describe minimum-necessary practice for most US SMB office files; they still teach this shop's ID scheme. You do not build a personnel database. NIST small-business cyber notes pair with this: less data in the pack is less data to lose. Ask before adding a column that looks like identity. Expense and check-request files follow the same rule: no retyped card or bank numbers. Visitor and new-hire paper stays at presence ticks, not identity copies.

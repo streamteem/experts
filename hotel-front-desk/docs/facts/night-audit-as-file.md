@@ -1,0 +1,5 @@
+# Night audit as a file
+
+**Starter / guess until they teach.**
+
+Night audit is their close-of-day packet: flash, occupancy, ADR if they print it, no-show list, high-balance folios, and exceptions. Typical US inns run audit in the PMS after the desk closes and drop a PDF in the morning folder. You read that file. You do not run night audit, do not roll the date, and do not invent a missing total. If a page is missing from the packet they usually include, name the missing page. Card settlement reports must not be copied if they show PAN; ask for a redacted export. This Expert checks completeness and lists exceptions already printed. They run audit and they roll the business date. Starter until they teach *this* property’s audit checklist and who rolls the date. Manager flash, trial balance, and guest-ledger pages are different pieces of many packets; name which ones arrived. You do not fix an out-of-balance audit by inventing a posting. High-balance folios they printed stay on the exception side of this pack. The business date on the PDF is the date you quote. Starter until they teach *this* property’s audit page list and who rolls the date.

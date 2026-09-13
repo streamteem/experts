@@ -1,0 +1,5 @@
+# Hour meter
+
+**Starter / guess until they teach.**
+
+Hour meter, tach, or engine hours are a reading copied from their meter export, the inspection sheet, or a photo of the gauge. Typical US SMB yards read hours on aerials, excavators, loaders, compressors, and generators at outgoing and return. You copy the number they recorded. You do not invent hours to make utilization look tidy and you do not estimate hours from a calendar. If outgoing hours are blank and their contract needs a start meter, ask. If return hours are lower than outgoing, flag a meter exception; do not “fix” the number and do not diagnose a rolled-back meter as a mechanic. Hour overage charges, if any, come only from their rate or contract file applied to the difference they recorded. GPS hour fields, if they have a telematics export, are another file: quote both when they disagree. Maintenance-due often keys off hours; still you do not decide the repair. Starter until they teach how *this* yard reads analog versus digital meters and whether tenths are required. Never store a portal password for the telematics login in this folder.

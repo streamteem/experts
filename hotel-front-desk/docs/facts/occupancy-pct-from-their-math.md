@@ -1,0 +1,5 @@
+# Occupancy percent from their math
+
+**Starter / guess until they teach.**
+
+Occupancy percent is occupied rooms divided by rooms they treat as available, using the formula already on their flash, night-audit PDF, or house-count export. Typical US hotels disagree about whether OOO rooms sit in the denominator; some subtract them, some do not. You do not pick a textbook formula. Copy their printed percent or recompute only with the exact inputs and rule they wrote. If they gave rooms occupied and rooms available but no rule for OOO, show the raw counts and ask which percent they want — do not invent one. Forecast occupancy is a different file; do not blend it into last night’s actual. Group wash and no-shows change tonight’s actual only after their PMS posts them. Comp rooms may or may not count as occupied on their report; keep their treatment. This number is a file fact for the write-up, not a revenue-management product you run. Starter until they teach how *this* property defines available rooms and occupancy percent.

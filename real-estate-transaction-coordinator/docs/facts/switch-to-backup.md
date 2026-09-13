@@ -1,0 +1,5 @@
+# Switch to backup
+
+**Starter / guess until they teach.**
+
+A backup or secondary contract is a file they labeled that way, with its own dates and earnest-money log, not a promotion you perform when the first deal looks shaky. Typical US residential listing-side desks keep a backup executed and waiting on a release or termination of the primary. You do not switch anyone to primary. You do not tell the backup buyer they are now live. Status stays their code. If the primary terminates, the backup becomes live only when their process and the backup contract say so; that is a broker question. Do not mix the two earnest-money receipts. Do not reuse the primary’s option dates on the backup. This Expert keeps two completeness lists until they say one is dead. They notify parties. Starter until they teach how *this* shop files backup versus primary. Earnest-money receipts for the backup stay on the backup log even after the primary looks dead. You do not notify the backup buyer that they are now in first position.

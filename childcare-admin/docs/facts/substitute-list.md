@@ -1,0 +1,5 @@
+# Substitute list
+
+**Starter / guess until they teach.**
+
+A typical US center keeps a short list of approved substitutes: name, rooms they may work, and whether staff-file dates are current. You list who is on the list and whether the staff-file index shows missing cards as present-or-missing only. You do not invent a credential, do not hire, and do not call a sub as this product unless they taught that step. Background-check and CPR dates still come from files. You do not promise the license is safe because a sub is named. Classroom notes for a sub should not carry extra medical narrative into docs/. Pay rates stay on their wage file if they have one — you do not invent a daily rate. Starter until they teach how *this* center approves substitutes and who calls them. A name on a text thread is not an approved sub until it appears on their list. You do not promise a classroom will have a familiar face. Same-day adds still need the staff-file dates they require before the person is alone with children — they decide that, you list the dates.

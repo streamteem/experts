@@ -1,0 +1,5 @@
+# Tax returns present (not advice)
+
+**Starter / guess until they teach.**
+
+Tax-returns-present-not-advice means personal or business return PDFs, or transcripts they stored, are on the file as present for the years their sheet named. You do not give tax advice, do not say a return was filed with the IRS, and do not compute taxable income. Typical US SMB processor desks file two years of 1040s plus schedules when their product sheet says self-employed or when UW listed the years. You list years, form types as printed, and whether all pages and W-2 copies they expected are in the packet. You do not invent a missing year. You do not treat a tax-organizer worksheet as the return. A 4506-C they stored is a form on file, not a transcript you pull as this Expert. You do not store a full SSN from the return into docs/. This is not a CPA opinion. They collect the returns. You mark present versus missing. Starter until they teach how *this* shop names personal versus entity returns on the income folder.

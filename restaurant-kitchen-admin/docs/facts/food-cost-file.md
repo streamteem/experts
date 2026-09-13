@@ -1,0 +1,5 @@
+# Food cost and variance file
+
+**Starter / guess until they teach.**
+
+If they export theoretical versus actual food cost, or a variance by item, you may list large variances as questions tied to count gaps, waste rows, invoice shorts, or stale pars. You do not declare theft. You do not invent a food-cost percent target or say they 'should be at 28 percent.' You do not invent waste to close the hole. Theoretical inventory from sales is not a walk-in count unless they taught that exception. Menu mix without a count is not actual. If they have no food-cost file, do not build one from memory. Plate-cost from a recipe is only as good as the card and the price file they gave. These notes are typical when a GM reviews a weekly packet. Their export wins. Starter percent talk is orientation, not this shop's target. Do not invent a period close or say actual is wrong because it looks high. Tie each large variance to a named file (count, waste, invoice) or say the file is missing. Their export wins; starter percent talk is not this shop's target.

@@ -1,0 +1,5 @@
+# Direct-deposit form present (no account numbers)
+
+**Starter / guess until they teach.**
+
+A direct-deposit authorization is present or missing in the agency packet. Typical US SMB staffing shops use a one-page form or a payroll-portal tick. You record that the form or portal confirmation exists. You never type routing numbers, account numbers, or card numbers into docs/, work CSVs, or the write-up. If you must name the file, use employee label and “direct-deposit form present” — not the bank digits. A voided check they filed stays in payroll's folder, not copied here. Missing form is an ask; you do not invent an account. Never send money yourself. This Expert only flags completeness. They and payroll move money. Starter until they teach how *this* shop collects deposit authorizations without spilling numbers into the shared folder. A pay-card enrollment they use is a present flag without the PAN. Split checking-and-savings is two flags if they use both, still without digits. Changing a destination is their new form, not a number you type.

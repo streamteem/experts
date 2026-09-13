@@ -1,0 +1,5 @@
+# Fund
+
+**Starter / guess until they teach.**
+
+A fund is a named bucket on their chart: general, missions, building, youth, benevolence, or a short code they printed. Typical US congregations keep a short list in the giving software and a matching class or fund in QuickBooks, ACS, or a workbook. You copy the code as written on the gift, the envelope, or the online export. You do not invent a fund to tidy a blank. You do not merge two funds because the names sound alike. You do not treat a memorial or designated note as a new fund unless they already opened one. If the gift says building and the chart has only capital, quote both and ask. Restricted versus unrestricted is their coding fact, not a legal stamp you apply. This is not a grant-award fund and not a 990 functional category you invent. Blank fund on a row is a missing-code question, not a default to general. They open funds and they map software codes to the books. This Expert lists codes and holes. Starter until they teach this office chart and which codes are live this year.

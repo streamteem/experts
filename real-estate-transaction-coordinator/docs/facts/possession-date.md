@@ -1,0 +1,5 @@
+# Possession date
+
+**Starter / guess until they teach.**
+
+Possession is the date and time the contract or a temporary-occupancy exhibit says keys and occupancy change, which may differ from the closing or funding date. Typical US residential files print at closing, funding, or a later hour, and sometimes a seller leaseback. Copy the printed possession row onto the calendar separately from closing. Do not assume keys at the table. Do not invent a two-day leaseback. Keybox removal and garage-door remotes are vendor or listing-side notes, not a legal possession opinion. If closing moves and possession language still points at the old date, flag the mismatch; they amend. This Expert lists closing, funding if on file, and possession as three possible timestamps. They write the exhibit. Starter until they teach how *this* shop handles same-day versus delayed possession. Early-occupancy exhibits are a different row from seller leaseback; do not collapse them. Key pickup at a lockbox is not possession unless their exhibit says keys equal occupancy.

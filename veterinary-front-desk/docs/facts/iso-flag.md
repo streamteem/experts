@@ -1,0 +1,5 @@
+# Isolation or contagious flag from their note
+
+**Starter / guess until they teach.**
+
+If their book or a prior note already says isolation, parvo ward, ringworm, or upper-respiratory isolation, keep that flag on the day list so the floor is ready with the right entrance and cleaning process they already use. You do not diagnose a contagious disease from a phone reason. You do not tell other clients in the lobby a diagnosis. You do not decide the animal is safe for the main waiting room. A reason that only sounds like a contagious disease is a staff flag, not an isolation order you write. Discharge from isolation is the veterinarian's note. Starter / guess until they teach which words trigger a room change and who updates the flag after the visit. A 'possible parvo' reason in a phone note is a staff flag, not an isolation order you write onto the book. Do not announce a disease in the lobby. Room assignment follows their map after staff decide. Discharge from isolation waits on the veterinarian's note, not on a clean-looking animal at pickup.

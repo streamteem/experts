@@ -1,0 +1,5 @@
+# Litter or group intake
+
+**Starter / guess until they teach.**
+
+Litters and group intakes may share a visit time but need individual patient IDs if their PIMS works that way. Estimates per head come from the price file, not a guessed puppy package unless that package is a named row. You do not decide how many vaccines a puppy in the group needs, which dewormer, or whether a sick littermate should be isolated as a diagnosis. Weights and names stay per ID. Rescue or breeder accounts, if used, must match their billing file. Missing individual IDs on a "litter of six" row is a question before you publish reminders. Starter / guess until they teach whether they create six charts at intake and how they book a group slot on the book. Sick and well littermates in one booking still need separate IDs and, if their book requires it, an isolation question for staff, not a diagnosis you make. Package prices apply only as named rows. Do not assign the same vaccine due date to every puppy unless the export already did.

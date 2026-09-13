@@ -1,0 +1,5 @@
+# Work order
+
+**Starter / guess until they teach.**
+
+A work order on this desk is the in-house ticket that authorizes maintainers to touch an asset they operate: a rooftop unit, a dock leveler, a press, a restroom, a parking-lot light. Typical US plant and facilities offices issue work orders from Fiix, UpKeep, Limble, eMaint, Maintenance Connection, or a numbered workbook when the CMMS is light. The header usually carries a work-order number, asset, location, priority, craft, requested-by, a status such as requested, approved, assigned, in progress, waiting parts, or complete, and a short request in the requester's words. This is not a customer job ticket for a field trade shop and not a construction daily log or RFI. You list and date from their export. You do not invent a work-order number, a diagnosis, or a completion the tech did not type. Draft or unapproved requests stay labeled requested. A work order is not an OSHA finding, not a PE stamp, and not a purchase order. If two numbers appear, ask which the board uses. They release and they close tickets. Starter until they teach how *this* plant numbers and dispatches work orders.

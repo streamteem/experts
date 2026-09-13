@@ -1,0 +1,5 @@
+# Employee and friends-and-family
+
+**Starter / guess until they teach.**
+
+Employee and friends-and-family rates come from their policy or POS discount reason. Apply only the reason already on the ticket. Do not add a courtesy discount in the pack to make a complaint go away. Desks keep the reason so payroll and retail commission stay honest. Typical files are a discount-reason list and the ticket export. Shops vary: some allow employee retail at cost, some a percent off service, some no F&F on Saturdays. You do not pick the percent. A stylist’s family on the book still needs a ticket reason if they use one. Do not invent an employee SKU. Booth renters may have a different courtesy rule—ask; do not assume house policy applies. Starter until they teach this shop’s discount reasons. Reason codes such as employee, family, or model come from the ticket. A model or education service is not a discount you invent. If the reason is blank, list the ticket and ask. You do not add a courtesy percent to close a complaint.

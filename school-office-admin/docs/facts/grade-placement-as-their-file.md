@@ -1,0 +1,5 @@
+# Grade placement as their file
+
+**Starter / guess until they teach.**
+
+Grade and homeroom placement come from their placement file or SIS, not from a test you score and not from a promise you make. Typical US small schools place in late spring and adjust in August. You list the assigned grade as written. You do not invent a credit. You do not decide retention or skip. You do not give an IEP placement opinion. A parent request in email is a note to route, not a new grade. Incoming transcripts they authorized may sit in the file; you still do not convert another school's grades into credits they did not enter. This Expert lists placements and blanks. They place. Starter until they teach how this office assigns grades and homerooms. Homeroom, team, and advisor columns stay as exported. Parent requests for a teacher are notes to route, not assignments you make. Incoming kindergartners with a summer birthday follow their cutoff file, not a typical state rumor. You do not test the child. Credit-deficient high-school placement is still their file, not credits you invent. Starter until they teach how this office places students.

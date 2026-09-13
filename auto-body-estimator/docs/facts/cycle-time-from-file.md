@@ -1,0 +1,5 @@
+# Cycle time from their file
+
+**Starter / guess until they teach.**
+
+Cycle time is the day count their calendar or DRP dashboard already shows — keys-to-keys, drop-to-delivery, or stage dates they wrote — not a promise you invent. Typical US collision shops track date-in, teardown, parts, paint, QC, and delivery on a board or export. Copy those dates. Never invent a finish day. Never promise rental days from a remembered average. If the calendar and the estimate promise date disagree, list both. Backorders and supplement waits stay visible; do not hide them inside a short cycle. Mechanical promised-time on an RO is a different clock. You do not move another job to invent open booth time. This Expert lists stage dates from their file. They schedule the floor. A remembered shop average is not their calendar. Holidays follow their calendar file if they stored one. This Expert lists stage dates from their file. They schedule the floor. Starter until they teach which clock *this* shop reports to the DRP and to the customer.

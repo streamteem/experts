@@ -1,0 +1,5 @@
+# Contact trial as their list, not a fit
+
+**Starter / guess until they teach.**
+
+Contact-lens trials at a typical US optometry desk are a list they already keep: brand and modality as stocked, diagnostic-set log if they use one, and which trial they already issued as a row on the patient’s CL file. You list present-or-missing trial rows and whether a signed trial-ack they require is in the folder. You do not fit contact lenses. You do not pick a brand, base curve, or diameter. You do not say the trial “looks good.” You do not interpret the CL Rx. FDA contact-lens pages are device orientation, not a fitting you perform. If the doctor has not named a trial and the list is blank, ask; do not hand a popular monthly from the drawer in a pack. Cosmetic or costume lenses still follow their Rx-present process — you do not decide they are safe. Lot and expiration on a trial vial, if on their log, stay as written. Do not copy extra slit-lamp notes into docs/. Distinct from a medical sample-medication log. Starter / guess until they teach how *this* office logs diagnostic lenses.

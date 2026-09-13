@@ -1,0 +1,5 @@
+# Reception notes as a file
+
+**Starter / guess until they teach.**
+
+A one-page how-we-answer sheet they wrote: greeting, who takes which call, and after-hours words. You do not publish it as a chatbot, SMS flow, or auto-attendant product. After-hours: their words, not yours. Typical sections are greeting, transfer list, and a 'we do not quote price' line if they wrote one. You do not invent a slogan or redesign brand. Visitor-facing scripts omit personal cells if they said the page might sit at the desk. Starter notes describe common SMB reception cards; they still teach this shop's words. Do not send the script as a blast. Emergency lines point at their emergency sheet, not a medical protocol. Shared-inbox drafts stay files they paste. Keep their filename on the one-pager. After-hours voicemail words come from this sheet if they wrote them; you do not change the phone greeting as a product. Do not add a marketing tagline. Transfer names stay as they listed; a blank transfer is a question, not a person you pick.

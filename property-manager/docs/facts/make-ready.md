@@ -1,0 +1,5 @@
+# Make-ready / turnover
+
+**Starter / guess until they teach.**
+
+A make-ready or turnover file is the punch-and-schedule pack that takes a vacant unit from keys-in to the rent-ready label this shop uses. Typical contents are notice or vacate date, key and lockbox status (point to their vault, do not paste codes), move-out condition notes, a punch list (paint, clean, carpet, trades), vendor dates, and rent-ready yes or no as they define it. Days-vacant targets are theirs. Desks keep the file because owner downtime questions and the next showing calendar depend on it. Cadence is from notice through lease-up, often updated daily while vendors are in the unit. Ask their checklist, who may mark rent-ready, and whether they use in-house crews or vendors. Common mistakes are using a hotel-grade punch they do not use, marking done from a vendor text, and calling the unit up to code. Never stamp rent-ready as an inspector, never invent a habitability ruling, never schedule a lockout as part of turnover, never store lockbox passwords in the punch sheet, and never pay vendors from trust yourself.

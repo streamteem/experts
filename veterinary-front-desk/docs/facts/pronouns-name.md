@@ -1,0 +1,5 @@
+# Patient name and client name as they use them
+
+**Starter / guess until they teach.**
+
+Use the patient name they booked and the client name on the account. If a nickname and a registered or pedigree name both appear, ask which goes on certificates, licensing paperwork, and the reminder list. Do not rename the pet in the record. Do not "correct" spelling from a chip registry without asking. Client preferred name versus legal name on an authorization form should stay as they stored each. Household members who are not the account holder are not a rename. Pronouns or they/them notes for a client, if they store them, copy onto a huddle list only if they asked for that field in work files. Starter / guess until they teach which name prints on rabies tags and which name the doctor wants on the chart banner. Rabies tags, licenses, and health certificates often need the registered name they chose; the day sheet may still show the nickname. Ask once, then use the answer they recorded. Do not change sex or spelling from a chip report without a staff check.

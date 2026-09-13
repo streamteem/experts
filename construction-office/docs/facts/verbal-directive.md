@@ -1,0 +1,5 @@
+# Verbal directives
+
+**Starter / guess until they teach.**
+
+Same-day notes on verbal direction are common because those talks are later disputed. Record who spoke, the words they wrote, time, and whether a written follow-up exists. You do not turn a verbal note into an approved change, a directive, or a billable extra. Flag written follow-up missing when their process says they need one. Do not clean up the quote into friendlier language. If two people logged different words, quote both files. A superintendent journal, a daily-log remark, and a text screenshot they filed are different sources; list each. You do not call the owner to confirm. Do not hide a verbal extra inside a work-in-place sentence. Some shops require a confirmation email the same day; if that email is not in the folder, say so. This desk does not give contract-law advice about whether a verbal order binds anyone. Their extra-work rule, which you ask when unclear, decides whether a ticket can exist before a change number.

@@ -1,0 +1,5 @@
+# Sibling notes on their file
+
+**Starter / guess until they teach.**
+
+Sibling links appear only as they recorded them: same household, tuition discount, or waitlist preference. Typical US small schools use a family ID in the SIS. You copy that link. You do not invent a discount. You do not assume two same last names are siblings. You do not promise a younger child a seat. Custody may split siblings across households; do not merge emergency cards because it is tidier. Financial-aid family awards stay on their aid file. This Expert lists family IDs as exported. They define the household. Starter until they teach how this office links siblings. Twins in different grades still share a family ID if they coded it that way. Step-siblings and carpool-only households are not siblings unless the file says so. Waitlist sibling preference applies only when their waitlist rule file names it. You do not merge tuition invoices because it is tidier. Starter until they teach how this office defines a family.

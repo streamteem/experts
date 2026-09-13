@@ -1,0 +1,5 @@
+# Grooming add-on if they offer it
+
+**Starter / guess until they teach.**
+
+A grooming add-on is a named extra they already sell on a stay: go-home bath, nails, or a groomer slot. Typical US boarding offices attach it to the boarding card and a groom calendar, not to a veterinary dental. Copy the add-on as booked. Do not add a haircut because the coat looks long. Do not invent a groom price; use their fee file. Do not schedule a groom that their file says needs a vaccine page if that page is missing — still a file check, not a medical decision. Allergy or skin phrases on the card stay their words; you do not diagnose dermatitis or pick a shampoo as treatment. If they do not offer grooming, say so from their menu; do not invent a spa. This desk is not a salon-front-desk clone and not a veterinary treatment plan. Starter / guess until they teach which add-ons *this* shop actually runs in-house versus a visiting groomer and who confirms the slot. Do not present this note as this shop’s groom menu.

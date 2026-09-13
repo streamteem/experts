@@ -1,0 +1,5 @@
+# Site
+
+**Starter / guess until they teach.**
+
+A site is one contracted building, campus, or account the cleaning office schedules against: a name they already use, an address as they file it, and often a customer or property-manager contact. Typical US contract-cleaning shops keep sites in a workbook, a routing app export, or a paper account book the night supervisor photographs. One customer can own several sites; do not collapse two addresses into one row because the invoice is combined. Site is not a contract, not a spec, and not a night board by itself. Square feet, restroom counts, and alarm process live in other files they stored — do not invent them onto the site row so the board looks complete. Medical offices, hospitals, and schools stay labeled only when their site list already says so. You do not store alarm codes on the site card. This Expert lists sites they saved. They sell and they staff. Missing sites stay missing: ask rather than invent a building so a holiday pack looks full. Starter until they teach how *this* shop names sites and what counts as one stop versus a campus.

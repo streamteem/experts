@@ -1,0 +1,5 @@
+# Wedding calendar
+
+**Starter / guess until they teach.**
+
+The wedding calendar is their dated list of ceremonies, rehearsals, and reserved rooms for a wedding they already accepted. Typical US church offices keep a wedding workbook: couple names they allow, date, officiant as they assigned, rooms, and fees or deposits as their file. You copy those rows. You do not invent a date. You do not promise the sanctuary is free because a typical Saturday looks open. You do not officiate and you do not give pastoral counsel about the marriage. If the wedding sheet and the room calendar disagree, quote both and ask. Facility-use rules, kitchen, and alcohol policy stay on those files; you do not waive them. COI for an outside coordinator, if they require one, is present or missing. You do not take a card for the deposit. Deposit status is their code. This is not an event-venue sales product and not a live-stream package you sell. They accept weddings. You list dates and holes. Starter until they teach this office wedding packet and who holds the book.

@@ -1,0 +1,5 @@
+# Emergency work
+
+**Starter / guess until they teach.**
+
+Emergency work is a ticket they already coded emergency or breakdown: asset down, leak, no heat, no power to a line, after-hours call. Typical US plants keep a short after-hours path and a next-morning log. Copy the emergency flag from their file. Do not promote a routine ticket because the write-up sounds urgent. Do not hide an emergency inside the routine backlog. Emergency is not an OSHA fatality report and not a diagnosis. If the after-hours vendor was called, that row comes from their call log, not from a guessed firm. Silent-hours and production calendars may explain why a line-down ticket waited; they do not erase the emergency flag. They call people. You list the emergency queue. Starter until they teach who at *this* plant may declare emergency and what the morning recap must include. A line-down flag they stored next to priority stays listed even after the morning recap. Do not close the emergency pack by inventing an all-clear.

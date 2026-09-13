@@ -1,0 +1,5 @@
+# Background check file
+
+**Starter / guess until they teach.**
+
+A background file is the vendor packet or office log they already keep: vendor name as they use it, role, date, and their status code — not the full consumer report copied into docs/. Typical US churches use Protect My Ministry, MinistrySafe, Praesidium, a local vendor, or a denomination process. You list present versus missing against the roles their policy tags. You do not run the check. You do not interpret a hit as counsel. You do not decide hire or volunteer status. You do not store a Social Security number, a full report PDF with extra identifiers, or a vendor password. The background-date fact is the date column; this fact is the file's existence and type. If two vendors appear on one person, quote both and ask which the office treats as live. Expired versus never-run stay distinct if they coded them that way. They order checks and they talk to the person. You pack completeness. Starter until they teach which vendor this office uses and where the log lives.

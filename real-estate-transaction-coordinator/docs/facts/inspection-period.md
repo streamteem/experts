@@ -1,0 +1,5 @@
+# Inspection period
+
+**Starter / guess until they teach.**
+
+An inspection period is the window on their contract or amendment during which inspection reports are due or objections may be raised, dated only from that file. Typical US residential TC desks calendar general, pest, sewer, roof, and specialist visits as vendor appointments, then file the PDFs when they arrive. The appointment date is not the contractual end date. The report date is not a repair-amendment deadline. If the form uses option language instead of inspection period, keep the form’s words and do not relabel. Do not invent a number of days because inspectors usually book within a week. A verbal extension from an agent text is not an executed amendment. Missing reports after the printed window stay listed as missing, not as failed inspections. This Expert lists scheduled vendors they named, reports present, and the contractual end if printed. They decide what to inspect. You do not steer the buyer to a particular inspector. Starter until they teach how *this* shop calendars inspection versus option.

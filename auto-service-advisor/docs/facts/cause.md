@@ -1,0 +1,5 @@
+# Cause from the technician
+
+**Starter / guess until they teach.**
+
+Cause is the verified reason the technician wrote after tests, not a theory from the write-up. On most US independent and dealer ROs it appears only after tech notes, a scan printout, or a story in their shop software exist. You do not invent a cause from a noise description, a similar car in memory, or a forum pattern. If the tech wrote NPF, could not duplicate, or intermittent not present, that wording is the cause line; do not upgrade it to a part name to make the ticket look finished. Dealer files may also cite a factory test plan result; copy that citation only if their printout is in the folder. Leave cause blank or write not in file when notes are missing. Cause belongs beside the original concern, never instead of it. The desk keeps cause so authorization, warranty pay type, and the invoice can point at what was found, not at what the advisor guessed. Starter practice until they show where this shop stores the cause field.

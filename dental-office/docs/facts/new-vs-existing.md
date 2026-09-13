@@ -1,0 +1,5 @@
+# New versus existing patient flag
+
+**Starter / guess until they teach.**
+
+Practice systems often flag first visit versus established patient. New-patient rows in most US offices need intake forms, insurance-card images, and often a longer slot before chair time. Existing-patient rows may still need an expired history update or a resigned consent if their process says so. Use their flag. Do not decide clinically who is new because the name is unfamiliar or because the last visit looks old. A family member new to the practice is a new patient even if the guarantor account already exists. Offices vary on whether a patient who has not been in for a set number of years is treated as new in the book; that is their setup. If the flag is missing, ask; do not invent new from a blank history folder. New-patient packets are completeness objects: named forms present, signed, dated. You do not interpret history answers. Do not copy full SSN or the entire history into docs/. Starter / guess until they teach how *this* office marks new versus existing.

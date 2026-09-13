@@ -1,0 +1,5 @@
+# Keys and fobs
+
+**Starter / guess until they teach.**
+
+A simple key and fob log lists key ID, door or cabinet, who holds it, date out, and date in when they record returns. Alarm codes, lockbox combinations, and after-hours PINs never go in this folder. Lost or unreturned keys are flags for them; you do not rekey, call a locksmith, or order cores. Do not invent a key number. Spare keys in a drawer belong on the log only if they already tagged them. Fobs and proximity cards are the same idea as metal keys: who holds which ID. Building or landlord master keys follow their rule; do not copy a master list onto a lobby pack. When someone leaves, you list the keys their log still shows as out; you do not collect keys or decide access. Cabinet keys for petty cash or meds follow the same log and the no-money, no-medical-detail rules. Starter notes describe common SMB key boards; they still teach how this shop numbers keys and whether a quarterly audit even exists. You do not reset an alarm panel.

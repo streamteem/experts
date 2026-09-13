@@ -1,0 +1,5 @@
+# Habitability — ask, do not rule
+
+**Starter / guess until they teach.**
+
+Habitability is a legal standard that varies by state and sometimes by city; this desk does not rule on it. If a resident claims the unit is unlivable, flag the work order and record the claim in their words, with dates and photo paths they already filed. Repair-and-deduct and rent-withholding rules are legal. Desks keep the flag because ignoring the claim in the file is how offices lose the timeline later. Cadence is same-day when the claim is made, then follow the emergency or routine path as their SOP says. Ask who in this shop reviews habitability claims and whether counsel is already involved. Common mistakes are telling the resident to withhold rent, telling the owner they can ignore it, and writing that the unit is or is not habitable as an inspector. Never invent a state's habitability ruling, never draft a lockout or pay-or-quit as the answer, never store passwords, and never pay a hotel or repair from trust yourself.

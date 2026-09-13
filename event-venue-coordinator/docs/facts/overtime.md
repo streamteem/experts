@@ -1,0 +1,5 @@
+# Event overtime
+
+**Starter / guess until they teach.**
+
+Room, labor, and bar overtime dollars and clocks come from their banquet rate file or contract — never from a guessed hourly. Typical US venues sell the room until midnight and print an overtime hour for the space, the captain, and the bar as separate lines. You copy those lines. You do not invent an overtime rate. You do not extend last call as a license act. Curfew may block an overtime you would otherwise price from the file; show the conflict. Labor overtime for a late load-out is the labor file, not the room-rental overtime line, unless they combined them in writing. They approve the extension. You list the printed rate and the requested end time. Starter until they teach *this* venue’s overtime grid. A fifteen-minute grace they wrote is the only grace; you do not invent one. Band load-out after room overtime still needs the strike window. You do not promise the next morning’s breakfast set will wait. They approve the extra hour in their process.

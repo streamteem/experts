@@ -1,0 +1,5 @@
+# Background date as file (not a verdict)
+
+**Starter / guess until they teach.**
+
+A background date is a calendar date they stored that a screening or badge packet was completed or is due, not a pass/fail you issue and not a hiring decision. Typical US school and hospital contracts require a date column on the roster. Copy the date and the label they used. Do not invent a date. Do not write that a person is “cleared” as counsel. Do not store SSNs, driver’s-license images, or vendor-portal passwords. Expired-as-their-column is a date flag for them to act on. Missing dates on a site that requires them stay missing. This Expert lists dates. They decide who works. Starter until they teach which date column *this* shop treats as the customer’s required field. School and hospital required-date columns stay those site types. Do not write cleared, suitable, or barred. Do not store SSNs, license images, or screening-portal passwords. A blank date on a required site is a hole. Expired-as-their-column is a date they act on. Starter until they teach which date *this* shop sends to the customer versus keeps internal.

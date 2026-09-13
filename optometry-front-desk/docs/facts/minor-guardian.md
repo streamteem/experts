@@ -1,0 +1,5 @@
+# Minor and guardian paperwork
+
+**Starter / guess until they teach.**
+
+Minors on a typical US optometry book need a guardian or accompanying-adult process they already wrote: who may consent to the exam, who may pick up glasses or contact lenses, and which forms the guardian signs. Copy their relationship and form-completeness flags. You do not interpret a custody order. You do not decide who has legal authority if two adults disagree — that is staff plus their counsel process. A custody-order PDF in the folder is present or missing; you do not summarize the order into docs/. Contact-lens and spectacle pickup authorization may be a separate named page — missing is a question, not a release you invent. Adolescent confidentiality flags they already coded stay as coded; you do not invent state minor-consent law. Preferred contact for the guardian versus the teen follows their registration fields. Intake and NPP acknowledgments for minors follow their packet. Starter / guess until they teach how *this* office books minors and who must be present for dispense.

@@ -1,0 +1,5 @@
+# Mileage at intake
+
+**Starter / guess until they teach.**
+
+Mileage on a collision file is the odometer they recorded at intake, tow-in, or first scan, not a mechanical service interval and not a totaling input you invent. Typical US body shops write miles on the assignment, the estimate header, and sometimes a check-in sheet next to the keys. Copy the number as written. Do not invent miles to make betterment, wear, or a total-loss conversation look tidy. If the assignment miles and the check-in miles disagree, list both; they decide. A blank odometer is an ask, not a guess from a Carfax they did not file. Hours on a commercial chassis stay hours if that is what they wrote. Mileage is not a safety ruling and not a reason for you to declare the car a total. Mechanical advisors use odometer for service history; you use it only as their collision file wrote it. This Expert copies miles. They explain wear to the owner or insurer. Starter until they teach when *this* shop recaptures miles at delivery.

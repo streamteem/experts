@@ -1,0 +1,5 @@
+# Appliances they warrant
+
+**Starter / guess until they teach.**
+
+Appliances they warrant are the fridge, stove, and other items the lease already says the owner maintains. If washer and dryer are tenant-owned, do not dispatch as owner. Typical file is the lease appliance line plus the unit asset list if they keep one. Desks keep the split because owner WOs and tenant-owned appliance tickets have different payers. Cadence is at move-in and when a WO is opened. Ask the unit file. Do not buy appliances. Do not say a used replacement is like-for-like as an appraiser. Common mistakes are dispatching owner techs to tenant-owned machines, inventing a warrant list, and calling a broken fridge a legal habitability finding. Never invent a habitability ruling, never certify the replacement as up to code, never store vendor-portal passwords, never pay for an appliance from this folder, and never advise a lockout over an appliance dispute. Ask the lease line for fridge, stove, dishwasher, and laundry, and whether any machine is tenant-owned. Dispatch follows that file. Do not buy a replacement and do not call a broken appliance a habitability ruling you made.

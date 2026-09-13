@@ -1,0 +1,5 @@
+# PD as on file
+
+**Starter / guess until they teach.**
+
+Pupillary distance on a typical US optical ticket is a number they already stored: binocular or monocular, distance or near, as the Rx print, pretest export, or order field shows. You copy those figures only as written. You do not measure PD. You do not invent a PD from an average adult table. You do not split a binocular PD into monocular values. You do not convert millimeters. If PD is blank and their process requires it before the lab, say missing and ask — do not fill 62 because “that is common.” Near PD versus distance PD stay as labeled if both exist; do not copy one into the other. A frame-board PD sticker is not a patient PD unless they said that field is the source. You still do not interpret the Rx. Least PHI: chart label and the PD field they asked for, not extra exam notes. Distinct from a medical clinic vital-sign copy. Starter / guess until they teach which file *this* optical treats as the live PD and who may enter it.

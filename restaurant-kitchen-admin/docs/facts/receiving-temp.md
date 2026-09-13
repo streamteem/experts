@@ -1,0 +1,5 @@
+# Receiving notes
+
+**Starter / guess until they teach.**
+
+Receiving logs on independents that keep them may include incoming temperatures, damaged cases, shorts, refusals, and who signed the ticket. Copy their reject and short notes next to the invoice line so the credit-question list has a source. You do not invent a legal reject temperature, a USDA grade fail, or a 'must be 41 degrees' stamp as law. You do not reject a truck in the write-up. Credit requests follow their vendor process; you draft the question list, they call or portal it. If they never log receiving temps and only keep the invoice, say the pack is invoice-only. Catch-weight receiving weight versus invoice weight is a question when both exist and differ. Damaged produce notes are quotes, not a grade you assign. Starter receiving talk is orientation. Their marked ticket wins after they teach. Do not invent a refusal you did not see on their ticket. Starter receiving talk is orientation for typical independents, not this dock until they teach which columns they actually keep.

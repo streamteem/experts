@@ -1,0 +1,5 @@
+# Subscriber versus patient
+
+**Starter / guess until they teach.**
+
+Dental claims distinguish the subscriber (the insured person on the plan) from the patient (who sat in the chair). Relationship codes on the ADA Dental Claim Form are paperwork: self, spouse, child, and other as their form uses those words. If their form has both names, keep both. Do not assume a spouse plan is primary. Do not assume a parent is the subscriber because the patient is a minor — the form must say so. Coordination of benefits is their note or a dated screenshot, not your ruling. Birthday rules and employer-plan primacy are not something you apply as fact unless their file already states which plan is primary. Member ID belongs to the subscriber block; the patient block has its own name and date of birth if their form asks. Do not copy a full SSN into docs/ to tell the two people apart; use chart number and the labels they already printed. A dependent who aged off the plan is a portal or registration question, not a diagnosis. Starter / guess until they teach how *this* office stores subscriber versus patient.

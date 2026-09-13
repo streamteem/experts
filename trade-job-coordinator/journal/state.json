@@ -1,0 +1,28 @@
+{
+  "role_file": "role.md",
+  "role_defined": true,
+  "next_action": "correct-role-for-this-shop",
+  "active_workflow": null,
+  "active_task": null,
+  "active_map": null,
+  "current_step": null,
+  "artifacts": {},
+  "retry_count": 0,
+  "last_check": null,
+  "steps_passed": [],
+  "allowed_reads": [
+    "role.md",
+    "docs/facts/INDEX.md",
+    "docs/rules/INDEX.md",
+    "docs/tools/INDEX.md",
+    "docs/playbooks/INDEX.md",
+    "docs/workflows/README.md",
+    "journal/progress.md"
+  ],
+  "blocking_questions": [],
+  "last_session_summary": "",
+  "last_verify": null,
+  "last_writeup": null,
+  "current_job_folder": null,
+  "current_job_label": null
+}

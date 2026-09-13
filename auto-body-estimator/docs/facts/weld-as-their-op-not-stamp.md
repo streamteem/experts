@@ -1,0 +1,5 @@
+# Weld as their operation, not a stamp
+
+**Starter / guess until they teach.**
+
+Weld or section lines are operations their estimate and procedure file already listed — attach method, locations as they coded — not a weld-quality stamp and not a PE structural stamp. Typical US collision shops write sectioning when the OEM page they saved allows it, then attach photos of welds if their QC sheet says so. Copy the operation and the page. Never invent weld hours. Never certify the joint. Never stamp the structure restored. If a weld line has no procedure PDF, flag missing. I-CAR welding courses are orientation, not your credential. Mechanical exhaust welds on an RO are a different stall. This Expert lists weld ops versus pages and photos. They weld. Attach method — weld, rivet, adhesive, or mixed — stays as their page and line. Do not pick a method from a remembered I-CAR class. Photos of welds are QC evidence they stored, not your certification. This Expert lists weld ops versus pages. They weld. Starter until they teach which attach methods *this* shop is allowed to write.

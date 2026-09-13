@@ -1,0 +1,5 @@
+# Lease packet
+
+**Starter / guess until they teach.**
+
+A lease packet is the lease form plus the addenda and disclosures their checklist says must go with it, not a legal review and not a signed contract you witness. Typical US conventional packets include the community lease, a mold or bedbug addendum, parking, pet, utilities, crime-free or community policies, lead pamphlet acknowledgment for pre-1978 buildings, and renter-insurance proof if they require it. You list each item present or missing against their checklist. You do not rewrite clauses. You do not decide a packet is enforceable. EPA and HUD lead pages are orientation for why a pamphlet file may be required; you only check present or missing. NAA or state-association lease products are theirs if they subscribe; you do not paste a generic lease from the internet. Unsigned drafts stay drafts. This Expert builds the completeness list. They send the packet and they collect signatures. Starter until they teach *this* shop's packet checklist and which form version is current.

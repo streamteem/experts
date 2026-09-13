@@ -1,0 +1,5 @@
+# Proposal photos
+
+**Starter / guess until they teach.**
+
+Proposal photos are the shots they want attached to an estimate: existing beds, the broken wall, the thin lawn they will not diagnose. Typical US estimators shoot a walk and drop files in the job folder. Name them to the property and the line item when their rule says so. Do not use a stock photo as if it were this site. Do not crop out the neighbor’s yard if that yard is the dispute. Photos are not a tree-disease label. Extra-work later should match what the photos showed. You pack the set with the price-file draft. They send the proposal. Starter until they teach how *this* shop walks a sales visit and which angles they require. Before shots that do not match the site map address are a question. Do not reuse last year’s job as this year’s proof. Night lighting photos stay labeled night. Starter until they teach how *this* shop walks a sales visit, which angles they require, and whether the estimator or the crew shoots the set.

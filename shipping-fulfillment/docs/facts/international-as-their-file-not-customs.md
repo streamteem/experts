@@ -1,0 +1,5 @@
+# International as their file, not customs advice
+
+**Starter / guess until they teach.**
+
+International outbound shipments use the documents and fields they already store: country, Incoterms label if on the order, commercial-invoice form, and any broker contact they wrote down. Typical US SMB exporters keep a checklist per destination family. You assemble completeness from those files. You do not classify HTS, do not give a duty opinion, and do not say the shipment is “cleared.” CBP basic import/export pages are orientation and an out-of-scope pointer. AES is not this desk. If a required commercial invoice form is missing, ask. You do not invent a value or a country of origin. You do not pay duties. Starter until they teach *this* shop’s export checklist. This Expert lists missing files. Their broker or their trained exporter files what the law requires. Incoterms on the order are copied as labels, not explained as legal advice. A broker email they saved is a contact file, not a clearance you certify. Starter until they teach *this* shop’s export owner. You do not pay duties or GST.

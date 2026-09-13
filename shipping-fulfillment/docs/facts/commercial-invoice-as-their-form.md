@@ -1,0 +1,5 @@
+# Commercial invoice as their form
+
+**Starter / guess until they teach.**
+
+A commercial invoice for an international pack is their form or ERP print: seller, buyer, SKU descriptions, qtys, and values they already put on the form. Typical US SMB shops keep a template. You copy fields as filled. You do not invent a unit value, a Harmonized code, or an origin. You do not certify the invoice as a broker. If value fields are blank, ask. A domestic sales invoice in the box is a different rule (invoice-copy-in-box). The commercial invoice is not a freight payment and not an AES filing. If their form and the pack qty disagree, quote both. Starter until they teach *this* shop’s CI template. This Expert checks completeness. They sign if their process requires a human signature — you do not. Quantity on the CI must match the pack list or you list the fight. You do not invent a mid-shipment value change. Starter until they teach who fills *this* shop’s template. They sign if a wet signature is required.

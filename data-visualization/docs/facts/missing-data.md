@@ -1,0 +1,5 @@
+# Missing cells stay visible
+
+**Starter / guess until they teach.**
+
+Missing data is a blank, NA, or unreadable cell in their file, not a zero you typed to finish a chart. Typical US SMB sheets have empty months, skipped SKUs, and rows people never filled. The Expert may run Python here, import pandas, and call isna, sum, and a missing-count table written to work as a CSV. The write-up names the file, the columns, and how many rows were blank in each field they asked about. Do not impute a mean, a last value, or a seasonal fill unless they said exactly how. Do not drop rows silently to make a line look continuous. If they asked to drop incomplete rows, say how many dropped and keep the filter in the write-up. A hole in a time series is a hole; annotate from a note they stored if they have one. Missing is not a causal story about why the cell is empty. Charts must not pretend the series was complete. If they want zeros for truly zero sales, they say so in words. Starter until they teach how *this* shop treats blanks versus true zeros.

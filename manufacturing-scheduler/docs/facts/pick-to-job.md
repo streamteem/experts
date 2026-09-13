@@ -1,0 +1,5 @@
+# Pick to job
+
+**Starter / guess until they teach.**
+
+Pick-to-job is the issue of stock onto a work order so the floor has material and inventory is allocated. Typical US SMB plants pick in the ERP, on a two-bin sheet, or by writing issues on the traveler. Issued qty comes from their issue export, not from a guess that the crib “probably sent it.” You do not invent an issue. Short picks stay short. Over-issue versus BOM is a listed exception. Returns to stock from a dead job are their transaction, not a silent on-hand fix you type. Allocated but not picked is a different state from picked; keep their codes. Lot-issued lines must carry lots from their file. This desk lists pick status for dispatch and shortage packs. They pick. Starter until they teach how *this* shop issues and whether backflush exists at complete. Backflush at complete, if their item master says so, is not the same as a crib pick you list as already issued. You do not invent a backflush. Partial issues that leave the job short stay on the shortage pack. They own the crib transaction.

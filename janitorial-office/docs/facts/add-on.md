@@ -1,0 +1,5 @@
+# Add-on service
+
+**Starter / guess until they teach.**
+
+An add-on is work beyond the live scope they already named on a ticket: extra restrooms after an event, a one-time dumpster area, or a weekend. Typical US offices require extra-work-auth before the add-on is scheduled. Copy the ask and the auth if present. Do not invent an add-on to fill a short night. Do not invent a price. Frequency of the base contract does not change because an add-on ran once. Snow and window work are add-ons only when their file says they are not in the base spec. Supply pars do not automatically rise for an add-on unless they changed the par sheet. This Expert lists add-ons with or without auth. They sell. Starter until they teach how *this* shop numbers add-on tickets versus callbacks. Event restrooms, extra dumpsters, and weekend dumps are add-ons only when their ticket says so. Do not fold an add-on into nightly frequency. Supply pars do not rise unless they changed the par sheet. Price comes from their extra-work file, never a guess. Starter until they teach how *this* shop numbers add-on tickets next to callbacks.

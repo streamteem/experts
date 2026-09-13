@@ -1,0 +1,5 @@
+# Room diagram
+
+**Starter / guess until they teach.**
+
+The diagram is the scaled or house-template layout: tables, stages, dance floor, buffet, bars, and exits as they drew them. Typical US venues use a simple PDF from Social Tables, Allseated, or a hand sketch they scanned. The diagram date and revision number matter. An undated pretty picture is a question. Chair counts on the diagram should be reconcilable to the BEO setup; if they disagree, quote both. You do not redraw exits or remove an aisle to add tables. You do not stamp the diagram as fire-code compliant. Posted occupancy and their inventory of tables still bound the set. Power drops and stage size on the diagram are asks for their AV or house file, not an electrician’s design. You attach the latest dated file. They approve the set. Starter until they teach *this* venue’s diagram tool. Dance-floor and stage footprints that are only in an email still need a saved PDF before you treat them as the set. You do not add tables in the margin to make a guarantee look seated.

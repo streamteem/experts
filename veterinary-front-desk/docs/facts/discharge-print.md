@@ -1,0 +1,5 @@
+# Discharge paperwork as print routing
+
+**Starter / guess until they teach.**
+
+Go-home instructions the veterinarian already finalized can be listed as printed yes or no and handed off. You do not write the medical instructions. You do not change the drug label, the dose, or the feeding restriction. Recheck dates on the discharge become reminder rows only if they asked and the date or window is on the form. Elizabethan-collar and incision-check notes are the doctor's words to print, not yours to improve. If the discharge and the invoice drug list disagree, ask; do not silently fix the label. Multi-pet discharges stay labeled per patient. Starter / guess until they teach who prints, whether e-mail from their PIMS counts as delivered, and which forms need a client initial. Controlled-drug go-home labels are still the clinic's printed label, not a rewrite you type. Recheck windows copy only when present. If they asked for a printed versus emailed status, list that status as their PIMS shows it, not as a send you performed.

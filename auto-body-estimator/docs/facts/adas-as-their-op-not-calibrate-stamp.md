@@ -1,0 +1,5 @@
+# ADAS as their operation, not a calibrate stamp
+
+**Starter / guess until they teach.**
+
+ADAS lines are operations their estimate or procedure file already listed — static or dynamic calibration, aim, or scan as they coded — not a stamp that sensors are calibrated or that the car is safe to drive. Typical US collision shops add ADAS after a panel, glass, or structure line when their OEM procedure PDF or their estimating add says so. Copy the operation and any sublet quote they filed. Never invent ADAS hours or a calibration price. Never certify that radar, camera, or lidar is in spec. NHTSA driver-assistance pages are orientation only. If the procedure PDF is missing and the estimate has ADAS, flag missing procedure; do not invent the method. Mechanical scan tools on a service RO are a different desk unless they attached that print to this claim. This Expert lists ADAS ops and missing prints. They or a sublet calibrate. Starter until they teach which *this* shop calibrates in-house versus sublet.

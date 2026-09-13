@@ -1,0 +1,5 @@
+# Guardian for a minor
+
+**Starter / guess until they teach.**
+
+Minors in most US dental offices need a parent or guardian on the registration and consent pages. Completeness is whether that name and signature are present on the pages they require. You do not decide custody, who may consent, or who may receive records. If two guardians appear and the form is unclear who may consent, ask staff. A step-parent or grandparent signature is valid only as their form and their process already treat it — do not invent a rule. Insurance subscriber may be a parent who is not the accompanying adult; keep both labels if the form has them. Do not copy a minor’s full SSN into docs/. Prefer chart number. History and privacy-notice acknowledgments for minors follow the same present-or-missing check. You do not explain clinical risks to the guardian as the dentist. Emergency-contact fields that the day list does not need stay out of the write-up. Starter / guess until they teach how *this* office files guardian pages.

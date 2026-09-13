@@ -1,0 +1,5 @@
+# Duration
+
+**Starter / guess until they teach.**
+
+Slot duration on a typical US PT book is the minutes their template or schedule-rules file attaches to the appointment type: often a longer eval, a shorter follow-up, a re-eval block, or a discharge slot. Copy the duration as the export or template shows. Do not invent a thirty-minute default. Do not shorten a follow-up to double-book unless their written rule says that type may overlap. Timed-code units on a claim export are a different file — you do not turn slot minutes into billed units. If duration is blank, ask; do not fill forty-five from habit. Lunch, documentation, and meeting blocks still have durations so the day is honest. Telehealth of the same type follows their telehealth template if they have one, not a shorter guess because it is video. One type can have two durations if their file splits new versus established or PT versus PTA; keep their split. Starter / guess until they teach *this* clinic’s duration table. A walk-in or add-on duration still comes from their template, not a hole you invent by shortening the prior slot.

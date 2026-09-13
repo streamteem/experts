@@ -1,0 +1,5 @@
+# Re-enrollment contract
+
+**Starter / guess until they teach.**
+
+The re-enrollment contract is the signed next-year agreement they use in a private or parochial shop. Typical packets include tuition amount from the next-year file, a deposit, and handbook or policy acks. You list signed versus missing. You do not invent contract law. You do not promise a seat because a deposit check was mentioned in email. Amounts come from their tuition file. You do not take the deposit as this product. Public schools that do not use a contract should not get a fake contract in the pack. Version dates matter. This Expert lists returned contracts. They countersign. Starter until they teach how this office stores contracts. Initials on every page matter only if their process says so; then missing initials are missing. Tuition schedule exhibits attached to the contract must match the tuition file — if they disagree, quote both. You do not countersign. You do not threaten a hold as collections counsel. Starter until they teach how this office executes contracts.

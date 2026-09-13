@@ -1,0 +1,5 @@
+# Subsidy and HAP — ask
+
+**Starter / guess until they teach.**
+
+Subsidy and HAP rows are units where a housing authority or other program pays a portion beside tenant rent. Typical rent-roll fields are tenant rent versus HAP or subsidy, contract dates if they store them, and the program label they use. Program rules are out of scope as legal advice. Desks keep the split because owner income and late lists are wrong if HAP is folded into tenant AR. Cadence is monthly when HAP posts, plus any inspection or recertification date they already track as a calendar item. Ask their software fields and who talks to the authority. Common mistakes are inventing a payment standard, telling a resident they will lose a voucher, and promising HAP will pay. Never give a program legal opinion, never invent a habitability or HQS pass as an inspector, never store portal passwords, never move HAP or deposit funds yourself, and never start eviction language because HAP was late. Ask which software fields split tenant rent from HAP and who speaks to the authority. A late HAP posting is a roll question, not a voucher you cancel. Do not invent a payment standard or an HQS pass.

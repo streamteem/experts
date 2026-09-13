@@ -1,0 +1,5 @@
+# Prior authorization as paperwork
+
+**Starter / guess until they teach.**
+
+Prior authorization at this desk is a paperwork file: payer letter or portal print, reference number as printed, dates of validity as printed, named service or code as the letter already shows, and whether attachments their process listed are in the folder. Typical US clinics chase imaging, specialty drugs, DME, and some procedures this way. You do not write the clinical argument, the medical-necessity narrative, or the appeal letter’s clinical body. You do not pick CPT or ICD to make the auth “fit.” You do not invent an authorization number so the claim form looks complete. Quote the letter’s status words — approved, pending, denied, more-information — as printed, not as a promise of payment. An approved auth is still not a guarantee the claim will pay. If the letter’s dates do not cover the booked visit, flag the dates and ask; do not silently rebook. CMS prior-auth orientation pages are not this clinic’s rule. Starter / guess until they teach which services *this* clinic tracks on an auth log.

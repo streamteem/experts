@@ -1,0 +1,5 @@
+# Order quantity
+
+**Starter / guess until they teach.**
+
+Order quantity is how many finished pieces the customer bought, not how many sheets the press will run and not how many the mill shipped. Typical US SMB tickets show ordered qty, sometimes a make-ready add, and sometimes a ship qty after overs. Copy the ordered number from the ticket or customer PO. Do not invent a quantity to even out a gang, a carton, or a mill pack. If the PO says two thousand and the ticket says twenty-five hundred, list both. Press count, bindery count, and ship count can differ after waste; those differences belong on a waste or overs note from their file, not a quiet edit to ordered qty. Variable-data records are a different count — use their merge-file total if they stored it. Split-ship lines still add up to ordered qty unless they closed short in writing. You do not promise a carton count that implies a different order qty. They decide overs and make-ready adds. Starter until they teach how *this* shop writes quantity on the ticket.

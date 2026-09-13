@@ -1,0 +1,5 @@
+# Commission vs hourly pay files
+
+**Starter / guess until they teach.**
+
+Employee pay may be hourly, commission, sliding scale, or a mix. Booth renters pay rent and keep their own service income. Close packs that feed payroll must follow the split they taught. You list tickets and retail by provider from the export. You do not calculate a tax-ready paycheck or decide classification. Desks keep the pay-file split so a renter’s Tuesday is not run through house payroll. Typical files are a provider roster, a commission rule they saved, and the POS sales-by-employee report. Tip columns are not wages you compute. You do not apply a “standard 40 percent” from another salon. If a provider has no pay-type label, ask. Do not present a starter note as this shop’s plan. Starter until they teach the roster and which report their payroll person wants. Retail commission, if they pay it, follows the ticket’s provider column and their rule file—not a percent from another salon. Sliding-scale or booth-plus-desk hybrids stay on the labels they taught. You still do not compute tax withholding.

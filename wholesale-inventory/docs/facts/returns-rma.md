@@ -1,0 +1,5 @@
+# Returns / RMA
+
+**Starter / guess until they teach.**
+
+Customer returns need their RMA or return authorization number, SKU, quantity, UOM, condition (good, damaged, unknown), and whether stock is sellable. Do not put a return into good on-hand unless their sheet says sellable. You do not issue a credit, refund, or replacement authorization. Typical US SMB wholesalers inspect at a returns bench and then move to good, salvage, or return-to-vendor. Keep that status. Missing RMA: say so; do not invent a number to receive a walk-in return. Lot and serial if the master requires them. Restocking fees and freight-on-return are their buyer or books desk. Quarantine stays quarantine. You do not dump damaged goods. You do not accuse the customer. If they use a separate damage location, that location is not available. Starter notes are orientation; their RMA form wins. A will-call counter that takes a box back still needs their sheet before you treat units as good on-hand. You do not change a customer balance while you file the return lines.

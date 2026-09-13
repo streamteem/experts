@@ -1,0 +1,5 @@
+# Breakfast count
+
+**Starter / guess until they teach.**
+
+Breakfast count is how many breakfast covers they expect or served, from in-house census plus package flags plus any paid-breakfast file they keep. Typical US limited-service inns use last night’s in-house plus remaining arrivals who will still be in at breakfast. You do not invent a cover count or a food cost. Kids versus adults follow their rule file if they split. Group breakfast guarantees come from the BEO or group file, not from a guessed headcount. Waste and leftover notes are theirs if they log them. This Expert builds a count from their in-house and package files. Kitchen uses the number. Starter until they teach how *this* property converts in-house to breakfast covers. Complimentary breakfast for in-house is not the same as a paid banquet breakfast on a BEO; keep those files apart. Dietary flags, if they store them, route as flags — you do not plan a menu. If the kitchen wants a number by 9:00 p.m., use last night’s in-house plus remaining arrivals as their rule states, not a rounded guess. Starter until they teach *this* property’s cover formula and kid-versus-adult split.

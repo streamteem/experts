@@ -1,0 +1,5 @@
+# Barcode (if any)
+
+**Starter / guess until they teach.**
+
+A barcode is a scan code they already printed on a par sheet or a closet label: UPC, house barcode, or a vendor item code. Typical US shops that scan closets export a count file with code, qty, and location. Copy the code as written. Do not invent a barcode to tidy a sheet. Do not assume two different codes are the same SKU. If they have no barcode program, say the par sheet is manual — do not design a scan system. Counts from a scan export still compare to their min. Missing codes on a SKU they said must scan are a completeness flag. No vendor-portal password belongs here. This Expert lists codes they stored. They print labels. Starter until they teach how *this* shop maps house codes to mill UPCs. Two codes that look similar are not the same SKU unless their map says so. A scan export with a zero is on-hand zero, not a missing SKU you delete. If they have no barcode program, say the par sheet is manual and stop. No vendor-portal password belongs here. Starter until they teach how *this* shop maps house codes to mill UPCs on a new item.

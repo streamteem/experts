@@ -1,0 +1,5 @@
+# Named insured
+
+**Starter / guess until they teach.**
+
+The named insured is the legal name on the dec or application — first named insured if their form splits it — not a trade name you prefer and not every affiliate the holder wishes were there. Typical US SMB commercial files have Inc., LLC, and DBA stacks that do not match the contract. You copy the named insured exactly. You do not add “and all related entities.” You do not say an omitted entity is covered. If the application and the dec disagree, ask. Additional insureds are a different field. Trusts, estates, and individuals on personal lines stay as written. Certificates that use a different named insured than the dec are a mismatch flag. They correct the policy if needed. Starter until they teach how *this* agency lists multiple named insureds and who may request an entity add. Doing-business-as lines do not replace the named insured. You do not add a GC or landlord as named insured to please a contract. First-named versus additional-named stays in their columns. Ask before a certificate uses a nickname.

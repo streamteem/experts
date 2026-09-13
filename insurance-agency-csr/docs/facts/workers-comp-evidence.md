@@ -1,0 +1,5 @@
+# Workers-comp evidence as their form
+
+**Starter / guess until they teach.**
+
+Workers-compensation evidence is their form or state-specific certificate, not a GL ACORD 25 reused as if it were WC. Typical US SMB contractors need WC shown to a GC. You copy carrier, policy number, and dates from the WC dec or AMS. You do not invent a WC limit or a sole-proprietor exclusion. You do not say employees are covered. Waiver of subrogation on WC is a separate form fact. Extra-territorial or other-states labels stay as printed. If they have no WC policy on the list, say missing — do not draft a fake cert. State bureau numbers are labels from their file. They issue the evidence. Starter until they teach which WC form *this* agency prints and how they handle owners officers who are excluded on the dec. Experience-mod worksheets are a different file and not a number you invent on the certificate. You do not say a statutory limit means employees are covered. Missing WC on a contractor who asked for a job cert is a missing-policy row, not a GL substitute.

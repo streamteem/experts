@@ -1,0 +1,5 @@
+# Date of service versus submitted date
+
+**Starter / guess until they teach.**
+
+Date of service is when the office says the visit happened. Submitted or filed date is when the claim left the office or clearinghouse. Paid date, if their ledger or EOB has one, is a third date. Keep them separate on a claims-tracking sheet. A filed date in their export is not a paid date. A clearinghouse accepted date is not a payer paid date. If only one date column exists, name it as their header reads; do not rename it to date of service because that is typical. Predetermination rows often have no date of service or a proposed date used the way their instructions say — do not invent a chair date. Recall due dates are not dates of service. Broken-appointment dates are not claim dates unless they actually sat. Offices vary on whether they file the same day or in a weekly batch. Ask if a submitted date looks far from the visit. Do not promise timely filing was met as a legal conclusion. Starter / guess until they teach *this* office’s date columns.

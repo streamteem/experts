@@ -1,0 +1,5 @@
+# Income documents present
+
+**Starter / guess until they teach.**
+
+Income-docs-present is a completeness row for the income packet they said this loan needs: paystubs, W-2s, tax returns as files, VOE as a file, and any award letters they listed. Typical US SMB processor desks keep an income folder or LOS e-folder with document types coded as they coded them. You list each named type as present, missing, expired by the date on the page, or unreadably cut off. You do not calculate income. You do not annualize a stub. You do not decide self-employed versus W-2. You do not invent a document type because a remembered agency overlay usually wants it. Their conditions sheet and income-folder index win. A verbal “they make enough” is not a document. This is not an underwrite and not a tax opinion. Missing stays missing. They chase the borrower. You maintain the present-missing list. Starter until they teach how *this* shop names income document types and which ones this product requires on their sheet.

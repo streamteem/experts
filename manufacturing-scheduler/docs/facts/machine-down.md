@@ -1,0 +1,5 @@
+# Machine down
+
+**Starter / guess until they teach.**
+
+Machine-down is a work center that cannot run, as their maintenance or supervisor status file says. Typical US SMB plants keep a whiteboard, a CMMS export, or a morning email. You put down status next to WIP and dispatch at that center. You do not hide the down so the load looks healthy. You do not invent a repair duration. You do not diagnose the failure. Jobs queued there stay visible. Alternate-router moves are their choice if the file allows. Capacity hours on a down day are not available unless they wrote a workaround. Safety lockout is their maintenance process, not a stamp you apply. If the status file is stale, say the timestamp. Starter until they teach how *this* shop codes down, starved, and blocked, and who may return a machine to service. Planned maintenance they put on the calendar is still a capacity hole; unplanned down from the status file is a different row. You do not merge them to tidy the day. Starved versus down stay as they coded. You do not invent a workaround center.

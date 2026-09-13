@@ -1,0 +1,5 @@
+# Ratio alert as their math
+
+**Starter / guess until they teach.**
+
+A ratio alert is a comparison you can show: children present from attendance, staff present from their schedule or sign-in, and the posted maximum or ratio they wrote for that room. If children exceed their posted number, say the two numbers. You do not cite a statute, do not declare a violation, and do not send a teacher or release a child to fix it. Mixed-age math uses their mixed-age note if they have one. Nap-time ratios, if their file has a different posted number, stay labeled nap-time. Missing staff-count data is an ask, not a guessed headcount. The alert goes to the director. Starter until they teach which rooms *this* center wants alerted and whether floats count. Early-morning and late-day counts may differ from midday; use the timestamp they asked. Do not average the day to hide a spike. If two rooms share a playground with a combined posted number, use that combined line only when their chart says combined. The write-up is an alert, not a staffing order you issue.

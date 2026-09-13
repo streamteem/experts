@@ -1,0 +1,5 @@
+# Reminder list as a file
+
+**Starter / guess until they teach.**
+
+Most US practice systems store reminder protocols the clinic already configured: vaccines, parasite preventives, annual or senior exams, dental recalls, and sometimes lab or recheck windows. Front-desk work is to produce the list file from their export or spreadsheet, with due date, patient, client, and the reminder name they stored. They send mail, text, or email from their own tools. You do not run a blast product and we do not sell messaging. A due date on a reminder is their stored protocol date, not a medical order you wrote and not a finding that the animal is overdue as a clinician. If species or patient ID is missing, ask before you publish a list. Deceased or inactivated patients should not appear on an active send list when the export already marks them that way. Preferred contact method, when present, is a column to copy, not a license to message. Duplicate reminders for the same patient and product are a question, not a merge you perform. Starter / guess until they teach which reminder types they actually send and which they suppress.

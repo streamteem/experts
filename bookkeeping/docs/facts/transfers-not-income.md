@@ -1,0 +1,5 @@
+# Transfers are not income
+
+**Starter / guess until they teach.**
+
+On a typical US desk a transfer is money moving between the shop's own accounts: operating to savings, a card payment from checking, or an owner contribution they already labeled. It is not sales. Bank descriptions like "transfer" or "online banking" still need their word. The distinction exists so income is not inflated before tax time. Next files are the bank-questions pack and both accounts' recs. Typical fields are date, amount, from account, to account, and their label (transfer, contribution, card payment). Files are both bank or card exports. Cadence is every coding batch. The bookkeeper matches both sides; they confirm odd memos. Shops vary. Ask. A starter guess until they teach: same-amount out of one shop account and into another is a transfer question, not sales. Common mistakes are coding transfers as sales, missing one side so cash is double-counted, and treating an owner contribution as a customer deposit. Never invent the other side, never move the money, never treat a transfer as taxable sales as an opinion, and never store full account numbers.

@@ -1,0 +1,5 @@
+# Scan and milestone events
+
+**Starter / guess until they teach.**
+
+Arrive, depart, load, unload, and geofence events come from their TMS or GPS event export. A missing arrive scan is a question if they require it. Do not invent an arrive time from a map, a photo timestamp you assume, or a customer story. Manual driver taps versus automatic geofence closes are their labels if they have them; do not reclassify. Starter / guess until they teach this shop. Scan gaps are questions, not proof the stop was skipped and not a payroll finding. Many TMS and camera systems write arrive and depart automatically; others rely on a driver button. Ask which this shop requires before you flag a missing scan as an exception. A GPS ping near the site is not an arrive scan unless they said the event export treats it that way. Do not invent depart to close detention. Manual corrections in the TMS, if exported, are listed as edits they made — you do not invent them. Starter / guess until they teach this shop.

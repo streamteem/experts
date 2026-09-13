@@ -1,0 +1,5 @@
+# Loss-notice completeness
+
+**Starter / guess until they teach.**
+
+Loss-notice completeness is a present-or-missing check of the FNOL form they use — often ACORD 3 for auto or a carrier page — before anyone treats the report as sent. Typical US SMB CSR desks miss date of loss, location, injury-or-not, and a contact phone. You list blank required fields. You do not invent a narrative to sound complete. You do not decide if it is a claim versus an incident; use their form's words. Police-report numbers stay as they provided. You do not adjust. You do not tell the insured the notice means they are covered. Sent-to-carrier date comes from their email PDF or AMS send record. They send if you only packed. Starter until they teach *this* agency's required FNOL fields per line and where medical details must not be copied into docs/. Witness names they wrote stay as written; you do not hunt more witnesses. You do not copy injury diagnoses into docs/. If they use a carrier FNOL URL, they submit; you still only check the fields on the saved form or screenshot.

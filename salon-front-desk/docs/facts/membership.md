@@ -1,0 +1,5 @@
+# Memberships
+
+**Starter / guess until they teach.**
+
+If they sell monthly memberships, the desk may see a billing export and a visit-inclusion list. Quote those files. You do not run the recurring charge or email dunning. If a guest is flagged past due in their file, list the flag; they decide whether to book. Desks keep membership files so a “free blowout” is an inclusion they already sold, not a courtesy you invent. Typical fields are member label, plan name, included services remaining, and billing status as they exported. Mangomint-style and Square memberships vary—use their export, not another spa’s plan. A past-due flag is not a diagnosis and not a reason for you to decline the guest. You do not collect a failed card. Do not message the membership list as a campaign. Starter until they teach this shop’s membership files. Included visits remaining are a file fact; you do not add a complimentary visit in the pack. Failed recurring charges stay on the billing export as they labeled them. You do not email dunning or run the card.

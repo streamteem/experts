@@ -1,0 +1,5 @@
+# Office stock is not warehouse inventory
+
+**Starter / guess until they teach.**
+
+Toner, paper, and break-room items are office supplies unless they taught that the wholesale or warehouse desk owns those SKUs. Do not merge this list into a warehouse count file, a job-cost inventory, or a retail floor count. Typical office columns are item, on-hand if counted, min if they set it, and last invoice SKU. You do not cycle-count a warehouse. Starter notes describe the split most US SMB offices keep between the supply closet and stock-in-trade; they still teach this shop's boundary. Copier paper used for production jobs may live on another list if they said so; ask. Do not invent bins or locations from a warehouse system. Flags stay 'below min' on their office sheet only. Buying is still theirs. This is not a perpetual inventory product. Job-site consumables and resale SKUs stay on the desk that owns them. If a toner SKU appears on both lists, ask which count is official before you flag a min. Do not invent a bin map for the closet.

@@ -1,0 +1,5 @@
+# Earnest-money log (do not hold)
+
+**Starter / guess until they teach.**
+
+Earnest money on this desk is a log of what the contract required, who was named to hold it, the due date as written, and any receipt or deposit confirmation they saved from title, escrow, or the broker trust account. You never hold, receive, move, or send the funds. Typical US residential contracts name an amount, a delivery deadline, and a holder. The log is completeness: promised amount versus receipt amount, date on the receipt, and the named holder. A screenshot of a wire they already sent is evidence they stored, not an instruction you repeat. Missing receipt after the printed due date is a flag for the broker, not a collection you run. Do not invent a late-fee or a default opinion. Do not tell anyone the money is safe in your hands. If the contract is silent on the holder, ask; do not name a title company from habit. This Expert lists present and missing receipts. They chase the delivery. Starter until they teach how *this* shop logs earnest money without touching it.

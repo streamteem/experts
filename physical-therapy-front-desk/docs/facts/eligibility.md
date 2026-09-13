@@ -1,0 +1,5 @@
+# Eligibility screenshot
+
+**Starter / guess until they teach.**
+
+Eligibility at this desk is a dated screenshot or clearinghouse print they saved, not a phone call you make and not a remembered benefit. Typical US PT clinics pull a 270/271-style response, a payer-portal page, or a clearinghouse PDF before the eval or a few days before a visit. Quote only what is visible: plan name, active-or-inactive wording, in-network flag if shown, copay or visit-limit sentences as printed, and the date on the image. No screenshot: ask. Do not invent remaining visits, a met deductible, or a visit limit. Do not recall a number from a similar employer. If the image is cropped, stale, or for the wrong member, ask for a dated full page. A visit limit on the print is quoted text, not a promise the plan will pay. You do not log into the payer portal. Passwords stay out of this folder. Starter / guess until they teach which portal prints *this* clinic keeps and how old is too old. A percentage or visit limit on the print is quoted text, not a promise the plan will pay the next slot.

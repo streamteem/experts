@@ -1,0 +1,5 @@
+# FEIN present or missing, not copied
+
+**Starter / guess until they teach.**
+
+FEIN or EIN on a commercial application is a present-or-missing check. Typical US SMB ACORD 125 boxes ask for it. You mark present or missing. You do not copy the full number into docs/, write-ups, or spreadsheets that leave the agency folder. You do not invent a FEIN. SSN for a sole proprietor follows the same min-necessary rule: present or missing on their form, not recopied. If two entities share a folder, do not assume one FEIN. You do not look up a FEIN on a public site and paste it in. They type the number into the licensed form if it is missing. Starter until they teach *this* agency's redaction rule and which work files may hold a truncated identifier if they even allow that. Truncated last-four is allowed only if they taught that work-file rule; default is present or missing. You do not put FEIN in an activity note. Partners and disregarded entities keep separate present-missing checks when they have separate apps.

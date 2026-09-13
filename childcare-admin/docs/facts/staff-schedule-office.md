@@ -1,0 +1,5 @@
+# Staff schedule as an office file
+
+**Starter / guess until they teach.**
+
+The office keeps who opens, who is in which room, and who closes. Typical US centers use a weekly spreadsheet or the childcare system. You list names and rooms from that file for the date they asked. You do not invent a wage, do not approve overtime, and do not move a teacher to fix ratio unless they asked you to draft options from their written rule. Floats and directors count in ratio only if their file says so. Substitutes appear from the substitute list when the schedule says “sub.” You do not teach. Time-clock exports are attendance for staff, not a payroll you run. Passwords to the scheduling product stay out. Starter until they teach how *this* center publishes the week and who may change a shift. Open and close names should match the door they use, not a room they no longer staff. You do not trade shifts. If the schedule and the time-clock export disagree on who was in infant, quote both for the ratio pack and ask.

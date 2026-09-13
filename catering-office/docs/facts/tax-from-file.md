@@ -1,0 +1,5 @@
+# Tax from their file
+
+**Starter / guess until they teach.**
+
+Tax on an event invoice is the rate or the amount they already stored on the invoice file, tax table, or accounting export — not a rate you look up and apply as counsel. Typical US SMB caterers charge sales tax on food, sometimes not on labor, as their file splits it. You copy their split. You do not invent a rate. You do not give a tax opinion. IRS Publication 334 is orientation only. If tax is blank, leave blank and ask. Delivery fee taxability follows their file, not a guess. Venue tax on a saved BEO is the hall's invoice. You do not store full EIN or account numbers in docs. You list what their invoice file shows. They file taxes. You never send a payment. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

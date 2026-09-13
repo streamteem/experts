@@ -1,0 +1,5 @@
+# Schedule-change request
+
+**Starter / guess until they teach.**
+
+Full-time to part-time, added days, or a room change is a written request plus their availability and tuition file. Typical US offices want notice days their handbook names. You list the old schedule, the requested days, and whether the roster shows space as they define space — not a ratio law you invent. You do not promise the change. Tuition after the change comes from the rate file, not a blended guess. Subsidy authorizations may need a new county file; flag “authorization hours vs requested days” if both files exist. You never release a child because a day was dropped. Start and stop dates stay blank if they did not write them. Starter until they teach how *this* center approves schedule changes and who updates the system. Mid-month proration, if any, comes from their tuition file, not a calendar guess. Camp weeks that overlap a school-year change stay on the camp sheet. You do not promise a favorite teacher will move with the child.

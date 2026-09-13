@@ -1,0 +1,5 @@
+# Erosion / SWPPP paperwork as files
+
+**Starter / guess until they teach.**
+
+Some sites keep storm-water inspection sheets so the office can show dated erosion-control notes they already wrote. Copy dates, findings, and corrective-action lines they wrote. You do not write a storm-water plan, certify discharges, or say the site is in compliance. Rain-event inspections, if their form has that trigger, are copied as they marked them, not scheduled by you. Missing week: say the sheet is not in the folder if they asked you to look. Photos of inlet protection can be indexed; do not caption them as passing. A daily-log mud note is not a SWPPP inspection unless they filed it that way. You do not call the regulator. Permit numbers on the cover sheet are copied onto the index if they asked. Their template, including a simple checklist, wins. This is paperwork presence, not an environmental opinion. Keep this separate from the weather block on the daily log except where they already cross-referenced the rain date.

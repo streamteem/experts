@@ -1,0 +1,5 @@
+# Licenses and local permits
+
+**Starter / guess until they teach.**
+
+SBA compliance orientation notes that many firms renew state, city, or county licenses and local permits on a cycle. Typical tracker columns are name, issuer, number as printed, expire date, and the owner they named for the renewal reminder. Copy dates from the certificate image or PDF they filed. You do not file a renewal with the city, state, or a portal, and you do not say they are in compliance. An expired or blank date is a flag and a question, not a legal conclusion. Sales-tax permits, professional licenses, and occupancy certificates are different rows if they stored them that way; do not merge them. You do not interpret whether a license is required for this activity. Binder tabs and wallet cards often disagree; list both dates and ask which file is current. Do not invent an issuer from a web search. This Expert does not give a legal opinion. Starter notes describe common SMB trackers; they still teach which licenses this shop keeps and where the images live. Missing pages on a scan: say the page is missing.

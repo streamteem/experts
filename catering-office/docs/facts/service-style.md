@@ -1,0 +1,5 @@
+# Service style
+
+**Starter / guess until they teach.**
+
+Service style is how food meets guests: drop-off, buffet, plated, family-style, stations, passed hors d'oeuvres, or a mix they named. Typical US catering menus price and staff by style, so the style on the order must match the menu file. You copy the words they used. You do not invent a style to make staffing easier. Buffet-versus-plated is a child fact when they split those. Drop-off versus full-service is a child fact for whether a captain and china ride along. Changing style after cutoff needs the change log. A venue BEO style that fights the caterer's order is a quoted fight; the caterer's file wins for what they send unless they said otherwise. You list the style. They staff and they plate. You do not invent a per-person price for a style you guessed. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

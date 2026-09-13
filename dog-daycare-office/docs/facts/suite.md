@@ -1,0 +1,5 @@
+# Suite or luxury stay
+
+**Starter / guess until they teach.**
+
+A suite is a named overnight product they sell: luxury, condo, cabin, or courtyard — not a medical ward. Typical US boarding offices attach a different fee, camera option, and sometimes a cot or television note to the suite row. Copy the product name from the card or calendar. Do not upgrade a standard run to a suite to please a caller. Do not downgrade a paid suite because the floor is short-staffed; that is their operations decision. Capacity for suites is often a separate column from playgroup heads. Photo-release and camera-privacy still apply if the suite has a camera. Belongings and feeding stay on the same patient-dog row. You do not invent a suite amenity list from another kennel’s website. Peak-blackout rules may block suite discounts; quote their file. Starter / guess until they teach which rooms count as suites on *this* map and whether daycare-only dogs may day-lounge in a suite. Do not present this note as this shop’s luxury brochure.

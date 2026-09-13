@@ -1,0 +1,5 @@
+# Minutes as they approve
+
+**Starter / guess until they teach.**
+
+Minutes are the record they draft and later approve for session, vestry, council, or a committee. Typical US church offices keep a draft Word file and a signed or voted-approved PDF. You label draft versus approved exactly as they labeled it. You do not treat a draft as adopted. You do not invent attendees. You do not invent a vote count. You do not correct theology or a motion to sound better. If the draft and the secretary's notes disagree, quote both and ask. Confidential executive-session pages stay out of a general pack if they split them. Membership actions and benevolence names, if present, follow min necessary and their process. You do not publish minutes as an email blast. Annual-meeting minutes follow the same draft-versus-approved rule. They approve. You index dates and status. Missing approved file after they said it was approved is a flag. Starter until they teach who writes minutes and where the approved set lives.

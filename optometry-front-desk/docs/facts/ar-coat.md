@@ -1,0 +1,5 @@
+# AR coat as their checked treatment
+
+**Starter / guess until they teach.**
+
+Anti-reflective coat on a typical US optical ticket is a treatment checkbox or SKU they already stored: standard AR, premium AR as they named it, or none. You copy the check. You do not upsell AR. You do not say the patient needs AR because of night driving or computer work — that would be advice. You do not invent that a vision plan includes AR; inclusion sentences come only from a dated eligibility print or their written materials sheet. If the treatment field is blank, say blank; do not default AR on because “everyone gets it.” Warranty that names AR scratches lives on their warranty file, not as a promise you write. Pair AR with Transitions or polarized only as their ticket already combined them. Price for AR comes from their fee file. Do not interpret the Rx to decide AR is medically needed. Distinct from a dental lab glaze. Starter / guess until they teach how *this* optical names AR SKUs and which plans they post as including it.

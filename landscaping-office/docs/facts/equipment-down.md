@@ -1,0 +1,5 @@
+# Equipment down
+
+**Starter / guess until they teach.**
+
+Equipment down is a unit their list or a morning note marks unusable: deck, truck, trailer, or specialty. Typical US shops lose a route when the 72-inch is in the shop. Keep the down flag visible. Do not assign that unit. Do not diagnose the failure as a mechanic. Do not invent a rental rate to replace it. Crew-day packs should show the hole. Fuel or incident notes that they tied to the down unit stay attached as their words. You list down versus available from their equipment file. They fix or they rent. Starter until they teach how *this* shop codes down versus shop-wait versus ready. A down flag beats a crew preference. Do not invent a shop-return date. A rental they already wrote may appear as their row, still without a guessed rate. Fuel or incident notes they tied to the unit stay attached as their words, not a mechanic diagnosis. Starter until they teach how *this* shop codes down versus shop-wait versus ready and who updates the morning board.

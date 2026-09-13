@@ -1,0 +1,5 @@
+# Three C's as a set
+
+**Starter / guess until they teach.**
+
+Typical US shop and ASE C1 orientation treats Concern, Cause, and Correction as three different fields with different authors and times. Concern is written at write-up from the customer. Cause and Correction come after diagnosis and repair from the technician or from attachments they saved. A pack that fills all three from the advisor's imagination is wrong even if the guess is common. Leave cause and correction blank or quote the tech file. Independent counters and dealer service lanes both use this split, though software labels vary (complaint, diagnosis, story, performed). Keep the set visible on one-RO write-ups so later auth and invoice checks can see what was asked versus what was found versus what was done. Do not collapse the three into a single sentence that names a part. Do not overwrite the concern after a cause is known. This starter is typical practice, not a claim that this shop's screens use the words three C's. Ask which fields they require before close.

@@ -1,0 +1,5 @@
+# Building use
+
+**Starter / guess until they teach.**
+
+Building use is an outside or member-group hold on their facility form: group name, dates, rooms, and their status code — requested, approved, denied, or deposit held. Typical US congregations distinguish member ministry from outside renters on the same calendar. You copy the form they stored. You do not invent approval. You do not invent a fee. Fees and deposits come from their building-use fee file. Insurance COI, if they require one, is a present-missing fact from the COI folder. You do not waive a COI. You do not write a legal opinion on whether the group may meet. Alcohol, kitchen, and key facts stay on those files. You do not take a card. You do not send a marketing blast to fill empty rooms. If the form says approved and the room calendar is blank, flag the gap. Recurring outside groups still need the current term they stored. They approve use. This Expert lists forms versus calendar versus COI. Starter until they teach this office who signs building-use and which groups are exempt from a fee.

@@ -1,0 +1,5 @@
+# Posting from POS
+
+**Starter / guess until they teach.**
+
+Outlet postings — breakfast tickets, bar, gift shop — reach the room folio only as their POS-to-PMS interface or a posted night batch already shows. Typical US inns either post automatically or drop a night tape. You do not invent an outlet charge or a tip. You do not run the restaurant POS. If a guest says a charge is wrong, list the POS ticket number they stored versus the folio line; they adjust. Missing batch on audit is a named missing file. Card data from the outlet never enters this folder. This Expert lists POS-versus-folio mismatches they asked to pack. They post and they void. Starter until they teach how *this* property gets outlet charges onto folios. Breakfast room-charge, bar, and shop may batch at different times; a missing outlet is a named missing batch, not a guessed dollar. Tips and gratuities stay as the POS printed them. You do not add a service charge. Void-and-repost is theirs. Starter until they teach how *this* property interfaces outlets to the PMS and who settles a disputed ticket.

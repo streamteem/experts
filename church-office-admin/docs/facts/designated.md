@@ -1,0 +1,5 @@
+# Designated gift
+
+**Starter / guess until they teach.**
+
+A designated gift is a gift they already marked for a purpose they opened: a special offering, a named family need they approved, or a campaign code. Typical US church offices treat designation as a fund or a sub-fund they created, not as a side pocket in a desk drawer. You copy their code. You do not invent a designation from a pew note until they stored it. You do not treat a designation as a benevolence decision you make. You do not treat it as a grant restriction from a funder. If they have not opened a code and the note is free text, quote the text and ask; do not open a fund. Restricted-versus-unrestricted stays their code. You do not spend the money in a narrative. Special offerings (Christmas, missions Sunday) still need the fund they used that day. They talk to the donor if the purpose is unclear. You list designations and blanks. Starter until they teach how this office opens a designated code and who may approve a new purpose.

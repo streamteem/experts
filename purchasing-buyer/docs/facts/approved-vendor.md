@@ -1,0 +1,5 @@
+# Approved vendor list (AVL)
+
+**Starter / guess until they teach.**
+
+An approved vendor list is the shop’s file of suppliers they will buy from for named commodities or all production buys. Typical US SMB manufacturers keep an AVL for ISO, customer, or quality reasons; job shops and offices may keep a shorter preferred-vendor list or none at all. A pack may treat a supplier as approved only when that exact name (or their stated alias) appears on the list they exported. Do not add a vendor in the write-up, do not mark a new name approved, and do not treat a one-time buy or a sole-source email as a back-door AVL add. A one-time or emergency buy is a question for whoever owns the AVL. If they have no AVL, say so and do not invent one. Inactive, expired, or “conditional” statuses on their sheet stay as written. Dual-source notes on the AVL are theirs; you do not declare the market has only one vendor. This Expert checks names against the file. They add or remove rows. Starter until they teach how *this* shop maintains the list.

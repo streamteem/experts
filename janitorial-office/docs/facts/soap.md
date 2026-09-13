@@ -1,0 +1,5 @@
+# Soap and sanitizer
+
+**Starter / guess until they teach.**
+
+Soap is the hand-soap and sanitizer SKUs on their par and SDS index. Typical US closets split foam, lotion, and sanitizer, and the dispenser type locks the SKU. Copy the name. Do not invent a dilution or a refill from a bulk jug unless their SDS index and par already name that product. Do not stamp a hospital antimicrobial claim. Green soap stays only if their list names it. Missing SDS on a soap SKU is an sds-index-missing row. Below-par soap is a supply flag. Restroom quality lines about empty soap are complaint or checklist evidence they stored, not a guessed empty. This Expert matches par to SDS. They choose the soap. Starter until they teach how *this* shop handles bulk versus cartridge on the same site. Sanitizer and soap stay separate SKUs if their par splits them. A bulk jug without an SDS-index row is a missing-SDS flag, not a mix you write. Hospital antimicrobial wording stays their exhibit. Starter until they teach how *this* shop handles a cartridge change versus a bulk refill on the same floor.

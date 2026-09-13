@@ -1,0 +1,5 @@
+# Units and scale on every chart
+
+**Starter / guess until they teach.**
+
+Units and scale come from their column names, a data dictionary they stored, or a note they typed — dollars, counts, hours, percents, pounds. Typical US SMB files omit units in the header and put them in a sheet title. The Expert labels axes with the unit they confirmed, and the write-up repeats it. Do not invent a unit. Do not mix dollars and units on one axis without asking. Thousands versus millions belongs in the axis text so a bar is not misread. Percent of what is a separate fact; a percent column still needs the denominator they named. Currency stays as labeled; do not convert FX. If two files use different units for the same name, quote both and ask. Log scale is an ask, not a default to hide a spike. Clipping the axis to magnify a small change is an ask, not a trick. Matplotlib and seaborn will plot the numbers you pass; they will not guess the unit. Done is a PNG or PDF whose axis text a stranger in the shop can read. Starter until they teach *this* shop’s unit conventions.

@@ -1,0 +1,5 @@
+# They send reminders
+
+**Starter / guess until they teach.**
+
+Typical shops send confirmations and day-before reminders from their booking app. Your job is a list of who is due a reminder or who failed delivery, if their export has that. They send. You do not operate SMS, email, or a CRM campaign as the product. Desks keep reminder lists so a no-show is not a surprise and so bounced numbers get cleaned in their system. Typical columns are guest label, start, channel they use, and a delivery or bounce flag. Square, Vagaro, and Boulevard already have send buttons; those stay in their login. Do not draft a blast to “everyone who has not confirmed.” Do not store a phone list for a future campaign. If the export has no reminder column, say so—do not invent who was texted. Starter until they teach which reminder report this shop exports. A confirmation the guest already answered in their app is not a second list you invent. If they want only tomorrow’s unconfirmed rows, filter the export they gave—do not build a phone book.

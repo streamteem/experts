@@ -1,0 +1,5 @@
+# Alignment as their operation
+
+**Starter / guess until they teach.**
+
+Alignment is an operation their estimate or a sublet quote already listed after suspension or structure work, not a print you invent and not a stamp the car tracks straight. Typical US collision files add alignment when their procedure or their written rule says to after rack work or certain replacements. Copy the operation and any alignment print they stored. Do not invent alignment hours. Do not certify specs. A mechanical alignment print on a service RO is usable only if they filed it on this claim. If frame labor exists and alignment is missing from their usual rule file, ask; do not silently add hours. You do not pay the alignment rack vendor. This Expert lists alignment ops versus prints. They align. A blank print folder on an alignment line is a missing-file flag. Do not invent before-and-after specs. Thrust versus four-wheel stays as they wrote. This Expert lists alignment ops versus prints. They align. Starter until they teach when *this* shop requires a print before close.

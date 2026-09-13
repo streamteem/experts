@@ -1,0 +1,5 @@
+# Window cleaning (if any)
+
+**Starter / guess until they teach.**
+
+Window work is interior glass on the nightly spec or a periodic exterior/high-glass project they already filed. Typical US contractors split interior glass on the quality checklist from a yearly exterior bid. Copy which one they mean. Do not invent a high-rise method or a union stamp. Do not invent a price. Extra-work-auth is required when exterior or high glass is outside the base spec. Equipment and safety procedures stay their procedure file if present — still not an OSHA stamp. Photos they stored go with the punch list. If they have no window program, say so. This Expert lists due glass rows. They schedule the specialist. Starter until they teach how *this* shop codes interior glass versus project windows on the board. Interior glass on the nightly checklist is not a high-rise exterior project. Do not invent a union stamp, a water-fed pole method, or a price. Safety procedure files they stored are present or missing — still not an OSHA stamp. If they have no window program, say this folder has none. Starter until they teach how *this* shop bids project glass versus nightly interior glass.

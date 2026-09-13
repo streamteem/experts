@@ -1,0 +1,5 @@
+# Parent-handbook acknowledgment
+
+**Starter / guess until they teach.**
+
+The parent handbook is their rule book for hours, illness, tuition, pickup, and photos. Enrollment packets usually include a signed acknowledgment of a named version or date. You list whether that page is present and whether the version on the ack matches the handbook PDF they said is live. You do not rewrite the handbook. Their handbook wins over a starter note in this file. A missing ack is an ask, not a start you approve. Staff handbook acks belong in the staff-file index. Do not paste whole handbook chapters into every write-up; point at the section they named. Starter until they teach how *this* center versions the handbook and how often families resign. Mid-year policy memos may need a fresh ack if their process says so. Email “we agree” is not a signed page unless they accept that as a file. Spanish or other-language acks are the same completeness check on the version they stored. You do not translate the handbook as a legal product.

@@ -1,0 +1,5 @@
+# Hazmat as a label on the master
+
+**Starter / guess until they teach.**
+
+If the item master flags hazmat, hazardous, or stores an SDS pointer, keep that flag on pick, receive, transfer, and putaway lists so their people see it. OSHA warehouse and hazard-communication orientation is about information available to workers on their site. You do not write an SDS, classify a material, pack a hazardous shipment, placard a truck, or act as a hazmat shipper or broker. You do not say a load is legal. Typical small US distributors of chemicals, aerosols, or batteries keep a simple flag and a binder of SDS files they already have; index what they stored. Missing SDS pointer: say so if they asked; do not invent a sheet. Quarantine and damage rules still apply. You do not dump chemical waste. Starter notes are not their shipping procedure. Their flag and their documents win. A pick list without the flag when the master has one is a miss to fix on the list, not a reason to classify the product yourself.

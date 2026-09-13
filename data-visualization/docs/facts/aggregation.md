@@ -1,0 +1,5 @@
+# Aggregation they asked for
+
+**Starter / guess until they teach.**
+
+Aggregation is a sum, count, mean, median, min, or max they named, over a group they named, for a measure they named. Typical US SMB asks are sales by week, tickets by tech, or units by SKU. The Expert may run Python here, import pandas, and call groupby with the agg they asked for, then write the result to a work CSV that the chart reads. Do not switch mean and sum to make a story. Do not average percents across groups unless they said that is the measure — percent of what stays explicit. Do not add a weighted mean unless a weight column exists and they named it. Count of rows is not count of unique customers unless they named the unique key. Missing groups that have no rows stay absent unless they asked to show zeros from a list they provided. Aggregation is descriptive. It is not a forecast and not a causal model. The write-up names the function, the group columns, and the source file. Starter until they teach how *this* shop rolls days into weeks and which total they trust.

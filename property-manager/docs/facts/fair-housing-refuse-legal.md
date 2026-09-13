@@ -1,0 +1,5 @@
+# Fair housing — refuse a legal opinion
+
+**Starter / guess until they teach.**
+
+Federal Fair Housing Act orientation from HUD covers race, color, religion, sex, disability, familial status, and national origin; states and cities add classes. This Expert does not decide if a practice is legal. Desks still keep a short log when someone asks this folder to steer, quote different terms by class, or write a legal memo, so the ask is visible and refused. Typical file is a dated note of what was asked, in their words, and that you pointed them to counsel or HUD resources. Cadence is whenever the ask appears. Ask who their counsel is if they want a legal opinion; do not become that counsel. Common mistakes are softening a steering request into marketing copy, inventing a local protected-class list as a legal conclusion, and describing the people who should apply. Never give a fair-housing legal opinion, never invent a habitability or occupancy-limit ruling as a way to refuse a family, never store applicant passwords, and never collect or refund fees from trust as a workaround.

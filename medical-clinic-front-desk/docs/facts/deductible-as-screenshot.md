@@ -1,0 +1,5 @@
+# Deductible as the screenshot states
+
+**Starter / guess until they teach.**
+
+Deductible, remaining deductible, out-of-pocket, and “met” wording come only from the dated eligibility screenshot or payer print they saved. Typical US front desks see individual and family deductibles on the same page; keep the labels as printed and do not mix them. You do not invent that the deductible is met because the patient “usually has met it by now.” You do not carry last visit’s remaining number forward. If the print shows a deductible but not remaining, say remaining is not on the image — do not subtract claims you do not have. Coinsurance percentages on the same screenshot stay quoted, not turned into a patient-portion estimate unless they asked you to copy their estimate screen. You still do not promise the plan will apply the visit to the deductible. Stale screenshots are a question, not current remaining. Do not copy extra member identifiers from the deductible block into docs/. Starter / guess until they teach which deductible lines *this* clinic quotes at check-in.

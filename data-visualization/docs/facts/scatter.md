@@ -1,0 +1,5 @@
+# Scatter of two named numeric columns
+
+**Starter / guess until they teach.**
+
+A scatter plots one numeric column they named against another. Typical US SMB asks are spend versus visits, minutes versus dollars, or two meter readings. The Expert may run Python here, import matplotlib or seaborn, and call scatter or scatterplot, then save out/*.png. A correlation number, if they asked, is descriptive only and lives in the write-up with the wording that it is not a cause. Do not draw a causal arrow. Do not add a fit line as a policy. If they asked for a descriptive fit, say it is a line through these points, not a law. Overplotting on large files may use alpha they named; do not hide a pile of points to make a cloud look clean. PII identifiers are not used as point labels. Small n is said. Write the plotted pairs to a work CSV. If a package is missing, ask; do not screenshot a fake cloud. This is not an experiment winner. Starter until they teach which two columns *this* shop wants to see together.

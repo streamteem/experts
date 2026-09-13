@@ -1,0 +1,5 @@
+# Authorization as paperwork
+
+**Starter / guess until they teach.**
+
+Authorization at this desk is a paperwork file: payer letter or portal print, reference number as printed, dates of validity as printed, visit or unit count as the letter already shows, and whether attachments their process listed are in the folder. Typical US PT clinics chase commercial visit auths and some Medicare Advantage prior-auths this way. You do not write the clinical argument. You do not pick CPT so the auth “fits.” You do not invent an authorization number. You do not invent remaining visits from a phone call you did not save. Quote the letter’s status words — approved, pending, denied, more-information — as printed, not as a promise of payment. If the letter’s dates or visit count do not cover the booked visit, flag and ask; do not silently rebook. CMS prior-auth pages are orientation only. Starter / guess until they teach which payers *this* clinic tracks on the auth log. An approved auth is still not a guarantee the next booked visit will pay.

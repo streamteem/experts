@@ -1,0 +1,5 @@
+# Owner pack
+
+**Starter / guess until they teach.**
+
+An owner pack is the period report the management office sends (or files) for one property and one named period so the owner can see rent collected, open AR, bills paid or waiting approval, open work orders, vacancies, and a cash summary as this shop defines cash. Frequency and format live in the management agreement and this shop's habit, not in a generic investor template. Typical files are a bank or software cash summary, the rent-roll as-of, an AP list, open WOs, and last month's pack for comparison. Cadence is usually monthly; some owners want a mid-month flash. Ask which property, which owner entity, which period dates, and whether they want a portfolio pack labeled as combined. Common mistakes are mixing two owners on one cash page, omitting the as-of dates, and implying a distribution was sent because surplus appears on the sheet. Never send owner money, never sweep a trust or deposit account, never invent a management fee, and never present a starter layout as how this shop already reports. Legal questions (habitability, eviction, fair housing) stay questions; they or counsel handle those.

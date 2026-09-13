@@ -1,0 +1,5 @@
+# Progressives as their order fields
+
+**Starter / guess until they teach.**
+
+Progressive or PAL on a typical US optical ticket is a lens-type and design label they already chose: brand or design family if stored, corridor or fitting-height fields if their lab sheet uses them, and whether a non-adapt or warranty path is already coded. You copy those fields. You do not recommend a progressive. You do not pick a design because the last pair was “hard to get used to.” You do not interpret the Rx to decide a progressive is appropriate. Fitting height and pantoscopic notes are present or missing as their form shows — you do not invent a height. If the order says progressive but the Rx file does not name a multifocal type, quote both and ask; do not silently change the type. Redo of a progressive stays a redo row with their reason code, not a new diagnosis. Plan-allowed versus private-pay progressive tiers come from their fee file and the eligibility print, not a tier you invent. Distinct from a medical clinic “procedure type.” Starter / guess until they teach which progressive fields *this* optical requires before the ticket leaves.

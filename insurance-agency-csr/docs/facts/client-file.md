@@ -1,0 +1,5 @@
+# Client file
+
+**Starter / guess until they teach.**
+
+A client file is the agency's working folder for one named insured, household, or commercial entity: contacts they already stored, mailing and location addresses, phones and emails, and the policies this agency services. Typical US SMB independent agencies keep it in Applied Epic, AMS360, HawkSoft, EZLynx, AgencyBloc, or a shared drive keyed by client code. The file is not proof that anything is in force and is not a coverage opinion. You copy names and numbers as they appear. You do not invent a named insured, a DBA, or a FEIN. If two spellings sit on the same account, quote both and ask. Personal lines often sit as a household; commercial lines sit as a legal entity plus locations. Do not merge two legal names because the phone matches. Certificates, applications, dec pages, and activity notes belong under this client, not in a dump folder. You do not bind, quote, or say they are covered because a folder exists. They own the relationship. Starter until they teach how *this* agency numbers clients and what lives in the file versus the policy record.

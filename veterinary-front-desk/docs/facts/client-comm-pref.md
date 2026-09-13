@@ -1,0 +1,5 @@
+# Client communication preference
+
+**Starter / guess until they teach.**
+
+PIMS often stores preferred contact: text, email, phone, or mail. Copy it onto reminder lists and callback sheets. You still do not send the message. Do not add a second phone from an old invoice if the current form has a different number without asking. Do not use a chip-registry number as the clinic contact. Do-not-call or do-not-text flags they stored stay on the list as stored. A spouse's number on an authorization form is not automatically the preferred contact. Work files should not collect extra numbers "just in case." Starter / guess until they teach which field is canonical and how they handle bounced email as a status, not as a blast you run. Bounced-email or wrong-number statuses they stored stay on the list as statuses, not as a reason for you to hunt a new number from an old invoice. Mail-only clients should not appear on a text column you invent. Do-not-contact flags block the row from a send list they will use.

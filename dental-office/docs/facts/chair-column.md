@@ -1,0 +1,5 @@
+# Operatory or chair
+
+**Starter / guess until they teach.**
+
+Day lists in most US dental offices need a chair, operatory, or room column so the assistant and dentist know where the patient sits. Some practice systems name rooms (Op 1, Hygiene A); some use numbers; some share a room across two providers in the same block. If two providers share a room on the same block, keep both rows and do not collapse them. Do not reassign chairs to “balance” the book unless they asked you to draft options from a written rules file they dropped. A missing chair on a booked patient row is a question, not a reason to pick an empty operatory from the map. Closed blocks and lunch still occupy a chair or the book even when no patient sits; keep those rows so the list is honest. Overlapping times on the same chair should stay visible as a double-book flag. Ask their labels and whether hygiene chairs are numbered in a different series from doctor operatories. The chair column is scheduling, not a clinical assignment of who should treat. Confirm which room names they allow in a printed day sheet. Starter / guess until they teach how *this* floor names chairs.

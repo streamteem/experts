@@ -1,0 +1,5 @@
+# Submittal log
+
+**Starter / guess until they teach.**
+
+Submittals are shop drawings, product data, and samples the contractor sends for review before that work is installed. Typical log columns are number, specification section, description, subcontractor, date sent, reviewer, status, and return date. Common status words include for review, revise and resubmit, approved as noted, and rejected; use only the words on their stamp or export. Shop drawings are not contract documents in common AIA-style language. Status comes from their stamp or software. You do not approve a submittal, change for review to approved, or say a product meets the specification. Resubmittals often keep a letter suffix; do not invent the next letter. Some remodelers email PDFs with no formal log; if they asked for a list, build it only from files they pointed to. Lead times they wrote are copied, not promised. Missing spec section: ask, do not guess a MasterFormat number. Closeout closeout-submittals, if they split them, stay on that list.

@@ -1,0 +1,5 @@
+# Stations
+
+**Starter / guess until they teach.**
+
+Stations are named food points — carving, pasta, raw bar, dessert — each with a menu from their file, a staff count from their file, and equipment from the pack-out. Typical US cocktail-and-station events list each station as a line on the order. You do not invent a station to use leftover product. You do not invent a chef-attendant count. Raw-bar or allergen-heavy stations route flags to the allergen sheet, not to a safety stamp you write. Fuel and signage belong on the pack-out if they list them. A venue “stations in foyer” note on a saved BEO is a location, not a menu. You list station names and the files behind them. They staff the table. You do not write a carving recipe or a food-cost percent. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

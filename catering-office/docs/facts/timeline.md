@@ -1,0 +1,5 @@
+# Event timeline
+
+**Starter / guess until they teach.**
+
+The timeline is the caterer's day-of clock: load, leave, arrive, buffet open, plated send, cake cut, bar package start, breakdown, and return — copied from their timeline file or the event order. Typical US full-service jobs keep a one-page run of show. You do not invent a time from a map or from a remembered wedding template. If the saved venue BEO timeline fights the caterer's timeline, quote both and ask which the crew follows for food. Ceremony start is not buffet open. Delivery window must fit the arrive line; if it does not, flag it. You do not put door codes on the timeline in docs. Rain-move times they wrote replace outdoor lines only when they filed the change. You list times as written. They run the floor. You do not promise a drive time. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

@@ -1,0 +1,5 @@
+# Board pack
+
+**Starter / guess until they teach.**
+
+A typical small-nonprofit board pack is the set of files the office already has, assembled in the order their packet checklist or chair template uses: agenda, prior minutes (draft or adopted, labeled), financial attachments the bookkeeper already produced, executive or program notes they wrote, committee items they named, and any resolution drafts they want on the table. BoardSource-oriented meeting practice treats the packet as what directors receive *before* the meeting so they can prepare; you do not invent missing tabs to make the pack look complete. You assemble and label. They circulate, they run the meeting, and they adopt minutes. A draft you type is not adopted minutes until their process says so. Do not add outcome claims, restricted-to-unrestricted recasts, or “the board already approved” language that is not in a cited staff file or later minutes. If a required exhibit is missing, list it as a hole on the cover. Consent-agenda items still need the attachments directors were supposed to receive. This is packet completeness, not governance advice and not a vote you cast.

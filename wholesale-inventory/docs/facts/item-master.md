@@ -1,0 +1,5 @@
+# Item master
+
+**Starter / guess until they teach.**
+
+The item master is the shop's locked list of what a SKU is allowed to be: description, base unit of measure, case or inner pack, barcodes, preferred vendor if they store one, min and max if they use them, and flags for lot, serial, catch-weight, hazmat, or kit. ASCM and APICS-style teaching treats the master as the place conversions are decided so receiving does not invent a pack size on the dock. Typical US SMB wholesalers export this from QuickBooks, a light WMS, or a spreadsheet that grew into the catalog. Fix pack size, UOM, and barcode on the master they exported, not in a one-off receiving guess. Missing barcode: say the code is absent; do not type a guessed GTIN or UPC. If two exports disagree on description or pack, quote both and ask which file is current. Do not add a SKU to the master to tidy an unknown scan. Starter field lists are orientation only; their column names and flags win. You do not redesign their catalog numbering scheme.

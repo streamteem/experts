@@ -1,0 +1,5 @@
+# Fire notes as posted (not a stamp)
+
+**Starter / guess until they teach.**
+
+Fire and life-safety notes you may use are their posted placard, their scanned occupancy sheet, or a house rule they filed — copied as text, not certified. Typical US assembly rooms post a maximum occupancy by the door. You transcribe that posted number when they asked for a capacity check against the diagram. You never stamp the set as fire-marshal approved. You never invent an aisle width or an exit count as code. You never say the event is legal. If they have a past inspection PDF, it is a file in the folder, not a pass for tonight. Candles, fog, and open flame follow their house ban-or-permit file only. They call the marshal if they need an official look. You list posted words and questions. Starter until they teach where *this* venue posts occupancy. Fog, sparklers, and cold-spark notes follow the house ban-or-permit file only. You do not approve a sparkler send-off. Aisle widths on a pretty diagram are still not code you certify. They escalate to their fire contact if they choose.

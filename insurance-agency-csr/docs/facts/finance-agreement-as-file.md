@@ -1,0 +1,5 @@
+# Premium finance agreement as a file
+
+**Starter / guess until they teach.**
+
+A premium-finance agreement is the finance-company contract they stored: down payment, number of installments, and cancellation-power language as printed — a file, not a loan you originate. Typical US SMB commercial accounts finance large packages. You list agreement number and status from that PDF or the finance portal screenshot they saved. You do not send money. You do not store bank logins. You do not invent an installment amount. Notice-of-intent-to-cancel from the finance company is a cancellation-notice file, not a cancel you issue. Payoff quotes come from their finance PDF, not from math you invent. They explain options. You flag missing agreements on financed accounts. Starter until they teach which finance companies *this* agency uses and who uploads the signed agreement. Down-payment receipts they scanned belong with the agreement, not as a payment you take. If the agreement is unsigned, say unsigned. You do not originate a new finance contract or pick a finance company.

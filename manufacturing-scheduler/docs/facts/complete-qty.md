@@ -1,0 +1,5 @@
+# Complete quantity
+
+**Starter / guess until they teach.**
+
+Complete quantity is the good pieces they recorded against the job or the operation, not a number you estimate from a photo of a pallet. Typical US SMB plants post completes at the last operation, at each operation, or only at ship. Use their posting rule as written. Remaining is not complete. Scrap is not complete. You do not invent a complete to close aging jobs. Partial completes that enable a partial ship stay tied to their ship-complete versus partial-ship file. If labor tickets and inventory receipts disagree, quote both and ask. Over-complete versus job qty is a listed exception, not a silent job-qty raise. First-article pieces may or may not count as good under their flag. Starter until they teach how *this* shop posts completes and when a job may close. Backflush at the last operation, if they use it, is still their posting rule and not a complete you type from a pallet photo. A job that shows complete in labor but open in inventory is an exception pack, not a silent close. You do not invent a ship qty to match a complete.

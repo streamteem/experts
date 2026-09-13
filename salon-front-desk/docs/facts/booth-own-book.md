@@ -1,0 +1,5 @@
+# Booth renter’s own book
+
+**Starter / guess until they teach.**
+
+Typical independent booth practice keeps a separate calendar and often a separate processor. If a renter’s guests appear on the house book only as a courtesy—so the front can greet them—ask whether those tickets belong on the house close. Do not merge processor batches. Desks keep the question so house sales are not inflated by someone else’s reader. Typical files are the house book export, the renter’s own export if they shared it, and the roster role. A shared retail display does not make the renter’s service ticket house revenue. You do not decide classification. You do not combine Square locations to make one pretty total. If the renter did not give a file, say their numbers are absent. Starter until they teach how courtesy listings work on this floor. If they share one front-desk phone, that still does not merge the close. Ask who owns a walk-in that sat in a renter’s chair. Do not assign house retail commission on a renter’s ticket unless their file says so.

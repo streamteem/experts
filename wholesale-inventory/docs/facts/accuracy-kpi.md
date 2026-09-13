@@ -1,0 +1,5 @@
+# Accuracy as they define it
+
+**Starter / guess until they teach.**
+
+Inventory record accuracy is usually right lines over lines counted, or a unit-based or dollar-based rule they named. Compute only when both book and count are present for the same SKU, site, and cutoff. Do not invent a ninety-nine percent target as their standard. Do not compare to an industry benchmark as if it were their goal. Typical US SMB reports also show lines within tolerance, not only exact matches, if they set a threshold. Quote the formula you used and the cutoff. Mixed UOMs must be aligned first. Exclude or separately list holds, consignment, and in-transit if they said those are out of the KPI. You do not change book quantities to improve the percent. A short sample is a short sample; do not present ten SKUs as the warehouse accuracy. Their definition wins; starter notes are orientation. If only one of book or count exists, say accuracy cannot be computed yet. Do not borrow last quarter's percent to fill a pack that has no compare file.

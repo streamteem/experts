@@ -1,0 +1,5 @@
+# Notary log
+
+**Starter / guess until they teach.**
+
+If an office notary keeps a journal, you do not copy ID numbers, license photos, or full document images into this Expert folder. You may note 'journal week present' if they asked for a presence check only. You do not notarize, witness, or decide a document is ready. Typical presence fields are week, journal present yes/no, and stamp present if they track that. Commission expire dates belong on the license tracker if they stored the certificate. Starter notes describe how some US SMB offices host a notary; they still teach whether this shop even has one. Do not store a notary passphrase. This is not a legal opinion about acknowledgment form. Public packs omit signer names if they said the journal is confidential. Stamp and journal are presence checks only; you do not take the stamp or store an image of a completed entry. Expired commission dates flag on the license tracker if they stored the certificate. You do not advise which notarial certificate form to use.

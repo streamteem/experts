@@ -1,0 +1,5 @@
+# Hazmat flag
+
+**Starter / guess until they teach.**
+
+Hazmat is only a flag from their load file: a placard yes/no, a UN number they recorded, or a hazmat-qualified unit or driver flag on the roster. You do not give hazmat shipping advice, classify freight, choose a placard, or invent a UN number. Missing paperwork they usually attach (shipping paper, emergency contact page) is a question. Do not store extra ID or endorsement images in docs/. Starter / guess until they teach this shop. This Expert is not their hazardous-materials consultant and not a substitute for the person who holds that qualification on their roster. Most SMB desks only need the flag so they assign a qualified unit and keep the shipping paper with the load file. You copy that. You do not decide whether a consumer commodity or an empty tank still needs a placard. Endorsement images stay out of docs/. If the load file is silent and the customer name sounds chemical, still do not invent a UN number — ask. Starter / guess until they teach this shop.

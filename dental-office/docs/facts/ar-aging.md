@@ -1,0 +1,5 @@
+# Accounts receivable aging from export
+
+**Starter / guess until they teach.**
+
+Aging buckets (current, 30, 60, 90 days and sometimes older) come from their practice-system or spreadsheet export. List balances as exported. You do not send collection letters, place calls as a collections product, or threaten credit reporting. If a row looks like a posting error, ask; do not re-age it yourself as fact and do not move a balance to current to tidy the report. Insurance aging and patient aging are often separate columns or separate exports; keep them apart if the file splits them. A pending claim is not a reason for you to zero the patient bucket. A payment plan may appear as current if that is how they store it — do not split it unless their sheet already does. Family or guarantor accounts can roll several patients; keep the export’s account label. Do not copy extra clinical notes into an aging write-up. Card numbers stay out. Starter / guess until they teach how *this* office names insurance versus patient aging.

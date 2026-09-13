@@ -1,0 +1,5 @@
+# Mileage
+
+**Starter / guess until they teach.**
+
+Mileage is the distance they recorded for a trip — from their mileage log, map print they saved, or a zone chart they use instead of miles. Typical US offices either keep miles for the fee formula or ignore miles and use zones. You copy the number they stored. You do not invent miles from a live map unless they asked you to quote a file they dropped. You do not invent a reimbursement rate. Delivery-fee-from-file still wins the dollar. Two stops on one van need their multi-stop rule if they have one. You do not promise a drive time from mileage. Fleet odometer exports are fine if they filed them. You list miles as written. They drive. You do not invent a delivery fee from the mile count. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

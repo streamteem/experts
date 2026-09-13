@@ -1,0 +1,5 @@
+# Unit availability
+
+**Starter / guess until they teach.**
+
+Unit availability is their coded status for which homes can be offered: vacant ready, vacant not ready, on notice, occupied no notice, model, down, or held. Typical US communities export this from the PMS as a unit mix or availability sheet with unit number, floorplan, rent as posted, date available, and make-ready flag. You copy status as exported. You do not mark a unit available because a model looks empty, and you do not hide a notice unit to make occupancy look higher. Date available is their field, not a guess from a punch list you remember. A unit on hold for an applicant is not open inventory until they release the hold. Transfer and renewal inventory, if they track it separately, stays labeled that way. Rent on the availability sheet is the posted asking rent from their file, not a competitor screenshot and not a number you invent. If two exports disagree, quote both and ask which is live. This Expert lists what the sheet says. They change status in the PMS. Starter until they teach *this* shop's status codes and which file wins.

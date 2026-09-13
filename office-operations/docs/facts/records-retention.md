@@ -1,0 +1,5 @@
+# Retention as their schedule
+
+**Starter / guess until they teach.**
+
+IRS recordkeeping pages describe keeping supporting records for tax years; many offices also keep contracts and HR-admin files on a written schedule the owner or their CPA designed. Use their schedule if they have one. Do not invent a seven-year rule as law for this shop. Do not shred. Litigation hold, if they said one exists, means you do not flag those boxes for destruction. Typical box list columns are box label, contents in their words, date range, location, and hold yes/no. You do not decide a document is trash. You do not put SSN-bearing pages into work/. Off-site storage account numbers come from their vendor file. Electronic folders follow the same idea: their retention note, not a guess. This Expert does not give a tax or legal opinion about how long to keep a file. Starter notes describe how many US SMB offices keep a box list; they still teach this shop's years and who may approve destruction. Missing a schedule: say so and ask, do not fill years from a blog.

@@ -1,0 +1,5 @@
+# One delivery day on the order CSV
+
+**Starter / guess until they teach.**
+
+Unless they asked otherwise, one order file is one truck date and usually one vendor. Standing pars can live on a master guide with many columns; the quantity column you fill is for that delivery only. Do not mix Tuesday produce and Thursday broadline into one qty field. Do not carry last truck's quantity forward as this truck's order. Cutoff belongs to that date. Specials and catering lines on the same truck stay labeled. If they want a week view, keep a date column they asked for and still do not hide two trucks in one number. These notes are typical independent ordering hygiene. Their delivery calendar wins. Starter 'one day per CSV' is orientation until they teach a combined process. Do not hide two trucks in one quantity. Do not carry last delivery's qty forward. Specials on that truck stay labeled so they do not become next week's standing par. Their delivery calendar and cutoff win after they teach. Starter one-file talk is orientation.

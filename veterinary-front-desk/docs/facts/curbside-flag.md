@@ -1,0 +1,5 @@
+# Curbside or lobby flag
+
+**Starter / guess until they teach.**
+
+If they still use curbside, wait-in-car, or a lobby-wait flag, keep it on the day list so the floor knows where the client is. Public AVMA notes described curbside workflows as clinic process during crowded years, not as telemedicine you deliver from the parking lot. You do not examine the pet in the lot. You do not take a history as the veterinarian. Parking-spot numbers, when they collect them, are a column to copy. A photo sent from the car attaches for the doctor; you do not diagnose from it. If they have returned to full lobby and the flag is leftover on an old template, ask before you publish it as today's process. Starter / guess until they teach which visits are still curbside and who walks out to the car. Spot numbers and make-of-car notes, when they collect them, belong on that day's list only. Yesterday's curbside column is not today's process. You do not walk out to examine. Photos from the car still attach for the veterinarian, not for a lobby diagnosis.

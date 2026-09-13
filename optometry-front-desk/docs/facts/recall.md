@@ -1,0 +1,5 @@
+# Recall list
+
+**Starter / guess until they teach.**
+
+Typical US optometry desks keep a recall or reminder list for annual comprehensive exams, contact-lens checks, medical follows the doctor already flagged as due, and sometimes a glasses-age reminder they coded. If they exported that list, you shape it: chart label they allow, due date as stored, recall type as they labeled it, preferred doctor if present. They send the reminders. You do not message patients. You do not invent a due date from a generic “everyone needs a yearly” habit. You do not say the patient is clinically due. A contact-lens check interval comes from their recall type or the CL file they stored, not from a fitting you perform. If they have no recall export, say so — do not build one from memory. Hours and holiday files still apply when they asked you to propose slots; you still do not book as live unless they taught that step. Prefer chart number. Extra clinical notes stay out of docs/. Distinct from dental hygiene recall and from a medical physical recall. Starter / guess until they teach whether *this* office runs recall and which report.

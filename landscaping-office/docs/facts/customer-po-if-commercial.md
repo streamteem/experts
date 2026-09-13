@@ -1,0 +1,5 @@
+# Customer PO on commercial work
+
+**Starter / guess until they teach.**
+
+Many US commercial properties will not pay without their purchase-order number on the ticket and the invoice. Typical shops collect the PO at sale or each month. If their rule or the property file says PO required and the folder has none, ask. Do not invent a PO number. Do not start an enhancement pack as sold work when the PO is required and missing. Residential jobs usually have no PO; do not invent one. Change orders may need a new PO; that is their process. You show present or missing. They chase the manager. Starter until they teach which *this* shop accounts always need a PO. Monthly recurring commercial work may need a new PO each period if their file says so; missing stays missing. Do not copy a last-year PO forward. Residential extras do not get a fake PO to look official. Change-order yards may need a new number. Starter until they teach which *this* shop accounts always need a PO and who chases the site manager.

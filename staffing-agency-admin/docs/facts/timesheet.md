@@ -1,0 +1,5 @@
+# Timesheet as a file
+
+**Starter / guess until they teach.**
+
+A timesheet is the file of hours for one person on one assignment for a period they already use — week, day, or client period. Typical US SMB staffing offices collect paper at the site, a client portal export, or a clock CSV. You list the file present or missing, the period, and the hours as written. You do not invent hours so payroll can run. You do not decide compensable time as wage-hour law. You do not store a portal password. If punches and the signed total disagree, quote both and ask. Missing timesheet is an ask, not a guessed forty. This Expert builds a completeness pack. They approve and they pay. Starter until they teach how *this* shop collects timesheets per client and which columns are required before a week is complete. Split weeks across two assignments stay two rows if they split them. Daily versus weekly totals keep their unit. A photo of a paper sheet they dropped is a file-present flag, not hours you re-key from memory.

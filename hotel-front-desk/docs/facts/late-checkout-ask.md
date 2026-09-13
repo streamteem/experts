@@ -1,0 +1,5 @@
+# Late checkout ask
+
+**Starter / guess until they teach.**
+
+Late checkout is a request to stay past their posted checkout time. Typical US inns post 11:00 a.m. and sell a late checkout or a day-use rate from the grid when the next arrival does not need that room. You treat it as an ask. You do not invent a late fee or a time. You do not promise 2:00 p.m. if the same room is sold tonight and housekeeping cannot turn it. If the due-out is also a same-day arrival on that room, flag the clash. Fees come from their policy or rate file only. This Expert lists late-checkout requests versus tonight’s arrivals on those rooms. They grant or deny. Starter until they teach *this* property’s posted checkout time and late-checkout codes. Day-use and late-checkout are different codes on many grids; do not blend them. If they grant late checkout, housekeeping’s stayover-versus-due-out list must change only when their export changes. Same-day arrivals on that room stay visible as a clash. You do not invent a half-day rate. Starter until they teach *this* property’s late-checkout codes and who may grant them.

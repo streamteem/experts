@@ -1,0 +1,5 @@
+# Proposal versus contract
+
+**Starter / guess until they teach.**
+
+A proposal is a priced offer; a contract or signed acceptance is what they filed as sold. Typical US landscape offices email a PDF proposal and later save a signed page or an e-sign file. Do not treat a draft estimate as sold work on the crew day. Do not treat a verbal “they liked it” as a contract. Recurring maintenance may live on a season contract while enhancements stay on one-off proposals; keep the types straight. Renewal is a later file. Price on the sold file wins over a newer menu unless they said to update. You label draft versus signed from the folder. They send and they countersign. Starter until they teach how *this* shop stores acceptance and what starts the clock for scheduling. Expiration dates on a proposal stay as printed; do not treat an expired PDF as sold. A signed page that lists different yards than the draft is a change question. Starter until they teach how *this* shop stores e-sign versus paper and what starts scheduling.

@@ -1,0 +1,5 @@
+# Generator
+
+**Starter / guess until they teach.**
+
+A generator is a standby or prime genset they operate, with PMs, exercise logs, and fuel or hour meters on their file. Typical US plants keep a weekly exercise sheet and a contractor load-bank date if they stored one. You list due PMs and meter readings from those files. You do not invent an exercise interval. You do not stamp the unit as code-required or life-safety approved. You do not claim an electrical license. Fuel qty comes from their tank sheet, not a guessed run-time. Field-trade standby installs at a customer house are a different desk. Silent-hours may restrict tests; use their calendar. They run the test. Starter until they teach how *this* plant logs exercise and who may call the generator contractor. Load-bank dates are dates on their contractor report. Exercise skipped on a holiday follows their calendar, not a make-up you invent. Transfer-switch tickets are electrical-as-ticket, still not a license. Fuel delivery tickets they filed are qty as written.

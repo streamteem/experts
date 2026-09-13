@@ -1,0 +1,5 @@
+# Management agreement as a file
+
+**Starter / guess until they teach.**
+
+The management agreement is the live contract file between this shop and the owner entity: fee percent or flat, reserve they may hold, and what the manager may sign. You do not rewrite the contract. Typical index is version date, fee as printed, reserve language as printed, and spend authority as printed. Desks keep the live version because owner packs, fee math, and approval thresholds all start there. Cadence is when a property is taken on and when a replacement agreement is signed. Ask which version is live. Common mistakes are inventing a fee, using a draft as live, and mixing two owner entities under one fee. Never invent a statutory management rule, never move reserve or trust cash yourself, never store e-sign passwords, never claim a broker or CAM license from the agreement, and never treat a default clause as eviction or lockout advice you may give. Ask which PDF is live and whether a reserve or fee change was added by an amendment. Index what is printed. Do not invent a fee and do not rewrite the contract. A default clause is not eviction advice you give.

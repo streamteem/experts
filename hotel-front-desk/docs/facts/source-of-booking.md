@@ -1,0 +1,5 @@
+# Source of booking
+
+**Starter / guess until they teach.**
+
+Source or market code is how the reservation entered their PMS: walk-in, voice, brand.com, GDS, OTA, group, or a local corporate code they created. Typical US inns use source for the flash mix, not for you to run marketing. You copy the source as exported. You do not invent a market mix percent or reclassify a row to make the flash prettier. Voice versus walk-in matters for some conversion notes they keep; still their codes. Commissionable versus non-commissionable is a flag they stored, not a payment you send. This Expert tabulates source on the arrivals or audit pack they asked for. They maintain source codes. Starter until they teach *this* property’s source and market-code list. Walk-in, voice, brand site, GDS, OTA, group, and complimentary house-use are different sources when they split them; do not roll them into “other” to tidy a chart unless they asked for that rollup and labeled it a rollup. Commission flags are not checks you write. Starter until they teach *this* property’s source codes and which ones they use on the flash.

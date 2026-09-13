@@ -1,0 +1,5 @@
+# Concern in customer words
+
+**Starter / guess until they teach.**
+
+The concern, often labeled complaint or customer states on US repair orders, is what the customer reported in their words plus conditions that help a technician try to duplicate it. Typical write-up adds when it happens, how often, speed, gear, hot or cold, weather, load, and left or right if they said so. Independent and dealer desks both treat this line as the record of the request, not a diagnosis. Write Customer states and keep the symptom. A concern is not your guess at a failed part, a TSB, or a correction. ASE-style service writing keeps the customer sentence even after the tech later writes a cause. If they only said check engine or noise, keep that thin wording and list missing conditions as questions. Do not replace their words with a cleaner shop phrase that names a part. The pack exists so the tech and the invoice still show what was asked. This is typical US counter practice until they teach their exact concern field and any required condition checklist.

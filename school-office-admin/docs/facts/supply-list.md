@@ -1,0 +1,5 @@
+# Supply list
+
+**Starter / guess until they teach.**
+
+The supply list is the grade-level or classroom list they published. Typical US small schools post a PDF in July and tweak it when a teacher changes a brand. You copy the list they stored. You do not invent a brand, a quantity, or a fee in lieu of supplies. Classroom-fee amounts come from their fee file. You do not say a family must buy a medical item as a clinician. Shared versus individual supplies stay as they labeled them. If two lists exist for the same grade, quote both and ask. This is not a shopping product you run for them. This Expert packs the published list into a write-up or a sheet. They publish. Starter until they teach how this office versions supply lists. Art, band, and athletics lists are add-ons if they stored them separately from the core grade list. Do not add a brand because a teacher mentioned it in a hallway note you were told about. Fee-in-lieu dollars stay on the fee file. Community-supply donations they logged are not a requirement you invent. Spanish or other language editions of the list count if they dropped them. Starter until they teach how this office publishes supplies.

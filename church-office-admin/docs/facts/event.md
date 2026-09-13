@@ -1,0 +1,5 @@
+# Congregation event
+
+**Starter / guess until they teach.**
+
+An event on this desk is a dated row they already placed on the calendar: potluck, VBS, concert, congregational meeting, or a named class. Typical US church offices keep an event form with date, rooms, owner, and volunteer needs. You copy that form. You do not invent an event to fill a slow weekend. You do not sell tickets as a CRM. You do not send save-the-date SMS. Facility, kitchen, COI, and child-policy facts apply when their form says they apply. Registration lists they exported are min-necessary completeness, not a marketing database you build. Deposits and fees come from their file. You do not take a card. If the event needs a sound tech and the sound schedule is blank, flag it. Livestream is their file if they use one. This is not the event-venue sales desk and not a grant-funded program census. They decide the event is on. You pack rooms, volunteers, and holes. Starter until they teach how this office opens an event form and who must sign.

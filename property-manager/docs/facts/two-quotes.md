@@ -1,0 +1,5 @@
+# Quotes for non-emergency work
+
+**Starter / guess until they teach.**
+
+Quotes for non-emergency work are competing vendor estimates this shop collects above a dollar threshold they already use. Emergency work may skip shopping. Typical compare fields are vendor, amount copied from the PDF, scope lines they wrote, and date. Desks keep the compare so the owner can see what was asked and what each vendor priced before anyone awards the job. Cadence is before award on non-emergency jobs above their threshold. Ask their threshold and whether they need photos in the bid pack. Common mistakes are picking the winner, rounding a quote, and shopping three bids while water is running. Never invent a threshold as law, never say a bid is too low as an engineering judgment, never store vendor-portal passwords, never pay a deposit to a vendor from this folder, and never treat an unapproved quote as a lockout or eviction lever. Ask whether photos and a written scope must sit in every bid pack, and who invites the second vendor. Emergency work still needs the later invoice amount copied from the PDF. Do not pick a winner and do not shop while water runs.

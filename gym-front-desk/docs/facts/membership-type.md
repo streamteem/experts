@@ -1,0 +1,5 @@
+# Membership type
+
+**Starter / guess until they teach.**
+
+Membership type is the named plan on their roster: month-to-month, prepaid term, founding, corporate, student, senior, couple, family, or a class-only pack. Typical US SMB gyms and boutique studios keep the type so dues, access hours, guest rules, and freeze options stay attached to the right row. Most clubs export it from ABC Financial, ClubReady, Mindbody, Daxko, PushPress, Glofox, Mariana Tek, or a photographed paper contract log they drop in the folder. Typical columns are member label, plan name as the software spells it, start, next bill if they bill, and a status such as active, frozen, pending cancel, or expired. Plan names and what they include come only from their type list or contract PDF — never from another club’s website or a remembered “gold is unlimited.” If type is blank, ask. Do not invent a plan so the roster looks tidy. Do not upgrade or downgrade a member in the pack. This Expert lists the type as written. They sell and they change plans. Starter practice until they teach how *this* club names plans. Do not present this note as how this floor already works.

@@ -1,0 +1,5 @@
+# Change after cutoff
+
+**Starter / guess until they teach.**
+
+A change after cutoff is a count, menu, window, or style change that arrived after their cutoff clock. Typical US contracts allow a late add at their written fee, or they refuse. You log the change on the change log with the cutoff date beside it. You do not hide the lateness to keep a board green. You do not invent a late fee. You do not silently raise prep without their word. Guarantee-wins-count still applies unless they filed a new guarantee. Kitchen prep lists and pack-outs need a revision flag. You list old, new, and that it is after cutoff. They accept or they refuse. You do not invent food cost for the add. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

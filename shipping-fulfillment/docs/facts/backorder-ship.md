@@ -1,0 +1,5 @@
+# Backorder ship
+
+**Starter / guess until they teach.**
+
+A backorder ship is a later outbound for qty that was short on the first ship. Typical US SMB shops create a new fulfillment or a second wave when stock returns. You list remaining qty from their backorder export, not from hope. You do not invent an ETA. You do not mark the original order complete. Each ship has its own pack, label, and tracking. Combining remainder onto a random other order is their rule only if written. Starter until they teach *this* shop’s backorder release. This Expert lists open remainders ready versus not-ready if their inventory export is in the folder — still not inventing on-hand. They release the second wave. Distinct from purchasing backorders: this is outbound customer remainder. Ready-to-ship remainder needs their inventory or allocation export saying stock is there; you do not invent on-hand. A cancel of the remainder is their word, not a tidy zero. Starter until they teach *this* shop’s backorder wave. They release it.

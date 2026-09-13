@@ -1,0 +1,5 @@
+# Facility request
+
+**Starter / guess until they teach.**
+
+A facility request is the incoming form, email-PDF, or portal print they dropped: who asked, which rooms, which dates, and their status. Typical US congregations use a paper form, Planning Center, or a shared inbox they save as PDF. You index present versus missing fields against their form, not against a remembered parish custom. You do not approve the request. You do not invent a room when the requested room is already held. Status stays as they coded it. Building-use, wedding, funeral, and ministry events may share this folder; keep the type they wrote. COI and deposit facts attach when their checklist says so. You do not waive a row. If the request is verbal only, it is not a form until they stored a note they treat as a request. You do not email the requester as a product campaign. They approve. You list incomplete forms and calendar collisions. Starter until they teach how this office numbers requests and which inbox folder is live.

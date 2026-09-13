@@ -1,0 +1,5 @@
+# Renter certificate of insurance
+
+**Starter / guess until they teach.**
+
+A renter or user certificate of insurance is the PDF they require from the client, caterer, or coordinator before the event. Typical US halls and barns ask for general liability with named limits and a deadline (often fourteen or thirty days out) written in the contract. You check present versus missing, named insured versus the renter’s legal name on the contract, dates that cover the event, and any additional-insured wording they require — completeness against their checklist, not an underwriting opinion. You do not say they are covered. You do not invent a limit. You do not bind. Expired or event-date-missing COIs stay on the missing list. Vendor COIs (DJ, inflatables, caterer) follow the same present-missing rule if their packet requires them. They chase the client. You list. Starter until they teach *this* venue’s COI checklist. Liquor liability on a caterer COI is a present-missing checkbox if their checklist asks for it, not a license stamp. Blanket additional-insured wording that omits the venue legal name still fails their sample. You do not call the insurer.

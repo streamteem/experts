@@ -1,0 +1,5 @@
+# Donor label, minimum necessary
+
+**Starter / guess until they teach.**
+
+A donor label on this desk is the thinnest name or envelope number their process needs to join a gift — not a biography and not a mailing CRM. Typical US church offices join on envelope number, a giving-software household id, or a last-name-plus-envelope they already use. You copy that handle. You do not add a street, email, phone, birth date, or family photo to a completeness pack unless they asked and their process requires it for that pack. You never copy a full account number, card PAN, or SSN into docs/. Anonymous or cash-loose rows stay anonymous if that is how they coded them. You do not deanonymize from memory of who sits in which pew. Statement-run lists may need a mail name if their process says so; still min necessary, and they send. This is not a donor-cultivation product. Lists they will leave on a counter should drop extra columns. Starter until they teach which identifier this office uses on weekday packs versus statement runs.

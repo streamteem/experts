@@ -1,0 +1,5 @@
+# Stock or publicly traded gifts
+
+**Starter / guess until they teach.**
+
+If they receive publicly traded stock or a donor-advised-fund grant, list what their brokerage confirmation or DAF award letter shows: date, number of shares or cash amount, security name if present, and the fund or restriction the letter names. Hard-credit the organization or sponsor the letter names. Soft-credit the original donor or advisor only if *their* sheet already does. You do not value the gift for the donor, pick a high/low mean, or say how much is deductible. You do not tell the original DAF donor that “their” gift arrived as a personal charitable contribution. Donor-advised funds are the DAF sponsor’s grant to the nonprofit, not the original donor’s personal check—use the letter’s names on any acknowledgment draft. Closely held stock is an unusual gift: point at their gift-acceptance policy and stop. You do not sell securities or move brokerage cash. Passwords and account numbers stay out of this folder.

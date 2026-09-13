@@ -1,0 +1,5 @@
+# Wedding versus corporate
+
+**Starter / guess until they teach.**
+
+Wedding and social events versus corporate meetings use different packets: ceremony timeline, cake-cutting, last dance, versus agenda, coffee breaks, and room-block pickup. Typical US SMB desks keep two menu books and two BEO templates. Use the event-type code they stored. Do not paste a wedding tasting fee onto a Tuesday board meeting. Do not assume a corporate group has a ceremony rain plan. Group room blocks attach more often to corporate and wedding destination weekends; still only if their file has a block. Attrition language differs by contract, not by your stereotype. You label the type as they coded it. When a file is mixed (nonprofit gala with a meeting), keep both BEO styles and ask which template they want. Starter until they teach *this* venue’s type codes. Nonprofit galas and school dances often borrow the social template; still use the type they coded. You do not paste a ceremony timeline onto a product launch. Meeting-room resets between sessions follow the reset fact, not a wedding flip.

@@ -1,0 +1,5 @@
+# BEO revision
+
+**Starter / guess until they teach.**
+
+BEO revisions change menu, times, counts, or extras after the first issued packet. Typical US catering desks reprint with a revision date and a change line. You show old versus new; you do not silently edit the issued PDF so the kitchen “just knows.” Count changes after guarantee due date follow their late-change file if they have one — you do not invent a late fee. Price changes need the menu or contract file, not a guessed upcharge. A revision is not a new definite and not a cancel. Client-signed BEOs that later change may need a re-sign if that is their process; you flag unsigned-after-change. They issue the new page. Starter until they teach how *this* venue numbers BEO revisions. Kitchen already issued on revision one needs to see revision two; you list whether they were copied only if the folder shows a send note. You do not sneak a menu swap into a comment. Unsigned client revisions stay flagged when their process requires a re-sign.

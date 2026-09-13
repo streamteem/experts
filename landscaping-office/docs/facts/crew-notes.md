@@ -1,0 +1,5 @@
+# Crew notes
+
+**Starter / guess until they teach.**
+
+Crew notes are what the lead already wrote: a rut, a broken head, a customer who came out, a skip reason. Typical US shops collect these on the ticket app or a paper they scan. Copy the words. Do not turn a yellow patch into a disease diagnosis. Do not turn “needs spray” into a mix. Extra work in a note still needs auth. Hours in a note are file hours only if they entered them as time; a story is not a timesheet. Photos they attached stay named. You lift notes onto the callback or extra-work list. They talk to the customer. Starter until they teach how *this* shop wants field notes cleaned for the office. A note that says the customer wants more mulch is an extra-work question, not a new sold qty. Hours mentioned in a story are not a timesheet unless they entered time. Do not clean the note into a diagnosis. Starter until they teach how *this* shop wants field notes copied for the office and which notes become callbacks the same day.

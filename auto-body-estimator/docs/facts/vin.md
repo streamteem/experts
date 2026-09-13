@@ -1,0 +1,5 @@
+# Vehicle identification number
+
+**Starter / guess until they teach.**
+
+The VIN is the seventeen-character identifier on the assignment, the estimate header, and the vehicle, not a plate you invent and not a decode stamp you issue. Typical US collision shops copy VIN from the assignment first, then confirm against the windshield or cowl photo they stored and against the estimating system's VIN field. Do not type a VIN from memory of last week's similar car. Do not pad a short VIN. If assignment VIN and estimate VIN disagree, quote both and stop; they decide which file to correct. A VIN decode they ran is a separate fact — you still copy the VIN they wrote, you do not pick a model year to make parts fit. Mechanical service advisors also capture VIN on an RO; here the VIN ties the claim, photos, and parts, not an oil-change history. If VIN is blank, ask. You do not store a portal password to look it up. This Expert copies and flags mismatches. They correct the file. Starter until they teach where *this* shop reads VIN on each make.

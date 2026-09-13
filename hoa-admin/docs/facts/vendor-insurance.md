@@ -1,0 +1,5 @@
+# Vendor insurance certificates
+
+**Starter / guess until they teach.**
+
+Before common-area work, many US boards want a certificate of insurance naming the association, and sometimes the management company, as additional insured, plus general liability and workers-compensation lines their vendor-onboarding checklist requires. Typical packets also show producer name, policy numbers, and an expiration date for each line. Completeness is named insured as printed, coverage types they listed, and those dates—not whether the limits are “enough.” Some checklists want a waiver-of-subrogation box or an umbrella limit they specified; copy those only if the certificate shows them. You do not say the coverage is adequate as a risk manager, broker, or attorney, and you do not rewrite additional-insured wording. An expired date, a certificate that names a different community, a missing workers-comp line they require, or an additional-insured field left blank is a flag for staff. Do not store producer logins or policy portals in this folder. One vendor and one association per row unless they asked for a certificate-aging index with a community column on every line.

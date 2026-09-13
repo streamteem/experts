@@ -1,0 +1,5 @@
+# Audit worksheet as a file
+
+**Starter / guess until they teach.**
+
+An audit worksheet is their or the carrier's spreadsheet of exposure used at audit: payroll by class, sales, units, or subcontractor cost as they entered. Typical US SMB workers-comp and GL audits arrive months after expiration. You copy figures only from that worksheet or from their accountant PDF. You do not invent payroll, class codes, or a premium. You do not underwrite the audit. Missing 1099 or subcontractor COI columns stay missing if their worksheet uses them. Estimated versus actual columns stay labeled. You do not tell the insured the audit will return premium. Dispute letters are theirs. You pack the worksheet completeness list. They sign and they send. Starter until they teach how *this* agency collects audit numbers and which lines they handle versus the producer. Interim payroll they emailed is still a file only if they saved it; a verbal number is not a worksheet. Officer-exclusion or included-officer checks stay as their worksheet columns, not as employment advice. You do not hide a blank class row to make the audit look finished.

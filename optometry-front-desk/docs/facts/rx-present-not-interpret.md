@@ -1,0 +1,5 @@
+# Rx present, not interpreted
+
+**Starter / guess until they teach.**
+
+A spectacle or contact-lens prescription in this folder is a present-or-missing file: named Rx image or EHR Rx print, patient chart match, date as printed, and whether required fields their process listed are visible. Typical US offices also keep a signed receipt-of-Rx acknowledgment if their process uses one — FTC Eyeglass Rule and Contact Lens Rule pages are orientation, not a legal stamp you issue. You do not interpret sphere, cylinder, axis, add, prism, or contact-lens brand and base curve as care. You do not say the Rx is strong, weak, or wrong. You do not rewrite the Rx onto an order to “help” the lab. You do not decide the Rx is expired as a clinician — expiration as a date on their file is a different fact. Missing Rx on an order that their process says needs one: ask, do not mark the ticket complete. Outside-Rx transfers are the same present-or-missing check. Do not copy extra clinical exam notes into docs/ when “Rx PDF present” will do. Prefer chart number. Starter / guess until they teach where *this* office files spectacle versus contact-lens Rx images.

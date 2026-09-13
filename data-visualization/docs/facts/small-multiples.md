@@ -1,0 +1,5 @@
+# Small multiples from a facet they name
+
+**Starter / guess until they teach.**
+
+Small multiples repeat the same chart for each value of a facet column they named, such as store, tech, or product line. Typical US SMB owners want “the same week view for each site.” The Expert may run Python in this workspace, import seaborn, and call FacetGrid or relplot with the facet they named, then save one PNG. Shared y-scale is an ask; free scales can hide that one site is ten times another — say which you used. Do not invent a facet from a join they did not request. Do not drop a panel because n is small; say small n on that panel. Color and titles stay consistent so the pack is one question, not twelve new claims. A dashboard website is out of scope; a folder of panels or one faceted PNG is in scope. Write a work CSV of the aggregated values behind the panels. If seaborn is missing, ask and install, or use matplotlib subplots the same way — do not fake panels. Starter until they teach which facet *this* shop wants.

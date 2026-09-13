@@ -1,0 +1,5 @@
+# Catch-weight items
+
+**Starter / guess until they teach.**
+
+Meats, cheeses, and some produce bill by actual pounds (catch weight), not by a neat case count. Extended price equals weight times price per pound on the invoice. Compare to a receiving scale weight if they wrote one. You do not invent a weight, an average bird, or a 'usual' primal weight. A short weight versus the order's expected range is a question, not a credit dollar you invent. Keep pound and case in separate columns when they count cases in the box and pay by the pound. Do not convert a catch-weight line to eaches without their factor. These notes are typical US independent protein receiving. Their ticket and scale note win. Starter talk is orientation until they teach this butcher or broadline account. If the invoice has no weight on a catch-weight SKU, ask; do not estimate from the case count. Bid price per pound, if they have one, is compared to the ticket's per-pound, not to a remembered average. Their ticket and scale note win.

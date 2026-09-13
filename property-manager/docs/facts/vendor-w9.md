@@ -1,0 +1,5 @@
+# Vendor W-9 for 1099 season
+
+**Starter / guess until they teach.**
+
+A vendor W-9 sits in the AP file so bookkeeping can issue 1099s for non-employee repair pay. Typical process is a path to the W-9 they already collected, marked present or missing, with no TIN copied into this folder. Bookkeeping may own 1099 season; this desk only notes the missing path. Desks keep the flag because January is too late to discover a plumber was paid all year without a form. Cadence is at first pay and each January reminder they already run. Ask who owns 1099s in this shop. Common mistakes are typing TINs into docs, filing 1099s from this folder, and inventing whether a vendor is a contractor as a legal call. Never store TINs, bank logins, or portal passwords, never send the 1099, never pay the vendor from trust yourself, and never treat a missing W-9 as a reason you may withhold a resident lockout or deposit ruling. Ask who owns January 1099 work and where W-9 PDFs sit. This desk only flags a missing path. Do not type a TIN into docs, do not file forms, and do not decide contractor status as counsel.

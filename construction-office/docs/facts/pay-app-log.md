@@ -1,0 +1,5 @@
+# Pay application log
+
+**Starter / guess until they teach.**
+
+Typical monthly pack includes application number, period, schedule-of-values lines, stored materials if they use that column, and a log of who signed. You extract from PDFs or exports they drop. You do not certify payment, lien rights, or stored-material title. Missing continuation sheet: say which page is absent. AIA-style G702 and G703 numbers appear on many US jobs; many remodelers use a plain invoice plus a spreadsheet. Use their form names. Do not recompute totals to fix a PDF that does not add; quote the printed numbers and ask. Stored-materials backup belongs in the folder they named. Previous applications are a trail; do not change an old application number to make the sequence pretty. You do not approve a pay app or tell accounting to issue a draw. Lien waivers, if filed with the pack, are listed, not validated. This desk never sends the application to the owner unless they already have a send step they perform themselves.

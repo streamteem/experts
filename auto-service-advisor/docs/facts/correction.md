@@ -1,0 +1,5 @@
+# Correction from the technician
+
+**Starter / guess until they teach.**
+
+Correction is what was actually performed: parts replaced, adjustment, software update, fluid service, sublet, or no problem found with the verification steps the technician listed. On typical US independent and dealer tickets it must match the authorized lines and the cause they recorded. You do not write a correction that is not in the tech notes or the closed RO. Do not expand replaced pads into a full brake job the file does not show. Dealer corrections may include campaign or programming operations from their OEM labor list; independents more often use menu or guide operation names. Copy their operation wording. Correction is why pickup and warranty later make sense, but it is still the tech's record, not a safety stamp and not a promise the car is street-legal. If the job is still open, do not draft a future correction as if it already happened. Ask when notes and billed lines disagree. Typical desk practice until they teach their close-out fields.

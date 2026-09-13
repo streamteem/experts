@@ -1,0 +1,5 @@
+# Business insurance dates
+
+**Starter / guess until they teach.**
+
+SBA insurance orientation lists workers' compensation, unemployment, and disability as common employer topics, plus optional packages such as a business owner's policy, liability, or property cover. You list policy type and expiration from their binder, declaration page, or broker PDF. You do not pick coverage, raise a limit, or say a claim is covered. A missing page is a missing page; say so. Typical columns are carrier, policy type as they labeled it, policy number they already wrote, expire date, and broker contact from their file. Certificates they keep for landlords or customers are copies of what they stored, not new certificates you issue. Workers' compensation dates are paperwork dates, not a payroll-tax opinion. You do not call the carrier to bind or cancel. Auto or rented-equipment riders belong only if their binder lists them. This is orientation for most US small offices, not advice that this shop is correctly insured. They still teach which binder is current and who owns the renewal conversation.

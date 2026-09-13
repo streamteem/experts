@@ -1,0 +1,5 @@
+# Manager report file
+
+**Starter / guess until they teach.**
+
+Monthly or packet manager reports, when they use a management company or an on-site manager, typically list open work orders, violation counts, financial highlights they already drafted, contract dates coming due, and sometimes a site-walk note they wrote. You may assemble exhibits, pull CSVs they exported, and flag missing attachments they named on the agenda. You do not replace the manager’s recommendation with a legal one, do not add a reserve-funding decision, and do not rewrite the narrative as if you inspected the property. If they have no manager-report template, do not invent one as how this community already works. Confirm the association and the period on the cover. One month per report pack unless they asked for a year index of covers and dates. Open-item exhibits you attach must already exist as CSVs or PDFs they provided; do not add a legal recommendation or a site-condition claim you did not take from their files.

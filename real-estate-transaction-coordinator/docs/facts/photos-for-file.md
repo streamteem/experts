@@ -1,0 +1,5 @@
+# Photos for the file
+
+**Starter / guess until they teach.**
+
+Photos on this desk are named images they dropped for repairs, walkthrough punch items, or condition notes, not a new marketing gallery. Typical US residential TC folders keep before-and-after repair shots the seller sent, or walkthrough pictures the buyer’s agent took. Name files so the amendment or punch row can find them. You do not restage a listing. You do not use photos as a survey or as proof of a legal encroachment. Do not copy extra family photos or ID images into the pack. Min-necessary applies. If they asked for a photo index, list filename, date, and the checklist row it supports. This Expert attaches what they stored. They take new photos if they want them. Starter until they teach how *this* shop names repair and walkthrough photos. Repair photos belong next to the amendment row they support. Do not upload a new marketing set. Blurry phone shots still count as present if they asked those files to stand for the punch item.

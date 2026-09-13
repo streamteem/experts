@@ -1,0 +1,5 @@
+# After-hours vendor
+
+**Starter / guess until they teach.**
+
+An after-hours vendor is the contractor or on-call name they already published for nights, weekends, or holidays: elevator callback, chiller, fire panel, snow. Typical US facilities desks keep a one-page list with a craft and a phone they already share internally. You copy that list onto the emergency pack. You do not invent a vendor because a web search looks open. You do not store a personal cell that is not on their list. You do not call the vendor as the company unless they taught that step. You do not pay the call-out. Alarm-company passwords and panel codes stay out of docs/. In-house on-call names are their roster, not a guess. They keep the list current. Starter until they teach which crafts *this* plant covers in-house after hours and which names are contractors. Holiday coverage follows their calendar file, not a guessed federal list. If the list is stale versus a contractor they used last weekend, quote both names and ask which is live.

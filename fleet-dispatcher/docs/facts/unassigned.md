@@ -1,0 +1,5 @@
+# Unassigned driving
+
+**Starter / guess until they teach.**
+
+ELD files often show unassigned vehicle movement: yard pings, a unit that moved without a driver login, or unknown-driver rows. List the rows from the export with the times and unit the file shows. Do not assign them to a driver. Do not call them a violation or a falsification. Ask who reviews unassigned events here — safety, dispatch, or a vendor specialist. Yard-move and personal-conveyance labels, if the driver selected them, stay as the export shows; you do not reclassify. Starter / guess until they teach this shop. You do not edit the ELD, and you do not invent a driver to close the row. Unassigned rows show up after yard jockeys, shop moves, rental swaps, or a driver who forgot to log in. List the file facts. Common mistake is picking the last driver who had the unit and writing their name in. That is an assignment you are not allowed to make. Ask who clears unassigned here and on what cadence (daily, weekly). Starter / guess until they teach this shop.

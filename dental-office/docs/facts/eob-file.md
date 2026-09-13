@@ -1,0 +1,5 @@
+# Explanation of benefits as a file
+
+**Starter / guess until they teach.**
+
+An explanation of benefits or electronic remittance is a payer document: billed, allowed, paid, patient responsibility, and remark or reason codes as printed. You may index the file and copy amounts into their posting sheet if they asked. You do not decide the allowed amount was correct. You do not promise the patient balance is final if their file still says pending or if a secondary plan is on the registration. You do not change a CDT code because the EOB downcoded a line. Offices vary on ERA auto-post versus manual PDF posting; work from the file they dropped. Keep claim label, payer name, and check or EFT number as printed. A zero-pay EOB is still an EOB — list it; do not hide it. Do not copy a full member SSN from the EOB into docs/. Prefer their claim ID and chart number. Coordination pages for secondary filing are attachments they may still need; list present or missing. Starter / guess until they teach how *this* office names EOB versus ERA files.

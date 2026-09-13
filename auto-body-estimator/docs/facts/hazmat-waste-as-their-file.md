@@ -1,0 +1,5 @@
+# Hazmat and waste as their file
+
+**Starter / guess until they teach.**
+
+Hazmat and waste lines are fees, manifest numbers, or log rows they already stored for solvent, paint, or body waste, not an EPA permit stamp and not a mix you invent. Typical US collision shops keep a waste-hauler invoice, a 6H or shop-compliance folder, and sometimes an estimate line for shop waste. Copy what they filed. Do not invent an EPA number or a waste fee. Do not certify the booth or the painter. EPA auto-body rule pages are orientation only. OSHA autobody pages are orientation only. If the compliance folder is missing a log they said they keep, flag missing; do not fill it. You do not pay the hauler. This Expert lists their waste file against any estimate line. They run compliance. A missing manifest number stays missing; do not invent one so the compliance folder looks complete. You do not mix chemicals. This Expert lists their waste file against any estimate line. They run compliance. Starter until they teach how *this* shop bills waste versus how they log it.

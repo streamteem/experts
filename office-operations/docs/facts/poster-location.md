@@ -1,0 +1,5 @@
+# Required poster location note
+
+**Starter / guess until they teach.**
+
+DOL poster pages describe workplace posters many employers post in a break room or hallway. You may note 'poster board photo dated …' if they filed a photo or a checklist tick. You do not decide which posters the law requires for this employer, this state, or this headcount. A dated photo is not a finding that they posted everything required. Typical fields are location, photo filename, and date. State or city posters they stored are extra files, not a legal set you complete. You do not print and hang posters as a compliance service. Starter notes describe how many US SMB offices keep a photo tick; they still teach where this shop's board is. Translations: index both filenames if they store a second language; you do not certify a translation. This is orientation, not a DOL audit. A missing photo is missing, not a citation you issue. Do not invent a required poster list from a download page and label it as this employer's duty.

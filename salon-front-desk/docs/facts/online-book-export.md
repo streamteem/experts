@@ -1,0 +1,5 @@
+# Online booking export
+
+**Starter / guess until they teach.**
+
+Online requests may sit in a pending queue before the desk confirms. Pending is not the same as on-the-book. If the export has a status column, keep pending, confirmed, arrived, and completed apart. Do not mark a request confirmed to fill a hole. Desks keep the pending queue so a widget cannot silently double-book a colorist. Typical US tools are Vagaro, Boulevard, Fresha, Booksy, and Square Appointments widgets. Some shops auto-confirm haircuts and still require desk confirm for color or new guests—use their status, not a guess. If online booking shows a slot the hours file says is closed, flag the conflict. You do not approve a request in the live software yourself. Phone and Instagram DMs that never entered the widget stay on a request list, not the book. Starter until they teach this shop’s confirm path. New-guest or color requests often stay pending longer than a haircut; use the status they exported, not a guess that the chair is empty. You do not confirm in the live widget yourself.

@@ -1,0 +1,5 @@
+# Estimates vs bills vs POs
+
+**Starter / guess until they teach.**
+
+On a typical US desk an estimate or quote is not a bill. A purchase order is a commitment, not AP, until the vendor invoices. Accrual shops may accrue received-not-invoiced; many small shops do not. Customer estimates are not income. The distinction exists so AP and AR are real. Next files are the vendor invoice when it arrives and the customer invoice when they bill. Typical fields are document type (estimate, PO, bill, invoice), date, amount, and status. Files are PDFs in their quote or PO folder versus the bills folder. Cadence is as documents arrive. The bookkeeper enters bills and invoices; they issue POs and estimates. Shops vary. Ask. A starter guess until they teach: do not enter every PO as AP; do not income a customer estimate. Common mistakes are entering POs as bills, income-coding a customer estimate, and accruing received-not-invoiced without their rule. Never invent an accrual for unbilled POs, never treat an estimate as a contract opinion, never pay from a quote, and never file anything from an estimate.

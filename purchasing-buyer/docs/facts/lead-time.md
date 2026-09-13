@@ -1,0 +1,5 @@
+# Lead time from vendor PDF
+
+**Starter / guess until they teach.**
+
+Quoted lead time and promised ship or dock dates come from the vendor email, quote PDF, or order acknowledgment they saved — not from a remembered “they usually take two weeks.” Typical US SMB desks see production lead time, transit time, and a promised date as separate fields when the vendor file splits them; keep them separate if the PDF does. A need-by date from the floor is not a promise. If need-by is sooner than the quoted lead time, flag the line as infeasible and let them choose expedite, substitute, or a later need-by. Do not overwrite need-by with a late promise to make the open-PO list look on time. Acknowledgments often change the date; show old versus new and treat a worse date as a change they must accept. If the folder has no lead-time or promise document, ask. Do not fill ETA from hope, from another customer’s rumor, or from a generic industry table. Transit after FOB origin is still not a customs or insurance opinion. Starter until they teach how *this* shop records lead time and promise dates.

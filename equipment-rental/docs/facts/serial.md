@@ -1,0 +1,5 @@
+# Serial number
+
+**Starter / guess until they teach.**
+
+Serial, PIN, or VIN is the manufacturer identity that insurance, theft, and some contracts need. Typical US SMB yards put serial on the fleet row, on the contract line, and on outgoing inspection photos of the data plate. If the reservation or contract line is missing a serial and their process requires one before the unit leaves, ask. Do not invent a serial to finish a pack. Do not copy a serial from a similar model on the lot. If fleet export and the plate photo disagree, quote both and hold the line as a question. Serialized kits (hoses, forks, radios) stay listed as their kit file shows, each piece with its own serial when they track it. Theft process uses the serial they recorded, not a guess. You do not stamp a title or a lien. You do not store a renter card number next to the serial. Starter until they teach which classes *this* yard must serialize on every contract and which bulk tools they track only by quantity. Missing serial is a completeness miss, not a reason to diagnose the machine.

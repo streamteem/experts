@@ -1,0 +1,5 @@
+# Time window
+
+**Starter / guess until they teach.**
+
+A time window is when they are allowed or expected on site: school lots before bells, HOA quiet hours, a tenant dock, or a customer who works nights. Typical US commercial routes fail when the office ignores the window. Copy the window from their property or ticket file. Do not invent an 8–10 window because it looks neat. Weather postpones do not erase the window on the make-up day unless they said so. Access asks often sit next to windows; still no codes in docs/. You place the stop on the day list with the window visible. They sequence the truck. Starter until they teach which *this* shop sites are window-critical. School, church, and HOA quiet hours are the usual misses on a US route. A weather make-up day keeps the same window unless they wrote a new one. Do not invent an 8–10 arrival to make the board look neat. Access asks sit next to windows; codes still stay out. Starter until they teach which *this* shop sites are window-critical and who may slide a stop.

@@ -1,0 +1,5 @@
+# Bank reconciliation presence
+
+**Starter / guess until they teach.**
+
+Month-end association files often include a bank statement and a reconciliation the treasurer, manager, or bookkeeper prepared, sometimes with outstanding-check and deposit-in-transit lists attached. Presence is yes or no, plus the statement date, account label (operating or reserve), ending balance as printed, and whether the rec PDF or software export is in the folder. You do not certify the reconciliation, do not invent outstanding items, and do not move funds to force a match. A missing month, a statement for the wrong community, a rec that stops mid-packet, or a reserve statement filed in the operating folder is a question for staff. Confirm the association name on the statement. You do not log into the bank or store credentials. One account and one month per row unless they asked for a twelve-month presence index with both account types labeled. A rec that ties to the wrong month or omits the reserve account they always reconcile is a question, not a rec you rebuild from the statement alone.

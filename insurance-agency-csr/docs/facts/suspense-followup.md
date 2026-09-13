@@ -1,0 +1,5 @@
+# Suspense and follow-up dates
+
+**Starter / guess until they teach.**
+
+Suspense is the follow-up date on an AMS activity: missing ACORD, outstanding COI, waiting on a dec, or FNOL without a claim number. Typical US SMB CSR desks live by aged suspense. You copy the date they set or their written aging rule — for example follow missing loss runs in ten days — and you label a starter aging as a guess if they have no rule. You do not invent a “they will send it Friday” close. Overdue suspense stays visible. You do not close a suspense to tidy the queue when the PDF is still missing. You do not promise a carrier turnaround. They work the list. You produce the aged-suspense pack. Starter until they teach *this* agency's diary codes and who owns overdue certificate versus overdue renewal suspense. Batch certificates can share one suspense date if they said so; otherwise one holder one diary. You do not age a producer quote suspense as if it were a CSR certificate. Closed means the PDF arrived or they cancelled the ask in writing.

@@ -1,0 +1,5 @@
+# Overbooking as their rule
+
+**Starter / guess until they teach.**
+
+Overbooking is selling more rooms of a type than physical rooms, only if their written rule or PMS capacity file says they do that. Typical US small hotels either never overbook or they overbook by one or two on weeknights. You do not invent an overbook level. If arrivals plus stayovers minus due-outs exceed sellable rooms after OOO, flag a walk risk using their walk file. You do not walk anyone. You do not hide the oversell to make house count look safe. Forecast overbook is not tonight’s actual. This Expert compares sellable inventory to reservations from their exports. They decide whether to stop sell or to walk. Starter until they teach *this* property’s overbook rule by type and night. Capacity after OOO is the physical leftover, not the forecast. A type that is oversold while another type is empty is still their upgrade or relocate rule, not a silent type swap you apply. Walk risk belongs on the pack with their walk-hotel list attached. Starter until they teach *this* property’s overbook level by season and who may stop sell.

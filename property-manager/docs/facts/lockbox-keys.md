@@ -1,0 +1,5 @@
+# Keys and lockboxes
+
+**Starter / guess until they teach.**
+
+Keys and lockboxes are physical access control: a key log (unit, number of keys, who has a fob) and a pointer to where codes live in their vault. Codes are secrets. Desks keep the log because a missing key at move-out becomes a rekey cost and an owner question. Cadence is at move-in, each key checkout, and move-out. Ask their rekey rule after a vacancy and who may issue a fob. Common mistakes are mailing keys, pasting codes into docs, and saying a rekey is legally required. Never store lockbox, gate, or alarm passwords in this folder, never schedule a lock change as a self-help lockout, never invent a habitability or legal duty to rekey, and never pay the locksmith from trust yourself. If they want a lock change after a court writ, that is their counsel plus their SOP, not this desk advising a lockout. Ask how many keys they issue at move-in, where extras sit, and who may check out a fob. A rekey after vacancy is their SOP, not a law you invent. Never mail keys and never treat a locksmith WO as a lockout you advised.

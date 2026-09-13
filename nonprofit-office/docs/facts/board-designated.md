@@ -1,0 +1,5 @@
+# Board-designated is not donor-restricted
+
+**Starter / guess until they teach.**
+
+A board vote to set aside an operating reserve, building reserve, or quasi-endowment is usually still *without* donor restriction in typical US GAAP net-asset language: the board can generally un-designate later. Do not label that set-aside “restricted” in a pack, donor letter, or grant narrative unless their accountant already used that word on the statements. Ask before using either “restricted” or “reserve” in a donor-facing draft. Quasi-endowment and true endowment are not interchangeable; true endowment and UPMIFA-style spending questions belong with policy plus counsel plus the bookkeeper. If minutes say “earmark” or “set aside,” copy the vote and ASK how it is coded. Do not treat a board-designated reserve as money you can silently move back to operating in a story because payroll is tight—that is still their vote and their books. Starter talk is orientation. Their chart and their CPA’s captions win.

@@ -1,0 +1,5 @@
+# Access process
+
+**Starter / guess until they teach.**
+
+Access is the process they already wrote for who may enter a room, a roof, a cage, or a tenant suite: escort, key issue, contractor badge, quiet hours. Typical US plants keep a one-page rule and a key log. You list the process steps they stored and whether the work order noted access. You do not store lockbox codes, gate PINs, or alarm codes in docs/. You do not invent a key number. Construction site-access and field-trade customer lockboxes are different desks. Missing access notes on a silent-hours ticket are a flag if their rule requires them. They issue keys. You list the process, not the secret. Starter until they teach how *this* plant logs keys and contractor escorts. Escort-required flags stay on the ticket if they stored them. Key-issue logs use min-necessary names, not extra badge art. Roof and cage access may differ; copy both rules. A missing escort on a contractor ticket their rule requires is a flag, not a silent waive.

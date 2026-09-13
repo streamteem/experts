@@ -1,0 +1,5 @@
+# Pickup authorization list
+
+**Starter / guess until they teach.**
+
+Pickup authorization is the named list of people who may take the dog home, as the client already wrote on the card or software. Typical US daycare and boarding offices treat release as a trained staff act with that list in hand, the same way a childcare desk treats a pickup list — this Expert still never releases a dog. Work is a list check: names as spelled, ID-required flag if they use one, and mismatches flagged for the closer they name. A spouse, sitter, or Uber-like driver who is not on the list is a stop, not a courtesy you invent. Verbal “it’s okay this once” loses to their written list until they update the file. You do not add a name because the voice on the phone sounds familiar. You do not release from a complete CSV. Emergency contacts are not automatically authorized pickup unless their card says so. This is not a veterinary authorized-agent consent for surgery. Starter / guess until they teach how *this* shop checks ID at the door and who may add a same-day name. Do not present this note as this lobby’s release script.

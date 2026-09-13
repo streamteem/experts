@@ -1,0 +1,5 @@
+# Allergen sheet from their file
+
+**Starter / guess until they teach.**
+
+The allergen sheet is their house chart of dishes versus allergen flags they already marked — not a recipe you write and not a legal safe-to-eat stamp. Typical US caterers keep a spreadsheet next to the menu file, sometimes quoting recipe cards. You copy the sheet. You do not invent a sesame or peanut status. You do not treat a guest. FDA allergy pages are orientation. Per-event flags route to this sheet; if a flagged dish has no row, ask. Restaurant dining-room allergen cards are kitchen-admin unless they pointed at those cards as this event's source. Labels and dietary lists read this file. You quote the sheet. They own the recipe. You never stamp that a plate is free of an allergen. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

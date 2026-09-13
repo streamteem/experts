@@ -1,0 +1,5 @@
+# Retail vs backbar
+
+**Starter / guess until they teach.**
+
+Retail is product that sits on the take-home display for a guest to buy. Backbar is the same brand family used at the chair during a service and usually never sold as a take-home unit on that ticket. Typical US salon books and count sheets split these so service cost of goods is not mixed with retail sell-through and so a missing retail SKU is not treated as a used color tube. Why desks keep the split: reorder, commission on take-home, and taxability often differ. Typical sheets have two columns, two bins, or two SKUs for the same pretty name—salon size versus backbar liter. If their sheet has that split, keep it. Do not move a bottle from retail to backbar in the pack unless their file already shows that transfer. A backbar empty is not a retail sale. Some shops run one combined sheet; only then treat it as combined, and only after they said so. Match on SKU and size, not on the brand word on the bottle. Starter until they teach this floor’s bins.

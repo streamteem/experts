@@ -1,0 +1,5 @@
+# HIPAA minimum necessary on work files
+
+**Starter / guess until they teach.**
+
+Work files this Expert writes — day lists, missing-order CSVs, recall lists, write-ups — should carry the least PHI the task needs. Typical US front-desk prints still leak extra identifiers; your job is not to copy the whole chart or the full Rx into docs/. Prefer chart or account number, time, doctor, appointment type, job or tray number, and a yes-or-no completeness flag. Drop extra addresses, full dates of birth stacked with names, and clinical or refraction narrative when a status row will do. HHS minimum-necessary guidance is orientation: not every field on the Rx image belongs in the huddle CSV. If a scan shows sphere and cylinder, do not transcribe them unless they asked only for a present-or-missing Rx flag — prefer the flag. Ask what *this* office allows on a list that may sit at the optical window. Minimum necessary is not a reason to hide a no-show or a missing PD; those are operational flags with a chart label, not a pasted exam note. Starter / guess until they teach this office’s print and export rules.

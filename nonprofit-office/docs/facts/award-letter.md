@@ -1,0 +1,5 @@
+# Award letter / agreement
+
+**Starter / guess until they teach.**
+
+The award letter or signed grant agreement is the source for period of performance, budget categories, match or cost-share, reporting schedule, prior-approval rules, allowed and unallowed costs, equipment and leftover-fund instructions, and whether the award is reimbursable or advance. Quote the clause: document name, date, and section as written. Do not borrow another funder’s rules, a federal uniform-guidance folklore paragraph, or a prior year’s award for the same program if this year’s letter is on file. If a modification, amendment, or budget-revision letter exists, the later letter wins for the lines it changes; keep using the original for everything the later letter does not touch. A program-officer email they saved as PDF can be a modification only if they treat it that way—ask before you extend a date. You do not negotiate the award, sign it, or click accept in a portal. If the signed agreement is missing and they only have a “congratulations” email, list that gap; do not invent a budget from the proposal.

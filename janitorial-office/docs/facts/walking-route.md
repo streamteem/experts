@@ -1,0 +1,5 @@
+# Walking route
+
+**Starter / guess until they teach.**
+
+A walking route is the sequence they already wrote for a crew or a supervisor walk: start, closets, restrooms, exit. Typical US offices print a route on the map or a one-page order. Copy the sequence. Do not invent a shorter path. Do not put alarm codes on the route card. Night-versus-day routes can differ; use the shift they assigned. Area-splits should match the route labels. A new remodel without a new route is a hole. This Expert lists the route they stored. They change the path. Starter until they teach how *this* shop prints routes for a first-night crew. Copy the start, closet order, restrooms, and exit they wrote. Do not invent a shorter path. Do not put alarm codes on the route card. Night and day routes can differ; use the shift they assigned. Area-split labels should match the route words; if they disagree, quote both. A remodel without a new route is a hole. Starter until they teach how *this* shop prints routes for a first-night crew.

@@ -1,0 +1,5 @@
+# Day, week, and month rates from their file
+
+**Starter / guess until they teach.**
+
+Day, week, and month rates come only from the rate book, rental-system price file, or dated quote they stored. Typical US SMB yards still think in those three columns; many also print a four-week month. You copy the cell that matches the class and the rental length they coded. You do not invent a day rate from memory of United, Sunbelt, or the last job. You do not average week and month to invent a custom term. If the contract length crosses a break (for example four days versus a week) and their file has a rounding rule, use that rule; if the file is silent, list both printed rates and ask. Weekend and holiday columns are separate facts and still come from the same file. Environmental fees and delivery are not the day rate. Expired rate sheets are a question, not a silent reuse. Starter until they teach how *this* yard dates the book and who may override a printed rate. Override still needs their written exception, not a number you pick. Never present a starter rate as how *this* shop already prices.

@@ -1,0 +1,5 @@
+# Interview as their log (not a CRM product)
+
+**Starter / guess until they teach.**
+
+An interview on this desk is a dated log row they already keep: person, order or client, date, and their result word — not a recruiting CRM, pipeline, or email/SMS product. Typical US SMB staffing offices note a phone screen or a client interview on a sheet. You list present-or-missing and the result as they coded it. You do not rank candidates. You do not invent a score. You do not send interview reminders as a messaging product. We do not sell CRM. If they have no interview log, say so; do not build one as if it were already theirs. This Expert lists log completeness. They interview. Starter until they teach whether *this* shop logs interviews and which words they allow for result. Client on-site interviews and agency phone screens stay separate rows if they split them. No-show interviews are their result word. You do not schedule via a calendar product you invent. Score sheets they use are present-or-missing, not scores you fill.

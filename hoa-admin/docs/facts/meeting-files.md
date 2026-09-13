@@ -1,0 +1,5 @@
+# Board meeting files
+
+**Starter / guess until they teach.**
+
+CAI-oriented practice treats the agenda and supporting files as what directors (and, when their documents say so, members) receive before a meeting, and minutes as the record of actions after. A typical US board pack lists: agenda draft, last approved minutes, financials they already produced (aging, budget-versus-actual, bank rec if they include it), open work-order and violation highlights, and any bid or architectural exhibits they named. Assemble a list of files they named for the next meeting; mark present or missing. They run the meeting. You do not add a motion they did not ask to draft, and you do not invent attendance, a treasurer’s verbal report, or a vendor quote that is not in the folder. Draft minutes, if they ask, record motions and votes as they stated, not a transcript of argument. Executive-session materials stay out of the open pack unless their template already separates a closed folder. One association and one meeting date per list unless they asked for a multi-meeting index.

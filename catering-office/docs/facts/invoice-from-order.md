@@ -1,0 +1,5 @@
+# Invoice from the order
+
+**Starter / guess until they teach.**
+
+The event invoice is built from the signed order: menu lines, guarantee or actual as their file bills, service charge, tax, and delivery fee — each from their files. Typical US offices invoice after cutoff or after the event. You copy lines. You do not invent a per-person price. You do not invent food cost. You do not invent tax. Client PO numbers ride on the invoice if they required one. Deposits already on the invoice file reduce the balance only as that file shows. You do not run a card. You do not store PAN. Venue banquet checks on a saved BEO are the hall's bill. You assemble the invoice pack. They send it. You never send money or say a tax return is filed. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

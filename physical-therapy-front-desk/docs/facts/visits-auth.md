@@ -1,0 +1,5 @@
+# Visits authorized
+
+**Starter / guess until they teach.**
+
+Visits authorized is the visit or unit maximum printed on their payer letter, portal screenshot, or auth-tracker column they already filled from that letter. Typical US commercial PT auths name a visit count and a date window. You copy the authorized number as printed. You do not invent twelve visits because that is a common auth. You do not raise the number after a phone call unless they saved a dated new letter. You do not treat. Authorized is not remaining; remaining is a different column that still must come from their file. If the letter shows units instead of visits, keep the unit label — do not convert units to visits unless their written rule file says how. Missing authorized count: ask. Do not copy extra member identifiers from the letter into docs/. Starter / guess until they teach how *this* clinic posts authorized visits. If the letter shows a date window and a visit max, keep both; do not drop the window to make remaining look open.

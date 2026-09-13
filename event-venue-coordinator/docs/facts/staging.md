@@ -1,0 +1,5 @@
+# Staging / risers
+
+**Starter / guess until they teach.**
+
+Staging, risers, podium, and head-table platforms are inventory and labor lines on the BEO or diagram. Typical US SMB venues have a small house stage and rent anything larger. Height, width, and skirt color come from their file. You do not invent a stage size so a band will fit. You do not engineer a load rating or stamp a riser as safe. Stairs, handrails, and ADA access to a stage are inventory questions if they have an accessible riser or ramp in the file — not an ADA legal opinion. Band load-in and power for the stage are separate asks. If the diagram shows a stage the inventory sheet does not have, flag it. They rent or they shrink the set. Starter until they teach *this* venue’s stage kit. Choir risers and a head-table platform are different inventory lines if their sheet splits them. You do not promise a drum riser the kit list does not have. Client-owned staging still uses the load-in calendar and their COI rule if they require one.

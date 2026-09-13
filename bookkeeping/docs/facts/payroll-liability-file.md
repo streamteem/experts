@@ -1,0 +1,5 @@
+# Payroll liabilities as a file
+
+**Starter / guess until they teach.**
+
+On a typical US desk payroll liabilities are federal and state withholding and employer taxes sitting in liability accounts until the payroll service or the shop remits. This desk compares the register, the bank drafts, and the liability balances. It exists so leftover liabilities are questions, not silent expense. Next files are the register, the draft list, and a liability tie-out. It does not say a 941 is correct or filed. Typical fields are liability name, period, register amount, draft amount and date, and remaining balance. Files are the payroll export and the bank CSV. Cadence is each pay run and each remittance. The bookkeeper compares; they or the service remit. Shops vary on who remits and on what schedule. Ask. A starter guess until they teach: match drafts to the register; leftover balance is a question. Common mistakes are expensing remittances a second time, ignoring a leftover that grows, and saying a 941 is filed because a draft left the bank. Never file 941 or 940, never store employee SSNs, never give a deposit-schedule opinion, and never log into EFTPS or the service.

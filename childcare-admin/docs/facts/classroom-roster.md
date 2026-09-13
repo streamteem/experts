@@ -1,0 +1,5 @@
+# Classroom roster
+
+**Starter / guess until they teach.**
+
+The classroom roster is who is enrolled in which room or age band on a named date, not who signed in today. Typical US SMB centers split infant, toddler, preschool, pre-K, and school-age; some mix camps in summer. Exports from Procare, Brightwheel, or a workbook usually carry a child label they allow, room, schedule days, and sometimes a teacher column. Prefer their child ID or first name plus room over stacking full legal name, date of birth, and address on every row. One center date per write-up unless they asked for a week and the file has a date column. Withdrawn or “starts next Monday” rows stay labeled so the list is honest. You do not move a child to another room to make ratio look better. You do not teach and you do not decide placement. If the roster and the attendance export disagree, quote both. Extra medical notes do not belong on a roster print that may sit by the door. Starter until they teach how *this* center names rooms and who is enrolled versus attending.

@@ -1,0 +1,5 @@
+# Meds to give as they wrote, not prescribe
+
+**Starter / guess until they teach.**
+
+A meds-to-give line on a typical US boarding or daycare card is what the client already wrote and what they already sent in the original container or as their process requires: drug name as written, amount as written, times as written. Your work is a completeness list and a copy onto the medication log if they use one. You do not prescribe. You do not add a drug. You do not convert milligrams, split a tablet as advice, or write a missed-dose plan. You do not say the dog should stop a pill. Over-the-counter items they listed still copy as written, not as a product you pick. If the line is unreadable or the count of pills they sent does not match the card, ask the person they name. A veterinary clinic boarding sheet is a different packet; this desk does not refill from a hospital PIMS. Presence of a medication log is a file check, not proof you administered anything. Starter / guess until they teach who may give meds on the floor and which card is the live transcription source. Do not present this note as a pharmacy protocol.

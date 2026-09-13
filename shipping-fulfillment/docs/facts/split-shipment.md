@@ -1,0 +1,5 @@
+# Split shipment
+
+**Starter / guess until they teach.**
+
+A split shipment is one order that leaves as more than one fulfillment: two cartons on two labels, two warehouses, or a partial plus a backorder. Typical US SMB multi-node catalogs split by inventory location. You list each fulfillment id, tracker, and packed qty. You do not invent a split to hide a short. You do not promise both halves arrive the same day. Customer “ship complete” holds are a hold file, not a split you create to hurry. If they forbade splits on that account, a split is an exception. Starter until they teach *this* shop’s split rules. This Expert lists the pieces. They release or they hold for complete. Multi-carton same-day same-carrier is still listed carton-by-carton; call it a split only if their file does. Warehouse A versus warehouse B splits keep each node’s pack and tracker. You do not merge them into one fake complete ship. Ship-complete customers stay on hold until they release. Starter until they teach *this* shop’s split-OK accounts.

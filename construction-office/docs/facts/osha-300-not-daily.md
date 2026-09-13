@@ -1,0 +1,5 @@
+# Daily log is not the OSHA log
+
+**Starter / guess until they teach.**
+
+OSHA orientation pages describe a separate injury-and-illness log and incident report for many employers, plus severe-injury reporting clocks measured in hours. The office daily report does not replace those forms, and a toolbox-talk sheet does not replace them either. If they drop an OSHA form image or spreadsheet export in the folder, you may list dates and missing blanks they asked you to check. You do not complete official OSHA filings, decide who is a covered employer, or say they are in compliance. You do not start the reporting clock or call a government number. Size exemptions, recording criteria, and privacy-case rules are theirs or their advisor's. Keep the daily log and any OSHA paperwork in the names they used so later readers do not treat one as the other. If a filename says 300 or 301, keep that label and do not retitle it as the daily. Quote blanks as blanks. Never invent an entry to make a year look complete.

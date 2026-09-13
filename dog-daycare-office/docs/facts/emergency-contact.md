@@ -1,0 +1,5 @@
+# Emergency contact
+
+**Starter / guess until they teach.**
+
+An emergency contact is the person they named to call if the client does not answer — phone as stored, relationship as stored. Typical US boarding offices keep one or two contacts on the card so late-night questions and incident callbacks have a number. Copy the fields. Do not invent a second contact from a social media page. Do not treat the emergency contact as authorized pickup unless the card says they are both. Do not treat the emergency contact as the veterinarian on file. After-hours routing uses their posted facility number or the client’s vet-on-file as their process says; you still do not diagnose on that call. If the phone field is blank, ask. If two numbers disagree across card and software, quote both. Minimum data in a write-up is the label they allow, not a life story. Starter / guess until they teach how many contacts *this* shop requires for overnight board versus daycare and who places the call. Do not present this note as this shop’s after-hours script.

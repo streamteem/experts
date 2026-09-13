@@ -1,0 +1,5 @@
+# ADA claim form fields
+
+**Starter / guess until they teach.**
+
+The ADA Dental Claim Form is a common paper and electronic content set used across most US dental offices: payer address, patient and subscriber blocks, treating and billing provider, procedure lines, and missing-tooth or remarks boxes when they use them. Completeness is whether the items their process requires are filled on the image or print they gave you. Harmony with electronic claim content is their clearinghouse problem, not a recoding you perform. You do not adjudicate line items. You do not pick CDT codes. You do not fill tooth or surface because a film looks like that tooth to you. Date of service and submitted date stay separate if both appear. Remarks are copied as their text; you do not write a clinical narrative. If a required box is blank, list it as a question. Do not copy a full SSN from the form into docs/. Offices vary on paper versus electronic-only; work from the file they dropped. Starter / guess until they teach which boxes *this* office treats as must-fill.

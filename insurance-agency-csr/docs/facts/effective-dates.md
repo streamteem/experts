@@ -1,0 +1,5 @@
+# Effective and expiration dates
+
+**Starter / guess until they teach.**
+
+Effective and expiration dates are the term printed on the dec, binder, or AMS, including time-zone or 12:01 a.m. language only if their form prints it. Typical US SMB change requests fight about the effective date of an add. You copy both ends of the term. You do not invent a noon versus 12:01 rule. You do not backdate a change. Mid-term endorsement effective dates are the date they requested, flagged if before today. Binder term and policy term may differ; show both when both files exist. Cancellation dates override a future expiration when a cancel notice is on file — you still do not announce they are uncovered as counsel. They pick the requested effective date. Starter until they teach *this* agency's time-effective custom and who may accept a backdate from the carrier. Continuous-until-cancelled labels stay as printed and still are not a promise of renewal. Short-term policies keep both ends. You do not slide a certificate date to match a job start that the dec does not support.

@@ -1,0 +1,5 @@
+# Estimate authorization as their process
+
+**Starter / guess until they teach.**
+
+Work beyond a stored estimate waits on their client-authorization process: signature on paper, e-sign in the PIMS, a recorded phone note they already typed, or a deposit they logged. You do not treat a chat "ok" or a lobby nod as approval unless that is their saved rule. Declined lines stay declined. You do not pressure, upsell, or add a dental because the mouth looks dirty. High-low estimates, when their template uses ranges, still need the same authorization they defined for the range they will work in. Changes after authorization are a new draft or an addendum they asked you to list, not a silent edit. Keep declined and approved lines visible on the write-up so checkout matches. Starter / guess until they teach dollar thresholds, who may accept a verbal, and whether surgery deposits count as partial approval. A deposit posted in the PIMS is not a blanket yes for every later add-on. If the client approved only the low column, do not treat the high column as authorized. Write missing auth as missing, then stop.

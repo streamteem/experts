@@ -1,0 +1,5 @@
+# Doctor production as their report
+
+**Starter / guess until they teach.**
+
+If they want a day write-up of invoices by doctor, use the PIMS production or revenue report they exported. Do not reallocate a technician invoice to a doctor. Do not move a lab panel to the doctor who "usually" sees that client. This is admin, not a quality score and not a clinical audit. Relief doctors, associates, and owners stay as the invoice provider column shows. Discounts and refunds follow the export, not a net you recalculate from memory. Do not rank doctors. Multi-site groups need the site column. Starter / guess until they teach which report, which date range, and whether production includes inventory or only professional services. Refunds and voids they already posted stay with the original provider column unless the export moved them. Do not build a bonus formula. Do not drop a low-production day as a quality comment. If they want inventory excluded, use the report they named, not a filter you invent.

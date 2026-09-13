@@ -1,0 +1,5 @@
+# Multi-point inspection from their form
+
+**Starter / guess until they teach.**
+
+A multi-point or digital vehicle inspection is this shop's form: the checkpoints and the ratings they use, often red yellow green or a similar priority scale. List findings only from that completed form or export. Do not invent a 27-point or 50-point list because another chain advertises one. Do not treat MPI as a state safety or emissions inspection, a pass sticker, or a street-legal stamp. Independent shops may use Tekmetric-style DVI, a paper checklist, or a shop-software form; dealers may use a factory MPI with required photos. Copy their items and comments. MPI recommendations still need prices from their matrix and new auth before they are sold. Photos belong only if they attached them. A caption is not a diagnosis unless the tech wrote one. The form exists so the customer sees what was checked today. Typical practice until they teach this shop's MPI product and whether advisors or techs complete it.

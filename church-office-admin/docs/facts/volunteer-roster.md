@@ -1,0 +1,5 @@
+# Volunteer roster
+
+**Starter / guess until they teach.**
+
+The volunteer roster is their list of people assigned to a ministry they named: ushers, greeters, nursery, children's, sound, parking, or a committee. Typical US congregations export Planning Center Services, Ministry Scheduler, ACS, or a workbook with a person handle, role, team, and dates if they schedule. You copy those rows. You do not invent a volunteer. You do not recruit by email or SMS as this product. You do not decide someone is cleared because they have served for years. Background-date and two-adult facts sit beside the roster; they do not let you add a name. If the roster and the week calendar need a sound tech and the cell is blank, flag the hole. Min necessary: role and first name or their id, not a stack of addresses on a hallway print. Safeguarding notes stay on their file, not copied as a story. This is not the nonprofit program-census desk. They recruit and they schedule. You list teams and gaps. Starter until they teach how this office names teams and which export is live.

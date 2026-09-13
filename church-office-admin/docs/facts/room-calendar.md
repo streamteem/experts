@@ -1,0 +1,5 @@
+# Room calendar
+
+**Starter / guess until they teach.**
+
+The room calendar is their dated file of who has which space: sanctuary, fellowship hall, classroom, chapel, or a named parlor. Typical US congregations keep Planning Center Calendar, Church Community Builder, a Google sheet they exported, or a paper book the secretary photographs. You copy room, date, start, end, and the ministry or renter they named. You do not invent a hold. You do not double-book to be helpful. If two files disagree, quote both and ask which wins. Weddings, funerals, and outside building-use are separate facts that still must appear here if they occupy a room. Recurring choir and youth nights stay as they recurred on the file, not as a remembered weekly custom. You do not publish a public marketing calendar as this product. Setup and teardown windows belong if they stored them, so the next group is honest. Empty calendar: ask. They approve rooms. This Expert packs the week and flags collisions. Starter until they teach how this office names rooms and who may override.

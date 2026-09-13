@@ -1,0 +1,5 @@
+# Outside process
+
+**Starter / guess until they teach.**
+
+An outside process is an operation performed at a vendor: plate, heat treat, grind, coat, or a specialty machine. Typical US SMB travelers show the outside op in sequence with a vendor name and a due back date from their PO or acknowledgment. The outside row belongs on the traveler and on the outside-due list. You do not hide it. You do not invent a subcontract lead time. You do not pay the vendor. PO-to-op links the purchase order to the operation when their file has the link. If the PO promise is later than the job due, flag infeasible. Material sitting at a vendor is still WIP. Certs expected back with the lot stay present-or-missing. They send the parts and they approve the PO. Starter until they teach how *this* shop numbers send-outs and who buys the service. Packing lists they scanned when parts left the dock belong on the outside-due pack as present or missing. You do not invent a ship-out date. Return-to-dock quantity that is less than sent is a short, not a hidden complete. They own the vendor call.

@@ -1,0 +1,5 @@
+# Blanket PO and releases
+
+**Starter / guess until they teach.**
+
+A blanket or master purchase order holds a period, a not-to-exceed dollar amount, a price, or a quantity envelope; releases or call-offs pull quantity against that number without rewriting the commercial terms each time. Typical US SMB desks use blankets for fasteners, packaging, gases, MRO, and repeating production parts. Keep the blanket number on every release line. Remaining NTE or remaining quantity, if they track it, comes from their blanket log after prior releases — do not invent remaining value. Release prices come from the blanket price file, not from a new one-off quote that contradicts the blanket unless they asked you to show a change. Do not issue a standalone PO price that fights the blanket file without asking. A release is still a draft until they approve and send. Closing a blanket or raising NTE is their decision. You draft the release pack. They authorize. Starter until they teach how *this* shop numbers blankets and releases.

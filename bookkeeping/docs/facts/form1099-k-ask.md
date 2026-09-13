@@ -1,0 +1,5 @@
+# 1099-K and processor reports
+
+**Starter / guess until they teach.**
+
+On a typical US desk processors and marketplaces issue Form 1099-K. Public thresholds have changed. Do not treat a blog number as this shop's rule. Typical books still need sales and fees from the processor report, not from the 1099-K alone. The form exists as a third-party report their CPA may ask about. Next files are the processor payout report and a question in the year-end pack. Typical fields are processor name, year, gross as the form or year-end report shows if they provided it, and fees from the payout file. Files are the 1099-K PDF they received plus payout CSVs. Cadence is year-end. The bookkeeper ties sales to processor reports; their CPA uses the form. Shops vary. Ask. A starter guess until they teach: do not double-count POS sales plus the 1099-K. Common mistakes are booking the 1099-K as extra income on top of already-recorded sales, using the form instead of monthly payouts, and quoting a threshold as law for this shop. Never invent a threshold as their rule, never file, never treat the form as the books, and never store a login to the processor.

@@ -1,0 +1,5 @@
+# Found or stray intake flag
+
+**Starter / guess until they teach.**
+
+Stray or found-animal rows often need a hold date, a finder name, and an agency contact from their protocol file. You log what they wrote. You do not decide ownership. You do not treat the animal. You do not promise the finder they may keep the pet. Scan-for-chip and license-tag notes are completeness items if their intake form has them. Animal-control or shelter transfer, when their protocol names an agency, is a routing fact, not a legal finding you issue. Medical care while on hold is the veterinarian's decision. Do not put a found animal on a public reminder list as if it were an established patient. Starter / guess until they teach hold length, who calls the agency, and which account they bill during a hold. Finder contact and found-location notes copy as written. Do not advertise the animal. Hold-clock dates come from their protocol, not from a city ordinance you look up and apply as law. Medical holds versus stray holds are words they stored, not categories you create.

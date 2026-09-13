@@ -1,0 +1,5 @@
+# Transitions and photochromic as their check
+
+**Starter / guess until they teach.**
+
+Photochromic or Transitions-branded treatments on a typical US ticket are a checked option or SKU they already stored, plus color if they recorded one. You copy that check. You do not recommend photochromic lenses. You do not say they will get dark enough in a car — that is product advice you do not give. You do not invent that the vision plan covers Transitions; quote only a dated eligibility sentence or their materials sheet. Polarized versus photochromic stay different if their sheet splits them — do not swap one for the other to tidy a ticket. If the field is blank, ask; do not add Transitions because the last pair had them unless their order history field they pointed to already shows it and they asked you to copy that history. Price comes from their fee file. You still do not interpret the Rx. Distinct from a medical tint-for-photophobia order you would not write. Starter / guess until they teach how *this* optical codes photochromic SKUs versus sun pairs.

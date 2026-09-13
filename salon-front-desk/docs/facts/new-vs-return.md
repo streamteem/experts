@@ -1,0 +1,5 @@
+# New vs return guest
+
+**Starter / guess until they teach.**
+
+New-guest flags help the floor plan extra consult time and a longer first visit. Use the flag on their export. Do not infer “new” from a missing phone number. First-visit forms stay in their packet; you check completeness only if they asked and the PDF is in the folder. Desks keep the flag so a correction consult is not booked as a thirty-minute trim. Typical fields are new versus return, first-visit form on file, and sometimes a referral source they already typed. You do not diagnose from the form. You do not invent a new-guest surcharge. A guest who has not been in for years may be coded return or new as they choose—use their flag. Starter until they teach this shop’s new-guest coding. First-visit packets stay in their folder; completeness is missing-field listing only if they asked. Referral source is whatever they typed. You do not infer new from a blank email. A long-absent guest is new or return as they flagged, not as you guess.

@@ -1,0 +1,5 @@
+# Irrigation wet-check as a ticket
+
+**Starter / guess until they teach.**
+
+A wet-check is a ticket to run stations and write what the tech saw: broken heads, a dry zone, a clock that did not start. Typical US maintenance shops sell start-up, mid-season checks, and winterize as tickets, not as redesigns. Copy the ticket and the clock file. Do not stamp a design. Do not invent a head count or a precipitation rate. Repairs they found are extra-work auth and a price-file draft, not silent hours. You are not the Irrigation Association and not an engineer. Missing access to the controller is an access ask, no codes in docs/. You pack the ticket list. They run water. Starter until they teach how *this* shop writes wet-check findings versus repair proposals. Broken-head photos they named support a repair estimate from the price file after they want it, not silent hours. Winterize and start-up are different tickets if they split them. Do not invent a station that ran. Starter until they teach how *this* shop writes findings versus a repair proposal and who may change a clock.

@@ -1,0 +1,5 @@
+# Sub crew if they use one
+
+**Starter / guess until they teach.**
+
+A sub crew is a contractor they listed for overflow, tree work they do not self-perform, or a specialty. If they have no sub file, say none. Copy the name they use. You do not pay the sub. You do not invent a wage or a day rate. You do not stamp the sub’s pesticide or arborist license. Tree work they subbed is still not your diagnosis. COI or W-9 presence is a file check if they asked, not an insurance opinion. Tickets the sub will run stay on a list they can send. You pack names and tickets. They hire and they pay. Starter until they teach whether *this* shop uses subs and who may call them. Overflow mow subs and tree subs are different rows if they split them. You do not stamp an arborist or pesticide license on the sub. Tickets they will run stay listed so they can send the pack. Missing COI is a present-or-missing check if they asked, not an insurance opinion. Starter until they teach whether *this* shop uses subs, who may call them, and how tickets come back closed.

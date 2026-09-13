@@ -1,0 +1,5 @@
+# Bar chart for named groups
+
+**Starter / guess until they teach.**
+
+A bar chart compares a measure they named across a category they named. Typical US SMB bars are sales by location, counts by status, or hours by crew. The Expert may run Python here, import pandas then matplotlib or seaborn, compute the aggregation they asked for, and call barplot or bar, then save out/*.png. Sort order is an ask: by the measure, by their list, or alphabetical — do not silently sort to dramatize a winner. Zero baseline is the default for counts and dollars unless they asked otherwise and the write-up says why. Color is colorblind-safe by default. Do not invent a category. Do not turn a bar chart into an A/B winner stamp. Error bars from a sample they did not define are not added. A table of the plotted values is written to work/ so the picture can be checked. If a package is missing, ask; do not fake bars. The write-up names the question, file, columns, and what was not claimed. Starter until they teach *this* shop’s compare order.

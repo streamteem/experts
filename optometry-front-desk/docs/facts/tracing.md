@@ -1,0 +1,5 @@
+# Tracing as present or missing
+
+**Starter / guess until they teach.**
+
+A frame trace is a file or machine export they already made so the lab can cut lenses to the chosen frame: tracer file, barcode, or a “traced” checkbox on the ticket. Typical US in-house and send-out desks keep the trace with the job. You list whether the trace is present, dated, and matched to the frame SKU they stored. You do not run the tracer as a product unless they taught that exact step and the file landed in the folder. You do not invent a trace from a similar eye size. If the frame is a remote or patient-own frame, their process may require a different trace path — copy that flag, do not invent a shape. Missing trace on a job their process says needs one: ask, do not mark the lab order complete. Tracing-file as a named tool artifact is a related fact. You still do not interpret the Rx. Prefer job number and chart label. Starter / guess until they teach how *this* optical stores traces versus boxed frames that go with the ticket.

@@ -1,0 +1,5 @@
+# Waiver present or missing
+
+**Starter / guess until they teach.**
+
+A waiver is a signed membership or guest form in their waiver folder or a “signed” flag on the export. Typical US SMB clubs require it before access. Your job is present or missing — date if they store one, member or guest label, and which form version if the folder names versions. You do not rewrite waiver language. You do not give a legal opinion that the waiver is enforceable. You do not invent a signature. A digital-sign export and a paper PDF should agree; if one is missing, say which. Minors usually need a guardian signature on their form; a missing guardian row is a missing-form fact, not a custody opinion. Do not copy extra medical narrative from a waiver into docs/. A PAR-Q is a different form. This Expert builds a missing-waiver list. They chase the signature. Starter until they teach where *this* club stores waivers and which version is current. Do not present a starter form title as this shop’s live packet.

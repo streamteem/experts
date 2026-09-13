@@ -1,0 +1,5 @@
+# Enhancement ticket
+
+**Starter / guess until they teach.**
+
+An enhancement ticket is one-time or project work on a property they already maintain or a sold install: mulch, beds, plants, small hardscape they scoped, lighting, or a cleanup that is not on the recurring route. Typical US landscape offices write a separate ticket and often a proposal so the weekly mow truck does not absorb the hours. Do not treat an enhancement as a free add-on to the mow stop. Materials and hours come from their estimate or price file, not from a remembered yard. Extra work the crew notices still needs authorization. Photos they named belong with the ticket. Warranty language, if any, comes from their plant-warranty file, not a survival promise you make. Commercial enhancements often need a customer PO; ask if their rule requires one and the folder has none. You draft the ticket pack from their files. They sell and they schedule. Starter until they teach how *this* shop splits enhancements from route work.

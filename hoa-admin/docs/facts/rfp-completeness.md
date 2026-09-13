@@ -1,0 +1,5 @@
+# RFP completeness before bids
+
+**Starter / guess until they teach.**
+
+A request for proposal they drafted should list scope of work, site or association name, due date, submission method, and insurance or bid-bond items they require. Check that those pages exist before you index incoming bids so you are not comparing prices against a missing or verbal scope. Walk-through dates, questions-and-answers addenda, and site-map exhibits they issued belong on the same index as present or missing. You do not write the legal contract, add prevailing-wage or public-bid language, or decide whether association purchasing statutes apply. A vendor who bid a different scope, omitted an insurance exhibit they required, or arrived after the due date they printed is a question, not a disqualification you announce as the board. One project per RFP completeness list. Insurance and due-date lines on the RFP are the checklist for incoming bids; a pretty proposal that ignores those lines is incomplete, not a winner you recommend.

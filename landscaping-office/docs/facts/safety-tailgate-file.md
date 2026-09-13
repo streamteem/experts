@@ -1,0 +1,5 @@
+# Safety tailgate file
+
+**Starter / guess until they teach.**
+
+A tailgate file is their short safety talk record: date, topic they named, crew names they listed. Typical US landscape employers keep these for their own program; OSHA pages are orientation, not a legal opinion and not a stamp that the talk was enough. You may list that a dated file is present or missing. Do not invent attendance. Do not write a heat or chainsaw legal program. Topics they chose stay theirs. Incident files are separate. You check completeness if they asked. They run the talk. Starter until they teach how *this* shop records tailgates and who keeps the binder. Heat, trailer ramps, and mower-discharge topics they chose stay theirs. Missing names on a dated talk are a completeness ask, not invented attendance. OSHA and NIOSH pages are orientation only. You do not write a legal program or a citation opinion. Incident files stay separate. Starter until they teach how *this* shop records tailgates, who keeps the binder, and whether a photo of the whiteboard counts as the file.

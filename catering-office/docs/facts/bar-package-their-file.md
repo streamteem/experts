@@ -1,0 +1,5 @@
+# Bar package from their file
+
+**Starter / guess until they teach.**
+
+A bar package is the named beverage offering on their menu file or contract exhibit — beer-and-wine, full bar, consumption, or cash bar as they labeled it — plus hours if they wrote them. Typical US caterers either sell a package or defer to the venue's bar. You copy the package name and the file it came from. You do not invent a package or a per-person bar price. You do not serve as the liquor license. Bartender counts stay on the bartender fact. Last call, if any, comes from their file or the saved BEO, labeled as whose. Corkage, if they allow client wine, is their corkage line only. TTB pages are orientation. You list the package as written. They pour or they subcontract. You never invent a drink cost. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

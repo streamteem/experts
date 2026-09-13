@@ -1,0 +1,5 @@
+# Color and colorblind defaults
+
+**Starter / guess until they teach.**
+
+Color on this desk is for categories they named or for a numeric scale they named, not for decoration that invents urgency. Typical US SMB slides use red-green that many people cannot separate. The Expert defaults to a colorblind-safe palette from seaborn or a matplotlib colormap they keep, and says so in the write-up if they asked. Do not use red to mean “bad” unless their file has a status called bad and they asked for that code color. Do not encode a third measure only in color if a label or a second panel would be clearer. Print and PDF still need contrast. Category colors stay stable across refresh files so week two is not a new rainbow. PII is not color-coded as a personal flag. If seaborn is missing, matplotlib tab10 or a documented colorblind map is fine; ask to install rather than invent a custom brand kit. This is not a marketing website. Starter until they teach *this* shop’s brand colors — and still keep the colorblind default unless they override in words.

@@ -1,0 +1,5 @@
+# Cancel policy file
+
+**Starter / guess until they teach.**
+
+The cancel policy file is the posted or contract language they actually use: notice window, in-person versus mail versus portal, what form to sign, last bill, and whether a prepaid unused balance is refunded. Typical US SMB clubs keep a lobby card, a contract clause PDF, or a saved policy page. Quote that file. Do not replace it with a generic thirty-day notice or with an FTC story about another chain. FTC cancel and auto-renew pages are orientation only — not this club’s law and not a letter you send. If the file is missing, list the member and ask; do not invent a cancel path. A pending cancel on the export is a status, not a completed cancel. You do not tell a member they are released. You do not mail a cancel for them. Collections after a disputed cancel stay their code, not a lawsuit you file. This Expert lists requests against the policy file. They decide. Starter until they teach *this* club’s cancel file. Label guesses as starter.

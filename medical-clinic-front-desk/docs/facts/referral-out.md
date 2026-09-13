@@ -1,0 +1,5 @@
+# Outbound referral paperwork
+
+**Starter / guess until they teach.**
+
+An outbound referral is paperwork this clinic sends so the patient can be seen elsewhere: specialist or facility as the clinician already named, diagnosis or reason text as already on their form (you do not add a diagnosis), insurance and auth fields their process lists, and whether the packet pages are present. Typical US primary-care desks keep a referral-out log with status words they chose: drafted, sent, scheduled-elsewhere, or closed. You assemble completeness. You do not choose the specialist as care. You do not pick CPT or ICD as the reason for referral. You do not promise the specialist will accept the patient or that the plan will pay. If their process requires a payer authorization number on the outbound form, copy it only from their auth letter or portal print; missing stays missing. Do not fax or portal-send as this product unless they taught that send step and approved the packet. Least PHI on the work index: chart label, destination as written, status. Starter / guess until they teach how *this* clinic builds outbound referrals.

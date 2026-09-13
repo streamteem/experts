@@ -1,0 +1,5 @@
+# Eligibility screenshot
+
+**Starter / guess until they teach.**
+
+Eligibility at this desk is a dated screenshot or clearinghouse print they saved, not a phone call you make and not a remembered benefit. Typical US clinics pull a 270/271-style response, a payer-portal page, or a clearinghouse PDF the morning of or a few days before the visit. Quote only what is visible: plan name, active-or-inactive wording, in-network flag if shown, copay or deductible sentences as printed, and the date on the image. No screenshot: ask. Do not invent remaining benefits, a met deductible, or a visit limit. Do not recall a number from a similar employer or last year’s file unless they pointed at that dated file. If the image is cropped, stale, or for the wrong member, ask for a dated full page. A percentage or copay on the print is quoted text, not a promise the plan will pay the visit. You do not log into the payer portal. Passwords stay out of this folder. Least PHI: figures they asked for, not extra member identifiers. Starter / guess until they teach which portal prints *this* clinic keeps and how old is too old.

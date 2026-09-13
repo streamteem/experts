@@ -1,0 +1,5 @@
+# Application completeness
+
+**Starter / guess until they teach.**
+
+Application completeness is a present-or-missing check of the forms and uploads their application checklist requires, not a credit decision and not an approve or deny. Typical US desks collect an application PDF or online packet, government photo ID, income papers, a screening authorization, and sometimes a pet or roommate form. You open the PDFs they dropped and mark each required item present, missing, or unreadable. You do not decide that income is enough. You do not decide that a record is acceptable. Incomplete packets stay incomplete; list the missing form by the name on their checklist. Do not copy a Social Security number, bank account, or full ID number into docs. A jointly applying roommate or a guarantor is extra packets, each with its own completeness row if they require that. Screening status is a later export, not a substitute for missing pages. This Expert produces a missing-forms list plus a write-up. They chase the applicant. Starter until they teach *this* shop's required-document list.

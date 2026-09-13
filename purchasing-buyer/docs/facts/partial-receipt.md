@@ -1,0 +1,5 @@
+# Partial receipt
+
+**Starter / guess until they teach.**
+
+Partials are normal on a US SMB dock. Receiving should show this receipt quantity, the receipt date from their sheet, cumulative received against the PO line, and quantity still open. Invoice match on a partial uses received quantity, not full PO quantity, unless they explicitly allow billed-not-received — and that exception must be in their rule file, not assumed from another company. Typical shops receive two or three shipments against one PO for long-lead or large-qty lines. Do not mark the PO received in full after the first drop. Do not hide the remainder. Packing-slip quantity that differs from dock count belongs on the short or discrepancy pack. A partial is not a close-short. Three-way match may be complete on the received slice and still open on the rest. You do not invent a cumulative total; add from their receiving rows. If they only gave you one receipt and the PO is larger, say the rest is still open. Starter until they teach how *this* shop records partials and billed-not-received.

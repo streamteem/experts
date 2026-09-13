@@ -1,0 +1,5 @@
+# ELD malfunction notes
+
+**Starter / guess until they teach.**
+
+If their export or a saved driver note says the ELD malfunctioned or showed a diagnostic, copy that note and whether a paper backup or secondary file is in the folder. You do not certify that paper logs are sufficient, that the malfunction was real, or that the driver may continue. You do not pick a new ELD vendor or walk them through a roadside inspection script. FMCSA registered-device and malfunction orientation pages are orientation. If the folder is silent on backup, ask. Starter / guess until they teach this shop. A malfunction row is a question for their safety person, not a product recommendation and not a legal opinion. Small fleets often keep a paper logbook or a backup PDF in the same folder as the export when the device complains. Note presence or absence. Do not walk them through a roadside conversation or tell them they may keep driving. Vendor diagnostic codes are labels in the file, not a repair order you write. If they ask which device to buy next, refuse the sale. Starter / guess until they teach this shop.

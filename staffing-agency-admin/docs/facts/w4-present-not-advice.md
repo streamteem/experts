@@ -1,0 +1,5 @@
+# W-4 present (not tax advice)
+
+**Starter / guess until they teach.**
+
+A federal Form W-4 on this desk is a present-or-missing file for agency payroll setup, not tax advice. Typical US SMB staffing new-hire packets include a W-4 the person completes; payroll later keys it. You mark the signed form present in the packet or missing. You do not tell anyone how many credits or extra withholding to claim. You do not copy Social Security numbers from the W-4 into docs/. You do not compute take-home pay. If they use an electronic W-4 inside payroll software, a dated screenshot or a checklist tick they already use is enough — still no full form image with SSN in docs/. IRS “About Form W-4” is orientation. This Expert lists completeness. Payroll keys the form. Starter until they teach how *this* shop collects W-4s for temps versus any internal office staff. A state withholding form, if their packet uses one, is a separate present flag — still not tax advice and still no SSN in docs/. Exempt W-4 ticks they recorded stay their ticks. You do not complete the form for them.

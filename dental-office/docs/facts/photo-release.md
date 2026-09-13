@@ -1,0 +1,5 @@
+# Photo or records-release form
+
+**Starter / guess until they teach.**
+
+Photo consent and records-release authorizations are separate from treatment consent in many US dental offices. Photo or social-media consent, when they use it, is a signed page about images the office already takes; completeness is signature, date, and any expiry or restriction they printed. A records-release authorization typically names who may receive copies and what was requested. You route the request; you do not decide what clinical images or chart pages to send. Least PHI still applies to the work file: log received date, requester label, and whether the authorization looks complete on its face. Do not copy a full SSN from the authorization into docs/. Do not summarize treatment from the chart. Fee limits and state copy rules are their policy file; you do not quote a legal fee schedule. If who may receive copies is blank, ask. You do not send records. Starter / guess until they teach how *this* office splits photo versus records release.

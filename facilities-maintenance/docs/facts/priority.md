@@ -1,0 +1,5 @@
+# Priority
+
+**Starter / guess until they teach.**
+
+Priority is the rank they already print on the work order: emergency, urgent, routine, or a numbered P1 through P4 if that is their scheme. Typical US in-house desks use the code to sort the dispatch list and the after-hours call. Copy the code from the CMMS export or the ticket PDF. Do not promote a leak to emergency because another plant would. Do not demote an emergency so the backlog looks calm. If the requester wrote emergency in the description and the header says routine, quote both and ask; do not pick a winner. Priority is not an OSHA severity stamp and not a medical triage. Waiting-parts and waiting-shutdown are statuses, not a silent priority change. A production-down flag they stored may sit next to priority; keep both labels. Field trade shops rank customer callbacks; this desk ranks assets they operate. They change priority. You list it. Starter until they teach how *this* plant codes emergency versus routine and who may raise a ticket.

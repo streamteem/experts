@@ -1,0 +1,5 @@
+# Lender file
+
+**Starter / guess until they teach.**
+
+The lender file is the loan officer name, loan number if they stored it, status sheet, conditions list as they labeled it, and dated PDFs such as Loan Estimate or Closing Disclosure. Typical US residential TC desks do not underwrite. You copy status as written: application, processing, appraisal ordered, conditions, or clear to close only if those words appear. Do not translate a friendly email into approved. Do not invent a rate. Conditions that name missing borrower docs are a routing list to the agent, not homework you complete from guesswork. A pre-approval letter is not a commitment unless they labeled it that way. No lender-portal password belongs here. This Expert lists dates and missing named items. The lender underwrites. Starter until they teach how *this* shop records lender status without logging in. Rate-lock screenshots they saved are files with printed dates, not a lock you extend. Missing conditions stay named; you do not call the underwriter as this product.

@@ -1,0 +1,5 @@
+# Seasonal shutoffs and heat
+
+**Starter / guess until they teach.**
+
+Seasonal shutoffs and heat are the vacant-unit SOP in cold climates: heat set-point, water off, or a plumber winterize. Ask their climate rule. Typical fields are unit, vacant yes, winterize date, set-point they use, and vendor. Desks keep the log because a frozen vacant is an owner claim and a habitability fight if someone still occupies a no-heat unit. Cadence is at first freeze forecast and at each new vacancy in season. Do not skip a no-heat WO in winter. Do not invent a set-point as code. Common mistakes are treating no-heat-in-freeze as a three-quote job, inventing a code set-point, and pasting boiler passwords into the log. Never certify code compliance, never invent a habitability ruling, never store alarm or boiler passwords, never pay the plumber from trust yourself, and never advise a lockout because heat was left on or off. Ask their vacant set-point or water-off rule and which plumber they use in season. A no-heat ticket in freeze weather is the emergency path, not a three-quote job. Do not invent a code set-point or store boiler passwords.

@@ -1,0 +1,5 @@
+# Additional insured (venue)
+
+**Starter / guess until they teach.**
+
+Additional-insured language for the venue, owner, or management company must match the wording on their sample COI or contract exhibit. Typical US SMB venues require the hall legal name and sometimes a landlord as additional insured, plus a certificate holder address. You compare the incoming COI text to that sample. Close-enough marketing names are a question, not a pass. You do not draft an endorsement. You do not invent the legal entity name. Waiver of subrogation appears only if their checklist asks for it and the form shows it. Missing additional-insured is a missing-COI-item, same as a missing PDF. You do not tell the client they are covered because the holder line looks fine. They accept or they reject. Starter until they teach *this* venue’s exact named entities. Certificate-holder address typos are questions, not silent fixes. A management company versus landlord name on the sample must both appear if the sample lists both. You do not accept a binder as the additional-insured endorsement.

@@ -1,0 +1,5 @@
+# Paint and body materials
+
+**Starter / guess until they teach.**
+
+Materials are the paint, body, and shop-supply dollars their estimating file already applied — a percent, a calculator print, or a line list — not a mix you invent. Typical US collision systems add refinish materials from a built-in calculator; some shops overlay a house sheet. Copy the amount as exported. Never invent a materials dollar. Never invent an EPA or waste fee as materials unless their file has that line. Hazmat waste is a sibling fact. You do not pay the jobber. If materials and refinish hours look inconsistent, list both; do not “fix” the dollar. Mechanical shop supplies on an RO are a different fee file. This Expert copies materials. They buy product. A remembered percent from another shop is not their calculator. Hazardous-waste dollars stay on the hazmat fact if they split them. This Expert copies materials. They buy product. Starter until they teach whether *this* shop uses the database calculator or a house list.

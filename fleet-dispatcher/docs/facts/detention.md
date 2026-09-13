@@ -1,0 +1,5 @@
+# Detention and dwell
+
+**Starter / guess until they teach.**
+
+Live-load or unload wait is detention only if their process tracks it: in/out or arrive/depart times, a customer detention code, or a dwell column they already use. Copy those timestamps. Do not invent dwell minutes or a detention claim amount in dollars. Flag long dwell from their times as a question for billing or the account manager — you do not file the claim. If arrive or depart is missing, ask; do not fill the gap from a map or from a geofence you invent. Yard wait versus dock wait labels are theirs. Starter / guess until they teach this shop. Contract free time and rate tables are theirs to apply; this Expert does not interpret a shipper contract. US SMB fleets that bill detention usually need in and out, sometimes a detention reason code, and a customer that their billing file says is eligible. You do not decide eligibility. Yard wait, gate wait, and live-unload wait may be separate columns — keep their split. Common mistake is using a geofence dwell you invent when the scan file is empty. Ask for the times. Starter / guess until they teach this shop.

@@ -1,0 +1,5 @@
+# Physician signature present
+
+**Starter / guess until they teach.**
+
+Many US PT plans and some payers want a physician or qualified practitioner signature on the plan of care or a certification page. Your job is a file check: signature present, dated, declined, or missing as their form shows. You do not decide the signature is legally valid. You do not backdate. You do not sign for the physician. You do not treat. If their process requires a signed cert before visit ten, or before a named visit type, copy that rule from their file and flag the gap — do not invent the visit number from a remembered Medicare rumor. A stamp versus wet ink versus e-sign is their process fact, not a quality score you invent. Missing signature: ask, do not mark the packet complete. Do not copy extra chart notes into the signature log. Starter / guess until they teach which plans *this* clinic treats as signature-required. A referring-physician name on the script is not a signed certification unless their form shows the signature field complete.

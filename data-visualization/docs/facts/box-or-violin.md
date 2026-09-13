@@ -1,0 +1,5 @@
+# Box or violin for a named numeric by group
+
+**Starter / guess until they teach.**
+
+A box or violin plot shows spread of a numeric column they named, often split by a group they named. Typical US SMB asks are ticket dollars by location or duration by job type. The Expert may run Python in this workspace, import seaborn, and call boxplot or violinplot, then save out/*.png. Say what the box edges mean in ordinary English (quartiles as computed) and say the n per group. Do not treat a longer whisker as a quality failure. Do not hide outliers if they asked to see them as a list. Violin density is sensitive to small n; prefer a box or a strip when groups are tiny and say so. Do not invent a group. Units stay on the axis. This is descriptive. It is not a test verdict and not a hiring decision. Write a summary CSV of count, median, and quartiles per group when they want the numbers. If seaborn is missing, ask and install; do not draw a fake box. Starter until they teach whether *this* shop reads medians or means.

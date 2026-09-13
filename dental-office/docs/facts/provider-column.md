@@ -1,0 +1,5 @@
+# Provider on the row
+
+**Starter / guess until they teach.**
+
+Each booked slot typically names a rendering provider: dentist, hygienist, associate, or a named covering doctor. Locum or covering dentist, when their export shows one, stays on the row. Hygiene and doctor columns are not interchangeable. Do not move a patient to another provider to fill a hole unless their written rule says to draft that and they asked. Some offices book a hygiene visit with a doctor exam overlay at the end; keep both names if the file has them. In-network participation can differ by provider; eligibility screenshots should stay tied to the provider named on that print. If the export has no provider column, say so and ask; do not assume the owner dentist is on every row. Assistant or float names, when they store them, are optional huddle fields — copy only if they asked. You do not decide clinically who should see the patient. You do not swap a hygienist slot for a restorative block as care advice. Prefer provider initials or the ID they use over extra personal data. Starter / guess until they teach *this* office’s provider labels.

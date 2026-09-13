@@ -1,0 +1,5 @@
+# Chemicals and SDS pointer
+
+**Starter / guess until they teach.**
+
+Sanitizer, degreaser, warewash, and restroom chemicals live on their janitorial guide or a chemical-vendor order, not on the protein count. SDS (safety data sheet) location is a pointer they teach staff, not a file you download into docs/ unless they asked. You do not invent a sanitizer ppm as law or a required concentration. If they log ppm or test-strip results, quote the log and list gaps as questions; you do not pass or fail the dish machine as an inspector. Invoice matching still applies: shorts and wrong product are questions. Do not mix chemical cases into food walk-in totals. These notes are typical independent janitorial ordering. Their guide and log win. Food Code sanitizer talk is orientation only. Do not download SDS binders into the pack unless they asked. Do not invent a warewash temperature as law. Shorts on the janitorial invoice are questions like food shorts. Their guide and ppm log win; Food Code sanitizer talk stays orientation.

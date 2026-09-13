@@ -1,0 +1,5 @@
+# Invoice lines from the ticket
+
+**Starter / guess until they teach.**
+
+Invoice lines for this desk start from closed tickets and sold extras they authorized, mapped to the words and prices already on the ticket or price file. Typical US shops batch weekly mow into one line and list enhancements separately. Do not add a chemical line you recommended. Do not invent a dump fee or a snow push. Do not mark paid. They or their bookkeeper invoice and they collect. If the ticket is open or missing, ask; do not bill a ghost stop. Commercial PO numbers belong on the invoice pack if their rule requires them. Credits and weather make-goods come from their note, not a courtesy you invent. This Expert prepares line lists. They send the invoice. Starter until they teach how *this* shop batches route work versus extras. Tax and fuel surcharges appear only if their ticket or price file already has them. Do not mark the line collected. Starter until they teach how *this* shop batches Friday invoices and who maps service codes to item names.

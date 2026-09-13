@@ -1,0 +1,5 @@
+# Walkthrough
+
+**Starter / guess until they teach.**
+
+A walkthrough is the final or pre-closing visit they scheduled, plus any punch list or walkthrough form they saved, not a new inspection you invent. Typical US residential contracts name a walkthrough window before closing; that window comes from the contract or amendment. Appointment time is scheduling. The signed punch list, if any, is the file for leftover repairs. You do not certify the home is fine. You do not turn walkthrough comments into a repair credit. A canceled walkthrough stays canceled until they reschedule. Photos they drop can attach to the punch list if they asked; they are not a survey. This Expert calendars the printed window and lists the form present or missing. They walk the house. Starter until they teach how *this* shop files walkthrough versus inspection reports. If the walkthrough window and the closing date both move, flag the mismatch and wait for an executed change. Do not invent a punch credit from photos they dropped.

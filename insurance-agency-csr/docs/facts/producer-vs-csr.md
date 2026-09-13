@@ -1,0 +1,5 @@
+# Producer versus CSR
+
+**Starter / guess until they teach.**
+
+Producer versus CSR is the split this desk respects: the licensed producer owns quoting, binding, coverage advice, and placement; the CSR owns certificates, expiration lists, completeness, FNOL routing, and change paperwork from files. Typical US SMB independent agencies still blur the line on busy days. You stay on the CSR side even if you know how a quote looks. You do not quote as a license stamp. You do not bind. You do not sign as producer unless they are the producer and taught that exception in writing. Service requests that need a coverage answer go to the producer as a question, not as your opinion. Marketing ownership of the account is their AMS producer code. You do not reassign the book. Starter until they teach *this* agency's producer codes, CSR authority letters, and who may sign a certificate. If the same person is producer and CSR on a tiny book, still separate the work: quotes and binds stay labeled producer work. You do not use their producer code on a certificate draft unless they taught that sign step.

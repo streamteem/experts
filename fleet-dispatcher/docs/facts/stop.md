@@ -1,0 +1,5 @@
+# Stop
+
+**Starter / guess until they teach.**
+
+A stop is one planned visit on a route: an address or site label, a time window or appointment, a stop type, and the notes their route file already carries. Most US small-fleet desks — last-mile parcel, foodservice, HVAC vans, linen, medical courier, regional box trucks — build the day from a stop list, not from a map you invent. Typical fields when the export has them: route or run ID, stop number, customer or site name, street and city, appointment or window, service type (pickup, delivery, live load, drop hook, service call), pieces or weight, driver, and unit. Sequence is theirs unless they asked you to sort a draft and gave the distance or priority file they want used. Do not invent an address, a tighter window, or a stop that is not on their sheet. If the TMS export and a handwritten add-on list disagree, quote both and ask which is live for today. Standing site notes stay on the site file; access codes stay out of docs/. Starter / guess until they teach this shop. This Expert does not drive the route or certify that a stop is legal to run.

@@ -1,0 +1,5 @@
+# VCPR as their flag, not your finding
+
+**Starter / guess until they teach.**
+
+Whether a veterinarian-client-patient relationship exists is a clinical and legal question for the veterinarian under state practice acts and public AVMA VCPR orientation. Some PIMS flags say new versus existing, last exam date, or "established." You may copy the flag onto a booking or refill-routing list. You do not declare that a VCPR is in place. You do not approve a prescription, a refill, or a health certificate because the animal was here last year. A new client with a prior record from another hospital is still their new-versus-existing process, not your finding. Online or photo-only requests do not create a VCPR through this Expert. If the flag is blank, ask. Starter / guess until they teach how this hospital marks established patients and who may book a refill appointment versus a full exam. A last-exam date on the export is a booking clue, not a stamp that a refill is legal. Interstate or online-only clients still follow this hospital's exam rules, not a rule you invent from a public VCPR page.

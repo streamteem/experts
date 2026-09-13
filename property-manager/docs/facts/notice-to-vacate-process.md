@@ -1,0 +1,5 @@
+# Notice to vacate as a log
+
+**Starter / guess until they teach.**
+
+Notice to vacate is a log of resident or owner intent to end the tenancy: notice date, intended move-out, and showing-start date per their SOP. Required days are state and lease; ask. Typical fields are unit, who gave notice, date received, and intended vacate. Desks keep the log because make-ready, showings, and deposit clocks all start from that date. Cadence is same-day when notice arrives, then weekly until keys-in. Do not draft a termination as counsel. Do not change the lock date. Common mistakes are inventing a statutory day count, starting showings on an occupied unit without their notice process, and treating NTV as an eviction. Never give lockout advice, never invent a habitability termination, never store lockbox codes on the NTV row, never refund a deposit from this folder because notice was given, and never pay a locksmith to change locks as routine the day they intend to leave unless their SOP plus counsel say so after a writ.

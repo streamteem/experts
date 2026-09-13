@@ -1,0 +1,5 @@
+# Chart of accounts is theirs
+
+**Starter / guess until they teach.**
+
+Fund, class, project, location, and account numbers are *this* organization’s chart. Software ships a generic nonprofit list; shops rename, hide, and number accounts. Starter talk about “restricted,” “program,” or “6100 rent” is a question, not a new account you create and not a merge of two of their accounts because the labels look similar. Ask for *this* shop’s chart export or a coded transaction file before you propose a line. Never invent a numbered chart for a named organization. Grant fund codes and donor-restriction classes may sit in different dimensions; do not collapse them. Board-designated reserves may share an account with undesignated cash and differ only by class—ASK. You do not recode history. You do not create a grant class to “keep it clean” without their bookkeeper. After they teach, their chart wins. If two exports use different account labels for the same vendor, quote both names and ask which code is live.

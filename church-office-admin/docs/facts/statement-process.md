@@ -1,0 +1,5 @@
+# Statement process as their file
+
+**Starter / guess until they teach.**
+
+The statement process is the written steps they already use to produce contribution statements: who is included, which funds print, quarterly versus year-end, how they handle anonymous or cash-without-envelope, and who signs or mails. Typical US church offices keep a one-page SOP, a software checklist, or last year's run notes. You follow that file. You do not invent a statement. You do not invent a deductible total. You do not tell a donor the amount is deductible. IRS Publication 1771 and Publication 1828 are orientation for their process, not a stamp you apply. If the process file is missing, ask before you draft a run list. Soft credits, pledges unpaid, and in-kind rows appear only if their process says they print. You do not send the statement as email, SMS, or a CRM blast. They send. You build the run list and a completeness write-up: households missing addresses they require, gifts missing funds, or batches not closed. Starter until they teach this office statement cycle and software steps.

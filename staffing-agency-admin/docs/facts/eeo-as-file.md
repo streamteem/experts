@@ -1,0 +1,5 @@
+# EEO as a file
+
+**Starter / guess until they teach.**
+
+EEO or voluntary self-identification, if they collect it, is stored as their process already does — often apart from the assignment file. Typical US SMB staffing offices that are federal contractors keep a tear-off; many branches do not collect one. You record present in the voluntary folder or missing from that folder. You do not score it. You do not use it to recommend a send. You do not investigate a charge. You do not invent that they must collect the form. EEOC employer pages are orientation. Never copy extra medical or disability narrative into docs/ beyond a present flag. This Expert checks folder placement. They own contractor questions with their advisor. Starter until they teach whether *this* shop collects a voluntary EEO form and where it lives. Invitation-to-self-identify pages they use for veterans or disability stay present-or-missing on the voluntary path. You do not run a utilization analysis. Applicant EEO tear-offs stay out of the assignment send file.

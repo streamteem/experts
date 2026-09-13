@@ -1,0 +1,5 @@
+# Backlog
+
+**Starter / guess until they teach.**
+
+Backlog is the set of approved, not-complete work orders they still owe, often grouped by craft, priority, or waiting-parts. Typical US plants measure backlog in ticket count or in planned hours from the file. Build the backlog list from the export. Do not drop a ticket to make the hours look healthy. Do not invent planned hours so a backlog chart has a number. Waiting-shutdown and waiting-parts stay in backlog if they still count them; use their status rules. This is not a construction punch list and not a field-trade sold-but-unscheduled board. PM backlog and corrective backlog may be separate if they coded them that way. They decide what is deferred. You show the open set. Starter until they teach which statuses *this* plant counts as backlog and how they convert tickets to hours. Deferred tickets they still count stay on the list. A wish-list row that was never approved is not backlog unless they said so. Sort by craft only from their craft field.

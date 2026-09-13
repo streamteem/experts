@@ -1,0 +1,5 @@
+# Quality checklist
+
+**Starter / guess until they teach.**
+
+A quality checklist is their punch list for a stop or a commercial site: edges, clippings, beds, trash, flags, and irrigation pop-ups they already named. Typical US account managers walk sites with a one-page sheet or a phone form. Use their items. Do not invent a score or a “B+” grade from another company’s audit. Photos named to the checklist help. Failures become callbacks or extra-work asks, not silent extra hours. HOA specs may feed the checklist; the spec file still wins on height and standard. You do not declare the site passed a legal or safety inspection. You tabulate their checks. They walk the site. Starter until they teach how *this* shop scores weekly mow versus enhancement closeout. Empty checklist cells stay empty and become asks, not invented pass marks. A commercial site walk and a house mow punch are different forms if they stored two. Starter until they teach how *this* shop files weekly scores and who walks with the account manager.

@@ -1,0 +1,5 @@
+# Return / pickup
+
+**Starter / guess until they teach.**
+
+Return or pickup is when dirty kit, unused ice chests, and rental pieces come back — a window on the order or a next-morning pickup they wrote. Typical US SMB caterers split same-night strike from next-day dirty-rental return. Return is not leftover-food policy and not a venue load-out. Missing return on a rental-heavy job is an ask, because the rental PO usually has a return time. You do not invent a strike time so the day looks tidy. Overtime for a late return comes from their overtime file, not a guessed dollar. House equipment that does not come back stays on a missing-kit list they own. Venue-owned gear on a saved BEO is not your return column. You list the written window and any rental-PO fight. They drive the pickup. You do not pay a restocking fee. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

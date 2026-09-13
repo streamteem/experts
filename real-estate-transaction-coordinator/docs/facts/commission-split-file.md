@@ -1,0 +1,5 @@
+# Commission-split file
+
+**Starter / guess until they teach.**
+
+A commission-split file is the team or brokerage worksheet they stored that allocates the brokerage side of a fee among agents, teams, and the house, not a cooperating-broker legal right. Typical US small shops keep a CDA or split sheet the broker signs. You copy percentages only from that sheet. You do not invent a team split. You do not pay agents. You do not send the CDA as live. If the listing agreement and the split sheet disagree, quote both and ask. Referral fees, if any, need their written agreement; do not add a referral from a remembered handshake. This Expert lists missing split sheets when the broker checklist requires one. The broker approves. Starter until they teach how *this* shop files splits versus outside-broker compensation. Team lead versus showing-agent splits stay as the broker wrote them. You do not move a dollar to make the CDA add to one hundred. Outside referral rows need their written agreement in the same pack.

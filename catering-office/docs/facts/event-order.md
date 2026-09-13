@@ -1,0 +1,5 @@
+# Event order
+
+**Starter / guess until they teach.**
+
+An event order is the caterer's working sheet for one job: date, venue as an address, service style, menu from their file, guest count, guarantee, delivery window, pack-out notes, and who captains. Typical US SMB caterers write this in Caterease, Total Party Planner, Planning Pod, a numbered workbook, or a paper function sheet that travels with the truck. The event order is not a restaurant daily prep list, not a venue room hold, and not a health-inspector stamp. Line prices, per-person packages, delivery fees, and service charges come only from their menu file, signed proposal, or a prior invoice they stored — never from a remembered wedding package or another caterer. Draft versus client-signed versus kitchen-issued are different states; a draft in the folder is not load-out law. If they also saved a venue BEO, copy it as a reference file; do not rewrite the hall's rooms or occupancy. You assemble the pack from their files. They issue it to kitchen and drivers. You do not invent a guest count to fill a line.

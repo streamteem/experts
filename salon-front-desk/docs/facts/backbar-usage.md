@@ -1,0 +1,5 @@
+# Backbar usage
+
+**Starter / guess until they teach.**
+
+Some POS systems deduct backbar when a service is marked complete; others use a weekly usage sheet the colorist initials. Quote whichever file they give. Do not invent ounces used per color service. If usage would drive a reorder, list the SKU and the quantity on the sheet, not a guessed case pack. Desks keep usage so service cost is not a fiction and so a missing developer is a file fact. Typical columns are date, SKU or product name they use, quantity or “empty,” and station. You are not mixing color and you do not estimate grams from a ticket. Retail sell-through is a different column. If they have no usage file, say so—do not back into usage from retail on-hand. Starter until they teach how this floor records backbar. Color tubes, developer, and disinfectant may sit on different usage sheets; keep the labels they use. You do not estimate grams from a ticket description. If they want a reorder from usage, the quantity is the sheet’s quantity, not a case you invent.

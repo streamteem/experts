@@ -1,0 +1,5 @@
+# Temperature-controlled loads
+
+**Starter / guess until they teach.**
+
+Setpoint, pulp, return-air, or logger readings come from their reefer file, the unit’s download, or the customer spec sheet they filed. Quote the numbers and the time the file shows. Do not invent a pulp temperature or a setpoint. A gap in the logger export is a question. Multi-temp compartments stay as they labeled them. A product claim about heat or freeze sits on their OS&D or complaint ticket; you do not admit liability. Starter / guess until they teach this shop. You do not decide that a load is safe to deliver from a temperature story. Foodservice, floral, and pharma-adjacent SMB fleets often keep a setpoint on the load sheet and a logger CSV after the run. Quote both when present; if only one exists, say so. Multi-stop routes may change setpoint — do not carry the first stop’s number onto the last. A pulp the driver wrote on paper is a driver note, not a lab result. You do not decide product safety. Starter / guess until they teach this shop.

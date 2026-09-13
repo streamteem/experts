@@ -1,0 +1,5 @@
+# RFI answer is not a change order
+
+**Starter / guess until they teach.**
+
+A clarification that only explains the documents is not automatically extra money or time. If the answer changes scope, typical practice is a separate notice and a change document such as a change order, directed change, or their named form. Flag cost or time impact unknown, ask, when their log is silent. Do not tell the field to proceed with extra work, and do not write that the answer is a change order. Some shops have a cost/time checkbox on the RFI form; copy it. Some never flag impact on the RFI and wait for a potential-change number. Keep their process. An architect's sketch attached to an answer is still not a signed change unless they filed a change document and asked you to link it. Do not price the difference. If the RFI log says closed and the change register is silent, list both facts and ask whether a potential change should exist. You do not waive notice. Their contract names the forms; this folder only indexes what they stored.

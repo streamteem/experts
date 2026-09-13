@@ -1,0 +1,5 @@
+# Diagram revision
+
+**Starter / guess until they teach.**
+
+Each diagram should carry a date and a revision number or label. Typical US desks go through three or four layouts before the guarantee week. The pack uses the latest dated file and lists prior revisions if they asked for a log. An undated overwrite that replaced the only PDF is a missing-history note. You do not silently replace a client-signed diagram with a prettier one. Chair-count changes on a new revision should be reflected on the BEO or flagged as out of sync. You do not stamp a new revision as fire approved. You log old versus new in one line each: date, who saved it if the filename says, and what changed if they noted it. They send the new PDF to the floor. Starter until they teach *this* venue’s diagram versioning. Filenames that say final-final still lose to a newer dated file. You do not delete old PDFs from the folder. A revision that adds a bar must still meet their posted occupancy and inventory, as questions, not as your stamp. They pick the live file.

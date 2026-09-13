@@ -1,0 +1,5 @@
+# Repair order identity
+
+**Starter / guess until they teach.**
+
+A repair order (RO), also called a ticket or job in many US shops, is the service desk's working record of one visit. Typical fields on independent and dealer counters include the RO number assigned by their shop software, open date, customer label they allow in files, vehicle year make model, license plate if they use it, VIN if they captured it, odometer or hours, advisor name, pay type, and promised time. Dealer desks often add stock or dealer code, campaign flags, and a factory claim field; independents more often add a waiter flag and a parts-hold note. Copy identifiers from their export, printed RO, or scan. Do not invent an RO number, VIN, or open date. If two tickets look like the same car, ask which number is live rather than merging them. The RO is why the desk can later match parts, auth, and the invoice. Status on the RO is what their board shows, not a ready time you invent. This starter describes typical US desk practice until they teach how this shop numbers and stores tickets.

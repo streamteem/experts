@@ -1,0 +1,5 @@
+# Lab order
+
+**Starter / guess until they teach.**
+
+A lab order is the ticket they already sent or queued: lab name, job or ticket number, frame and lens fields as completed, ship method, and status words as the lab portal or their log shows. Typical US SMB opticals use a wholesale lab, a corporate lab, or an in-house surfacing path they already named. You list completeness and status. You do not pick the lab to save money. You do not change a lens design after the ticket left unless their written change process says you may draft a question. You do not interpret the Rx for the lab. Promise dates come from their ticket or the lab-status export, not a remembered three-day habit. Missing required fields: ask before you treat the ticket as sent. You do not pay the lab invoice as this product. Redo tickets stay linked to the original job number if their sheet has that column. Distinct from a dental lab-case pantograph. Starter / guess until they teach which lab *this* optical uses for which lens type.

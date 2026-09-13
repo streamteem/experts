@@ -1,0 +1,5 @@
+# Consent forms as signatures
+
+**Starter / guess until they teach.**
+
+Treatment consent, financial-policy consent, and sometimes a separate arbitration or photography consent appear as signed pages in many US dental folders. Completeness is signature, date, and patient or guardian name present on the pages they named. You do not explain clinical risks, do not obtain informed consent as the dentist, and do not draft legal language for a missing form. A missing consent is a question for staff, not a reason for you to write a substitute paragraph. Offices vary on whether a general consent covers the day’s visit or a procedure-specific consent is required for surgery or sedation they already planned. Use the packet they pointed to. Do not decide which procedure needs consent. Do not say the patient understood the form. Do not backdate, stamp, or forge a signature. Financial consent is not a payment-plan approval and is not a waiver of a balance. Keep least PHI: report present or missing, not a recap of the clinical description on the form. Starter / guess until they teach *this* office’s consent set.

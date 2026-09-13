@@ -1,0 +1,5 @@
+# Frame board
+
+**Starter / guess until they teach.**
+
+The frame board is their on-floor collection: manufacturer, collection name, SKU or UPC as they tagged it, color and eye-bridge-temple sizes as tagged, and a retail price from their fee or POS file. Typical US optometry opticals also keep a board map or a vendor line sheet they drop as PDF. You list what their board file or POS export shows. You do not invent that a frame is in stock because it is on a vendor catalog. You do not invent a retail price from another shop or from a remembered “that line is one-fifty.” Missing SKU: say missing and ask. Do not diagnose face shape or recommend a frame as care. Do not promise a vision-plan frame allowance will cover a board price — allowance sentences come only from a dated eligibility print they pointed to. Backorder and special-order flags belong on the frame-order row, not as a silent swap you make. Distinct from a dental lab crown shade and from a medical DME catalog. Prefer SKU plus patient chart label on work files. Starter / guess until they teach how *this* optical names board SKUs and which file is live inventory.

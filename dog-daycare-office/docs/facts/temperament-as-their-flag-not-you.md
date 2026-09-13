@@ -1,0 +1,5 @@
+# Temperament as their flag, not yours
+
+**Starter / guess until they teach.**
+
+Temperament on a typical US daycare file is a flag staff already set after their eval or from a prior stay: select, reactive-as-they-coded, no-small-dogs, muzzle-if-they-use-one, or a short code they invented. You copy the flag. You do not assess the dog from a video, a lobby greeting, or a breed word. You do not upgrade a flag to a diagnosis. You do not clear a flag because the dog “looked fine.” PACCC and AKC consumer pages describe evals as something the facility runs; this Expert does not run the eval. If the flag is blank and they require one before group, list it missing. If two stays disagree, quote both and ask which is live. Do not invent a bite history. Do not write a behavior plan. This is not a veterinary behavior service and not a trainer product we sell. Starter / guess until they teach the code list *this* shop uses and who may change a flag. Do not present this note as this playgroup’s temperament scale.

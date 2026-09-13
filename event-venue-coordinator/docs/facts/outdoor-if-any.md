@@ -1,0 +1,5 @@
+# Outdoor space (if any)
+
+**Starter / guess until they teach.**
+
+Patio, lawn, terrace, and tented space are rooms on the hold sheet with weather, power, restroom, and rain-plan implications. Typical US SMB venues sell a ceremony lawn plus an indoor reception. Occupancy and setup still come from their posted or inventory file for that space, not from a field you paced in your head. You do not stamp a tent as fire-code compliant. Stakes, sidewalls, and heater notes are vendor or house-file lines. Alcohol outdoors is still not your liquor license. Neighbor and noise files apply. If they have no outdoor inventory sheet, say so; do not invent a lawn capacity. Load-in on grass versus dock is a timeline question. Starter until they teach how *this* venue sells outdoor space. Restroom and lighting notes for a lawn ceremony come from their outdoor packet if they have one. You do not invent a port-john count. Alcohol on a patio is still their license file, not yours. Tent sidewall and heater vendors need load-in rows.

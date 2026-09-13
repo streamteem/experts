@@ -1,0 +1,5 @@
+# Square feet from their file
+
+**Starter / guess until they teach.**
+
+Square feet are cleanable or rentable numbers they already stored on the contract, a takeoff, or a customer exhibit. Typical US offices use cleanable feet for workloading and sometimes a different number for billing. Copy the number and the label. Do not invent square feet from a map, a memory, or a “typical office.” Do not convert acres or meters unless their file shows the conversion they want. Productivity-from-their-sheet may divide hours by these feet — still their math, not ISSA figures you insert. Missing feet stay missing; ask. Hospital and school wings stay on the rows they split. This Expert quotes their file. They measure. Starter until they teach which square-foot column *this* shop uses for hours versus invoices. Cleanable feet and rentable feet are different labels; keep the one they used for hours versus the one they used for billing. Do not scale a map or use a typical-office memory. Missing feet stay missing. Hospital wings and school gyms stay on the rows they split. Starter until they teach which square-foot column *this* shop uses on the night budget.

@@ -1,0 +1,5 @@
+# Staffing plan
+
+**Starter / guess until they teach.**
+
+The staffing plan names who works the event and in which role, copied from their roster and the event-order labor grid. Typical US SMB caterers build a week-of board: chef, captain, servers, bartender-as-count, dishwashers, and a driver. You do not invent names. You do not invent a ratio. You do not fire anyone. If a name appears on two overlapping delivery windows, flag the collision. Bartender rows are headcount from their file, not a license stamp. Overtime after a written end time follows their overtime file. Venue union calls on a saved BEO stay labeled as venue labor. Restaurant BOH shift schedules are kitchen-admin. Missing roster: ask. You list the plan as written. They call the staff. You do not store staff passwords or bank logins for pay apps. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

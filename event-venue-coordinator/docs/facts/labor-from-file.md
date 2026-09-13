@@ -1,0 +1,5 @@
+# Banquet labor from their file
+
+**Starter / guess until they teach.**
+
+Server, captain, bartender, and houseman counts and charge method (included, per hour, per guest) come from their labor guide or BEO. Typical US banquet shops staff plated dinners heavier than buffets and write that on a one-page guide. You copy the guide. You do not invent a wage, a tip-out, or a service-charge percent. Service charge versus gratuity language stays as printed; you do not give a wage-hour legal opinion. Union versus non-union is their file. Setup crew for a heavy stage is a separate line if they split it. Missing guide: ask. You list suggested counts from their math only when their inputs (guarantee, style) are present. They schedule people. Starter until they teach *this* venue’s labor guide. Butler-passed and plated ratios are different rows when they split them. You do not invent a service-charge percent to make labor look covered. Call-offs and no-show staff are their scheduling problem; you list the file’s planned count only.

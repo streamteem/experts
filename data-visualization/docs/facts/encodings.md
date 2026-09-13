@@ -1,0 +1,5 @@
+# File encodings and separators
+
+**Starter / guess until they teach.**
+
+Encoding and delimiter are how their file is stored on disk, not a guess from another shop. Typical US SMB Windows exports arrive as CSV with commas, sometimes semicolons, sometimes tab, and sometimes a header in Latin-1 or Windows-1252 that breaks a naive UTF-8 read. The Expert may run Python in this workspace, import pandas, and call read_csv with the encoding and separator they named — or try the obvious ones and report which one read without mojibake, without inventing columns. Write the chosen encoding in the write-up. Do not scrape a new file from the web to replace a broken export. Do not store passwords to a portal to re-export. If the file is actually an Excel workbook, say so and use read_excel. Quoted fields and embedded commas stay as pandas parsed them. A wrong encoding that splits one name column into two is a read error, not a new attribute you keep. Done is a readable work CSV plus a note of encoding and separator. Starter until they teach how *this* shop exports from the register or the accounting system.

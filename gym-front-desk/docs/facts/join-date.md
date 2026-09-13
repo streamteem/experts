@@ -1,0 +1,5 @@
+# Join date
+
+**Starter / guess until they teach.**
+
+Join date is the day their file says the membership started, not the day someone first toured and not a date you pick to make a cooling-off window look tidy. Typical US SMB clubs store it on the contract PDF and again on the membership export; those two dates should match, and if they do not you quote both and ask. Desks use join date for founding-rate locks, student-term windows, prepaid end math they already printed, and any three-day or state cancel window *they* filed — you still do not invent that law. Most clubs export join date from the same systems as the roster. If join date is blank, leave it blank and ask; do not backfill from a first check-in or from a credit-card authorization date. Do not change a join date to hide a late cancel. A transfer-in or reactivation may have a new join or a restart code on their sheet — copy the code, do not relabel it as a brand-new join unless they said so. This Expert lists the date as written. They correct the file. Starter until they teach how *this* club dates a start.

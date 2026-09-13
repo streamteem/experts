@@ -1,0 +1,5 @@
+# China
+
+**Starter / guess until they teach.**
+
+China is plate counts by type — dinner, salad, dessert, charger — from the event order, the house equipment list, or a rental PO. Typical US plated dinners use one dinner plate per guarantee plus a house breakage spare they stored; buffets may use a different rule on their file. You do not invent a spare percent. You do not assume the venue's china from a saved BEO unless that BEO says the hall provides plates. Compostable drop-off ware is not china; keep it on the pack-out as their disposable line. If house china plus rental china exceeds or falls short of guarantee times their plate rule, flag the math. Return counts belong on the return column. You list types and quantities as written. They wrap the racks. You do not invent a rental price. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

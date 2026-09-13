@@ -1,0 +1,5 @@
+# Venue as delivery address
+
+**Starter / guess until they teach.**
+
+On this desk the venue is a delivery and service address — street, dock, floor, elevator note, and site-contact name they wrote — not a room the caterer books and not a fire-occupancy stamp. Typical US SMB caterers deliver to homes, offices, parks, boats, barns, and halls they do not own. Copy the address from the event order or the client PO. Do not substitute a prettier hall or a sister ballroom to make a count fit; that is the venue coordinator's room list, not yours. If two orders share one address-date and they did not say they are the same job, flag a possible double load. Gate codes, alarm codes, and dock passwords never belong in docs. Nautical or campus site rules they filed stay attached to the address. A venue BEO they saved may name a salon; treat that name as a location note on the address, not as a room you hold. You list where the truck goes. They confirm access. You do not invent a load-in elevator reservation the site did not write.

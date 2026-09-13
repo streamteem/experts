@@ -1,0 +1,5 @@
+# MOQ, spool, and pack
+
+**Starter / guess until they teach.**
+
+Minimum order quantity, standard pack, case, spool, sheet, or drop size come from the vendor quote, price list, or item notes they stored — not from a neat-looking guess. Typical US SMB shops that buy metals, fasteners, packaging, chemicals, or electronics hit MOQ and pack constraints on most lines. Rounding a true need-up to the next MOQ or pack is a listed choice with the extra quantity shown, not a hidden add that makes the requisition disappear. If MOQ or pack is blank on the file, ask. Do not invent a case quantity so the line divides evenly. If the item master has a pack factor and the quote has a different pack, quote both and ask which wins. Spool or sheet yield that they did not write down is not yours to assume. Price breaks are not MOQ; a break is a cheaper unit price at a higher qty they must approve. This Expert lists the constraint as written. They decide whether to buy the extra. Starter until they teach *this* shop’s rounding rule.

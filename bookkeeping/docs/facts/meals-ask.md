@@ -1,0 +1,5 @@
+# Meals and entertainment — ask
+
+**Starter / guess until they teach.**
+
+On a typical US desk meals sit in their own account because tax deductibility is often limited. The limit is a return issue, not a bookkeeper opinion. Entertainment is often separate or blocked. The account exists so the CPA can see the pile. Next files are the card-coding pack and receipts with who and why if they keep that. Typical fields are date, payee, amount, who attended if they wrote it, and the meals account name. Files are receipts and the card CSV. Cadence is monthly coding. The bookkeeper codes to meals if that is their account; the CPA applies any tax limit. Shops vary on whether meals are split from travel. Ask. A starter guess until they teach: use their meals account; do not apply a percentage write-down on the books "for the IRS." Common mistakes are applying a 50 percent write-down on the books, inventing per-diem amounts, and hiding owner personal meals in office. Never apply a tax percentage on the books, never invent per diem, never give a deductibility opinion, and never treat a starter "all meals 50 percent" as their books method.

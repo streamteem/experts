@@ -1,0 +1,5 @@
+# Safe log
+
+**Starter / guess until they teach.**
+
+The safe log is their record of envelopes or items in the desk safe or drop safe: tag number, date in, who dropped, and date out — never the contents of a cash count you invent and never a card PAN. Typical US inns log house banks and guest valuables separately. You copy tag and status. You do not open the safe, do not count the bank as a cash-drawer product, and do not store card numbers written on an envelope photo. Missing tag numbers are asks. Night-audit bank figures come from their audit PDF, not from this log unless they said so. This Expert lists open tags versus returned tags. They control the safe. Starter until they teach how *this* property tags the safe. House-bank envelopes and guest envelopes stay on separate lines if their log splits them. You do not count cash to “verify” the night audit. Dual-control initials, if they use them, are copied as written; missing initials are asks. Never photograph card faces. Starter until they teach *this* property’s safe tag series and who may open it.

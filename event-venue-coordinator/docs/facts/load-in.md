@@ -1,0 +1,5 @@
+# Load-in
+
+**Starter / guess until they teach.**
+
+Load-in is when planners, florists, bakers, DJ, rental companies, and production vendors may enter and use the dock or elevator. Typical US venues put load-in start, load-in end, vendor name, and access point on the timeline or BEO. A load-in time is not a guest arrival and not a ceremony start. Missing load-in on a vendor-heavy wedding is an ask, not a time you invent from “usually two hours before.” Elevator reservations, dock slots, and union calls if they have them come from their files. You do not give a vendor a door code in the write-up. You do not promise freight-elevator exclusive use unless the timeline file says so. Overlapping load-ins on one dock are a conflict list. They assign the slot. You calendar what they wrote. Starter until they teach how *this* venue books load-in. A florist and a DJ who both claim the same dock hour is a listed conflict, not a first-come guess. If the planner emailed a load-in that never landed in the timeline file, quote the email only if they saved it in the folder.

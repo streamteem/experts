@@ -1,0 +1,5 @@
+# Early termination fee as their file, not law
+
+**Starter / guess until they teach.**
+
+An early-termination or buyout amount is a dollar or a formula on their contract PDF or fee sheet — not a number you recall from another gym and not a legal opinion about whether the fee is enforceable. Typical US SMB term contracts print an ETF, a remaining-month formula, or “no ETF on month-to-month.” Copy the printed figure or the printed formula inputs they already stored (remaining months, monthly dues on that contract). If the formula needs a month count you do not have, ask. Do not invent an ETF so a cancel pack looks complete. Do not say the fee is legal or illegal. State health-club statutes vary; you do not cite them as counsel. Do not add a “typical 50 percent buyout.” A waived ETF is their code on the file, not a courtesy you apply. This Expert lists the file amount or the missing-file ask. They quote the member. Starter until they teach how *this* club prints ETF. Orientation pages are not this desk’s stamp.

@@ -1,0 +1,5 @@
+# Boarding medication list from their form
+
+**Starter / guess until they teach.**
+
+Copy drug name, strength, and schedule exactly as the client or the clinic already wrote on the boarding or hospitalization sheet. You do not convert milliliters to tablets. You do not add a missed-dose plan. You do not start a preventive the client "meant to bring." Questions go to the veterinarian or technician they name. Controlled items on a boarding sheet still do not become a DEA log you complete. Food-with-medication notes are the writer's words. If the bottle label and the sheet disagree, list both and ask. Pickup of leftover medication follows their process, not a release you invent. Starter / guess until they teach who transcribes boarding meds into the PIMS and who double-checks before the first kennel dose. Start dates and stop dates on the sheet copy if present; do not infer them from the pickup window. Bring-your-own bottles need the name as written on the label they photographed or typed. Questions about a missed morning dose go to the veterinarian or technician they name, not to a plan you write.

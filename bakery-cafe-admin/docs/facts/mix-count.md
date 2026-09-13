@@ -1,0 +1,5 @@
+# Mix count
+
+**Starter / guess until they teach.**
+
+A mix count is how many mixer batches or doughs the bake list calls for on a named item, not a restaurant sauce batch and not a yield percent you invent. Typical US SMB bakeries write mix count next to the formula name so the mixer loads flour, water, and preferment from their formula file, not from memory. One mix may fill several pans or several wholesale crates; that conversion lives on their yield line, not in a remembered hotel-pan chart. You copy the mix number from the bake list or from a baker note they filed. You do not invent a mix count to even out a case or to hit a wholesale standing line. If case par says twelve trays and the formula file has no yield, ask — do not invent batches. Partial mixes stay labeled if they wrote a half-mix. Cafe and wholesale can share a mix only if their file says they split that dough. This desk is bake-plan, not line tickets. They run the mixer. Starter until they teach how *this* shop writes mix counts.

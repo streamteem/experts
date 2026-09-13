@@ -1,0 +1,5 @@
+# Insurance card images
+
+**Starter / guess until they teach.**
+
+Front and back dental-benefit card photos are common intake files in US offices. You may transcribe member ID and group number into their tracking sheet if they asked and the image is readable. Do not store extra card security codes, full payment-card numbers, or a full SSN if the medical card image shows one. If the image is unreadable, glare-cropped, or expired-looking, say so and ask for another file; do not guess digits. Subscriber name on the card may differ from the patient in the chair; keep both if their form does. Payer phone numbers on the back are for *them* to call, not for this Expert. A card image is not an eligibility determination and is not a remaining-maximum figure. Dual coverage means two card images or two plan blocks on registration; list both as written. Do not invent a group number from a similar employer name. Prefer chart number on the tracking row. Starter / guess until they teach which card fields *this* office copies.

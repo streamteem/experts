@@ -1,0 +1,5 @@
+# Late rent as a list
+
+**Starter / guess until they teach.**
+
+A late-rent list is an AR snapshot of units with a balance after the due date this shop uses, built from their roll or aging export, not from a legal demand. Typical fields are unit, charged, paid, balance, last payment date, and any NSF or partial flag they already store. Late fees are their lease and SOP, not a number you invent. Desks keep the list so the office can call, email, or hand a file to counsel without guessing balances. Cadence is often weekly after the grace they use, plus month-end. Ask whether they accept partials, how software applies a partial, and who may promise a plan. Common mistakes are starting eviction language on the list, inventing a late-fee percent, and hiding NSF by deleting the original receipt. Never draft pay-or-quit as counsel, never invent a state's notice period, never promise a payment plan, never take card numbers into this folder, and never move deposit or trust cash to cover a late balance.

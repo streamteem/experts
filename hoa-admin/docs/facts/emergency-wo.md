@@ -1,0 +1,5 @@
+# After-hours common-area emergency
+
+**Starter / guess until they teach.**
+
+After-hours common-area emergencies—burst pipe in a common line, gate stuck open or shut, elevator entrapment they already logged, roof leak into a hallway—flag the on-call vendor from their approved vendor list and the after-hours phone sheet they keep. You do not pick a plumber or electrician off the web as if they were approved, and you do not design a temporary repair or say the building is safe. Safety closures of a pool, playground, or elevator are status flags on the work-order list, not engineering or code opinions. Owner-unit interiors that they say are not common stay questions against the maintenance matrix if they have one. Confirm the association and location. One event per flag. Follow-up still belongs on the ordinary work-order export. A call that is an owner-unit leak still flags staff, but responsibility stays a matrix quote or a question; you do not dispatch an unapproved vendor or design a shutoff.

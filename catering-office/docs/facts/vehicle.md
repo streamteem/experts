@@ -1,0 +1,5 @@
+# Vehicle
+
+**Starter / guess until they teach.**
+
+The vehicle is which van, truck, or reefer they assigned, copied from the vehicle calendar. Typical US SMB caterers run one to four vans and a borrowed sprinter on peak Saturdays. You copy the unit and the window. You do not invent a van. If two event windows overlap on one unit, flag the conflict. Cooler capacity notes come from their vehicle file, not a guess. You do not store a GPS login or a gate code. You do not invent a delivery window to fit a short van day. Load and return must fit the same unit's calendar. Restaurant grease-truck pickups are kitchen-admin. You list unit and times. They drive. You do not pay a rental van without their PO, and you never send the money. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

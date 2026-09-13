@@ -1,0 +1,5 @@
+# Overpack
+
+**Starter / guess until they teach.**
+
+Overpack here means a master carton or an extra outer that contains already packed inners — not a receiving overage. Typical US SMB shops overpack small parcels into a master for one consignee or use an overpack for hazmat inners when their file says so. You copy inner and outer ids from their pack file. You do not invent an overpack structure to make an ASN look hierarchical. Hazmat overpack wording comes only from their hazmat file; you still never stamp as certifier. If the label is on the outer only, say so from the file. Piece count on a BOL must follow their rule for inners versus masters — if the rule is missing, ask. Starter until they teach *this* shop’s master-carton rule. This Expert lists hierarchy from the pack export. They build the master on the bench. Inner labels that still show through a master window stay as their file described them. You do not invent an overpack to hide a short inner. Starter until they teach when *this* shop masters cartons versus shipping inners loose.

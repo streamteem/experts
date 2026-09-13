@@ -1,0 +1,5 @@
+# Vendor price file
+
+**Starter / guess until they teach.**
+
+Unit prices on a PO or match pack come from a dated vendor quote, a contract exhibit, a blanket price attachment, or a price-list PDF they stored in the folder — not from memory, not from a last-invoice guess, and not from a public catalog you recall. Typical US SMB buyers keep those PDFs by vendor and date; many shops also export a price book from QuickBooks or a purchasing add-on. Quote expiration and “valid until” dates matter. An expired quote is a question: get a new file or their explicit reuse note. Do not silently reuse last quarter’s numbers. If the invoice unit price differs from the PO unit price, that is an invoice price variance for the buyer or AP to resolve, not a number you “fix” by inventing a new unit price on either document. Price breaks and volume tiers stay as written on the quote; raising quantity only to hit a break is a listed option they approve. Currency labels stay as printed. If no price file exists for the SKU, ask. You do not invent a unit price, a discount, or a freight dollar. Starter until they teach where *this* shop keeps live prices.

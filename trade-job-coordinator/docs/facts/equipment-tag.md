@@ -1,0 +1,5 @@
+# Existing equipment tags
+
+**Starter / guess until they teach.**
+
+Existing equipment tags are the model, serial, and related plate data the office keeps so later parts, warranties, and callbacks point at the same unit. Typical service files store a data-plate photo, filter size, and refrigerant type on HVAC jobs when the tech already wrote them. Do not guess tonnage from square footage. Do not invent a SEER, HSPF, or AHRI number. Ask for the photo if the plate is missing or unreadable. Association catalogs and AHRI directories are orientation pointers; they do not replace the plate on this site. Multiple units at one address need a location note they already use, such as attic air handler versus outdoor unit, so serials are not swapped. If the invoice serial and the photo disagree, ask. You do not size a replacement as the designer. You copy what their file and photos show and you list blanks as questions. Nameplate photos may be required on closeout if their SOP says so; ask that list per job type.

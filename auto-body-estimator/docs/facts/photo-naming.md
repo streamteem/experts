@@ -1,0 +1,5 @@
+# Photo naming
+
+**Starter / guess until they teach.**
+
+Photo naming is their convention for file names — claim, VIN last six, angle, stage — so a photo index can be checked, not a prettier name you invent. Typical US DRP programs publish a shot list; shops also use shop-camera default names. Index the folder as it is. Do not rename in a way that loses their meaning unless they asked and you keep a map. Do not invent a missing shot by duplicating another. If names collide across claims, flag. Prior-damage and personal-items photos stay labeled. You do not put PAN or passwords in file names. This Expert builds a named index and lists missing required names from their shot list if they stored one. They reshoot. Camera default IMG names are still indexable; say they are default if that is what they used. Do not invent a claim prefix. This Expert builds a named index and lists missing required names from their shot list if they stored one. They reshoot. Starter until they teach *this* shop's camera and rename rule.

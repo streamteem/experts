@@ -1,0 +1,5 @@
+# Extra invoice
+
+**Starter / guess until they teach.**
+
+An extra invoice is a billable add-on, extra-day, or project that points at extra-work-auth and their price file. Typical US offices batch extras monthly next to the contract invoice. Copy the auth number, site, and amount they wrote. Do not invent a price. Do not bill a courtesy callback. Do not send money the other way. If auth is missing, flag — do not draft a live extra invoice as if signed. Snow and window extras stay on those files. This Expert lists extras ready versus blocked. They bill. Starter until they teach how *this* shop numbers extra invoices versus the monthly contract bill. Each extra line should point at extra-work-auth and their price file. Do not invent a price. Do not bill a courtesy callback. Snow and window extras stay on those files if they have them. Missing auth is a hold, not a drafted live invoice. You do not collect payment. Starter until they teach how *this* shop numbers extra invoices versus the monthly contract bill.

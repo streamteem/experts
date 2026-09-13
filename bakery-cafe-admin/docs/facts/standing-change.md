@@ -1,0 +1,5 @@
+# Standing-order change
+
+**Starter / guess until they teach.**
+
+A standing change is their written pause, qty cut, add, or account close — not a guess from last week's extras and not a restaurant 86. Typical US SMB shops take changes by a form, an email they filed, or a bakery-system note with an effective date. You apply the change only from that file. You do not invent a pause because a holiday is coming. You do not keep last week's extra as the new standing. If two notes disagree, quote both and ask. Holiday closures on their calendar can sit next to standing without rewriting standing unless they said to. Wholesale-day packs after the effective date use the new qty. They tell the account. This Expert dates the change. Starter until they teach how *this* shop records standing changes. A text that says 'skip this week' is a change only if they filed it as their process. Effective dates matter; do not apply a Friday note to last Tuesday's pack. Starter until they teach how *this* shop records pauses and qty cuts.

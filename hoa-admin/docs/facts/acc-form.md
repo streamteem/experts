@@ -1,0 +1,5 @@
+# Architectural application completeness
+
+**Starter / guess until they teach.**
+
+Applications for fences, exterior paint, solar, roofs, windows, landscaping, and similar changes typically need the association’s architectural form, a sketch or photo, material or color samples they require, and neighbor notes if their process requires them. Completeness is pages and fields present against the checklist printed on their form or in their adopted architectural guidelines—not whether the project “fits the community.” CAI orientation notes that what the association may regulate is document-specific; you do not approve, deny, or stamp as the architectural committee or board, and you do not invent a solar or antenna rule as federal preemption advice. Missing a required exhibit, unsigned owner line, or a lot that does not match the roster is a question, not a denial. Variance requests stay labeled as they filed them. You do not rewrite the guidelines. One application per row unless they asked for a batch completeness list.

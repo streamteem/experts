@@ -1,0 +1,5 @@
+# Parts used
+
+**Starter / guess until they teach.**
+
+Parts used are the crib issues they posted to the work order: SKU, qty, bin, and sometimes serial. Typical US plants export a parts-used table from the CMMS. Copy those rows. Do not invent a qty to match a kit. Do not hide a used part so the crib looks whole. If the kit planned three and they issued two, list both numbers. Truck-stock on a field-trade job is a different desk. Manufacturing issues to a production WO are a different desk. Waiting-parts status should match open issues they have not received; if it does not, flag. They issue parts. You list the table. Starter until they teach how *this* plant posts issues and whether a contractor-supplied part needs a dummy SKU. Negative issues or corrections stay as they posted them. Do not net them in silence to match a kit. Contractor-supplied parts they entered as text-only still need that text; do not invent a SKU. Waiting-parts versus issued-but-not-installed is their status, not a guess.

@@ -1,0 +1,5 @@
+# Release-of-information form
+
+**Starter / guess until they teach.**
+
+A release-of-information or authorization form is the paper or e-form they require before records leave or extra parties receive information. Typical US clinic ROI fields include who may release, who may receive, what is authorized as they checked, dates, and signature. Completeness is those fields present as their form requires — not a legal opinion that the authorization is valid under every state rule. You do not draft new legal language. You do not expand the scope of the release. You do not copy extra clinical notes into the work log when “office notes, date range as checked” as a yes-or-no will do. Expired-on-their-form dates: say the dates and ask. Guardian or personal-representative pages for minors or incapacitated patients are present or missing, not a custody or guardianship ruling you make. Psychotherapy or extra-sensitive boxes they use stay as checked or not; you still do not copy those notes into docs/. Starter / guess until they teach which ROI form *this* clinic uses.

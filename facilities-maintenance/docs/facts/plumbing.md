@@ -1,0 +1,5 @@
+# Plumbing work orders
+
+**Starter / guess until they teach.**
+
+Plumbing on this desk is a work-order craft or request about drains, restrooms, domestic water, or process piping they named. Typical US plants write leak and backup tickets against a room or an asset. You list the requester's words and the location they stored. You do not diagnose the pipe. You do not claim a plumbing contractor license. You do not say the work is code-compliant. Water-outage versus a single fixture stays as they coded it. Construction underground utilities and field-trade house calls are different desks. Shutdown of a process water line needs their shutdown window, not a guessed hour. Parts used come from the crib or the PO link. They assign the craft. Starter until they teach how *this* plant tags plumbing assets and when a leak is emergency. Process drains and domestic water stay separate if they tagged them that way. A flood ticket may also need a janitorial extract row; keep both numbers. Do not invent a pipe size.

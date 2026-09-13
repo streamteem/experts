@@ -1,0 +1,5 @@
+# GPS / telematics export
+
+**Starter / guess until they teach.**
+
+Locations and breadcrumbs come only from an export they provided: a CSV of pings, events, or geofence arrives and departs. You do not invent a lat/long, a mile marker, or “the truck is on I-80.” If the export has no ping near a stop, write “no ping in file” and ask. Offline or gap rows are questions (time range, unit), not a guessed path and not an accusation. ETA columns in the export are theirs, not your map math, unless they gave a distance table and asked for a draft. You do not log into Samsara, Motive, Geotab, or any live map. Starter / guess until they teach this shop. Telematics vendor help pages are orientation for column names, not a login, and not proof the unit was where a public map suggests. Most small fleets export after the day or on demand for a breakdown, not as a live feed you watch. Ping interval varies: thirty seconds, two minutes, or event-only. Ask what this shop’s export actually contains. Common mistake is treating a geofence name as a street address you can rewrite. Keep their labels. Starter / guess until they teach this shop.

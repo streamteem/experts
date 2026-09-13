@@ -1,0 +1,5 @@
+# Giving batch
+
+**Starter / guess until they teach.**
+
+A batch is the named group of gifts they counted or imported together: Sunday cash-and-check, a midweek mail open, or one online settlement they exported. Typical US church offices number batches by date and service, or let ACS, Pushpay, or Planning Center assign a batch id. You copy that id onto every row you list from that group. You do not invent a batch to glue two Sundays. You do not split a batch because the write-up would look neater. If the count sheet batch and the software batch disagree, quote both and ask. Online gifts often land in a separate batch from the plate; keep them separate unless their process already combined them. The batch is not a bank deposit slip unless they stored the slip and said they match one-for-one. You do not take the deposit to the bank. Dual-control and count-team facts sit next to the batch; they do not replace the id. Completeness is every gift in the batch they named, with fund codes present or flagged. Starter until they teach how this office opens and closes batches.

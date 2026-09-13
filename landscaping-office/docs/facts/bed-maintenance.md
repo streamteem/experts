@@ -1,0 +1,5 @@
+# Bed maintenance
+
+**Starter / guess until they teach.**
+
+Bed maintenance is recurring or monthly work they sold: weeds as they define it, edging, prune notes they already wrote, and trash. Typical US maintenance contracts split “beds included” versus mow-only. Use their scope. Do not recommend a herbicide mix as a license. Do not diagnose a shrub disease. Do not invent hours because the beds “look heavy.” Extra plantings are enhancements with auth. HOA specs may define a neat edge; quote the spec. Photos help callbacks. You list the stops and the scope file. They set the bed crew. Starter until they teach how *this* shop defines weed-free and who may cut shrubs. Prune notes they wrote are scope, not an arborist cut list. Do not invent a herbicide. Extra color installs are enhancements. If weekly mow and monthly beds share a property, keep two service types. Photos help a weedy callback without becoming a diagnosis. Starter until they teach how *this* shop defines weed-free, who may cut shrubs, and whether beds ride the mow truck or a bed crew.

@@ -1,0 +1,5 @@
+# Posted occupancy
+
+**Starter / guess until they teach.**
+
+Posted occupancy is the number on their door placard or room-inventory sheet for a named setup, if they split theater versus banquet. Typical US venues show one number; some show several. You copy the matching line. You do not invent a capacity from square footage you guessed. You do not promise the room holds the guarantee if the posted number is lower; you flag it. Combined rooms and airwalls may have a different posted number — use the combined line if they have one. ADA inventory does not change the posted number unless their sheet says so. You do not give a capacity-law opinion. Setup that exceeds posted is a question for them, not a quiet extra table. Starter until they teach *this* venue’s placard versus inventory sheet. Ceremony theater versus banquet rounds may have two posted numbers; use the one that matches the function. You do not average them. Standing cocktail occupancy is not a number you invent from banquet chairs. Kids in the count follow however their placard file treats them, or ask.

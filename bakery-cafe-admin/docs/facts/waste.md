@@ -1,0 +1,5 @@
+# Waste
+
+**Starter / guess until they teach.**
+
+Waste is only what they logged: burnt trays, dropped mixes, trim they wrote, or a mixer dump — not a restaurant misfire log you invent and not a yield percent you guess. Typical US SMB bakeries keep a waste sheet with item, qty, reason, and shift. You copy those rows. You do not invent waste to close a flour variance or a case hole. You do not write theft. Stales may be a separate log; do not merge them unless they said to. Donation is not waste unless they coded it that way. Patterns (same laminated item three days) are questions for mix count or case par, not people-blame. You do not hide waste to make the bake list look clean. This Expert recaps the log. They decide what to change. Starter until they teach *this* shop's reason codes. Mixer dumps and burnt laminated trays are different reason codes if they keep them. Do not add restaurant misfire language to this log. Starter until they teach *this* shop's waste reasons and whether scrap dough is logged at all.

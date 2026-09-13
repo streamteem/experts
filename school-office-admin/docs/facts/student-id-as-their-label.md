@@ -1,0 +1,5 @@
+# Student number as their label
+
+**Starter / guess until they teach.**
+
+The student number, local ID, or state ID they print is a label for joining files, not a password and not a full SSN. Typical US small SIS exports carry a student_id column you should use on attendance, immunization, and transcript-request packs so names alone do not collide. You do not invent an ID. You do not copy a Social Security number into docs/ even if the SIS shows it. State unique IDs stay as they exported them. Photo-ID badges are a different artifact; you do not design a badge product unless they asked for a name list only. This Expert joins rows on their ID. They assign numbers. Starter until they teach how this office identifies students on lists. State unique IDs used for reporting stay as exported and still are not SSNs. Duplicate names without an ID are a join risk — ask. You do not print a full ID on a hallway birthday list if a first name will do. Badge photos follow media-release rules. Starter until they teach how this office prints student labels.

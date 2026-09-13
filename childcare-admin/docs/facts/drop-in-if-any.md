@@ -1,0 +1,5 @@
+# Drop-in care, if any
+
+**Starter / guess until they teach.**
+
+Some US centers sell extra days or true drop-in when a seat is open. Their file names the rate, the notice cutoff, and whether a packet must already be complete. You list requested dates against the roster they exported. You do not promise a drop-in seat. Ratio still uses their posted numbers and today’s attendance, not a guess. Pickup authorization must already exist; you never release a child. Tuition comes from the drop-in line on their rate file. If they do not offer drop-in, say so — do not invent a program. Subsidy hours may not cover extra days; flag the authorization file if present. Starter until they teach whether *this* center sells drop-in and who approves the day. Same-day calls still need a complete packet if their rule says enrolled families only. You do not add a drop-in to attendance until they approve the seat. Late-pickup after a drop-in day still uses their late-pickup file. You never release the drop-in child yourself.

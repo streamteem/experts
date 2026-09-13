@@ -1,0 +1,5 @@
+# Surgery drop-off forms completeness
+
+**Starter / guess until they teach.**
+
+Drop-off paperwork in ordinary US clinic English is a set of forms: procedure consent the doctor uses, fasting note as they printed, contact numbers for the day, estimate signed if their process requires it, and sometimes CPR or resuscitation choices they already printed. Completeness is yes or no on each page, signature, and date. You do not explain anesthetic risk. You do not add a dental, a lump removal, or pre-anesthetic bloodwork to the consent because many hospitals include them. Pickup window as written goes on the huddle list. Belongings and collar notes copy out. If the consent names one procedure and the estimate names another, list the mismatch and ask. Starter / guess until they teach which packet is current and who reviews it before the animal goes to treatment. CPR or DNR choices, when their form has them, are completeness checks only. You do not explain those choices. A missing phone number for the day of surgery is a flag before the animal goes to treatment. Do not add a dental consent because the estimate mentioned teeth.

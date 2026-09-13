@@ -1,0 +1,5 @@
+# Wait list
+
+**Starter / guess until they teach.**
+
+A wait list is their ordered file of patients who want an earlier slot, a specific provider, or a visit type that was full. Typical US clinic desks keep it in the EHR or a workbook: chart label, requested type, provider preference if any, date added, and contact preference they already stored. You list in their order. You do not reorder to favor a friend or a plan type. You do not diagnose urgency from the reason field; emergency wording still flags staff now and still does not become a diagnosis. You do not message patients as a product. They call or text from their own tools. When a cancellation opens a slot, you may show matching wait-list rows against that slot’s type, provider, and duration from their files — they pick who is offered. Do not invent that someone was reached. Extra phones the send-list does not need stay out of the write-up. Starter / guess until they teach how *this* clinic orders and expires wait-list rows.

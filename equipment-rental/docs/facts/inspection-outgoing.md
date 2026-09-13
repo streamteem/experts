@@ -1,0 +1,5 @@
+# Outgoing inspection
+
+**Starter / guess until they teach.**
+
+Outgoing inspection is the yard’s checklist and photos before the unit leaves: hours, fuel, existing marks, accessories, and operator-manual present if they track it. Typical US SMB counters walk the machine or use a tablet form. You record completeness: form present, signed if their process requires a signature, photos named to the unit, meter copied as written. You do not invent a fuel percent or an hour reading. You do not diagnose a noise as “needs a pump.” If the checklist is blank and their rule says no unit leaves without it, say incomplete. Indoor/outdoor and height asks stay as questions they already wrote, not engineering. Licensed-operator ask is a checkbox they use, not a stamp you award. Starter until they teach *this* yard’s form and whether delivery drivers complete outgoing on site. Photos belong in their photo folder with the unit and date in the filename they want. Card PAN does not belong on the inspection sheet.

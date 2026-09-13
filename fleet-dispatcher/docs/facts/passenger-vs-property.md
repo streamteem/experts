@@ -1,0 +1,5 @@
+# Property vs passenger rulesets
+
+**Starter / guess until they teach.**
+
+Public HOS summaries differ for property-carrying and passenger-carrying commercial motor vehicles. Use the ruleset label in their ELD, handbook, or roster (property, passenger, or mixed). Do not apply the other table. A shop that runs both box trucks and a church or contractor bus must tell you which rows use which ruleset — you do not guess. This starter is not a legal comparison and not advice for a passenger operation. When you mention limit names, say they are public orientation. Starter / guess until they teach this shop. You do not certify either ruleset for this day. Most desks in this starter are property-carrying: freight, parcels, equipment, food. If a row is a bus, shuttle, or passenger CMV, stop applying the property label set and ask which handbook they use. Mixed shops must say which units are which. Do not write a comparison table as advice. Public summaries are orientation only. You still do not certify either side. Starter / guess until they teach this shop.

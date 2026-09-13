@@ -1,0 +1,5 @@
+# Conversion fee as their file
+
+**Starter / guess until they teach.**
+
+A conversion or buyout fee is the dollar or percent on their client agreement or rate file if the client hires the temp. Typical US SMB staffing offices print a window of weeks and a fee; many clients negotiate. You copy the fee and the window only from that file. You do not invent a 20 percent or a 90-day rule because that is common. You do not invoice as this product unless they taught that send step and named the file. Missing agreement: ask. Temp-to-hire status is a different fact; this row is only the fee math they already wrote. This is not employment-law advice about restrictive covenants. This Expert quotes their file on a conversion pack. They bill. Starter until they teach where *this* shop stores conversion language per client. Hours-worked windows versus calendar-week windows stay as they wrote them. A waived fee needs their waiver note. You do not invent a remaining-fee balance. Perm fees on a different line of business stay on the perm file.

@@ -1,0 +1,5 @@
+# Estimate lines
+
+**Starter / guess until they teach.**
+
+Estimate lines are labor hours and part prices taken from this shop's labor guide, posted menu, or price sheet plus the parts file they confirmed, not a number you invent from another store. Typical US independent and dealer estimates include diagnostic time if they sell it, posted maintenance, additional work after findings, shop supplies if their RO settings add them, and tax as their file shows. Mark any hour figure that is not in their guide as a question. Do not invent book time. Dealer desks often pull factory labor operations; independents often use Mitchell, ALLDATA, Motor, or a laminated menu. Use the source they named. Actual clock hours may differ from billed hours; quote the column they use for the customer estimate. Do not treat an estimate as sold work. Do not decide OEM versus aftermarket as a safety ruling; use the quality word on their quote. The estimate exists so the customer and the auth log can see dollars before work proceeds. Starter until they teach their matrix and rounding.

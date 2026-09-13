@@ -1,0 +1,5 @@
+# Count units vs order units
+
+**Starter / guess until they teach.**
+
+Most independent kitchens count in the unit the line sees — pans, quarts, each — and order in the unit the vendor sells: case, split case, catch-weight pound, or loaf rack. The order guide should show both units or a conversion they already use (for example six number-ten cans per case, four quarts per hotel pan). You do not invent a case pack, a split price, or an average weight to make the math neat. Catch-weight proteins and cheeses bill by the pounds on the invoice or receiving scale, not by a remembered average. If their count says two pans and the vendor sells cases, convert only with the factor on their guide or recipe card. If the factor is missing, ask; do not assume a Sysco case pack from another restaurant. Mixed units on one line (each and case in the same qty cell) are a question. Keep count unit and order unit in separate columns on the pack when both exist. Starter conversion talk is orientation. Their printed unit wins.

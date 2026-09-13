@@ -1,0 +1,5 @@
+# Vacancy and loss-to-lease
+
+**Starter / guess until they teach.**
+
+Vacancy and loss-to-lease are owner-talk math: vacant days times charged rent, or charged versus market, using definitions this shop already uses. Desks keep the calc on the owner pack so downtime is visible and so concessions are not hidden inside one hundred percent occupied. Cadence is monthly with the pack, plus a weekly vacant list. Ask their definitions and as-of date, and ask whether they count a notice unit as vacant. Common mistakes are inventing market rent, hiding concessions, and leaving a past tenant on the roll to zero vacancy. Never invent comps as an appraisal, never steer by who lives nearby to fill a vacant, never stamp a vacant as habitable to start the clock, never store lockbox passwords on the loss sheet, and never move deposit or trust cash to paper over vacancy. A loss number without their definition is a question, not a KPI you invent. Ask whether they multiply vacant days by charged rent or by asking rent, and whether notice units count. Use their definition on the owner pack. Do not invent market rent and do not hide concessions inside full occupancy.

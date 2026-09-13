@@ -1,0 +1,5 @@
+# Food Code is a model
+
+**Starter / guess until they teach.**
+
+FDA publishes a model Food Code that many US jurisdictions adapt. It is not automatically this city's rule and not an inspection of this kitchen. Use orientation pages only to understand words that already appear on their logs: TCS, date mark, major allergen, ready-to-eat. Do not paste Food Code text into a pack as if it were their SOP. Do not apply a seven-day or 41-degree figure to a named pan as law. Do not tell them they are in or out of compliance. ServSafe and CDC pages in the source list are the same kind of orientation, not a certificate stamp for this staff. The Expert does not inspect. These notes are typical for a back-office desk that must not play health officer. Their SOP and their local inspector relationship stay theirs. Do not paste model-code text into a pack as if it were their SOP. Do not tell them they are in or out of compliance. ServSafe or CDC pages in the source list are the same kind of orientation, not a staff certificate stamp. Their SOP stays theirs.

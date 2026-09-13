@@ -1,0 +1,5 @@
+# VIN decode as their tool
+
+**Starter / guess until they teach.**
+
+A VIN decode is the print or screenshot they already ran in their estimating system or a NHTSA vPIC page they saved, not a decode you invent and not a parts-fit stamp. Typical US collision estimators decode to confirm year, make, model, paint, and build options before writing parts. Copy the decode they filed. Do not run a live guess and then type options they did not store. Do not change the VIN to make the decode pretty. NHTSA decoder pages are orientation; their saved print is the file. If decode and the assignment YMM disagree, list both. Mechanical VIN decode on an RO is a different print unless they attached it here. This Expert attaches their decode to the pack. They pick options. Options they did not store stay off the parts list. A live vPIC run you do without their print is not their file unless they asked you to save it. This Expert attaches their decode to the pack. They pick options. Starter until they teach whether *this* shop trusts the estimating decode or a second tool.

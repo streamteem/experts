@@ -1,0 +1,5 @@
+# Food invoices
+
+**Starter / guess until they teach.**
+
+Food invoices for a typical independent arrive as vendor PDFs, emailed CSVs, or paper tickets stuffed in a box by the back door. Broadline houses (Sysco, US Foods, PFG, Gordon, regional) plus produce, protein, bread, dairy, and coffee each send their own. You match lines to the order: item or SKU, quantity, pack, unit price, catch weight, and extended price. Shortages, substitutions, price jumps off bid, damaged cases, and mispicks are questions for the person who talks to the vendor. You do not pay the invoice, move money, or mark it paid. You do not invent a credit-memo dollar amount. Keep account numbers and portal logins out of this folder; a vendor name and invoice number are enough. Catch-weight meats use the weight on the ticket, not an average you remember. Fees, fuel, and freight in the footer are copied from that invoice, not from last week. These notes are typical AP-adjacent kitchen practice, not this shop's books until they teach. Alcohol-license questions on a mixed ticket still go to the person they name.

@@ -1,0 +1,5 @@
+# Incident routing
+
+**Starter / guess until they teach.**
+
+Incident routing is how this office moves a floor event to the person they named: play-scrape, escape attempt, missed med as they logged it, or a bite as their form — not a legal case you decide and not a diagnosis you write. Typical US daycare and boarding shops keep an incident log in software or a paper binder plus a named form. Your work is a row: time as they recorded, patient-dog, client label, form present or missing, and who was notified as their process. You do not name a disease. You do not say the other dog “started it” as a finding. You do not promise a veterinary outcome. Photos, if they attach them, stay in their photo folder with a filename; you do not post. A complete log is not permission for you to call the client unless they asked you to draft from their script and they send it. This is not a veterinary emergency triage book. Starter / guess until they teach interrupt rules, who completes the form, and whether insurance or a waiver packet is attached. Do not present this note as this shop’s liability policy.

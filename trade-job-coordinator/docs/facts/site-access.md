@@ -1,0 +1,5 @@
+# Site access notes
+
+**Starter / guess until they teach.**
+
+Site access notes tell the crew how to reach the work without wasting a trip: occupied versus vacant, commercial receiving hours, HOA quiet hours, child nap hours, a dog in the yard, parking, and whether a hoist or elevator is needed for equipment. Typical US SMB offices keep those notes on the job or the customer card so the morning board is not a surprise. Gate codes, lockbox combinations, and alarm PINs are secrets. Point to the vault they already use; do not paste codes into docs/ or into a write-up. Ask where they store access secrets and what the tech is allowed to see on the ticket. Ask about parking and lift constraints on heavy equipment days. Wrong access notes waste a day and can create a safety problem at a gated site. Do not invent a lockbox. Do not write that you entered the house. If the customer will not be home, use their not-home SOP as a question, not a code you create. Pets and children belong as flags, not veterinary or parenting instructions.

@@ -1,0 +1,5 @@
+# Area split
+
+**Starter / guess until they teach.**
+
+An area split is how they carved a site into assignable pieces: floors, wings, or restroom groups on the site map and the schedule. Typical US large buildings have a split sheet so two crews do not claim the same wing. Copy their labels. Do not invent a smarter split. Do not invent hours per area unless their productivity sheet already splits them. Quality checklists and punch lists should use the same area names. Missing splits on a multi-crew site stay a question. Walking-route can follow the split but is a different fact. This Expert lists areas they named. They redraw splits. Starter until they teach how *this* shop names floors versus customer suites. Two crews on one site need the split they already drew; do not invent a smarter map. Hours per area come only from their productivity sheet if it splits. Quality checklists and punch lists should use the same area names. Missing splits on a multi-crew site stay questions. Walking-route can follow the split but is a different fact. Starter until they teach how *this* shop names floors versus customer suites.

@@ -1,0 +1,5 @@
+# Rework
+
+**Starter / guess until they teach.**
+
+Rework is extra operations or a return to an earlier operation to make a rejected piece good, as their rework ticket or router addendum says. Typical US SMB plants open a rework job, add ops to the existing traveler, or keep a red-tag packet. You list rework from their file. You do not invent a rework routing. You do not invent hours. You do not stamp the piece good. Quality or MRB owns disposition; this desk only schedules what they released back to the floor. If rework consumes material, the shortage or kit list must show it. Rework due dates come from their ticket, not from hope. Do not hide rework inside the original job’s complete qty. Starter until they teach how *this* shop numbers rework and whether it shares the original work-order number. A rework traveler that skips incoming inspection is a completeness question if their form has that box. You do not invent a cycle time for the extra ops. If they never released the piece back to the floor, it stays on the MRB file, not on dispatch as if it were good WIP.

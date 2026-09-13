@@ -1,0 +1,5 @@
+# Traffic log
+
+**Starter / guess until they teach.**
+
+A traffic log is the day's or week's count of people who contacted the community, grouped by how they arrived, not a sales forecast and not a promise that a unit will lease. Typical US leasing desks tally walk-ins, phone calls, emails, website or ILS leads, locator referrals, and resident referrals on a clipboard, a CRM dashboard, or a PMS export. You build the log from guest cards and source labels they already recorded. You do not invent a source to make the week look busy, and you do not drop a card because the person did not tour. Same-day duplicates (a call and a later walk-in) stay two rows unless their file says to merge. Traffic is not the same as applications or move-ins; keep those counts on separate lists if they track them. A quiet Tuesday is a quiet Tuesday. You do not rewrite history to match a monthly goal. This pack is a source list plus a write-up they can take to a meeting. They decide what to change in ads or hours. Starter until they teach how *this* shop codes traffic and which channels they merge.

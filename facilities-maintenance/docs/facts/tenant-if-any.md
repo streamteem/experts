@@ -1,0 +1,5 @@
+# Tenant if any
+
+**Starter / guess until they teach.**
+
+Tenant rows exist only if they operate a multi-occupant building and stored a suite or occupant label on locations or tickets. Typical US campuses bill some work back and restrict access to suites. You list the tenant label they stored. You do not give a landlord-tenant legal opinion. You do not evict. You do not invent a lease clause. Property-manager and HOA desks are different products; this desk only tracks maintenance tickets and bill-back files they already keep. If they have no tenants, say none. Access process still applies; secrets stay out of docs/. They own the roster. Starter until they teach how *this* campus labels suites and when a ticket needs a tenant name. Suite numbers come from their roster, not a door photo you guess. After-hours tenant work still follows access and silent-hours files. Do not write a lease opinion about who must pay; bill-back is a separate file. Empty suites stay empty if they labeled them vacant.

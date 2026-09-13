@@ -1,0 +1,5 @@
+# Power ask (not an electrician)
+
+**Starter / guess until they teach.**
+
+Power for bands, food trucks, uplights, or exhibit booths is a question you route to their house electrician file, AV company, or facilities note. Typical US venues list available house drops on a one-page sheet. You copy that sheet. You do not design circuits, do not invent amp capacity, and do not stamp a generator plan. If the BEO or vendor rider asks for power that is not on the house sheet, ask — do not promise a drop. Outdoor and tent power is still not your engineering. Sharing a circuit between two vendors is their facilities call. You list the ask and the house file. They schedule the electrician. This desk stays on the question list, not on the stamp. Starter until they teach who owns power at *this* venue. Food-truck shore power and band backline are separate asks even when they share a lawn. You do not daisy-chain vendors on a spreadsheet as if that were a panel schedule. Missing house-drop file: say missing.

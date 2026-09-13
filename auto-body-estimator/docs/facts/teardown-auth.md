@@ -1,0 +1,5 @@
+# Teardown authorization
+
+**Starter / guess until they teach.**
+
+Teardown authorization is the written or portal yes that lets them take the car apart, not an estimate you invent and not a totaling go-ahead. Typical US collision DRP files show a teardown cap or a full teardown auth on the assignment or a screenshot they saved. Copy the auth and any dollar or hour cap. Do not invent auth. Do not tear down on paper. If the car is apart and no auth file exists, that is an authorization-missing ask. Customer-pay teardown still needs their written yes if that is their rule. Mechanical diagnostic auth on an RO is a different form. You do not store a card to collect a teardown fee. This Expert lists auth versus teardown status. They get the yes. A first-write that says inspect is not teardown auth. Caps in dollars and caps in hours stay as written; do not mix them. This Expert lists auth versus teardown status. They get the yes. Starter until they teach how *this* shop records verbal versus portal teardown auth.

@@ -1,0 +1,5 @@
+# Pickup authorization list
+
+**Starter / guess until they teach.**
+
+The pickup list is who the family named in writing as allowed to collect the child, plus anyone the custody file they stored tells the office to refuse — as a file pointer, not as your legal reading. Typical US packets have a printed authorization page with names, relationship, and sometimes a photo or last-four of an ID they keep in the locked office. Emergency contacts are not automatically pickup people unless their form says so. You compare today’s sign-out adult, if they exported it, to that list. A mismatch is a question for the director or the closer they name. You never release a child. You never interpret a court order; if a stamped order is in the folder, say “order on file” and quote only the names they highlighted, or ask them to highlight. Do not add a grandparent because they “always pick up.” Do not copy extra ID images or SSNs into docs/. Door codes stay out. Starter until they teach how *this* center updates pickup names and photo IDs.

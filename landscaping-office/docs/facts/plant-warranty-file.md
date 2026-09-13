@@ -1,0 +1,5 @@
+# Plant warranty file
+
+**Starter / guess until they teach.**
+
+Plant and install warranties are only what their contract, proposal fine print, or warranty PDF says: months, one replacement, watering responsibility, and exclusions. Typical US design-build and enhancement shops print a short warranty; many maintenance-only shops print none. Copy their file. Do not promise survival, bloom, or that a tree will “take.” Do not diagnose why a plant died. Watering, salt, and dog-damage exclusions stay as written. If they have no warranty file, say none — do not invent a one-year replacement to close a callback. Warranty labor versus plant cost, if split on their sheet, stays split. Commercial specs may point to a different warranty than the residential menu; quote the file that matches the job. You list the written terms. They decide a replacement. Starter until they teach how *this* shop honors plant calls. Replacement labor versus plant cost, if they split it on a callback sheet, stays split. Do not invent a survival percent. Starter until they teach how *this* shop dates a warranty clock and who signs a replace.

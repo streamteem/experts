@@ -1,0 +1,5 @@
+# Referral out as routing
+
+**Starter / guess until they teach.**
+
+When the veterinarian already referred, front-desk work is records-bundle completeness and a log that the file was sent: date, destination, method, and what went. List missing items they usually include, such as recent labs, vaccine history as stored, current medications as listed, and imaging filenames. You do not pick the specialist or the emergency clinic. You do not decide the case is surgical. Emergency-clinic after-hours numbers belong on their posted list, not invented from a map. Referral forms they already use may need client signature; completeness is yes or no. Do not promise an appointment time at the receiving hospital unless they gave you that confirmation to copy. Starter / guess until they teach preferred referral hospitals, what this doctor packs, and who calls the specialist's desk. If the receiving hospital asked for a specific form or a CD of images, list those as present or missing. Do not promise the specialist will take the case. Keep one referral per log row unless they asked to batch a household.

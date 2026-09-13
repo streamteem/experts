@@ -1,0 +1,5 @@
+# Owner records request log
+
+**Starter / guess until they teach.**
+
+Owner records-request logs typically include date received, lot, what they asked for in their words, and whether the item is in the association folder. CAI retention and governance notes treat minutes, budgets, and many governing documents as ordinary member records; personnel files and some collections or attorney files are often restricted. You do not give a statutory deadline, inspection-location rule, or copy-fee schedule as legal advice. You do not hide a public minute because it is embarrassing, and you do not release a restricted file because the request was polite. Redaction of extra owner contact data follows their policy if they have one—ask. Confirm the association. One request per row. Attorney-client and personnel files stay restricted unless they tell you a specific page may go out; you do not decide the statutory inspection right, you do not hide ordinary approved minutes, and you do not invent a copy-fee schedule as law.

@@ -1,0 +1,5 @@
+# Escape or near-escape log
+
+**Starter / guess until they teach.**
+
+An escape log is their row when a dog left a yard, a lobby, or a van, or when a near-miss is written that way. Typical US daycare offices treat gate and door events as operations records. Copy time, place as they wrote, patient-dog, and who was notified. You do not decide negligence. You do not write a legal conclusion. You do not invent a search radius. Belongings such as a broken leash may appear on the same stay’s belongings list. Incident-routing still applies. You do not post a lost-dog flyer. Chip and license numbers copy as on file if they ask for a description sheet they already use; you still do not log into a registry. This is not a veterinary lost-pet hospital protocol, though a vet-on-file number may be a callback they use. Starter / guess until they teach who owns the log, who calls the client, and whether cameras are reviewed by a named person. Do not present this note as this shop’s emergency search plan.

@@ -1,0 +1,5 @@
+# MPS as their file
+
+**Starter / guess until they teach.**
+
+A master production schedule is their dated file of what to make in which period, often weekly buckets for stock items and firm jobs. Typical US SMB plants keep an MPS workbook the owner or planner updates. You list jobs against that file. You do not invent an MPS. You do not invent ATP from an MPS that has no available-to-promise column. If the MPS and the work-order due dates disagree, quote both. Frozen fences, if they wrote them, stay as written; you do not move a firm period without asking. The MPS is not an ECO and not a customer promise by itself. Shortages in the period stay visible. Starter until they teach who may edit *this* shop’s MPS and what firm versus planned means. Planned versus firm rows stay as they coded them. You do not firm a planned bucket to make dispatch look released. A period with no MPS file is not a license to invent a weekly plan. Customer orders that consume a bucket stay visible as demand, not hidden.

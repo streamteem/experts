@@ -1,0 +1,5 @@
+# Vaccination titer as a file, not a reading
+
+**Starter / guess until they teach.**
+
+A titer letter is a PDF they stored when a client offered lab paper instead of or besides a vaccine certificate. Your work is filename present or missing and whether their written intake list accepts a titer page for a named requirement. You do not interpret the number. You do not say immunity is adequate. You do not decide a vaccine is due because a titer looks low. You do not decide a vaccine is unnecessary because a titer looks high. That medical decision stays with a veterinarian and with their written facility rule, not with this Expert. If their rule file says “certificate only,” list the titer as extra paper and the certificate as missing. Do not copy result tables into docs/ when a filename will do. This is not a veterinary lab-routing desk. Starter / guess until they teach whether *this* shop accepts titers for any named page and who reviews the letter. Do not present this note as a titer policy stamp.

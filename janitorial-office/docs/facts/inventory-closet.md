@@ -1,0 +1,5 @@
+# Inventory closet
+
+**Starter / guess until they teach.**
+
+An inventory closet is a named on-site cage or closet they count: site, location label, and the par rows that live there. Typical US offices number closets on the site map and keep a par sheet per closet. Copy the closet id. Do not invent a closet to park leftover cases. Do not store a lock combination. Chemicals in the closet still need SDS-index rows. Day-porter and night crews may share a closet; still one par unless they split sheets. Barcode locations if any stay as they coded. A count they dropped is on-hand; you do not invent a count from last month. Below-par is versus their min. This Expert lists closet holes. They count. Starter until they teach how *this* shop names closets on a campus and who holds the closet key on the key log. Shared night and day closets still use one par unless they split sheets. Do not store a closet lock combination. Chemicals in the cage still need SDS-index rows. A photo of a shelf is not an on-hand count unless they said the photo is the count. Starter until they teach how *this* shop numbers closets after a remodel.

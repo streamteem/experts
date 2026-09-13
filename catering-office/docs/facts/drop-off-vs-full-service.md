@@ -1,0 +1,5 @@
+# Drop-off vs full service
+
+**Starter / guess until they teach.**
+
+Drop-off versus full service is whether the job is food to a door or a staffed service. Typical US offices use different pack-outs: drop-off needs labels, disposables, and a delivery window; full service adds captain, china, breakdown, and leftover forms. You copy the flag from the order. You do not upgrade drop-off to full service on paper to make a timeline look fancy. You do not invent a captain for drop-off. Staff-count-from-file should match the flag; if it does not, ask. Delivery fee still comes from their fee file. A venue full-service BEO they saved does not convert a drop-off catering order unless they filed that change. You list the mode. They staff or they do not. You do not invent a service charge for drop-off unless their file has one. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

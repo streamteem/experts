@@ -1,0 +1,5 @@
+# Indoor / outdoor
+
+**Starter / guess until they teach.**
+
+Indoor versus outdoor is a service-location flag on the order that drives equipment, rain plan, and sometimes staffing. Typical US SMB caterers mark garden, patio, tent, or ballroom as the service set, while the venue field stays the delivery address. You copy the flag. You do not invent a floor plan. You do not promise the outdoor set will hold the guarantee; occupancy is not your stamp. If the order says outdoor and there is no rain plan file, ask. Electric chafer or lighting notes need their site-power file, not an electrician opinion. A saved venue BEO that says “salon if rain” is a location note you may copy. Restaurant patio 86 for weather is kitchen-admin. You list indoor or outdoor as written. They set the space. You do not invent a tent size. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

@@ -1,0 +1,5 @@
+# Absence excuse as their code
+
+**Starter / guess until they teach.**
+
+An absence excuse is a parent note, doctor note, or phone log they coded on the attendance file. Typical US small schools accept paper notes, portal messages saved as PDF, or a front-desk log with a date and a reason code. You record the code they used: illness, funeral, religious, vacation, unexcused, or whatever their list prints. You do not invent a state absence law, a maximum illness days rule, or a truancy statute. You do not decide the note is valid as counsel. Completeness only: date of absence, who wrote the note if their form asks, and whether the code is blank. A doctor note is present or missing. You do not read a diagnosis into docs/. If they require a note within a number of days, that number comes from their handbook or policy file, not from memory of another school. Missing policy: ask. You do not recode unexcused to excused. They recode. This Expert lists notes present versus missing. Starter until they teach this office excuse codes.

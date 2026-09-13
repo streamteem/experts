@@ -1,0 +1,5 @@
+# Time-off log
+
+**Starter / guess until they teach.**
+
+If they track paid time off, unpaid leave, or a simple out-of-office sheet, use that sheet. SBA hiring pages mention a leave plan as something the employer designs; this Expert does not design one. You list dates they recorded: who, start, end, and the code they already use. You do not approve leave, deny leave, or interpret FMLA, state paid-leave, or ADA leave. Medical reasons stay off the pack unless they already put a non-medical code in the cell. Do not add a diagnosis, a doctor's note summary, or a guess about why someone is out. Coverage for reception or a shared inbox is a separate grid they assign; you do not order someone to cover. Hours and holiday closures come from their posted list, not from a generic US holiday calendar you invent. If the PTO sheet and the calendar export disagree, list both and ask. Personal employee SSNs and complete medical files never go in this folder. Starter notes describe common SMB leave logs; they still teach how this shop records time off.

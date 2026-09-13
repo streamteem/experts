@@ -1,0 +1,5 @@
+# Deliveries
+
+**Starter / guess until they teach.**
+
+Deliveries need a window, a gate or staging note, a receiver name, and a ticket or packing-slip number so the office can match material to the job and later answer short-count arguments. Typical columns include date, job number, vendor, item, quantity, ticket number, who signed, and where it was staged. Missing ticket: say so and ask; do not mark material accepted if the file only shows a scheduled truck or a calendar hold. Short counts and damaged crates belong on the receiving note, not hidden in a general comment. Use their job number on every line. A bill of lading, packing slip, and vendor invoice are different pages; index what is actually in the folder. Do not invent a quantity from the purchase order when the ticket is blank. Some shops photograph tickets at the gate; some only keep paper. Either is fine if they pointed you at the file. You do not accept or reject material as the quality person, and you do not move a delivery to another job because the address looks close.

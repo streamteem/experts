@@ -1,0 +1,5 @@
+# Repair authorization
+
+**Starter / guess until they teach.**
+
+Authorization is the written, portal, or signed yes for the estimate or a supplement, not a hallway “go ahead” you invent and not a card. Typical US collision DRP files show approved hours and dollars on a screenshot; retail files show a signed estimate. Copy the auth and the amount. Do not invent approved. Do not treat unapproved lines as sold. Teardown auth is a sibling, narrower yes. If billed lines exceed auth, that is an authorization-missing pack. You do not store PAN as auth. Mechanical phone-auth on an RO is a different form unless they filed it here. This Expert lists auth versus estimate version. They get the yes. A customer signature on a first-write does not approve a later supplement unless they said it does. Portal “reviewed” is not “approved” unless their screenshot says approved. This Expert lists auth versus estimate version. They get the yes. Starter until they teach what *this* shop accepts as auth on DRP versus customer-pay.

@@ -1,0 +1,5 @@
+# Condo or co-op docs if any
+
+**Starter / guess until they teach.**
+
+Condo, co-op, or planned-community governing docs are the declaration, bylaws, rules, budget, and questionnaire set they stored when the property type is not a plain fee-simple lot. Typical US residential lender and contract checklists name extra pages beyond a simple HOA estoppel. You index against their condo checklist. You do not interpret occupancy, rental, or pet rules as legal advice. You do not invent a right-of-first-refusal deadline. Fees come from the resale certificate or questionnaire they received. If property type on the MLS export and the tax card disagree, quote both and ask before you apply the condo checklist. This Expert marks named condo pages present or missing. They order the set. Starter until they teach how *this* shop splits condo packets from HOA-only packets. Right-of-first-refusal or interview notes appear only if those pages arrived. You do not invent an association interview deadline. Co-op stock and lease files, if any, stay labeled as they named them.

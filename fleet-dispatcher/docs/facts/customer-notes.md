@@ -1,0 +1,5 @@
+# Customer standing notes
+
+**Starter / guess until they teach.**
+
+Standing notes — dock, PPE, appointment lead time, pallet policy, lunch close — come from the customer master. Quote them. Do not add a note from a prior job that is not in the master, and do not copy a neighboring receiver’s rules onto this site. Access secrets stay out of docs/. If the master is empty and the driver wrote a one-off, quote the driver note as a driver note, not as a standing rule. Starter / guess until they teach this shop. Standing notes are operational, not a contract interpretation. Standing notes exist so a new driver or a fill-in dispatcher does not rediscover a lunch close or a pallet exchange the hard way. Quote the master as of the file date they gave. A one-off driver comment is labeled as such so it does not become fake policy. PPE and appointment lead time are operational; payment or contract terms in a note are still not yours to interpret. Secrets stay out. Starter / guess until they teach this shop.

@@ -1,0 +1,5 @@
+# Deceased patient flag
+
+**Starter / guess until they teach.**
+
+If the export marks a patient deceased or inactive after death, do not put them on an active reminder, wellness-plan, or vaccine-due list. Do not write a cause of death. Do not describe the visit. Aftercare invoices, cremation balances, and memorial-item lines stay as their export. A deceased flag on one pet must not inactivate the client's other patients. Sympathy processes they already use are theirs to send; you do not draft medical condolence language. Duplicate charts, one living and one deceased, are a question, not a merge. Starter / guess until they teach which status word they use, who marks the chart, and how they suppress reminders in the PIMS. Do not schedule a reminder call that names a deceased patient. Aftercare balances are money rows, not a reason to write a medical summary. If the export still shows an active wellness plan, list that mismatch and ask who inactivates plans. Keep the client's other pets on their own rows.

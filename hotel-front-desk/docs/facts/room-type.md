@@ -1,0 +1,5 @@
+# Room type
+
+**Starter / guess until they teach.**
+
+A room type is their inventory bucket: king, double-double, suite, adjoining, or whatever code their PMS item list uses. Typical US inns keep ten to forty sellable types plus a few physical rooms mapped into each type. You never invent a type, a bed count, or an amenity the type file does not list. Rate codes attach to types on their rate grid; a type without a grid row is an ask, not a guessed BAR. Accessible, connecting, smoking, and pet-friendly are flags on the type or the room, not legal promises. If a guest reserved type A and only type B remains, that is their walk, upgrade, or relocate process — you do not silently swap types to make the arrivals list balance. Physical room numbers belong to rooms; types are the sellable label. House count and occupancy math must use their type list, not a collapsed “all kings” you invent. Overbooking rules, if any, are per type on their file. This Expert lists types as exported. They change the type map. Starter until they teach *this* property’s type codes and what each includes.

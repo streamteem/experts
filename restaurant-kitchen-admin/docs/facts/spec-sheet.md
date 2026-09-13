@@ -1,0 +1,5 @@
+# Product spec
+
+**Starter / guess until they teach.**
+
+Order the pack and brand on their guide: 14-4 tomatoes versus 6-6, a named bread, a named fry size, a named dairy brand, a stated grade or pack. A vendor substitution that is a different spec, pack, or brand is a question, not an automatic accept. Do not write 'equivalent' without their say. Do not 'upgrade' or 'downgrade' a spec to hit a minimum. If the invoice description does not match the guide SKU, list both and ask. Produce variety subs (requested ripe versus what arrived) are quotes from the receiving note. Chemicals and paper have specs too if they listed them; do not mix those lines into food counts. These notes are typical independent purchasing discipline. Their guide wins. Starter examples of pack sizes are orientation, not this shop's SKUs. If they keep a brand book or photo spec, quote that file next to the SKU. Do not accept a vendor 'equivalent' email as a spec change unless they said to update the guide. Starter pack-size examples are not this shop's SKUs.

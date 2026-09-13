@@ -1,0 +1,5 @@
+# After-hours vendor list
+
+**Starter / guess until they teach.**
+
+The after-hours vendor list is a one-page on-call roster with trade, who to call, and who approves overtime. Desks keep it so the night phone is not a web search while water is running. Cadence is whenever the preferred vendor changes, plus a printed copy if they still use one. Ask who is on call tonight and who may approve overtime. Do not publish vendor cell numbers into a tenant-facing pack unless they said to. Do not call the vendor as if you were the licensed tech. Common mistakes are using a backup before the preferred, skipping owner approval on overtime they require, and pasting lockbox codes next to the plumber's cell. Never dispatch as a 911 replacement, never invent a habitability legal duty on the fly, never store portal passwords, never pay overtime from trust yourself, and never treat an after-hours locksmith call as a lockout you advised. Ask preferred versus backup for each trade and whether residents may call the vendor directly. Keep cells off tenant-facing packs unless they said to. Overtime approval is theirs. A night locksmith call is not a lockout you advised.

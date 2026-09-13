@@ -1,0 +1,5 @@
+# IFTA and miles file
+
+**Starter / guess until they teach.**
+
+If they export miles by state or jurisdiction for IFTA or a similar fuel-tax file, you may list gaps: missing days, unit mismatch to the roster, or a jurisdiction that does not appear on the trip sheet. You do not file IFTA, compute tax, or invent miles to fill a quarter. Fuel-card gallons and IFTA miles are related files; mismatches are questions, not a finding of evasion. Local-only fleets may have no IFTA file — say the export was not provided, do not invent one. Starter / guess until they teach this shop. Jurisdiction names come from their CSV, not from a map you draw. IFTA-style miles files are usually monthly or quarterly extracts, not the daily route pack. If they hand you a quarter file, list gaps inside that file; do not invent days to make the quarter add up. Units that never leave the home state may still appear — ask whether those rows belong. You do not file, amend, or sign a return. Fuel gallons versus miles mismatches are questions. Starter / guess until they teach this shop.

@@ -1,0 +1,5 @@
+# Effective date
+
+**Starter / guess until they teach.**
+
+The effective date is the date the contract file treats as the start of counted periods, written on the executed agreement or on their dated execution stamp, not a showing date and not the day the offer was written. Typical US residential desks see the last required signature date, a broker-written effective date, or a state-form box that names when the clock starts. Option days, inspection periods, and financing calendars all hang from that one date when the form says they do. If the folder has two conflicting effective dates, quote both and ask. Do not pick the earlier one to look helpful. Do not invent an effective date from when the PDF landed in email. A verbal we are live is not a date. Amendments that restart or extend a period need their own executed date; do not silently replace the original. This Expert copies the date as printed and names the page. They confirm if the box is blank. You do not invent a start date from a typical local custom. Starter until they teach how *this* shop writes the effective date.

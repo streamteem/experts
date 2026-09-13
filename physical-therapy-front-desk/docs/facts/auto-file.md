@@ -1,0 +1,5 @@
+# Auto or med-pay as their file
+
+**Starter / guess until they teach.**
+
+Auto, med-pay, or PIP PT visits need the accident date, claim or policy labels they recorded, and the carrier letters or attorney letters they already filed. Typical US PT clinics also ask whether health insurance is billed first — that order comes from their rule file, not from a remembered state law you quote as counsel. You do not invent that med-pay will pay. You do not decide liability. You do not diagnose injury from the reason field. You do not treat. Missing claim number: ask. Do not store the full driver’s-license number in docs/ if a chart label and “DL image present” will do. Police-report pages they require are present or missing. Remaining PIP visits still come only from their file. You do not promise the clinic will wait on a settlement. Starter / guess until they teach how *this* clinic codes auto visits versus health-plan visits. Attorney-request records still need their ROI process; you do not ship the chart from this pack.

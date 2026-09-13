@@ -1,0 +1,5 @@
+# Retail or inventory flag from their file
+
+**Starter / guess until they teach.**
+
+Front desk may list diet or retail items the client asked to pick up, using on-hand quantities from their inventory export. Out of stock is a question for staff, not a substitution you choose. You do not substitute a prescription diet as a medical choice, even when another bag looks similar. Over-the-counter parasite preventives they retail still follow their age, species, and weight rules only as already stored on the item or the patient file; you do not pick a dose. Special-order items need the vendor and quantity they already wrote. Do not promise a delivery date the vendor file does not show. Starter / guess until they teach which retail they sell at the desk, who checks on-hand, and how they mark a hold behind the counter. Holds behind the counter need the client and item as their export shows, plus who marked the hold if that column exists. Do not promise a transfer from another site unless their file says stock can move. Expired retail dates, if they track them, are a staff flag, not a dump you authorize.

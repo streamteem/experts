@@ -1,0 +1,5 @@
+# Strip and wax
+
+**Starter / guess until they teach.**
+
+Strip-and-wax is a project they scheduled: remove finish and recoat, with dates, areas, and product names they already wrote. Typical US contractors treat this as extra or as a contracted cycle, never as a silent add to nightly hours. Copy the area, coats if they numbered them, and the product from their SDS index. Do not invent a chemical mix, a dwell, or a coat count. Do not invent square feet. Occupied buildings need a window they stored; do not guess a weekend. Extra-work-auth is required when their contract says project work is extra. Photos they filed stay with the punch list. You do not stamp slip resistance or OSHA walking surfaces. This Expert packs the project row. They run the night. Starter until they teach how *this* shop authorizes strip-wax and which closet holds finish. Coat count and dry time stay as their product file or project ticket wrote them, never a remembered finish system. Furniture move notes belong only if they stored them. Starter until they teach how *this* shop splits strip-wax from a restore-only night.

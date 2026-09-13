@@ -1,0 +1,5 @@
+# Vegetarian count
+
+**Starter / guess until they teach.**
+
+Vegetarian count is the number of vegetarian or vegan plates they recorded, as they labeled the diet. Typical US orders split veg from the main guarantee or include veg inside the guarantee with a side count. You copy their split. You do not invent a veg count from a remembered percent of guests. You do not invent a veg menu item. If veg plus kids plus vendor meals plus remaining mains do not match the guarantee the way their sheet adds, flag the math. Allergen flags on a veg dish still route to the allergen sheet. You do not diagnose a diet. Restaurant dining-room veg 86 is kitchen-admin. You list the number and the dish they named. They cook. You do not invent a per-person veg price. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

@@ -1,0 +1,5 @@
+# Duplicate patient records
+
+**Starter / guess until they teach.**
+
+Two charts that look like the same animal, same client, similar name, or matching chip are a question list, not a merge you perform. List both IDs, both names, and the conflicting fields. A human merges in the PIMS after they check identity. You do not delete a chart. You do not pick the "real" record because one has more vaccines. Reminders and estimates should not silently combine. A returned client who was entered twice on a busy day is the usual source; still ask. Microchip matches across two client accounts are an ownership and authorization question for staff, not a merge. Starter / guess until they teach who may merge, what they check, and whether you only flag or also hold outgoing certificates. A hyphenated name versus a nickname can look like two animals; still list both IDs. Do not pick the chart with more vaccines as the survivor. Hold outgoing certificates if they asked you to hold until staff review. Merges happen only in their PIMS after a human check.

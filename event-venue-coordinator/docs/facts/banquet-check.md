@@ -1,0 +1,5 @@
+# Banquet check
+
+**Starter / guess until they teach.**
+
+The banquet check is the post-event bill: room, food, beverage, labor, service charge, tax as their tax file, and incidentals. Typical US hotels post it from the BEO plus actual consumption and then seek a signature. You compare the check PDF to the BEO and list mismatches as questions. You do not invent a tax rate or a service-charge percent. You do not mark paid. You do not store PAN. Guarantee versus actual follows their contract file. Open bars billed on consumption need their posting sheet, not a guessed pour count. Missing check after a definite event is a missing-file row. They present the check. You assemble the exception list. Starter until they teach how *this* venue posts banquet checks. Open-bar consumption that exceeds the BEO estimate is an exception line, not a pour count you invent. Service-charge taxable flags stay as their tax file. You do not split a check onto two rooms unless their folio file says to. They close the check.

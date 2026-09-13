@@ -1,0 +1,5 @@
+# Building
+
+**Starter / guess until they teach.**
+
+A building is the named structure on their campus: Plant 1, Warehouse, Office, Boiler house. Typical US facilities desks filter work orders, PMs, and tenants by building. Use the building code they stored. Do not merge two buildings because they share a street address. Do not invent a building name from a map pin. Construction jobs use a site address; this desk uses the building they operate year-round. A wing or a mezzanine is a location under the building if that is their tree. Bill-back and silent-hours often sit at building level; copy those flags from their file. Missing building on an asset that their process requires is a flag. They own the campus list. Starter until they teach how *this* plant codes buildings versus lines versus rooms. A trailer or tank farm on another parcel stays a separate building if they coded it that way. Do not fold it into Plant 1 to tidy a filter. Campus rollups are labeled rollups, not a rewrite of the building list.

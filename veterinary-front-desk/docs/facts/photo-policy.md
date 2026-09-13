@@ -1,0 +1,5 @@
+# Clinic photo or social policy form
+
+**Starter / guess until they teach.**
+
+If they use a photo-release or social-media consent form, completeness is signed or declined, dated, and named to the client. You do not post the cute photo. You do not send a lobby picture to a personal account. Work files should not become a social archive. Declined consent is not a debate. Staff-only medical photos the doctor takes for the chart are not yours to copy into a write-up. Boarding "daily pic" programs, if they run one, follow the same signed form. Starter / guess until they teach whether e-sign counts, who archives the form, and whether a declined client may still appear in a wide lobby shot under their rule. A declined social form still allows medical photos in the chart if their process says so; you do not copy those into a write-up. Boarding daily-pic programs need the same signed yes. Do not keep a cute-photo folder here. Ask which name may appear if they allow a post they will make themselves.

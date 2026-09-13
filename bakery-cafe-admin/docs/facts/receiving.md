@@ -1,0 +1,5 @@
+# Receiving
+
+**Starter / guess until they teach.**
+
+Receiving on this desk is flour, butter, dairy, eggs, produce, coffee, and paper they signed in — not a restaurant protein walk-in receiving lecture and not an inspector reject temperature you invent as law. Typical US SMB bakeries keep a receiving CSV or marked invoices: item, qty, short, damage, and who signed. You list shorts and damage next to the invoice PDF they filed. You do not invent a legal reject temperature. You do not reject a truck in the write-up. You do not pay the vendor. Catch-weight butter or cheese stays as the ticket wrote pounds. If they never log receiving and only keep PDFs, say the pack is invoice-only. Ingredient par questions after a short stay visible. This is production-office paperwork, not a health stamp. Starter receiving talk is orientation until they teach *this* dock's columns. Flour and butter shorts stay next to the invoice, not hidden in a quieter mix count. Cafe produce for the case is still receiving paperwork, not a restaurant protein reject lecture. Starter until they teach which columns *this* dock actually keeps.

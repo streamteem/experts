@@ -1,0 +1,5 @@
+# Signed contract as a file
+
+**Starter / guess until they teach.**
+
+Index the signed contract or service agreement PDF the desk already filed: vendor legal name as printed, association named as the customer, date of the signature page, dollar amount or rate schedule as printed, term and end date if shown, and renewal or cancellation-notice days if the face page states them. Typical US desks also file insurance exhibits, a scope attachment, and sometimes a prevailing price sheet; list those as present or missing. Landscape, snow, pool, and gate contracts often auto-renew unless a notice window is used—those dates are reminders for the board or manager, not automatic extensions you grant. You do not draft legal terms, add indemnities, or declare the vendor in breach. Month-to-month holdover after an end date is a status question, not a contract you rewrite. Change orders belong in their own numbered files. Do not store banking details from an exhibit in the write-up. One agreement per row unless they asked for a vendor-contract index with the community named on every line.

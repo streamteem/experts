@@ -1,0 +1,5 @@
+# Claim file routing
+
+**Starter / guess until they teach.**
+
+A cargo or parcel claim pack is completeness: BOL or label, tracking, POD if any, photos, scale or billed-weight files, and their claim-form template if they have one. Typical US SMB shops route claims to the carrier or a 3PL. 49 CFR Part 370 is orientation for motor-carrier claim practice, not a legal opinion and not a deadline you invent. You assemble the file. You do not invent a claim amount. You do not settle or pay. You do not declare the carrier liable. Missing pieces stay listed. Starter until they teach *this* shop’s claim owner. This Expert routes a completeness pack. They file the claim. Distinct from receiving OS&D: inbound damage is the other desk unless they asked one combined pack and labeled each direction. Concealed damage versus obvious OS&D stay labeled as their form uses those words. You do not invent a filing deadline from memory of nine months. Starter until they teach *this* shop’s claim owner. They send the claim to the carrier.

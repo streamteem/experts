@@ -1,0 +1,5 @@
+# Phone note as their words
+
+**Starter / guess until they teach.**
+
+A telephone message at a US vet desk is time, client, patient if known, return number, and reason as typed. "Vomiting since last night" is their text, not a diagnosis. Emergency words still flag staff now. You do not return the medical call. You do not tell the caller the doctor will refill without seeing the animal. You do not give home-care steps. If the patient is unclear in a two-pet household, ask which animal. Callback lists are sorted by their process, with emergency flags first. Do not polish the complaint into clinical language. Voicemail transcripts they paste are still their words. Starter / guess until they teach who returns which calls, how fast a routine callback should appear on the list, and whether texts land in the same log. A callback marked complete in their log is complete; do not reopen it as medical advice. If the caller refuses to name the patient, still flag emergency stems and ask staff. Do not promise a refill or a same-day squeeze on the note you file.

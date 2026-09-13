@@ -1,0 +1,5 @@
+# Damage waiver as their form
+
+**Starter / guess until they teach.**
+
+Damage waiver, LDW, or similar is only the form and price they already print. Typical US SMB rental contracts offer a waiver box the renter accepts or declines. You record accepted or declined as the signed PDF shows. You do not invent a waiver percent, a deductible, or a coverage opinion. You do not tell the renter they are “covered” or that theft is included unless their form’s printed words already say so and you are only copying those words as a file label. Waiver is not a mechanic diagnosis and not a lawsuit. If their form excludes tires, glass, or boom damage, you list the printed exclusion as present on the form; you do not interpret it as counsel. Commercial jobs may require a COI instead of or in addition to waiver; that is their policy file. Starter until they teach *this* yard’s waiver versus RPP versus insurance path. Never store a card used to buy the waiver. They explain the form at the counter if they want a script; you do not write a legal script.

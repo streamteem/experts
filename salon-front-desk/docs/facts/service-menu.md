@@ -1,0 +1,5 @@
+# Service menu
+
+**Starter / guess until they teach.**
+
+The service menu is the shop’s named list of what can be booked and sold: haircut, color, foil, blowout, gel, wax, facial add-on, and the prices and typical durations attached to those names. Desks keep it so a phone or walk-in quote matches the register and so a slot is long enough for the work. Prices, service names, and durations come from their menu file or POS item list, not from memory or another shop’s Instagram. Typical files are a printed menu PDF, a Boulevard or Vagaro service setup export, or a Square item list. Color, foil, balayage, and correction times often run longer than a haircut; do not shorten a slot to squeeze a walk-in unless their book has that written rule. Add-ons such as gloss or brow may be separate menu rows with their own minutes. If the export and the printed menu disagree, quote both and ask which one the desk uses today. Do not invent a “market” price or copy a competitor’s menu. Starter only until they teach this shop’s current menu file.

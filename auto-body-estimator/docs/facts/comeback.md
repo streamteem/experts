@@ -1,0 +1,5 @@
+# Comeback / rework
+
+**Starter / guess until they teach.**
+
+A comeback is a return visit they already flagged for this claim or this VIN after delivery — paint, fit, leak, or noise as they wrote — not a blame verdict and not a new totaling. Typical US collision shops open a comeback ticket or a redo estimate and keep photos. Copy their reason text. Do not invent a reason. Do not hide a comeback to keep cycle-time pretty. Hours and parts for the redo still come from their matrix and parts file, not from a guessed goodwill. Mechanical comebacks on a service RO are a different warranty language. You do not stamp the first repair was correct. This Expert lists comeback flags versus the original estimate. They repair. A comeback is not a new assignment unless they opened one. Do not invent goodwill hours. Photos of the redo stay in the photo index. This Expert lists comeback flags versus the original estimate. They repair. Starter until they teach how *this* shop numbers redos and who pays.

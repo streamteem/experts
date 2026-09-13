@@ -1,0 +1,5 @@
+# Delivery fee from their file
+
+**Starter / guess until they teach.**
+
+The delivery fee is a flat trip charge, a zone fee, or a mileage formula copied from their fee file or the signed proposal. Typical US drop-off caterers print zones or a minimum. You copy the fee. You do not invent a delivery fee from a map or from a remembered dollar-per-mile. If mileage is on the order and the fee file uses zones, use the fee file and quote the fight. Waived fees need their written waive. You do not invent tax on the fee. Vehicle and ice costs are not the delivery fee unless they bundled them on that file. You list the amount and the source. They charge the client. You never send fuel money or store a card to collect the fee. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

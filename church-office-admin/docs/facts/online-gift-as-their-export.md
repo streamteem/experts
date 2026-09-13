@@ -1,0 +1,5 @@
+# Online gift as their export
+
+**Starter / guess until they teach.**
+
+An online gift is a row on the export they saved from Pushpay, Tithe.ly, Planning Center Giving, Realm, Subsplash, or the processor they use — not a live API you scrape and not a card you run. Typical US congregation offices download a settlement or gift CSV after the weekend. You copy gift id, date, amount, fund, and their status code: settled, refunded, failed, or pending. You do not invent a settled row from a verbal they gave online. You do not store card PAN, a full account number, or a processor password. Refund and fail rows stay on the list so the batch is honest. Recurring gifts are still rows on the export they dropped, not a CRM you build. If the processor total and the church software batch disagree, quote both and ask. This is not an email or SMS receipt product. They issue any donor message. You list the export. Fee lines, if they export them, stay labeled as fees, not as gifts, unless they already netted. Starter until they teach how this office names online batches.

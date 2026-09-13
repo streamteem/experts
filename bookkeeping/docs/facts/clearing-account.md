@@ -1,0 +1,5 @@
+# Clearing and suspense
+
+**Starter / guess until they teach.**
+
+On a typical US desk a clearing account holds in-transit money: processor, payroll, or money moving between their own accounts. Suspense or "ask my accountant" is a parking lot for lines nobody coded yet. Both should go toward zero. The accounts exist so in-transit cash is not dumped into income. Next files are the aged clearing list in the close pack and the matching bank or processor file. Typical fields are date, amount, source, age in days, and proposed match. Files are the account register export. Cadence is weekly if volume is high, monthly at close. The bookkeeper ages and matches; they explain leftovers. Shops vary on how old a leftover may sit. Ask their aging rule for leftover clearing. A starter guess until they teach: list anything still in clearing at period end as a question. Common mistakes are using suspense to hide a rec difference, income-coding clearing to zero it, and leaving payroll clearing to grow. Never hide a rec in suspense, never invent a match, never treat clearing as an owner draw without their word, and never store a login to "just clear it."

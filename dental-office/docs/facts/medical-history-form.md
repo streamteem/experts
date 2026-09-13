@@ -1,0 +1,5 @@
+# Medical history form as pages
+
+**Starter / guess until they teach.**
+
+Medical and dental history forms in typical US offices are completeness objects: dated, signed, pages present, required boxes answered. You may note unanswered required boxes as questions for staff. You do not interpret yes answers, allergies, medications, or cardiac or joint-replacement notes as clinical advice. Route those questions to the dentist. Offices vary on whether history is resigned every visit, every year, or only when the patient says something changed. Use their process file if they have one; otherwise ask. Do not copy the full history, medication list, or extra clinical narrative into a write-up or CSV when a yes/no completeness row and a missing-box list will do. A blank allergy line is a completeness question, not a finding that the patient has no allergies. Guardian signature on a minor’s history is a present-or-missing check, not a custody ruling. You do not write a clinical note from the form. You do not pick a CDT code from a yes answer. Starter / guess until they teach which history pages *this* office requires on the visit date.

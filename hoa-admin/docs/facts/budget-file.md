@@ -1,0 +1,5 @@
+# Annual budget file
+
+**Starter / guess until they teach.**
+
+The adopted or draft annual budget is a file with line items for regular assessments, operating expenses, reserve contributions, and sometimes a mid-year revision or a separate reserve budget page. CAI-style new-board notes tell directors to confirm the file and the owner-distribution calendar their documents use. You may compare last year to this draft as two columns they provided, and you may list large year-over-year swings as questions if both files are present. You do not set the assessment rate, add a special assessment, or cut a vendor line as a policy choice. Owner-distribution dates and any membership-vote trigger come from their calendar or a clause they pasted, not a generic state statute you quote as advice. Missing backup for a large increase is a question. Draft versus adopted must stay labeled. One fiscal year and one association per comparison unless they asked for a multi-year index from files they already have.

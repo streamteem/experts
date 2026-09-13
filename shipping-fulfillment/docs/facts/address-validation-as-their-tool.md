@@ -1,0 +1,5 @@
+# Address validation as their tool
+
+**Starter / guess until they teach.**
+
+Address validation is a pass, fail, or corrected-address result from the tool they already run — a carrier checker, an ERP plugin, or a saved CSV of validation results. Typical US SMB shops catch bad ZIPs before label spend. You copy the result. You do not invent a “validated” stamp. You do not overwrite ship-to with a guessed USPS format. If validation failed, that is an exception; do not print a label from hope. A corrected address in their tool still needs their word before it replaces the order ship-to. No USPS or carrier login belongs in this folder. Starter until they teach which tool *this* shop uses. This Expert lists fail rows. They fix the order. International format checks are still not a customs opinion. A fail that they overrode in writing is their override, not a pass you mint. Suggested addresses stay suggested until they accept. Starter until they teach which checker *this* shop runs. You still do not store a USPS login.

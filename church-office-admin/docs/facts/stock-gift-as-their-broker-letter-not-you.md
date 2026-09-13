@@ -1,0 +1,5 @@
+# Stock gift as their broker letter, not you
+
+**Starter / guess until they teach.**
+
+A stock or securities gift on this desk is the broker letter, DTC notice, or transfer PDF they stored, plus the giving row they already made if they made one. Typical US churches receive a letter with CUSIP, shares, and a transfer date as the broker wrote them. You list those fields as printed. You do not value the gift. You do not pick a high-low mean. IRS Publication 561 is orientation for why you do not value, not a worksheet you run as an opinion. You do not tell the donor the deductible amount. You do not sell the shares. You do not store a brokerage password or a full account number. If the letter and the giving software amount disagree, quote both and ask the bookkeeper. Year-end statements follow their process; you still do not invent a deductible. They and their broker complete the transfer. You pack present-versus-missing letters. Starter until they teach how this office records stock gifts and who types the giving row.

@@ -1,0 +1,5 @@
+# Clinic hours and holiday file
+
+**Starter / guess until they teach.**
+
+Booking and reminder lists follow their hours file: weekday open, Saturday hours, lunch closings, and posted holidays. After-hours routing uses their posted emergency list. Do not invent Sunday hours. Do not book a drop-off after the last surgery admission time they wrote. Online-booking windows, if they use them, must match the same file or they create no-shows at a locked door. Weather closures they already posted are theirs to copy into a day-list note. Relief coverage does not extend hours unless the file says so. Starter / guess until they teach the current calendar, who updates voicemail, and how they handle federal holidays versus local ones. Lunch closings and last-appointment cutoffs are easy to miss on a holiday week; quote the file. Do not book a drop-off after their last admission time. Online windows that disagree with the hours file are a question, not a window you keep. Weather closures they posted override a normal weekday template.

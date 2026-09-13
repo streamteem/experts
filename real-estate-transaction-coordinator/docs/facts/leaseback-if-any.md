@@ -1,0 +1,5 @@
+# Leaseback or temporary occupancy if any
+
+**Starter / guess until they teach.**
+
+A seller leaseback or temporary occupancy exhibit is the signed form that sets holdover days, daily rent if printed, deposit if printed, and possession end, not a landlord-tenant legal plan. Typical US residential desks use a short exhibit when the seller stays after closing or the buyer occupies early. Dollars and days come only from that exhibit. You do not invent a per-diem. You do not write eviction advice if they stay late. You do not hold a use-and-occupancy deposit. Insurance during a leaseback is an insurance-file question, not a coverage opinion. If there is no exhibit, do not assume a courtesy few days. This Expert calendars the printed occupancy end and lists missing signatures. They negotiate the exhibit. Starter until they teach how *this* shop files leaseback versus same-day possession. Daily rent and a use-and-occupancy deposit, if printed, are log lines only. You do not collect the deposit and you do not write a late-stay eviction plan.

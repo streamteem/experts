@@ -1,0 +1,5 @@
+# One-time versus recurring
+
+**Starter / guess until they teach.**
+
+Recurring work lives on the frequency route; one-time work lives on an enhancement or cleanup ticket and then ends. Typical US shops blur this when a “cleanup” quietly repeats. Use their coding. Do not put one-time hours on the weekly truck without a ticket. Do not invent a recurring line to make revenue look stable. If the customer asks to repeat a one-time service, that is a new sold item they must accept. Materials leftover from a one-time job are not automatically next week’s load. Invoices should follow the same split. You keep the buckets separate. They decide to convert a one-time to a route. Starter until they teach how *this* shop flags repeating extras. A cleanup that they later sold as monthly beds is a new recurring row they created, not a silent conversion you apply. Leftover plants from a one-time install are not next week’s material unless they said so. Invoice batches should not blend the two. Starter until they teach how *this* shop flags a repeating extra so it does not live forever on the enhancement truck.

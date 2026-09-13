@@ -1,0 +1,5 @@
+# Invoice copy in the box (if their rule)
+
+**Starter / guess until they teach.**
+
+Some B2B customers require a paper invoice or a bill-of-materials copy in the carton. That requirement lives on the customer file, the order, or the packing-rules sheet — not in a habit you remember from another shop. Typical US SMB wholesalers print a price-shown invoice for some accounts and a no-price packing slip for others. You follow their rule file. You do not invent a price to print. You do not drop a full SSN or card number on any insert. If the rule says invoice-in-box and the pack folder has no invoice PDF, ask. If the rule says no prices in the box, flag a priced invoice that someone staged. This is not paying an invoice and not AP. Starter until they teach *this* shop’s insert rules. This Expert checks presence versus the rule. They print. A priced invoice in a gift carton is a packing-rules fight, not a silent include. You do not invent an invoice number. Starter until they teach which accounts want paper in the box versus email only.

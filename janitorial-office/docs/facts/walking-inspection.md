@@ -1,0 +1,5 @@
+# Walking inspection
+
+**Starter / guess until they teach.**
+
+A walking inspection is a scheduled walk they already put on the calendar: inspector name, site, and the quality form they will use. Typical US offices do joint walks with the customer on a cycle and internal walks more often. Copy the date and the form. Do not invent a score. Do not stamp OSHA. Photos from the walk go in the photo folder as they named them. Night-versus-day should match when they walked. Hospital and school walks may use a different form — pack that form. A walk without a form in the folder is a missing-form flag. This Expert packs the walk. They walk. Starter until they teach how *this* shop schedules joint versus internal walks. Joint customer walks and internal walks stay different rows if they split them. Do not invent a score or an OSHA stamp. Night-versus-day should match when they walked. Hospital and school forms stay those files. A walk date on the calendar without a form in the folder is a missing-form flag. Starter until they teach how *this* shop schedules joint versus internal walks.

@@ -1,0 +1,5 @@
+# Gift cards and packages
+
+**Starter / guess until they teach.**
+
+Gift-card sales and redemptions are often a liability, not the same as today’s service revenue. Prepaid packages and memberships may sit in another report. Use their gift-card or package export. Do not copy full card numbers into docs/; last-four or an internal ID is enough if that is what they export. Desks keep the list so a redemption does not look like a free haircut and so outstanding balances are visible. Typical columns are sale date, redeem date, amount, remaining, and last-four or token. FTC gift-card scam orientation is for them at the register—you do not take a card over the phone as the product. Do not invent a remaining balance. Packages with unused sessions are not gift cards unless their file treats them that way. Starter until they teach this shop’s gift-card report. A digital code and a plastic card may appear as different IDs—use what the export shows. Do not treat an unused package session as cash in the drawer. They handle guest balance questions; you list the file.

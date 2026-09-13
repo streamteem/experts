@@ -1,0 +1,5 @@
+# Rental contract
+
+**Starter / guess until they teach.**
+
+The rental contract is the yard’s written rental: renter, unit or class, out and due dates, delivery or pickup, rates as printed from their file, damage-waiver or RPP as their form, and the inspection references they attach. Typical US SMB shops print from the rental system or a numbered PDF packet. Draft, reserved, out, and closed are different states; a draft PDF in a folder is not signed out. You check completeness: named renter, unit or serial if required, dates, rate lines from their rate file, tax or exempt cert pointer, COI if their commercial rule needs one, and outgoing inspection if their process requires it before the gate. You do not invent a day rate, a tax percent, or a damage-waiver price. You do not diagnose damage on the contract. Card PAN does not belong in the folder; last-four only if their export already shows it. Starter until they teach *this* shop’s required fields and who may void a contract. They sign and they collect. You assemble the completeness pack and write-up.

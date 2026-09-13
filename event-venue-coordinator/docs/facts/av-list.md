@@ -1,0 +1,5 @@
+# AV list
+
+**Starter / guess until they teach.**
+
+The AV list is house or rental equipment named on the BEO or a separate AV sheet: mics, screens, projector, playback, uplights, or a third-party production vendor. Typical US SMB halls include a screen-and-mic package and send everything else to an in-house AV company. Prices come from their AV rate file, not from a remembered hotel menu. You do not invent a projector model or a labor hour. Third-party production load-in still needs the timeline. Power needs on the AV list are questions, not a circuit design you stamp. If the BEO says “client AV” and there is no vendor name or load-in, ask. You do not promise wireless coverage or recording consent. House versus client-owned stays labeled. Starter until they teach *this* venue’s AV split. Breakout rooms each need their own AV lines if the BEO splits functions. A client laptop HDMI ask is still a house-cable question from their inventory, not a cable you invent. Recording or livestream flags stay as written and are not consent legal advice.

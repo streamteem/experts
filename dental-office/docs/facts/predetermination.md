@@ -1,0 +1,5 @@
+# Predetermination as paperwork
+
+**Starter / guess until they teach.**
+
+A request for predetermination or preauthorization on the ADA claim form is a paperwork type: often no dates of service, or dates used the way their instructions say, with proposed procedure lines the dentist already entered. You may check that required fields and named attachments they listed are present. You do not promise the plan will approve care. The dentist chooses what is proposed. You do not add or swap CDT codes to make the predetermination look more payable. A preauth or reference number, if their payer letter or portal print has one, is copied, not invented. If the number is missing, ask; do not mint one so the form looks complete. Offices vary on whether they predetermine crowns, perio, and ortho only, or almost every larger case. Use their list. A predetermination is not a scheduled appointment and is not a paid claim. Do not copy extra clinical narrative into docs/; name the attachment file or say it is missing. Starter / guess until they teach *this* office’s predetermination packet.

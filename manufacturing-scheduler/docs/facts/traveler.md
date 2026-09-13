@@ -1,0 +1,5 @@
+# Traveler
+
+**Starter / guess until they teach.**
+
+A traveler is the paper or PDF packet that walks with the job through the plant: work-order header, operation list, sometimes a drawing snippet, pick list, and sign-off lines. Typical US SMB job shops still print travelers even when the schedule lives in software; the packet is what the operator sees at the machine. Completeness means the operations they use are present, the revision on the traveler matches the drawing index they stored, and required flags such as first article or cert are shown if their form has those boxes. You do not invent a missing operation or a cycle time in a blank minutes column. You do not sign an operator box. A traveler is not an ECO approval and not a quality stamp. If the PDF folder is empty, say empty and ask; do not rebuild a traveler from memory of another shop. Outside-process rows belong on the traveler if the job leaves the building. Short kits stay listed. They print and they walk the packet. Starter until they teach how *this* shop designs the traveler.

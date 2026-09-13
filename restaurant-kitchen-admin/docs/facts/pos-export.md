@@ -1,0 +1,5 @@
+# POS item export
+
+**Starter / guess until they teach.**
+
+Item-mix, tender, and 86 exports come from Toast, Square, Clover, Aloha, Micros, or similar if they provide the CSV. The tool file is an export pointer, not a login. You do not log into the POS. You do not send marketing, build a dining-room site, or run a blast. Use the mix to flag stale pars or to quote 86 when they said the POS is source of truth. Menu engineering is their decision. Daypart and revenue-center splits matter; say which export they gave. Theoretical on-hand in some POS inventory modules is not a counted walk-in unless they taught that. Card numbers and server logins do not belong in this folder. These notes are typical independent front-of-house systems used from the back office. Their file wins. If two exports disagree on the same item and day, quote both and ask which is live. You do not change menu prices from the mix. Starter POS names are orientation; their export filename and date range win after they teach.

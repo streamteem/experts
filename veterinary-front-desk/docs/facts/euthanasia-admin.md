@@ -1,0 +1,5 @@
+# Euthanasia appointment as admin
+
+**Starter / guess until they teach.**
+
+If they book euthanasia visits, keep the appointment type, any quiet-room or last-appointment flag their book has, and the aftercare choice the client already selected on their form: private cremation, communal, take-home, or clinic default as written. You do not counsel the decision. You do not describe the medical condition or quality of life. You do not rush or delay the slot as a clinical opinion. Memorial items, paw prints, and clay prints are inventory or process lines they already offer, listed from their form, not suggested as comfort advice. Authorized-agent limits matter; you do not decide who may consent. Payment and aftercare invoices stay as their export. Starter / guess until they teach scheduling buffers, which rooms they use, and how they handle remains paperwork. Same-day add-on euthanasia still needs their type and any quiet-room flag, not a squeezed wellness hole you invent. Do not describe remains handling beyond the aftercare box they ticked. If two family members disagree on the form, ask staff rather than picking a signer.

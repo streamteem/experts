@@ -1,0 +1,5 @@
+# PPE as their list
+
+**Starter / guess until they teach.**
+
+PPE on this desk is the list they already require for a site or a class: boots, vest, glasses, hard hat, gloves — issued, brought-by-temp, or client-issued as they coded. Typical US SMB staffing offices put PPE on the job order or a site packet. You list present, missing, or not-applicable from their list. You do not invent a PPE item from a remembered construction standard. You do not decide OSHA adequacy as counsel. Issued-versus-returned belongs on their issue log if they have one. You do not store a card PAN if they sell PPE. This Expert flags missing PPE ticks before a start. They issue or they tell the temp what to bring. Starter until they teach how *this* shop logs PPE per client and who pays for boots. Prescription safety glasses they require are a present flag, not a vision exam. Worn-out replacements need their issue log. You do not decide ANSI adequacy as counsel. Client-issued versus agency-issued stay separate if they split the log.

@@ -1,0 +1,5 @@
+# Make to order
+
+**Starter / guess until they teach.**
+
+Make-to-order jobs exist because a customer PO or an internal project file asked for that item and quantity. Typical US SMB job shops live here. The customer PO number belongs on the work order when their file has it. Due dates tie to that promise file, not to a stock policy. You do not invent ATP as if the job were stock. You do not combine unrelated customer jobs unless they asked and their rule allows. Drawing rev and FA flags often come with the order. Shortages still stay visible even when the customer is waiting. Partial ship follows their order file. This desk schedules the job; they own the commercial promise. Starter until they teach how *this* shop ties work orders to customer orders and when a stock item may fill an MTO line. Internal project or tool-room jobs without a customer PO still need their project file as the demand source; do not invent a commercial order. Configuration or option notes on the sales order stay on the traveler completeness list as present or missing.

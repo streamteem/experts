@@ -1,0 +1,5 @@
+# Liftgate flag
+
+**Starter / guess until they teach.**
+
+Liftgate is an LTL accessorial on the order or routing guide: the consignee needs a liftgate because there is no dock. Typical US SMB misses are shipping without the flag and eating a reconsignment, or adding liftgate when the site has a dock. You copy the flag from the order. If the order is silent and the address notes mention “no dock” or “garage,” ask — do not invent the accessorial and do not invent the surcharge dollar. Inside delivery, appointment, and residential are separate flags. You do not pay the accessorial invoice. If the BOL PDF omitted a liftgate the order required, that is an exception before tender. Starter until they teach *this* shop’s accessorial checklist. This Expert asks when the file is silent and a dock-less note exists. They add the accessorial in the carrier tool. A silent order plus a warehouse-looking address is still not a dock. Starter notes are not *this* shop’s accessorial list. If the BOL already has liftgate and the order does not, quote both before anyone tenders.

@@ -1,0 +1,5 @@
+# Overtime from their file
+
+**Starter / guess until they teach.**
+
+Overtime is extra staff hours or a late-event fee copied from their labor file, contract exhibit, or invoice template. Typical US caterers print a service-end time and an overtime increment. You copy the increment and the end time. You do not invent an hourly overtime rate. You do not give a wage-hour legal opinion. If the timeline runs past the contracted end and their file says to bill OT, list the flag — they approve the invoice. Staff-count-from-file still supplies who was there. Venue banquet OT on a saved BEO is the hall's labor. You do not pay staff. You list the file rule and the clock they wrote. They decide the charge. You never send money. Starter practice until they teach how *this* catering office files the same item. This desk is the caterer's event office — pack-out, delivery, and event orders — not restaurant daily BOH pars and not the venue's room-hold BEO desk. Blank fields stay blank and become asks. They price, they staff, they cook, they drive.

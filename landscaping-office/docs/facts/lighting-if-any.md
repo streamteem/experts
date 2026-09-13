@@ -1,0 +1,5 @@
+# Lighting if they sell it
+
+**Starter / guess until they teach.**
+
+Landscape lighting, if they sell it, is tickets and material lists for fixtures, lamps, and a transformer they already specified on a proposal. If they have no lighting file, say none — do not invent a lighting desk. Copy their fixture SKUs and counts. Do not design a photometric plan or declare a load safe as an electrician. Extra fixtures the customer points at need auth. Warranty on lamps comes from their file. Night photos they named help proposals. You list sold items and pulls. They install. Starter until they teach whether *this* shop even runs lighting and who holds any electrical license they care about. Transformer size and wire notes appear only as they wrote them. A burned lamp is a material pull from their SKU, not a redesign. Extra path lights the customer wants need auth and the price file. Do not declare a load safe. If they have no lighting menu, say none. Starter until they teach whether *this* shop runs lighting, who holds any electrical license they care about, and how they name night photos.

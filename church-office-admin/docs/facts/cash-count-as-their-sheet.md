@@ -1,0 +1,5 @@
+# Cash count as their sheet
+
+**Starter / guess until they teach.**
+
+The cash count is their dated sheet of bills, coin, checks, and sometimes envelope totals the count team already signed. Typical US congregations use a two-column teller form, a workbook, or a scan of the Sunday count. You copy amounts and signatures as written. You do not recount the cash as this product. You do not invent a bill break-down to force the sheet to match the software. If cash, checks, and the giving export disagree, list the three numbers and ask. You do not decide who was short. You do not store an image of a check MICR line or a full account number. Dual control is their process file, not a rule you invent for a one-person count. Empty sheet: ask before you treat the software export as the only count. This desk lists completeness. They count, they deposit, they investigate a variance. A hallway we were about even is not a signed sheet. Starter until they teach how this office files count sheets and who signs.

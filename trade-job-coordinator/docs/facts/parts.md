@@ -1,0 +1,5 @@
+# Parts and SKUs
+
+**Starter / guess until they teach.**
+
+Parts on a trade ticket usually carry more than one identifier: a supply-house SKU, an OEM model, a generic or aftermarket equivalent if they allow it, and a source note such as on truck, in the warehouse, or on order. Serials matter on compressors, control boards, water heaters, and other warrantied assemblies because later claims need the plate, not a guess. Typical list lines also hold quantity, unit of measure, and whether the line is special-order. Association and vendor pages describe common catalogs; they do not pick this shop's house. Many offices buy from more than one counter and keep a preferred-house label per trade or per job. Ask which house and which SKU their sold estimate already named. Do not invent a part number. Do not substitute OEM versus generic unless they said so in the file or in the ask. Do not copy a model from a similar job because the equipment 'looks the same.' A chat list is not the CSV a check can see. If the plate photo and the estimate disagree, stop and ask which number to order.

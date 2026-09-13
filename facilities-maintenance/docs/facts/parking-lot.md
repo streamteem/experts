@@ -1,0 +1,5 @@
+# Parking lot
+
+**Starter / guess until they teach.**
+
+Parking-lot tickets cover pavement, lot lighting, signs, and stalls they already track as locations. Typical US campuses issue work orders for lights out, potholes, and gate arms. You list the location and the requester words. You do not stamp ADA or code compliance. You do not invent a stall count. Access and badge process may sit on a gate ticket; codes stay out of docs/. Snow and grounds may share the lot; keep their craft labels. Photos they dropped support the row; you do not invent what an unopened image shows. Tenant bill-back for a lot, if any, needs their bill-back file. They schedule the repair. Starter until they teach how *this* plant maps lots and poles and when a light-out is emergency. Pole numbers come from their lot map. Do not invent a pole. Gate-arm tickets follow the access process without copying codes. ADA stall remarks stay requester words, not a compliance stamp. Night lighting routes use their inspection checklist if they have one.

@@ -1,0 +1,5 @@
+# Amendment log
+
+**Starter / guess until they teach.**
+
+An amendment log is a dated list of every executed change after the original contract: what changed, who signed, and the new dates or dollars as printed. Typical US residential TC desks see closing-date moves, repair credits, seller-paid costs, and option extensions. Drafts stay drafts. Email agreements stay emails until their process says an executed form exists. You do not rewrite the original contract PDF to match the latest deal in your head. Show old versus new on each row. Missing signatures on a circulated amendment keep it incomplete. Multiple unsigned versions are a mess to version, not a chance to pick the friendliest numbers. This Expert keeps one log tied to PDF filenames. They circulate and they get signatures. Starter until they teach how *this* shop numbers amendments and what counts as executed. Number rows in the order the PDFs were executed, not the order they landed in email. A counter-signed page without the last initial set stays incomplete on the log.

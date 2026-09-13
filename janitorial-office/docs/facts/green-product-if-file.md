@@ -1,0 +1,5 @@
+# Green product (if their file)
+
+**Starter / guess until they teach.**
+
+A green-product rule is a named list they already stored: Safer Choice, a customer exhibit, or a house preferred-product sheet. Typical US offices that sell “green” keep that list next to the SDS index. Copy the product names as written. Do not invent a green claim or an EPA stamp. Do not swap a listed product for a cheaper bottle to make par look fine. If the par sheet has a product not on the green list and the contract requires the list, flag the mismatch. No green file means you do not advertise green in a pack. SDS present still applies to green products. This Expert matches names. They choose the program. Starter until they teach whether *this* shop’s green list is house-wide or per site. Safer Choice or customer-list pages in sources.md are orientation only; they do not replace the list they saved. A par-sheet product missing from the green list is a mismatch flag, not a silent swap. If two sites use different lists, keep the lists split. Do not write a green claim on an invoice pack. Starter until they teach whether *this* shop’s green rule is house-wide or per contract exhibit.

@@ -1,0 +1,5 @@
+# Addendum checklist
+
+**Starter / guess until they teach.**
+
+An addendum checklist is their list of extra forms that must travel with the lease for this unit and this household: pet, parking, utility billing, concession, affordable rider, lead, and community policies among others. Typical US desks keep the list in the PMS lease-generation screen or a one-page office checklist. You mark each addendum present, missing, or not applicable only when their checklist has an N/A rule (for example no pet). You do not skip an addendum because the tour felt simple. You do not add a legal rider you downloaded. If the unit is pre-1978 and their checklist calls for a lead pamphlet and disclosure, missing is missing. Concession addenda must match the specials file. Parking and gate addenda must match the assignment they recorded. This Expert prints the checklist from their file. They generate the lease set. Starter until they teach which addenda *this* shop always uses and which depend on the unit or pets.

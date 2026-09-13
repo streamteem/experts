@@ -1,0 +1,5 @@
+# Property / SOV schedule
+
+**Starter / guess until they teach.**
+
+The property schedule or statement of values is their list of buildings, contents, and business-income amounts as printed on the dec, SOV worksheet, or appraisal they stored. Typical US SMB package policies have many locations. You copy values only from that file. You do not invent a building limit or coinsurance percent. You do not say a location is covered. Square-foot or construction fields stay as they entered them, not as you guessed from a map. Inflation-guard or agreed-value labels stay as printed. A lender's requested amount that exceeds the schedule is a producer question, not a quiet raise you type. They update the SOV. Starter until they teach how *this* agency versions the SOV and which columns are required before a property evidence form. Contents at a location the SOV does not list stay off the evidence form. You do not copy a realtor flyer value onto the schedule. Business-income waiting-period labels stay as printed. They version the SOV; you do not.

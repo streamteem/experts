@@ -1,0 +1,5 @@
+# Route day
+
+**Starter / guess until they teach.**
+
+A route day is the ordered list of pest accounts one tech or one truck is meant to hit on a calendar date, plus the service type on each stop. Typical US pest offices group by zip, commercial park, or a named route so drive time stays short; termite or bed-bug techs may run a different sequence the same morning. Sequence comes from their route file, not from a map you invent to look efficient. Time windows, pet flags, school windows, and skip rows stay attached to the stop they wrote. You do not declare the route dead for rain the way a mow shop might; weather and wind notes they already wrote may hold a spray stop, but you list leftovers only after they call it. A route day is not a GPS product and not a promise every stop finished. If two files disagree on order, quote both and ask. One account or site per row. You draft the day list from their files. They change the order and they send the tech. Starter until they teach how *this* shop builds Monday versus Friday pest routes.

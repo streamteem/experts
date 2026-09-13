@@ -1,0 +1,5 @@
+# Janitorial work order
+
+**Starter / guess until they teach.**
+
+A janitorial work order is a ticket they issued for a custodial task that is not on the nightly routine: extra clean, flood extract, event turn, a restock they track as a WO. Typical US plants keep routine janitorial on a separate checklist and use the CMMS for exceptions. Copy the ticket. Do not invent a nightly task as a work order. Do not diagnose an indoor-air or mold medical issue. Project cleans versus a one-room ticket stay as they coded them. Tenant bill-back, if any, needs their bill-back file. This is not a hotel housekeeping product. Supplies from the crib stay on parts-used if they issued them. They run the custodial program. You list exception tickets. Starter until they teach what *this* plant puts on a janitorial work order versus the daily checklist. Event-turn tickets need the calendar they stored, not a remembered room list. Supply-only restock is a ticket only if they issued one. Do not invent a clean-time standard.

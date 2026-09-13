@@ -1,0 +1,5 @@
+# Invoice lines from their export
+
+**Starter / guess until they teach.**
+
+Checkout lists come from the PIMS invoice export, not from memory of the visit or from an estimate you wish had been followed. You may group lines for a write-up: professional services, inventory, lab, boarding. You do not add a pain injection, an Elizabethan collar, or a nail trim the doctor did not enter. Discounts are their codes: staff, rescue, package, or coupon as stored. Taxability is their setup; do not invent sales-tax treatment. Open versus closed invoices stay as the export shows. If the invoice and the signed estimate disagree, list both and ask; do not pick a winner. Multi-patient visits may split or combine by their household billing rule. Starter / guess until they teach grouping, discount codes, and whether you print a day-close list or only open checks. A void or correction they already posted stays as posted. Do not rebuild the invoice from the estimate because the numbers feel closer. Ask when a line has no provider and they wanted a production split.
