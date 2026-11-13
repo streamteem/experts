@@ -1,76 +1,41 @@
-# StreamTeem AI Experts
+# AI Experts
 
-Open **one** of these Expert folders in [Cursor](https://www.cursor.com) and talk to it as your assistant for that role. It helps with one kind of desk work and **writes down** how *your* shop works so it remembers next time.
+AI Experts are **virtual employees**. Each expert learns a real job role from the people who already do that work, then helps them and their team get more done—first as a capable assistant, then by taking on more of the routine work over time.
 
-You do not need to be a programmer.
+## How it works
 
-![Copy an Expert folder, open it in Cursor, talk to it as your assistant, then keep each appointment, ticket, or work task in its own folder](how-it-works.svg)
+1. **Learn the role from existing employees**  
+   An expert starts by capturing how the job is actually done: responsibilities, workflows, tools, judgment calls, and team norms. Notes, docs, and answers from the people in the role become the expert’s baseline.
 
-The folder you work in is the memory. **Back it up.** GitHub is only the starter.
+2. **Build durable memory**  
+   Facts, rules, and journals store what the expert knows and what it has done. That memory carries across sessions so the expert does not start from zero every time.
 
-**New here?** Read **[GETTING-STARTED.md](GETTING-STARTED.md)** for the walkthrough.
+3. **Assist day to day**  
+   The expert works alongside the employee and their team—drafting plans and charters, breaking down work, tracking status, producing artifacts, answering questions, and keeping context organized.
 
-## Experts
+4. **Automate more over time**  
+   As the role definition and memory mature, repeatable work moves from “help me with this” to reliable, guided execution. Humans stay in control of decisions; the expert takes on more of the execution and continuity.
 
-**Office and money**
-- [bookkeeping](bookkeeping)
-- [office-operations](office-operations)
-- [purchasing-buyer](purchasing-buyer)
-- [hr-admin](hr-admin)
-- [nonprofit-office](nonprofit-office)
-- [church-office-admin](church-office-admin)
-- [data-visualization](data-visualization)
+The goal is not to replace the team. It is to give every role a virtual teammate that learns their craft, reduces busywork, and scales their expertise.
 
-**Property and housing**
-- [property-manager](property-manager)
-- [apartment-leasing](apartment-leasing)
-- [hoa-admin](hoa-admin)
-- [self-storage-office](self-storage-office)
+## What’s in this repo
 
-**Trades and shops**
-- [trade-job-coordinator](trade-job-coordinator)
-- [construction-office](construction-office)
-- [landscaping-office](landscaping-office)
-- [pest-control-office](pest-control-office)
-- [janitorial-office](janitorial-office)
-- [facilities-maintenance](facilities-maintenance)
-- [auto-service-advisor](auto-service-advisor)
-- [auto-body-estimator](auto-body-estimator)
-- [equipment-rental](equipment-rental)
-- [print-shop-coordinator](print-shop-coordinator)
+Experts are packaged as folders you open as a workspace in **Claude** or **Cursor**. Each folder includes role definitions, skills/workflows, memory, and journals.
 
-**Health-adjacent desks (not the clinician)**
-- [dental-office](dental-office)
-- [veterinary-front-desk](veterinary-front-desk)
-- [medical-clinic-front-desk](medical-clinic-front-desk)
-- [optometry-front-desk](optometry-front-desk)
-- [physical-therapy-front-desk](physical-therapy-front-desk)
+| Path | What you get |
+| --- | --- |
+| [`developers/`](developers/) | Software developer experts (Claude and Cursor) that turn specs into design, tasks, code, and tests. |
+| [`managers/`](managers/) | Manager experts—engineering, product, program, and general manager—for delivery, initiatives, and escalations. |
+| [`industry-pre-seeded/`](industry-pre-seeded/) | Role experts pre-seeded for common industry jobs (leasing, clinics, bookkeeping, dispatch, and many others), ready to customize for a specific shop. |
 
-**Hospitality and personal care**
-- [restaurant-kitchen-admin](restaurant-kitchen-admin)
-- [bakery-cafe-admin](bakery-cafe-admin)
-- [catering-office](catering-office)
-- [salon-front-desk](salon-front-desk)
-- [gym-front-desk](gym-front-desk)
-- [hotel-front-desk](hotel-front-desk)
-- [event-venue-coordinator](event-venue-coordinator)
+Each category has Claude and Cursor variants so you can run the same kind of virtual employee in the environment your team already uses.
 
-**Moving goods and people**
-- [wholesale-inventory](wholesale-inventory)
-- [shipping-fulfillment](shipping-fulfillment)
-- [fleet-dispatcher](fleet-dispatcher)
-- [manufacturing-scheduler](manufacturing-scheduler)
-- [moving-company-office](moving-company-office)
+## Getting started
 
-**Other desks**
-- [insurance-agency-csr](insurance-agency-csr)
-- [real-estate-transaction-coordinator](real-estate-transaction-coordinator)
-- [mortgage-processor](mortgage-processor)
-- [staffing-agency-admin](staffing-agency-admin)
-- [childcare-admin](childcare-admin)
-- [school-office-admin](school-office-admin)
-- [dog-daycare-office](dog-daycare-office)
+1. Pick a role folder that matches the job (or start from a close industry seed).
+2. Open that folder as the workspace in Claude or Cursor.
+3. Follow the folder’s `QUICK-START.md` (or `README.md`) and define the role with input from the real employee.
+4. Run work through **Work Items** so progress, decisions, and learnings stay in the journal and memory.
+5. Promote useful facts and rules as the expert learns how *your* team works.
 
-## Site
-
-[streamteem.com](https://streamteem.com)
+Over successive work items, the expert becomes a stronger assistant for that employee and a shared source of continuity for their team.
